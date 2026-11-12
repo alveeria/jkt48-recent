@@ -78,7 +78,11 @@ async function idnLives() {
       id: `idn:${i.slug}`,
       platform: "idn",
       member: {
-        name: (i.creator?.name || i.creator?.username || "").replace(/\s*JKT48\s*$/i, ""),
+        name:
+          (i.creator?.name || "").replace(/\s*JKT48\s*$/i, "").trim() ||
+          i.creator?.name ||
+          i.creator?.username ||
+          "",
         username: i.creator?.username,
         avatar: i.creator?.avatar || null,
       },

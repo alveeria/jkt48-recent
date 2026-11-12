@@ -22,9 +22,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # GitHub suppresses workflows triggered by pushes using GITHUB_TOKEN.
-          # No other step uses the checkout token after checkout.
-          persist-credentials: false
+          # src/poll.js pushes data with the checkout token, so it must persist.
       - uses: actions/setup-node@v4
         with:
           node-version: 20
