@@ -1,0 +1,31 @@
+name: Record JKT48 lives
+
+# Each run polls every 30 s for ~5h40m, then the next hourly run takes over
+# (only one run at a time; a queued run starts as soon as the current one ends).
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: recorder
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Poll IDN Live and SHOWROOM
+        env:
+          POLL_SECONDS: "30"
+          RUN_MINUTES: "340"
+          COMMIT_EVERY_MINUTES: "5"
+        run: node src/poll.mjs

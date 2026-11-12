@@ -1,0 +1,11 @@
+{
+  "name": "jkt48-recent",
+  "private": true,
+  "type": "module",
+  "description": "Auto-recorded JKT48 lives from IDN Live and SHOWROOM",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "once": "node src/poll.mjs --once",
+    "readme": "node src/readme.mjs"
+  }
+}
