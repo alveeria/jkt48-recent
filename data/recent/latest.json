@@ -1,5 +1,57 @@
 [
   {
+    "id": "idn:alveeria-2795",
+    "platform": "idn",
+    "member": {
+      "name": "Rilly",
+      "username": "jkt48_rilly",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5e38d8edf838fca332ba020f7bb73ec2.webp?v=1743097350"
+    },
+    "title": "Geremmmmm",
+    "url": "https://www.idn.app/jkt48_rilly/live/geremmmmm-261112191242",
+    "image": "https://cdn.idn.app/livestream/0550db889acd7b9f8572da7bdfe90279.webp",
+    "started_at": "2026-11-12T12:12:48.000Z",
+    "last_seen_at": "2026-11-12T13:21:32.222Z",
+    "peak_viewers": 3118,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "ended_at": "2026-11-12T13:21:32.222Z",
+    "duration_minutes": 69,
+    "last_viewers": 3118,
+    "unique_gifters": 0,
+    "source_id": "idn:geremmmmm-261112191242"
+  },
+  {
+    "id": "idn:alveeria-2794",
+    "platform": "idn",
+    "member": {
+      "name": "Aralie",
+      "username": "jkt48_aralie",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/71e9df185dcc84e99ddf1dc97cc37467.webp?v=1778755244"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_aralie/live/hi-261112190530",
+    "image": "https://cdn.idn.app/livestream/67e474b1ebf71fec0fca0f464c6039ae.webp",
+    "started_at": "2026-11-12T12:05:35.000Z",
+    "last_seen_at": "2026-11-12T13:20:30.513Z",
+    "peak_viewers": 12574,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "ended_at": "2026-11-12T13:20:30.513Z",
+    "duration_minutes": 75,
+    "last_viewers": 12574,
+    "unique_gifters": 0,
+    "source_id": "idn:hi-261112190530"
+  },
+  {
     "id": "idn:alveeria-2793",
     "source_id": "idn:gais-261112184504",
     "platform": "idn",
@@ -3565,42 +3617,6 @@
     "url": "https://www.idn.app/jkt48_trisha",
     "image": "https://cdn.idn.app/livestream/b76f4a9df47bff2b10dec1224916f949.webp",
     "started_at": "2026-09-03T15:52:00.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2595",
-    "platform": "idn",
-    "member": {
-      "name": "Anindya",
-      "username": "jkt48_anindya",
-      "avatar": null
-    },
-    "title": "halo!!!!",
-    "url": "https://www.idn.app/jkt48_anindya",
-    "image": "https://cdn.idn.app/livestream/6e3810a6287ca328c2fde62973b882b4.webp",
-    "started_at": "2026-09-03T15:49:46.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2594",
-    "platform": "idn",
-    "member": {
-      "name": "Ribka",
-      "username": "jkt48_ribka",
-      "avatar": null
-    },
-    "title": "p",
-    "url": "https://www.idn.app/jkt48_ribka",
-    "image": "https://cdn.idn.app/livestream/fa52256d00e84ddba383f83c21a2d917.webp",
-    "started_at": "2026-09-03T11:00:13.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
