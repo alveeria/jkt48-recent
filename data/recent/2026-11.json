@@ -1,5 +1,119 @@
 [
   {
+    "id": "idn:alveeria-2811",
+    "platform": "idn",
+    "member": {
+      "name": "Michie",
+      "username": "jkt48_michie",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/618c8c824495bd9efea619a7fee89482.webp?v=1778761704"
+    },
+    "title": "wow",
+    "url": "https://www.idn.app/jkt48_michie/live/wow-261112224124",
+    "image": "https://cdn.idn.app/livestream/d1519c3589501a21bc08d3aa4ba6a721.webp",
+    "started_at": "2026-11-12T15:41:32.000Z",
+    "last_seen_at": "2026-11-12T16:42:22.956Z",
+    "peak_viewers": 9005,
+    "gifts": 83,
+    "gift_points": 5480,
+    "stars": 0,
+    "comments": 4613,
+    "gift_breakdown": {
+      "Water": 7,
+      "Cold Water": 6,
+      "Matcha": 10,
+      "Toa": 9,
+      "Angklung": 7,
+      "HADIIIRRR!!": 3,
+      "Puding": 4,
+      "Mawar": 15,
+      "TC-RIBKA": 1,
+      "ALYA": 1,
+      "JKT48 Stage": 1,
+      "Makan ya kak": 1,
+      "Kompas": 1,
+      "Team Chill": 1,
+      "Nasi Goreng": 3,
+      "Lato-Lato": 1,
+      "Pumpkin": 2,
+      "Lemon Tea": 2,
+      "MICHIE": 2,
+      "Es Kelapa": 1,
+      "Konfeti": 2,
+      "Jari Hati": 1,
+      "Bubble Gun": 1,
+      "JKT48 Show": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Keiluv .",
+        "points": 1592,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/da2b7837162971d7d2054634abf72c49.webp?v=1786037644"
+      },
+      {
+        "rank": 2,
+        "name": "Bunbun 😎🤏🏻",
+        "points": 900,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/68d2bc8dda0f0a05cbaacb96b2b86b7c.webp?v=1784508658"
+      },
+      {
+        "rank": 3,
+        "name": "diki .",
+        "points": 740,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1066a5a44f30d37ed55239affd2cad93.webp?v=1782225174"
+      },
+      {
+        "rank": 4,
+        "name": "Grace Jovanka",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ea2bdffeab920c0adebdb071444f526e.webp?v=1794477650"
+      },
+      {
+        "rank": 5,
+        "name": "Tejay Putra",
+        "points": 300,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3da9df0c7ffc366980c8385329ebf0ad.webp?v=1780359339"
+      },
+      {
+        "rank": 6,
+        "name": "Adil Selalu",
+        "points": 200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/27f749e011df91882820b5bf9b5b3604.webp?v=1793886957"
+      },
+      {
+        "rank": 7,
+        "name": "Rozi",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/453063b7c09a6b8a25966566de3b5a28.webp?v=1791302866"
+      },
+      {
+        "rank": 8,
+        "name": "Disha Lembayung Putri",
+        "points": 180,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0bea5e8ac04a4756112b45bb50362f97.webp?v=1731207091"
+      },
+      {
+        "rank": 9,
+        "name": "Medii _",
+        "points": 160,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/946edd3a4a038748ca9944e8f3a9b0f2.webp?v=1731214288"
+      },
+      {
+        "rank": 10,
+        "name": "Noviii Fyu",
+        "points": 156,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/202f2af9b384e2e09764084fb0e1b8f6.webp?v=1793094762"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
+    "gift_gold": 1370,
+    "ended_at": "2026-11-12T16:42:22.956Z",
+    "duration_minutes": 61,
+    "last_viewers": 9005,
+    "unique_gifters": 26,
+    "source_id": "idn:wow-261112224124"
+  },
+  {
     "id": "idn:alveeria-2810",
     "platform": "idn",
     "member": {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:39:17.424Z",
+  "updated_at": "2026-11-12T16:44:26.911Z",
   "lives": [
     {
       "id": "idn:karaokeli-261112224117",
@@ -13,170 +13,73 @@
       "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261112224117",
       "image": "https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp",
       "started_at": "2026-11-12T15:41:23.000Z",
-      "viewers": 3235,
-      "last_seen_at": "2026-11-12T16:39:16.339Z",
-      "peak_viewers": 3235,
-      "gifts": 8,
-      "gift_points": 84,
+      "viewers": 3612,
+      "last_seen_at": "2026-11-12T16:44:25.761Z",
+      "peak_viewers": 3612,
+      "gifts": 11,
+      "gift_points": 204,
       "stars": 0,
-      "comments": 293,
+      "comments": 337,
       "gift_breakdown": {
         "Cold Water": 1,
         "Water": 3,
-        "Toa": 2,
-        "Kompas": 1,
-        "Orange Syrup": 1
+        "Toa": 3,
+        "Kompas": 2,
+        "Orange Syrup": 1,
+        "ELI": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "• Adi •",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/83641360be077d50fd203186506fb5af.webp?v=1785242971"
+        },
+        {
+          "rank": 2,
+          "name": "Rafi Sulthan M",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ce6291f3eafdd0c01dec01f080927956.webp?v=1793891700"
+        },
+        {
+          "rank": 3,
           "name": "Nice Putri",
           "points": 32,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b8b444c77aac2a0a2d4cf4e4091b02c4.webp?v=1794402323"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "name": "Arianyaan",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c442a5b85ebb2b5881d575a3382e6a5a.webp?v=1731413724"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "name": "Rindang syafa'at",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9490f754f462c4f566c52740e2ce31af.webp?v=1785681268"
         },
         {
-          "rank": 4,
+          "rank": 6,
           "name": "Malvin Evano",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8905fe068ccbd8540c4d3033309cde2d.webp?v=1786545380"
         },
         {
-          "rank": 5,
+          "rank": 7,
           "name": "alfyn 🧙‍♀️",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c92e2f67390816e1866431389cbd83f7.webp?v=1788792938"
         },
         {
-          "rank": 6,
+          "rank": 8,
           "name": "Nazip NakMakan",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/537b23e6592de355ec26c195abf72b25.webp?v=1793950700"
         }
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
-      "gift_gold": 21
-    },
-    {
-      "id": "idn:wow-261112224124",
-      "platform": "idn",
-      "member": {
-        "name": "Michie",
-        "username": "jkt48_michie",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/618c8c824495bd9efea619a7fee89482.webp?v=1778761704"
-      },
-      "title": "wow",
-      "url": "https://www.idn.app/jkt48_michie/live/wow-261112224124",
-      "image": "https://cdn.idn.app/livestream/d1519c3589501a21bc08d3aa4ba6a721.webp",
-      "started_at": "2026-11-12T15:41:32.000Z",
-      "viewers": 8774,
-      "last_seen_at": "2026-11-12T16:39:16.339Z",
-      "peak_viewers": 8774,
-      "gifts": 83,
-      "gift_points": 5480,
-      "stars": 0,
-      "comments": 4389,
-      "gift_breakdown": {
-        "Water": 7,
-        "Cold Water": 6,
-        "Matcha": 10,
-        "Toa": 9,
-        "Angklung": 7,
-        "HADIIIRRR!!": 3,
-        "Puding": 4,
-        "Mawar": 15,
-        "TC-RIBKA": 1,
-        "ALYA": 1,
-        "JKT48 Stage": 1,
-        "Makan ya kak": 1,
-        "Kompas": 1,
-        "Team Chill": 1,
-        "Nasi Goreng": 3,
-        "Lato-Lato": 1,
-        "Pumpkin": 2,
-        "Lemon Tea": 2,
-        "MICHIE": 2,
-        "Es Kelapa": 1,
-        "Konfeti": 2,
-        "Jari Hati": 1,
-        "Bubble Gun": 1,
-        "JKT48 Show": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "Keiluv .",
-          "points": 1592,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/da2b7837162971d7d2054634abf72c49.webp?v=1786037644"
-        },
-        {
-          "rank": 2,
-          "name": "Bunbun 😎🤏🏻",
-          "points": 900,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/68d2bc8dda0f0a05cbaacb96b2b86b7c.webp?v=1784508658"
-        },
-        {
-          "rank": 3,
-          "name": "diki .",
-          "points": 740,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1066a5a44f30d37ed55239affd2cad93.webp?v=1782225174"
-        },
-        {
-          "rank": 4,
-          "name": "Grace Jovanka",
-          "points": 400,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ea2bdffeab920c0adebdb071444f526e.webp?v=1794477650"
-        },
-        {
-          "rank": 5,
-          "name": "Tejay Putra",
-          "points": 300,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3da9df0c7ffc366980c8385329ebf0ad.webp?v=1780359339"
-        },
-        {
-          "rank": 6,
-          "name": "Adil Selalu",
-          "points": 200,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/27f749e011df91882820b5bf9b5b3604.webp?v=1793886957"
-        },
-        {
-          "rank": 7,
-          "name": "Rozi",
-          "points": 196,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/453063b7c09a6b8a25966566de3b5a28.webp?v=1791302866"
-        },
-        {
-          "rank": 8,
-          "name": "Disha Lembayung Putri",
-          "points": 180,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0bea5e8ac04a4756112b45bb50362f97.webp?v=1731207091"
-        },
-        {
-          "rank": 9,
-          "name": "Medii _",
-          "points": 160,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/946edd3a4a038748ca9944e8f3a9b0f2.webp?v=1731214288"
-        },
-        {
-          "rank": 10,
-          "name": "Noviii Fyu",
-          "points": 156,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/202f2af9b384e2e09764084fb0e1b8f6.webp?v=1793094762"
-        }
-      ],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-      "gift_gold": 1370
+      "gift_gold": 51
     }
   ]
 }
