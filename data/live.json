@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:59:54.942Z",
+  "updated_at": "2026-11-12T17:05:03.221Z",
   "lives": [
     {
       "id": "idn:karaokeli-261112224117",
@@ -13,15 +13,15 @@
       "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261112224117",
       "image": "https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp",
       "started_at": "2026-11-12T15:41:23.000Z",
-      "viewers": 3963,
-      "last_seen_at": "2026-11-12T16:59:53.900Z",
-      "peak_viewers": 3963,
-      "gifts": 15,
-      "gift_points": 368,
+      "viewers": 4061,
+      "last_seen_at": "2026-11-12T17:05:02.180Z",
+      "peak_viewers": 4061,
+      "gifts": 18,
+      "gift_points": 412,
       "stars": 0,
-      "comments": 506,
+      "comments": 558,
       "gift_breakdown": {
-        "Cold Water": 1,
+        "Cold Water": 2,
         "Water": 3,
         "Toa": 3,
         "Kompas": 2,
@@ -30,32 +30,34 @@
         "Team Hype": 1,
         "HADIIIRRR!!": 1,
         "Masker": 1,
-        "Pumpkin": 1
+        "Pumpkin": 1,
+        "Semangat kak": 1,
+        "Es Kelapa": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "Anantha )",
+          "points": 84,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3ae7d5bb3ca9bf63c92991b243a7fb12.webp?v=1793874588"
+        },
+        {
+          "rank": 2,
           "name": "Rafi Sulthan M",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ce6291f3eafdd0c01dec01f080927956.webp?v=1793891700"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "• Adi •",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/83641360be077d50fd203186506fb5af.webp?v=1785242971"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "eM .",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
-        },
-        {
-          "rank": 4,
-          "name": "Anantha )",
-          "points": 44,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3ae7d5bb3ca9bf63c92991b243a7fb12.webp?v=1793874588"
         },
         {
           "rank": 5,
@@ -95,7 +97,7 @@
         }
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
-      "gift_gold": 92
+      "gift_gold": 103
     }
   ]
 }
