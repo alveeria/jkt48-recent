@@ -20,8 +20,8 @@ const POLL_SECONDS = Number(process.env.POLL_SECONDS || 30);
 const RUN_MINUTES = Number(process.env.RUN_MINUTES || 340);
 const COMMIT_EVERY_MINUTES = Number(process.env.COMMIT_EVERY_MINUTES || 5);
 const UA = "jkt48-recent/1.0 (+https://github.com/alveeria/jkt48-recent)";
-// Retain at most one UTC calendar month of recent sessions.
-const RECENT_MONTHS = 1;
+// data/recent/latest.json keeps this many ended lives; month files keep everything.
+const LATEST_MAX = 200;
 // A session missing for this long is treated as ended (absorbs one flaky poll).
 const END_GRACE_MS = 90_000;
 
@@ -222,41 +222,22 @@ function close(session) {
 }
 
 async function archive(ended) {
-  const cutoff = new Date();
-  cutoff.setUTCDate(1);
-  cutoff.setUTCMonth(cutoff.getUTCMonth() - (RECENT_MONTHS - 1));
-  const cutoffMonth = cutoff.toISOString().slice(0, 7);
-
-  const months = new Set(
-    ended
-      .map((s) => (s.started_at || s.ended_at).slice(0, 7))
-      .filter((month) => month >= cutoffMonth),
-  );
-  const recentDir = path.join(ROOT, "data/recent");
-  for (const name of await fs.readdir(recentDir).catch(() => [])) {
-    if (!/^\d{4}-\d{2}\.json$/.test(name)) continue;
-    const month = name.slice(0, 7);
-    if (month < cutoffMonth) {
-      await fs.rm(path.join(recentDir, name));
-      continue;
-    }
-    months.add(month);
-  }
-
   const latest = await readJson("data/recent/latest.json", []);
   const ids = new Set(ended.map((e) => e.id));
-  const records = [...ended, ...latest.filter((l) => !ids.has(l.id))].filter(
-    (s) => (s.started_at || s.ended_at || "").slice(0, 7) >= cutoffMonth,
-  );
+  const records = [...ended, ...latest.filter((l) => !ids.has(l.id))]
+    .sort((a, b) => Date.parse(b.started_at || b.ended_at) - Date.parse(a.started_at || a.ended_at))
+    .slice(0, LATEST_MAX);
   await writeJson("data/recent/latest.json", records);
 
+  const months = new Set(ended.map((s) => (s.started_at || s.ended_at).slice(0, 7)));
   for (const month of months) {
     const file = `data/recent/${month}.json`;
     const prev = await readJson(file, []);
-    const ids = new Set(prev.map((p) => p.id));
-    const additions = ended.filter((s) => (s.started_at || s.ended_at).slice(0, 7) === month);
-    const records = [...additions.filter((i) => !ids.has(i.id)), ...prev];
-    await writeJson(file, records);
+    const known = new Set(prev.map((p) => p.id));
+    const additions = ended.filter(
+      (s) => (s.started_at || s.ended_at).slice(0, 7) === month && !known.has(s.id),
+    );
+    if (additions.length) await writeJson(file, [...additions, ...prev]);
   }
 }
 
