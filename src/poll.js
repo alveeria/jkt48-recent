@@ -25,6 +25,8 @@ const UA = "jkt48-recent/1.0 (+https://github.com/alveeria/jkt48-recent)";
 const LATEST_MAX = 200;
 // A session missing for this long is treated as ended (absorbs one flaky poll).
 const END_GRACE_MS = 90_000;
+// At most this many per-minute viewer samples per live (~6.5 h).
+const SERIES_MAX = 400;
 
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -338,6 +340,13 @@ async function tick(active) {
     if (!s.gifts && s.gifts !== 0) Object.assign(s, open(live, now)); // older state shape
     s.viewers = live.viewers;
     s.peak_viewers = Math.max(s.peak_viewers || 0, live.viewers);
+    // One viewer sample per minute: [minutes since start, viewers].
+    const minute = Math.max(0, Math.round((Date.parse(now) - Date.parse(s.started_at || now)) / 60000));
+    const series = (s.viewer_series ||= []);
+    if (!series.length || series[series.length - 1][0] < minute) {
+      series.push([minute, live.viewers]);
+      if (series.length > SERIES_MAX) series.splice(0, series.length - SERIES_MAX);
+    }
     s.title = live.title || s.title;
     s.image = live.image || s.image;
     s.last_seen_at = now;

@@ -76,6 +76,7 @@ Khusus SHOWROOM: \`gifts\` (gift berbayar), \`gift_points\`, \`stars\` (gift gra
 \`gift_breakdown\` (nama gift → jumlah), \`top_gifters\` (peringkat stage).
 Khusus IDN Live (dari chat live): \`comments\`, \`gifts\`, \`gift_gold\`, \`gift_points\`, \`gift_breakdown\`, \`unique_gifters\`,
 \`top_gifters\` (dihitung dari gift yang terdengar selama live).
+Semua live: \`viewer_series\` (\`[menit sejak mulai, penonton]\`, satu sampel per menit).
 
 
 ## Sedang live
