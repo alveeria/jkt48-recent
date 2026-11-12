@@ -11,15 +11,15 @@
     "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261112224117",
     "image": "https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp",
     "started_at": "2026-11-12T15:41:23.000Z",
-    "viewers": 4241,
-    "last_seen_at": "2026-11-12T17:15:20.368Z",
-    "peak_viewers": 4241,
-    "gifts": 18,
-    "gift_points": 412,
+    "viewers": 4332,
+    "last_seen_at": "2026-11-12T17:20:30.568Z",
+    "peak_viewers": 4332,
+    "gifts": 19,
+    "gift_points": 416,
     "stars": 0,
-    "comments": 644,
+    "comments": 684,
     "gift_breakdown": {
-      "Cold Water": 2,
+      "Cold Water": 3,
       "Water": 3,
       "Toa": 3,
       "Kompas": 2,
@@ -43,11 +43,12 @@
       "af1b2726-6bb9-403c-a0b0-bba5c17eb45a": "• Adi •",
       "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM .",
       "18062419-c181-4960-8a50-411ceb354da5": "Anantha )",
-      "3afcebcf-9a25-4b95-b20d-71961802daf1": "khuzairiesahin1797"
+      "3afcebcf-9a25-4b95-b20d-71961802daf1": "khuzairiesahin1797",
+      "a6986dfd-7edb-4ae7-93ae-d15edb2c459b": "Irul "
     },
     "top_gifters": [],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
-    "gift_gold": 103,
+    "gift_gold": 104,
     "idn_gifters": {
       "1bc8d955-c725-4ed2-8083-cefd8d2ac29e": {
         "name": "Malvin Evano",
@@ -102,6 +103,11 @@
       "3afcebcf-9a25-4b95-b20d-71961802daf1": {
         "name": "khuzairiesahin1797",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/34f55071b8f4a75fdb6161f14b91bf91.webp?v=1794316932",
+        "points": 4
+      },
+      "a6986dfd-7edb-4ae7-93ae-d15edb2c459b": {
+        "name": "Irul ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c3d2aa9bf635478ecf2b4ec7afb7d8a7.webp?v=1767021871",
         "points": 4
       }
     }

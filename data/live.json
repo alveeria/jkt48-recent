@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T17:15:22.245Z",
+  "updated_at": "2026-11-12T17:20:31.710Z",
   "lives": [
     {
       "id": "idn:karaokeli-261112224117",
@@ -13,15 +13,15 @@
       "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261112224117",
       "image": "https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp",
       "started_at": "2026-11-12T15:41:23.000Z",
-      "viewers": 4241,
-      "last_seen_at": "2026-11-12T17:15:20.368Z",
-      "peak_viewers": 4241,
-      "gifts": 18,
-      "gift_points": 412,
+      "viewers": 4332,
+      "last_seen_at": "2026-11-12T17:20:30.568Z",
+      "peak_viewers": 4332,
+      "gifts": 19,
+      "gift_points": 416,
       "stars": 0,
-      "comments": 644,
+      "comments": 684,
       "gift_breakdown": {
-        "Cold Water": 2,
+        "Cold Water": 3,
         "Water": 3,
         "Toa": 3,
         "Kompas": 2,
@@ -97,7 +97,7 @@
         }
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
-      "gift_gold": 103
+      "gift_gold": 104
     }
   ]
 }
