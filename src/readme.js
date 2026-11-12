@@ -46,8 +46,10 @@ const recentRows = latest
   .slice(0, 40)
   .map((r) => {
     const sr = r.platform === "showroom";
+    // IDN gifts/comments come from the live chat; older IDN rows have none.
+    const stat = (v) => (historical || v == null ? "—" : num(v));
     const historical = r.source === "rznive/JKT48Live-Record";
-    return `| ${esc(r.member.name)} | ${platform[r.platform]} | ${esc(r.caption ?? r.title)} | ${wib(r.started_at)} | ${historical || r.duration_minutes == null ? "—" : `${r.duration_minutes}m`} | ${historical ? "—" : num(r.peak_viewers)} | ${sr ? num(r.gifts) : "—"} | ${sr ? num(r.gift_points) : "—"} | ${sr ? num(r.stars) : "—"} | ${sr ? num(r.comments) : "—"} |`;
+    return `| ${esc(r.member.name)} | ${platform[r.platform]} | ${esc(r.caption ?? r.title)} | ${wib(r.started_at)} | ${historical || r.duration_minutes == null ? "—" : `${r.duration_minutes}m`} | ${historical ? "—" : num(r.peak_viewers)} | ${stat(r.gifts)} | ${stat(sr ? r.gift_points : r.gift_gold)} | ${sr ? stat(r.stars) : "—"} | ${stat(r.comments)} |`;
   })
   .join("\n");
 
@@ -68,7 +70,7 @@ Data publik, bebas dipakai. Terakhir diperbarui: ${wib(live.updated_at)} WIB.
 const recent = await fetch("${RAW}/data/recent/latest.json").then((r) => r.json());
 \`\`\`
 
-Field tiap live: \`id\` (\`idn:alveeria-N\` / \`showroom:alveeria-N\`), \`source_id\` (ID asli platform),\`platform\` (\`idn\` | \`showroom\`), \`member { name, username, avatar }\`, \`title\`, \`url\`, \`image\`,
+Field tiap live: \`id\` (\`idn:alveeria-N\` / \`showroom:alveeria-N\`), \`source_id\` (ID asli platform), \`platform\` (\`idn\` | \`showroom\`), \`member { name, username, avatar }\`, \`title\`, \`url\`, \`image\`,
 \`started_at\`, \`ended_at\`, \`duration_minutes\`, \`peak_viewers\`, \`last_viewers\`.
 Khusus SHOWROOM: \`gifts\` (gift berbayar), \`gift_points\`, \`stars\` (gift gratis), \`comments\`, \`unique_gifters\`,
 \`gift_breakdown\` (nama gift → jumlah), \`top_gifters\` (peringkat stage).
@@ -84,7 +86,7 @@ ${liveRows}
 
 ${recentTitle}
 
-| Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
+| Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 ${recentRows || "| _Belum ada data_ | | | | | | | | | |"}
 
