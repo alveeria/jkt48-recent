@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T14:01:39.431Z",
+  "updated_at": "2026-11-12T14:06:46.247Z",
   "lives": [
     {
       "id": "idn:sambil-menggandeng-erat-tanganku-2026-11-12-261105215453",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48-official/live/sambil-menggandeng-erat-tanganku-2026-11-12-261105215453",
       "image": "https://cdn.idn.app/livestream/a35059758fae15da9444f469b858eaed.webp",
       "started_at": "2026-11-12T11:44:13.000Z",
-      "viewers": 1653,
-      "last_seen_at": "2026-11-12T14:01:38.422Z",
-      "peak_viewers": 1653,
+      "viewers": 1689,
+      "last_seen_at": "2026-11-12T14:06:45.499Z",
+      "peak_viewers": 1689,
       "gifts": 1,
       "gift_points": 12,
       "stars": 0,
-      "comments": 243,
+      "comments": 300,
       "gift_breakdown": {
         "Lemonade": 1
       },
@@ -131,13 +131,13 @@
       "url": "https://www.idn.app/jkt48_ribka/live/nagu-mania-261112201155",
       "image": "https://cdn.idn.app/livestream/b00b64961601b0e367b5c1fcff2a6f9b.webp",
       "started_at": "2026-11-12T13:12:01.000Z",
-      "viewers": 4608,
-      "last_seen_at": "2026-11-12T14:01:38.422Z",
-      "peak_viewers": 4608,
-      "gifts": 8,
-      "gift_points": 856,
+      "viewers": 4847,
+      "last_seen_at": "2026-11-12T14:06:45.499Z",
+      "peak_viewers": 4847,
+      "gifts": 11,
+      "gift_points": 988,
       "stars": 0,
-      "comments": 530,
+      "comments": 599,
       "gift_breakdown": {
         "TC-RIBKA": 1,
         "Pumpkin": 1,
@@ -145,7 +145,10 @@
         "Lemon Tea": 1,
         "Tumpeng": 1,
         "Cold Water": 2,
-        "RIBKA": 1
+        "RIBKA": 1,
+        "Mawar": 1,
+        "FREYA": 1,
+        "Matcha": 1
       },
       "top_gifters": [
         {
@@ -168,13 +171,31 @@
         },
         {
           "rank": 4,
+          "name": "Andrika oshi Ronaldo",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6f4c662968a17850aaeab60957600af4.webp?v=1784290524"
+        },
+        {
+          "rank": 5,
+          "name": "FiiiF .",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6166cd21d2bcf79297718fea1bbae6f.webp?v=1791851969"
+        },
+        {
+          "rank": 6,
+          "name": "BILLEMON .",
+          "points": 12,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6bd5ca90cd67488dd1576439e01dc847.webp?v=1793877240"
+        },
+        {
+          "rank": 7,
           "name": "Grand W",
           "points": 8,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e3bc06e2d700f751db1dd3afbe5ef266.webp?v=1787237450"
         }
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
-      "gift_gold": 214
+      "gift_gold": 247
     },
     {
       "id": "idn:hai-261112202341",
@@ -188,13 +209,13 @@
       "url": "https://www.idn.app/jkt48_levi/live/hai-261112202341",
       "image": "https://cdn.idn.app/livestream/597acdd8393832943e2e4e1046ecef37.webp",
       "started_at": "2026-11-12T13:23:45.000Z",
-      "viewers": 3718,
-      "last_seen_at": "2026-11-12T14:01:38.422Z",
-      "peak_viewers": 3718,
+      "viewers": 4085,
+      "last_seen_at": "2026-11-12T14:06:45.499Z",
+      "peak_viewers": 4085,
       "gifts": 6,
       "gift_points": 1004,
       "stars": 0,
-      "comments": 511,
+      "comments": 751,
       "gift_breakdown": {
         "Emas Batang": 1,
         "Angklung": 1,
@@ -250,13 +271,13 @@
       "url": "https://www.idn.app/jkt48_kathrina/live/wazzap-261112203052",
       "image": "https://cdn.idn.app/livestream/cd594c946c98c0a245d4f045584062a9.webp",
       "started_at": "2026-11-12T13:30:58.000Z",
-      "viewers": 4051,
-      "last_seen_at": "2026-11-12T14:01:38.422Z",
-      "peak_viewers": 4051,
-      "gifts": 25,
-      "gift_points": 764,
+      "viewers": 4491,
+      "last_seen_at": "2026-11-12T14:06:45.499Z",
+      "peak_viewers": 4491,
+      "gifts": 27,
+      "gift_points": 796,
       "stars": 0,
-      "comments": 1087,
+      "comments": 1694,
       "gift_breakdown": {
         "Cold Water": 8,
         "Jailangkung": 1,
@@ -270,9 +291,10 @@
         "CHRISTY": 1,
         "Jari Hati": 1,
         "Mawar": 1,
-        "Toa": 1,
+        "Toa": 2,
         "Water": 2,
-        "Offside!!": 1
+        "Offside!!": 1,
+        "Es Kelapa": 1
       },
       "top_gifters": [
         {
@@ -296,7 +318,7 @@
         {
           "rank": 4,
           "name": "Ziyy 🦊",
-          "points": 72,
+          "points": 92,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/109f5539160b6eac603c0b3c3e2a045b.webp?v=1794230573"
         },
         {
@@ -331,13 +353,13 @@
         },
         {
           "rank": 10,
-          "name": "Zeny Marsha Only",
-          "points": 8,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d7f17f92d683a4ad85c7543d28b4429d.webp?v=1788541220"
+          "name": "Tri Handayani",
+          "points": 12,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f0e4ad28aed2ab5da87132b6d44ee932.webp?v=1794407028"
         }
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/uweM6GnyxtvD",
-      "gift_gold": 191
+      "gift_gold": 199
     },
     {
       "id": "idn:261112204642",
@@ -351,56 +373,66 @@
       "url": "https://www.idn.app/jkt48_danella/live/261112204642",
       "image": "https://cdn.idn.app/livestream/3fa6ecf4de000295d47b7d9a188da0ed.webp",
       "started_at": "2026-11-12T13:46:47.000Z",
-      "viewers": 616,
-      "last_seen_at": "2026-11-12T14:01:38.422Z",
-      "peak_viewers": 616,
-      "gifts": 7,
-      "gift_points": 244,
+      "viewers": 769,
+      "last_seen_at": "2026-11-12T14:06:45.499Z",
+      "peak_viewers": 769,
+      "gifts": 14,
+      "gift_points": 864,
       "stars": 0,
-      "comments": 101,
+      "comments": 122,
       "gift_breakdown": {
-        "Pumpkin": 1,
+        "Pumpkin": 2,
         "Cold Water": 1,
-        "Toa": 1,
+        "Toa": 2,
         "Siomay": 1,
-        "Angklung": 1,
+        "Angklung": 2,
         "Kompas": 1,
-        "Push Rank!!": 1
+        "Push Rank!!": 1,
+        "Matcha": 1,
+        "DANELLA": 1,
+        "Lato-Lato": 1,
+        "JKT48 Stage": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "Arham Amin",
-          "points": 160,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ac77983d1f6a8a3304b6533852d1938b.webp?v=1766420788"
-        },
-        {
-          "rank": 2,
           "name": "Didi Pwk",
-          "points": 40,
+          "points": 444,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf5e7053492f85290380921d24cb4172.webp?v=1765004684"
         },
         {
+          "rank": 2,
+          "name": "Arham Amin",
+          "points": 336,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ac77983d1f6a8a3304b6533852d1938b.webp?v=1766420788"
+        },
+        {
           "rank": 3,
+          "name": "FiiiF .",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6166cd21d2bcf79297718fea1bbae6f.webp?v=1791851969"
+        },
+        {
+          "rank": 4,
           "name": "Henzz Dena only",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ce3e14bc9f8810ff9f79030264f40f98.webp?v=1776007684"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Asna Alana",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Mirukuuuuuu ?",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/98ee79ca049ba4c1109622328f47e91e.webp?v=1751209598"
         }
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oVyfRQMZJsNA",
-      "gift_gold": 61
+      "gift_gold": 216
     },
     {
       "id": "idn:hi-261112204800",
@@ -414,13 +446,13 @@
       "url": "https://www.idn.app/jkt48_daisy/live/hi-261112204800",
       "image": "https://cdn.idn.app/livestream/253f0fa5f906ca2a6cea12d2a8d858a5.webp",
       "started_at": "2026-11-12T13:48:06.000Z",
-      "viewers": 499,
-      "last_seen_at": "2026-11-12T14:01:38.422Z",
-      "peak_viewers": 499,
+      "viewers": 628,
+      "last_seen_at": "2026-11-12T14:06:45.499Z",
+      "peak_viewers": 628,
       "gifts": 4,
       "gift_points": 192,
       "stars": 0,
-      "comments": 104,
+      "comments": 118,
       "gift_breakdown": {
         "DAISY": 2,
         "Cold Water": 1,
