@@ -362,7 +362,7 @@ async function tick(active) {
 }
 
 const git = (...args) => execFileSync("git", args, { cwd: ROOT, stdio: "pipe" }).toString();
-const BOT = ["-c", "user.name=jkt48-recent-bot", "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com"];
+const BOT = ["-c", "user.name=github-actions[bot]", "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com"];
 
 /**
  * Sync with origin/main, re-apply what this run knows, commit and push.
