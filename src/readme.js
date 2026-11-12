@@ -72,6 +72,8 @@ Field tiap live: \`id\` (\`idn:alveeria-N\` / \`showroom:alveeria-N\`), \`source
 \`started_at\`, \`ended_at\`, \`duration_minutes\`, \`peak_viewers\`, \`last_viewers\`.
 Khusus SHOWROOM: \`gifts\` (gift berbayar), \`gift_points\`, \`stars\` (gift gratis), \`comments\`, \`unique_gifters\`,
 \`gift_breakdown\` (nama gift → jumlah), \`top_gifters\` (peringkat stage).
+Khusus IDN Live (dari chat live): \`comments\`, \`gifts\`, \`gift_gold\`, \`gift_points\`, \`gift_breakdown\`, \`unique_gifters\`,
+\`top_gifters\` (dihitung dari gift yang terdengar selama live).
 
 
 ## Sedang live
