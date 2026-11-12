@@ -20,9 +20,6 @@ Field tiap live: `id`, `platform` (`idn` | `showroom`), `member { name, username
 Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), `comments`, `unique_gifters`,
 `gift_breakdown` (nama gift → jumlah), `top_gifters` (peringkat stage).
 
-> IDN tidak membuka data gift lewat API publiknya, jadi untuk IDN hanya penonton dan durasi yang dicatat.
-> Live sebelum repo ini aktif diambil dari arsip [rznive/JKT48Live-Record](https://github.com/rznive/JKT48Live-Record) (IDN saja, hanya waktu mulai), ditandai `source: "rznive/JKT48Live-Record"` dengan durasi dan penonton `null`.
-> Waktu dalam UTC (ISO 8601). Durasi dihitung dari waktu mulai sampai terakhir terlihat live (presisi ±30 detik).
 
 ## Sedang live
 
