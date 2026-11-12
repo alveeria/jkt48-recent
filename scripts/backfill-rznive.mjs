@@ -45,7 +45,7 @@ for (const month of months) {
     if (seen.has(key(r.username, started))) continue;
     seen.add(key(r.username, started));
     fresh.push({
-      id: `idn:rznive-${r.id}`,
+      id: `idn:alveeria-${r.id}`,
       platform: "idn",
       member: {
         name: String(r.creator_name || r.username).replace(/\s*JKT48\s*$/i, ""),
