@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:18:41.862Z",
+  "updated_at": "2026-11-12T16:23:50.880Z",
   "lives": [
     {
       "id": "idn:karaokeli-261112224117",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261112224117",
       "image": "https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp",
       "started_at": "2026-11-12T15:41:23.000Z",
-      "viewers": 2273,
-      "last_seen_at": "2026-11-12T16:18:40.755Z",
-      "peak_viewers": 2273,
+      "viewers": 2514,
+      "last_seen_at": "2026-11-12T16:23:49.834Z",
+      "peak_viewers": 2514,
       "gifts": 6,
       "gift_points": 72,
       "stars": 0,
-      "comments": 168,
+      "comments": 186,
       "gift_breakdown": {
         "Cold Water": 1,
         "Water": 2,
@@ -73,21 +73,21 @@
       "url": "https://www.idn.app/jkt48_michie/live/wow-261112224124",
       "image": "https://cdn.idn.app/livestream/d1519c3589501a21bc08d3aa4ba6a721.webp",
       "started_at": "2026-11-12T15:41:32.000Z",
-      "viewers": 6688,
-      "last_seen_at": "2026-11-12T16:18:40.755Z",
-      "peak_viewers": 6688,
-      "gifts": 33,
-      "gift_points": 1368,
+      "viewers": 7205,
+      "last_seen_at": "2026-11-12T16:23:49.834Z",
+      "peak_viewers": 7205,
+      "gifts": 37,
+      "gift_points": 1484,
       "stars": 0,
-      "comments": 2098,
+      "comments": 2625,
       "gift_breakdown": {
         "Water": 1,
         "Cold Water": 5,
-        "Matcha": 3,
-        "Toa": 7,
+        "Matcha": 5,
+        "Toa": 8,
         "Angklung": 3,
         "HADIIIRRR!!": 1,
-        "Puding": 1,
+        "Puding": 2,
         "Mawar": 4,
         "TC-RIBKA": 1,
         "ALYA": 1,
@@ -102,7 +102,7 @@
         {
           "rank": 1,
           "name": "Bunbun 😎🤏🏻",
-          "points": 404,
+          "points": 424,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/68d2bc8dda0f0a05cbaacb96b2b86b7c.webp?v=1784508658"
         },
         {
@@ -120,7 +120,7 @@
         {
           "rank": 4,
           "name": "Fahmi Nur Rosyid",
-          "points": 128,
+          "points": 144,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2a271aeeffa6d7dec95d37e1e9caa2d4.webp?v=1794414428"
         },
         {
@@ -143,25 +143,25 @@
         },
         {
           "rank": 8,
-          "name": "Disha Lembayung Putri",
-          "points": 32,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0bea5e8ac04a4756112b45bb50362f97.webp?v=1731207091"
+          "name": "Medii _",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/946edd3a4a038748ca9944e8f3a9b0f2.webp?v=1731214288"
         },
         {
           "rank": 9,
-          "name": "Muhammad ilham Amier",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+          "name": "Adil Selalu",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/27f749e011df91882820b5bf9b5b3604.webp?v=1793886957"
         },
         {
           "rank": 10,
-          "name": "Zaza06",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+          "name": "Disha Lembayung Putri",
+          "points": 32,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0bea5e8ac04a4756112b45bb50362f97.webp?v=1731207091"
         }
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-      "gift_gold": 342
+      "gift_gold": 371
     },
     {
       "id": "idn:storytimee-261112224827",
@@ -175,22 +175,22 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/storytimee-261112224827",
       "image": "https://cdn.idn.app/livestream/99b5c563caacee46203cd76f3a54eefb.webp",
       "started_at": "2026-11-12T15:48:34.000Z",
-      "viewers": 3341,
-      "last_seen_at": "2026-11-12T16:18:40.755Z",
-      "peak_viewers": 3341,
-      "gifts": 23,
-      "gift_points": 2712,
+      "viewers": 3797,
+      "last_seen_at": "2026-11-12T16:23:49.834Z",
+      "peak_viewers": 3797,
+      "gifts": 26,
+      "gift_points": 2724,
       "stars": 0,
-      "comments": 819,
+      "comments": 1073,
       "gift_breakdown": {
         "SSETAAAN": 1,
-        "Water": 10,
+        "Water": 11,
         "Toa": 3,
         "Matcha": 1,
         "Kompas": 1,
         "Konfeti": 1,
         "Kembang Api": 1,
-        "Cold Water": 4,
+        "Cold Water": 6,
         "JKT48 Show": 1
       },
       "top_gifters": [
@@ -245,18 +245,18 @@
         {
           "rank": 9,
           "name": "Arie Brian",
-          "points": 16,
+          "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1b631afa6bf5eff56d483a6cbbcba0b4.webp?v=1772049264"
         },
         {
           "rank": 10,
           "name": "budisean",
-          "points": 4,
+          "points": 12,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         }
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-      "gift_gold": 678
+      "gift_gold": 681
     }
   ]
 }
