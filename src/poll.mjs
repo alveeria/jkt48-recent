@@ -3,7 +3,7 @@
 // RUN_MINUTES, keeps open sessions in state/active.json (so the next workflow
 // run carries on where this one stopped), and writes ended sessions to
 // data/recent/YYYY-MM.json + data/recent/latest.json. Commits are done by the
-// workflow (scripts/commit.sh) every few minutes.
+// workflow run every COMMIT_EVERY_MINUTES (reset to origin/main, re-apply, push).
 //
 // Only public, unauthenticated endpoints are used:
 //   IDN       https://api.idn.app/graphql  (searchLivestream: viewers, title, start/end)
@@ -237,6 +237,14 @@ async function archive(ended) {
   );
 }
 
+async function writeSnapshot(active, now = new Date().toISOString()) {
+  await writeJson("data/live.json", {
+    updated_at: now,
+    lives: Object.values(active).map(({ _seen, gifters, ...s }) => s),
+  });
+  await writeJson("state/active.json", active);
+}
+
 async function tick(active) {
   const now = new Date().toISOString();
   const results = await Promise.allSettled([idnLives(), showroomLives()]);
@@ -272,23 +280,41 @@ async function tick(active) {
   await archive(ended);
   for (const e of ended) log("ended", e.platform, e.member.name, `${e.duration_minutes}m`);
 
-  await writeJson("data/live.json", {
-    updated_at: now,
-    lives: Object.values(active).map(({ _seen, gifters, ...s }) => s),
-  });
-  await writeJson("state/active.json", active);
-  return ended.length;
+  await writeSnapshot(active, now);
+  return ended;
 }
 
-function commit(message) {
-  try {
-    execFileSync("bash", [path.join(ROOT, "scripts/commit.sh"), message], {
-      cwd: ROOT,
-      stdio: "inherit",
-    });
-  } catch (e) {
-    log("commit failed:", e.message);
+const git = (...args) => execFileSync("git", args, { cwd: ROOT, stdio: "pipe" }).toString();
+const BOT = ["-c", "user.name=jkt48-recent-bot", "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com"];
+
+/**
+ * Sync with origin/main, re-apply what this run knows, commit and push.
+ * Resetting first means manual pushes (backfills, code changes) are never
+ * overwritten by this run's stale copy of the data files.
+ */
+async function commit(active, ended, message) {
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    try {
+      git("fetch", "-q", "origin", "main");
+      git("reset", "-q", "--hard", "origin/main");
+      await archive(ended);
+      await writeSnapshot(active);
+      execFileSync("node", [path.join(ROOT, "src/readme.mjs")], { cwd: ROOT, stdio: "inherit" });
+      git("add", "-A", "data", "state", "README.md");
+      try {
+        git("diff", "--cached", "--quiet");
+        return true; // nothing to commit
+      } catch {}
+      git(...BOT, "commit", "-q", "-m", message);
+      git("push", "-q", "origin", "HEAD:main");
+      log("pushed:", message);
+      return true;
+    } catch (e) {
+      log(`commit attempt ${attempt} failed:`, String(e.stderr || e.message).trim());
+      await sleep(attempt * 5000);
+    }
   }
+  return false;
 }
 
 async function main() {
@@ -296,24 +322,24 @@ async function main() {
   const active = await readJson("state/active.json", {});
   const stopAt = Date.now() + RUN_MINUTES * 60_000;
   let lastCommit = Date.now();
-  let pendingEnded = 0;
+  let pending = [];
   do {
     try {
-      pendingEnded += await tick(active);
+      pending.push(...(await tick(active)));
     } catch (e) {
       log("tick failed:", e.message);
     }
     if (once) break;
     if (Date.now() - lastCommit > COMMIT_EVERY_MINUTES * 60_000) {
-      commit(pendingEnded ? `data: ${pendingEnded} live selesai` : "data: update live");
+      const msg = pending.length ? `data: ${pending.length} live selesai` : "data: update live";
+      if (await commit(active, pending, msg)) pending = [];
       lastCommit = Date.now();
-      pendingEnded = 0;
     }
     await sleep(POLL_SECONDS * 1000);
   } while (Date.now() < stopAt);
   if (!once) {
-    execFileSync("node", [path.join(ROOT, "src/readme.mjs")], { cwd: ROOT, stdio: "inherit" });
-    commit(pendingEnded ? `data: ${pendingEnded} live selesai` : "data: update live");
+    const msg = pending.length ? `data: ${pending.length} live selesai` : "data: update live";
+    await commit(active, pending, msg);
   }
 }
 
