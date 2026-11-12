@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 20.13 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 20.18 WIB.
 
 ## Pakai datanya
 
@@ -25,12 +25,12 @@ Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), 
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Rilly | IDN Live | Geremmmmm | 12 Nov 2026, 19.12 | 2.755 |
-| Aralie | IDN Live | hi | 12 Nov 2026, 19.05 | 11.680 |
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 1.229 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 19.23 | 4.543 |
-| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 303 |
-| Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 71 |
+| Rilly | IDN Live | Geremmmmm | 12 Nov 2026, 19.12 | 2.945 |
+| Aralie | IDN Live | hi | 12 Nov 2026, 19.05 | 12.313 |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 1.272 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 19.23 | 4.938 |
+| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 457 |
+| Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 652 |
 
 ## Live terakhir — Nov 2026
 
