@@ -11,15 +11,15 @@
     "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261112224117",
     "image": "https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp",
     "started_at": "2026-11-12T15:41:23.000Z",
-    "viewers": 4548,
-    "last_seen_at": "2026-11-12T17:35:57.852Z",
-    "peak_viewers": 4548,
-    "gifts": 19,
-    "gift_points": 416,
+    "viewers": 4599,
+    "last_seen_at": "2026-11-12T17:41:08.268Z",
+    "peak_viewers": 4599,
+    "gifts": 21,
+    "gift_points": 428,
     "stars": 0,
-    "comments": 770,
+    "comments": 799,
     "gift_breakdown": {
-      "Cold Water": 3,
+      "Cold Water": 4,
       "Water": 3,
       "Toa": 3,
       "Kompas": 2,
@@ -30,7 +30,8 @@
       "Masker": 1,
       "Pumpkin": 1,
       "Semangat kak": 1,
-      "Es Kelapa": 1
+      "Es Kelapa": 1,
+      "Lemon Tea": 1
     },
     "gifters": {
       "1bc8d955-c725-4ed2-8083-cefd8d2ac29e": "Malvin Evano",
@@ -44,11 +45,13 @@
       "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM .",
       "18062419-c181-4960-8a50-411ceb354da5": "Anantha )",
       "3afcebcf-9a25-4b95-b20d-71961802daf1": "khuzairiesahin1797",
-      "a6986dfd-7edb-4ae7-93ae-d15edb2c459b": "Irul "
+      "a6986dfd-7edb-4ae7-93ae-d15edb2c459b": "Irul ",
+      "16f0c3a8-e000-4ef6-95ef-1a7e493221ec": "Yama si Pelukis",
+      "d4a1e76a-0593-4608-9b22-fda9e2148561": "Annisa ica"
     },
     "top_gifters": [],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
-    "gift_gold": 104,
+    "gift_gold": 107,
     "idn_gifters": {
       "1bc8d955-c725-4ed2-8083-cefd8d2ac29e": {
         "name": "Malvin Evano",
@@ -109,6 +112,16 @@
         "name": "Irul ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c3d2aa9bf635478ecf2b4ec7afb7d8a7.webp?v=1767021871",
         "points": 4
+      },
+      "16f0c3a8-e000-4ef6-95ef-1a7e493221ec": {
+        "name": "Yama si Pelukis",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f05542a8c182b317b8e07f70b4031ba1.webp?v=1794486858",
+        "points": 4
+      },
+      "d4a1e76a-0593-4608-9b22-fda9e2148561": {
+        "name": "Annisa ica",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7b19522b1a821fadc85dd0152c45ea4e.webp?v=1793765604",
+        "points": 8
       }
     }
   }
