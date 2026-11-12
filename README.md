@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 00.46 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 00.51 WIB.
 
 ## Pakai datanya
 
@@ -27,7 +27,7 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Eli | IDN Live | KaraokELI | 12 Nov 2026, 22.41 | 4.662 |
+| _Belum ada yang live_ | | | | |
 
 ## Live terakhir — Nov 2026
 
@@ -35,6 +35,7 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 |---|---|---|---|---|---|---|---|---|---|
 | Fritzy | IDN Live | storytimee | 12 Nov 2026, 22.48 | 44m | 4.461 | 34 | 1.035 | — | 1.448 |
 | Michie | IDN Live | wow | 12 Nov 2026, 22.41 | 61m | 9.005 | 83 | 1.370 | — | 4.613 |
+| Eli | IDN Live | KaraokELI | 12 Nov 2026, 22.41 | 128m | 4.690 | 21 | 107 | — | 869 |
 | Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 72m | 11.013 | 75 | 1.517 | — | 1.442 |
 | Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 69m | 12.597 | 65 | 1.398 | — | 1.650 |
 | Nala | IDN Live | hai ehek | 12 Nov 2026, 22.03 | 63m | 11.398 | 36 | 843 | — | 1.189 |
@@ -72,7 +73,6 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 | Michie | IDN Live | grwm | 8 Nov 2026, 12.43 | — | — | — | — | — | — |
 | Jessi | IDN Live | hi | 7 Nov 2026, 19.50 | — | — | — | — | — | — |
 | Elin | IDN Live | Haaii | 7 Nov 2026, 14.04 | — | — | — | — | — | — |
-| Lia | IDN Live | Ayo ngobrol bareng! | 7 Nov 2026, 13.53 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.

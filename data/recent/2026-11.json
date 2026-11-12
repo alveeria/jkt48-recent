@@ -1,5 +1,108 @@
 [
   {
+    "id": "idn:alveeria-2812",
+    "platform": "idn",
+    "member": {
+      "name": "Eli",
+      "username": "jkt48_eli",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0f4369fe4c881fe2dc077df5d1c6bba2.webp?v=1778756126"
+    },
+    "title": "KaraokELI",
+    "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261112224117",
+    "image": "https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp",
+    "started_at": "2026-11-12T15:41:23.000Z",
+    "last_seen_at": "2026-11-12T17:49:25.238Z",
+    "peak_viewers": 4690,
+    "gifts": 21,
+    "gift_points": 428,
+    "stars": 0,
+    "comments": 869,
+    "gift_breakdown": {
+      "Cold Water": 4,
+      "Water": 3,
+      "Toa": 3,
+      "Kompas": 2,
+      "Orange Syrup": 1,
+      "ELI": 1,
+      "Team Hype": 1,
+      "HADIIIRRR!!": 1,
+      "Masker": 1,
+      "Pumpkin": 1,
+      "Semangat kak": 1,
+      "Es Kelapa": 1,
+      "Lemon Tea": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Anantha )",
+        "points": 84,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3ae7d5bb3ca9bf63c92991b243a7fb12.webp?v=1793874588"
+      },
+      {
+        "rank": 2,
+        "name": "Rafi Sulthan M",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ce6291f3eafdd0c01dec01f080927956.webp?v=1793891700"
+      },
+      {
+        "rank": 3,
+        "name": "• Adi •",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/83641360be077d50fd203186506fb5af.webp?v=1785242971"
+      },
+      {
+        "rank": 4,
+        "name": "eM .",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
+      },
+      {
+        "rank": 5,
+        "name": "Nice Putri",
+        "points": 32,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b8b444c77aac2a0a2d4cf4e4091b02c4.webp?v=1794402323"
+      },
+      {
+        "rank": 6,
+        "name": "Arianyaan",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c442a5b85ebb2b5881d575a3382e6a5a.webp?v=1731413724"
+      },
+      {
+        "rank": 7,
+        "name": "Rindang syafa'at",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9490f754f462c4f566c52740e2ce31af.webp?v=1785681268"
+      },
+      {
+        "rank": 8,
+        "name": "Annisa ica",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7b19522b1a821fadc85dd0152c45ea4e.webp?v=1793765604"
+      },
+      {
+        "rank": 9,
+        "name": "Malvin Evano",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8905fe068ccbd8540c4d3033309cde2d.webp?v=1786545380"
+      },
+      {
+        "rank": 10,
+        "name": "alfyn 🧙‍♀️",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c92e2f67390816e1866431389cbd83f7.webp?v=1788792938"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
+    "gift_gold": 107,
+    "ended_at": "2026-11-12T17:49:25.238Z",
+    "duration_minutes": 128,
+    "last_viewers": 4690,
+    "unique_gifters": 14,
+    "source_id": "idn:karaokeli-261112224117"
+  },
+  {
     "id": "idn:alveeria-2811",
     "platform": "idn",
     "member": {
