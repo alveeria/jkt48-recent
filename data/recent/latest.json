@@ -1,5 +1,592 @@
 [
   {
+    "id": "idn:alveeria-2803",
+    "platform": "idn",
+    "member": {
+      "name": "Daisy",
+      "username": "jkt48_daisy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d067c899ba88ed2f4ca8f09d384501b.webp?v=1778755316"
+    },
+    "title": "Hi",
+    "url": "https://www.idn.app/jkt48_daisy/live/hi-261112204800",
+    "image": "https://cdn.idn.app/livestream/253f0fa5f906ca2a6cea12d2a8d858a5.webp",
+    "started_at": "2026-11-12T13:48:06.000Z",
+    "last_seen_at": "2026-11-12T14:50:50.677Z",
+    "peak_viewers": 1839,
+    "gifts": 13,
+    "gift_points": 380,
+    "stars": 0,
+    "comments": 242,
+    "gift_breakdown": {
+      "DAISY": 2,
+      "Cold Water": 1,
+      "Semangat kak": 1,
+      "Kompas": 2,
+      "Toa": 3,
+      "Pumpkin": 1,
+      "Water": 1,
+      "GGWP!": 1,
+      "Lemonade": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Munier Jaid",
+        "points": 200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/74a8dc7100862a33d2ff2b71f14d1849.webp?v=1788791939"
+      },
+      {
+        "rank": 2,
+        "name": "Salma Maharani",
+        "points": 44,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cce6beb85a6dfce666fea569c476040c.webp?v=1731934192"
+      },
+      {
+        "rank": 3,
+        "name": "David Jonathan Hariyanto",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 4,
+        "name": "RoyZy 🤙💜",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfb91ac8c224a8984d706474dd961eb3.webp?v=1794420038"
+      },
+      {
+        "rank": 5,
+        "name": "FiiiF .",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6166cd21d2bcf79297718fea1bbae6f.webp?v=1791851969"
+      },
+      {
+        "rank": 6,
+        "name": "Alfian 98",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/524e6a4c5c163b3dca3bf1128f7f4daa.webp?v=1791723862"
+      },
+      {
+        "rank": 7,
+        "name": "Mirukuuuuuu ?",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/98ee79ca049ba4c1109622328f47e91e.webp?v=1751209598"
+      },
+      {
+        "rank": 8,
+        "name": "Reinhard Hamonangan",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/187401236c8b4e91e992847078e6d16c.webp?v=1793628746"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
+    "gift_gold": 95,
+    "ended_at": "2026-11-12T14:50:50.677Z",
+    "duration_minutes": 63,
+    "last_viewers": 1839,
+    "unique_gifters": 8,
+    "source_id": "idn:hi-261112204800"
+  },
+  {
+    "id": "idn:alveeria-2802",
+    "platform": "idn",
+    "member": {
+      "name": "Danella",
+      "username": "jkt48_danella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/be61050d0a932e43131b95020de99eb5.webp?v=1778755347"
+    },
+    "title": "☺️",
+    "url": "https://www.idn.app/jkt48_danella/live/261112204642",
+    "image": "https://cdn.idn.app/livestream/3fa6ecf4de000295d47b7d9a188da0ed.webp",
+    "started_at": "2026-11-12T13:46:47.000Z",
+    "last_seen_at": "2026-11-12T14:52:21.952Z",
+    "peak_viewers": 2302,
+    "gifts": 35,
+    "gift_points": 2144,
+    "stars": 0,
+    "comments": 344,
+    "gift_breakdown": {
+      "Pumpkin": 3,
+      "Cold Water": 3,
+      "Toa": 7,
+      "Siomay": 1,
+      "Angklung": 4,
+      "Kompas": 3,
+      "Push Rank!!": 1,
+      "Matcha": 2,
+      "DANELLA": 2,
+      "Lato-Lato": 1,
+      "JKT48 Stage": 1,
+      "Jari Hati": 1,
+      "Kucing": 1,
+      "Mawar": 1,
+      "Lemon Tea": 1,
+      "Emas Batang": 3
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Didi Pwk",
+        "points": 640,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf5e7053492f85290380921d24cb4172.webp?v=1765004684"
+      },
+      {
+        "rank": 2,
+        "name": "Arham Amin",
+        "points": 600,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ac77983d1f6a8a3304b6533852d1938b.webp?v=1766420788"
+      },
+      {
+        "rank": 3,
+        "name": "kirana a",
+        "points": 392,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c2c9e96f2789de9aa2551b175b99ac8.webp?v=1784558638"
+      },
+      {
+        "rank": 4,
+        "name": "Rizky saputra",
+        "points": 116,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6407e337aa02a393bea5d9594b199cdb.webp?v=1747146182"
+      },
+      {
+        "rank": 5,
+        "name": "Angga 😉",
+        "points": 100,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e141ae941cb56d7837c118b6bdb1ea24.webp?v=1784216128"
+      },
+      {
+        "rank": 6,
+        "name": "FiiiF .",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6166cd21d2bcf79297718fea1bbae6f.webp?v=1791851969"
+      },
+      {
+        "rank": 7,
+        "name": "Fritzy Force",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/69e48aa9391adf43b7c960802cc4e703.webp?v=1789836883"
+      },
+      {
+        "rank": 8,
+        "name": "Haris Mubarok",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b08127b35a382f71b0f151a08faef831.webp?v=1787667718"
+      },
+      {
+        "rank": 9,
+        "name": "pippopippoppi ☮️",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c92f5f59584d7072064815f995563855.webp?v=1766649811"
+      },
+      {
+        "rank": 10,
+        "name": "Alfian 98",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/524e6a4c5c163b3dca3bf1128f7f4daa.webp?v=1791723862"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oVyfRQMZJsNA",
+    "gift_gold": 536,
+    "ended_at": "2026-11-12T14:52:21.952Z",
+    "duration_minutes": 66,
+    "last_viewers": 2302,
+    "unique_gifters": 17,
+    "source_id": "idn:261112204642"
+  },
+  {
+    "id": "idn:alveeria-2801",
+    "platform": "idn",
+    "member": {
+      "name": "Kathrina",
+      "username": "jkt48_kathrina",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4be4288584db41e48aad4777ce9fa167.webp?v=1778755501"
+    },
+    "title": "wazzap",
+    "url": "https://www.idn.app/jkt48_kathrina/live/wazzap-261112203052",
+    "image": "https://cdn.idn.app/livestream/cd594c946c98c0a245d4f045584062a9.webp",
+    "started_at": "2026-11-12T13:30:58.000Z",
+    "last_seen_at": "2026-11-12T14:38:04.441Z",
+    "peak_viewers": 7396,
+    "gifts": 64,
+    "gift_points": 3116,
+    "stars": 0,
+    "comments": 6474,
+    "gift_breakdown": {
+      "Cold Water": 13,
+      "Jailangkung": 1,
+      "Semangat kak": 2,
+      "Lemon Tea": 2,
+      "Kotak Kado": 1,
+      "Ngeri Banget": 1,
+      "Lato-Lato": 1,
+      "Kagett Bang!": 1,
+      "KATHRINA": 6,
+      "CHRISTY": 1,
+      "Jari Hati": 1,
+      "Mawar": 2,
+      "Toa": 4,
+      "Water": 9,
+      "Offside!!": 2,
+      "Es Kelapa": 1,
+      "Kompas": 2,
+      "Angklung": 2,
+      "Matcha": 2,
+      "Boba Tea": 1,
+      "Nasi Goreng": 1,
+      "Pumpkin": 2,
+      "HAHAHA": 1,
+      "JKT48 Show": 3,
+      "Team Hype": 2
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "danar *",
+        "points": 800,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c3e0a4b90f42a0a9a05ddbc6922b4333.webp?v=1782748959"
+      },
+      {
+        "rank": 2,
+        "name": "• Hermann26",
+        "points": 596,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc4a12610131b306f465f7159f06e1ba.webp?v=1787935290"
+      },
+      {
+        "rank": 3,
+        "name": "Peter Yordan",
+        "points": 480,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d626efe926173357f70af63defc463d4.webp?v=1794405317"
+      },
+      {
+        "rank": 4,
+        "name": "Dani Basalamah",
+        "points": 480,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/545b34f286cebeea8b1c9b64ccc7b9b3.webp?v=1785674602"
+      },
+      {
+        "rank": 5,
+        "name": "Nessy Susanti",
+        "points": 144,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/973fc566a78d93aea222cd7d2cda092f.webp?v=1782752198"
+      },
+      {
+        "rank": 6,
+        "name": "Ziyy 🦊",
+        "points": 92,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/109f5539160b6eac603c0b3c3e2a045b.webp?v=1794230573"
+      },
+      {
+        "rank": 7,
+        "name": "Pianbee",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6fb1e39d866c2476a8eafb631b44cecf.webp?v=1794329742"
+      },
+      {
+        "rank": 8,
+        "name": "de.",
+        "points": 60,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1ae2c1691522d7d38df11dce91ac335f.webp?v=1793778758"
+      },
+      {
+        "rank": 9,
+        "name": "Eko Wahyu",
+        "points": 56,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f1be7956476a890cc6f0c8298c525845.webp?v=1794026085"
+      },
+      {
+        "rank": 10,
+        "name": "Adies .",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/116c31240ca8b1638a44124d7495d69a.webp?v=1780485812"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/uweM6GnyxtvD",
+    "gift_gold": 779,
+    "ended_at": "2026-11-12T14:38:04.441Z",
+    "duration_minutes": 67,
+    "last_viewers": 7396,
+    "unique_gifters": 34,
+    "source_id": "idn:wazzap-261112203052"
+  },
+  {
+    "id": "idn:alveeria-2800",
+    "platform": "idn",
+    "member": {
+      "name": "Levi",
+      "username": "jkt48_levi",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8837c76a4b89b253cc04fb60f4af2ab6.webp?v=1778755566"
+    },
+    "title": "hai",
+    "url": "https://www.idn.app/jkt48_levi/live/hai-261112202341",
+    "image": "https://cdn.idn.app/livestream/597acdd8393832943e2e4e1046ecef37.webp",
+    "started_at": "2026-11-12T13:23:45.000Z",
+    "last_seen_at": "2026-11-12T14:37:32.022Z",
+    "peak_viewers": 6216,
+    "gifts": 9,
+    "gift_points": 1124,
+    "stars": 0,
+    "comments": 1526,
+    "gift_breakdown": {
+      "Emas Batang": 1,
+      "Angklung": 1,
+      "Es Kelapa": 1,
+      "Water": 1,
+      "Cendrawasih": 1,
+      "Panjat": 1,
+      "Team Hype": 1,
+      "Kompas": 1,
+      "Toa": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "reorio .",
+        "points": 476,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a77454195095c5f44b500d641ac51248.webp?v=1758809181"
+      },
+      {
+        "rank": 2,
+        "name": "haryo .",
+        "points": 200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9fe83cff6ef4946baaa23efa3e809e4b.webp?v=1793977509"
+      },
+      {
+        "rank": 3,
+        "name": "U s e e e .",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/80761f729f3f849059a6988dc9345064.webp?v=1793628403"
+      },
+      {
+        "rank": 4,
+        "name": "nasip nasipp",
+        "points": 116,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91dd07ad26442e0055a1718166a3c6bb.webp?v=1790608954"
+      },
+      {
+        "rank": 5,
+        "name": "Franko ...",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+      },
+      {
+        "rank": 6,
+        "name": "Haya Alifia🧿🪬",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e8e5809fd188ef962c81b6e678f030e2.webp?v=1793664974"
+      },
+      {
+        "rank": 7,
+        "name": "Mikaella Adeknya CiLepi",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e87320a4607ca62a9122066b2d775748.webp?v=1793609268"
+      },
+      {
+        "rank": 8,
+        "name": "Asna Alana",
+        "points": 16,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/OXXx1CJlpbVD",
+    "gift_gold": 281,
+    "ended_at": "2026-11-12T14:37:32.022Z",
+    "duration_minutes": 74,
+    "last_viewers": 6216,
+    "unique_gifters": 8,
+    "source_id": "idn:hai-261112202341"
+  },
+  {
+    "id": "idn:alveeria-2799",
+    "platform": "idn",
+    "member": {
+      "name": "Ribka",
+      "username": "jkt48_ribka",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c3e9142730d1eb21db56de1eaa161d2.webp?v=1778755827"
+    },
+    "title": "nagu mania",
+    "url": "https://www.idn.app/jkt48_ribka/live/nagu-mania-261112201155",
+    "image": "https://cdn.idn.app/livestream/b00b64961601b0e367b5c1fcff2a6f9b.webp",
+    "started_at": "2026-11-12T13:12:01.000Z",
+    "last_seen_at": "2026-11-12T14:35:29.606Z",
+    "peak_viewers": 6728,
+    "gifts": 25,
+    "gift_points": 1780,
+    "stars": 0,
+    "comments": 1151,
+    "gift_breakdown": {
+      "TC-RIBKA": 1,
+      "Pumpkin": 4,
+      "JKT48 Show": 2,
+      "Lemon Tea": 3,
+      "Tumpeng": 1,
+      "Cold Water": 2,
+      "RIBKA": 1,
+      "Mawar": 3,
+      "FREYA": 1,
+      "Matcha": 1,
+      "Kompas": 1,
+      "Water": 4,
+      "Emas Batang": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Alif Lajim",
+        "points": 600,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6bd90af47d17b774dede9cf21d5b006b.webp?v=1783963204"
+      },
+      {
+        "rank": 2,
+        "name": "Ray Palmer",
+        "points": 408,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2ef760dae550376b4998268ddfae0b1b.webp?v=1786627747"
+      },
+      {
+        "rank": 3,
+        "name": "JIXES .",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7e3b42f33c3d65166bf27d492592ccb6.webp?v=1793268718"
+      },
+      {
+        "rank": 4,
+        "name": "saafaa adknya Juhoon loh ya",
+        "points": 84,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/653565b91e4620eeefda31d7d08a8678.webp?v=1794390884"
+      },
+      {
+        "rank": 5,
+        "name": "Andrika oshi Ronaldo",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6f4c662968a17850aaeab60957600af4.webp?v=1784290524"
+      },
+      {
+        "rank": 6,
+        "name": "FADLY PRATAMA",
+        "points": 56,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/760004db2e8144bc9a16367f381f3f55.webp?v=1788797045"
+      },
+      {
+        "rank": 7,
+        "name": "R F Dorable .",
+        "points": 48,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/edfa5e3a75922aa3f7f03f532d1ff4ee.webp?v=1790144974"
+      },
+      {
+        "rank": 8,
+        "name": "FiiiF .",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6166cd21d2bcf79297718fea1bbae6f.webp?v=1791851969"
+      },
+      {
+        "rank": 9,
+        "name": "RoyZy 🤙💜",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfb91ac8c224a8984d706474dd961eb3.webp?v=1794420038"
+      },
+      {
+        "rank": 10,
+        "name": "Pynuett Loh yaaa",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d91aef1089f27b39ebacbe52de9a1c93.webp?v=1779892737"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
+    "gift_gold": 445,
+    "ended_at": "2026-11-12T14:35:29.606Z",
+    "duration_minutes": 83,
+    "last_viewers": 6728,
+    "unique_gifters": 13,
+    "source_id": "idn:nagu-mania-261112201155"
+  },
+  {
+    "id": "idn:alveeria-2798",
+    "platform": "idn",
+    "member": {
+      "name": "Giaa",
+      "username": "jkt48_giaa",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1cf340bb3a2b74fb5ba8dd469fa999c3.webp?v=1743097386"
+    },
+    "title": "p ",
+    "url": "https://www.idn.app/jkt48_giaa/live/p-261112200446",
+    "image": "https://cdn.idn.app/livestream/5fe6f27187dff08b8a1025ddefed22e9.webp",
+    "started_at": "2026-11-12T13:04:58.000Z",
+    "last_seen_at": "2026-11-12T13:59:35.729Z",
+    "peak_viewers": 2442,
+    "gifts": 14,
+    "gift_points": 776,
+    "stars": 0,
+    "comments": 315,
+    "gift_breakdown": {
+      "GIAA": 1,
+      "Toa": 2,
+      "Kompas": 3,
+      "Jikoshoukai": 1,
+      "Lemon Tea": 1,
+      "Team Chill": 1,
+      "Team Hype": 1,
+      "Lightstick": 1,
+      "Pumpkin": 1,
+      "Puding": 1,
+      "Emas Batang": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Azrililham |#punyaGIAA💖🙆꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡♥",
+        "points": 300,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7a17cf4431f463bd8bfc230b7e22a5b2.webp?v=1782902918"
+      },
+      {
+        "rank": 2,
+        "name": "Shinbé Kiyawara",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
+      },
+      {
+        "rank": 3,
+        "name": "Editor Bingung",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f501af173e3c439a82fe2dac8ef234e5.webp?v=1794485917"
+      },
+      {
+        "rank": 4,
+        "name": "Charis_v.h",
+        "points": 96,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d78b7910111634c5af2d5d7d205e4d0.webp?v=1780248025"
+      },
+      {
+        "rank": 5,
+        "name": "Rizkum .",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343"
+      },
+      {
+        "rank": 6,
+        "name": "Fathurrrrrr ",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82b6f8bd61bf53471c149d273ae800ff.webp?v=1751269883"
+      },
+      {
+        "rank": 7,
+        "name": "Tasya Lessnusa",
+        "points": 16,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 8,
+        "name": "Restu Huyy",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/85cfe0fd7ea5d1f35b884dbb4fb41f01.webp?v=1789400837"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
+    "gift_gold": 194,
+    "ended_at": "2026-11-12T13:59:35.729Z",
+    "duration_minutes": 55,
+    "last_viewers": 2442,
+    "unique_gifters": 8,
+    "source_id": "idn:p-261112200446"
+  },
+  {
     "id": "idn:alveeria-2796",
     "platform": "idn",
     "member": {
@@ -102,6 +689,63 @@
     "duration_minutes": 38,
     "last_viewers": 4685,
     "unique_gifters": 0
+  },
+  {
+    "id": "idn:alveeria-2797",
+    "platform": "idn",
+    "member": {
+      "name": "JKT48",
+      "username": "jkt48-official",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82baca53b222467300863a9f63b08d1b.webp?v=1731060895"
+    },
+    "title": "Sambil Menggandeng Erat Tanganku - 2026/11/12",
+    "url": "https://www.idn.app/jkt48-official/live/sambil-menggandeng-erat-tanganku-2026-11-12-261105215453",
+    "image": "https://cdn.idn.app/livestream/a35059758fae15da9444f469b858eaed.webp",
+    "started_at": "2026-11-12T11:44:13.000Z",
+    "last_seen_at": "2026-11-12T14:29:21.986Z",
+    "peak_viewers": 1831,
+    "gifts": 4,
+    "gift_points": 36,
+    "stars": 0,
+    "comments": 723,
+    "gift_breakdown": {
+      "Lemonade": 1,
+      "Lemon Tea": 1,
+      "Orange Syrup": 2
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Im",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/52724c9689b59c0d9342094ce379b0c2.webp?v=1791358862"
+      },
+      {
+        "rank": 2,
+        "name": "muhammad fadly fadly",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/403458992be513979e2ef9d1845b4a5b.webp?v=1793871039"
+      },
+      {
+        "rank": 3,
+        "name": "diraa lop",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eba244b2815cc3fb10848cb7ea325354.webp?v=1794396531"
+      },
+      {
+        "rank": 4,
+        "name": "liaa 🐨",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6a1cafe6e813532bce2c906d4fd64c46.webp?v=1786485905"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
+    "gift_gold": 9,
+    "ended_at": "2026-11-12T14:29:21.986Z",
+    "duration_minutes": 165,
+    "last_viewers": 1831,
+    "unique_gifters": 4,
+    "source_id": "idn:sambil-menggandeng-erat-tanganku-2026-11-12-261105215453"
   },
   {
     "id": "idn:alveeria-2792",
@@ -3499,132 +4143,6 @@
     "url": "https://www.idn.app/jkt48_michie",
     "image": "https://cdn.idn.app/livestream/e53e7601f3b50f244978a3ca45cb73aa.webp",
     "started_at": "2026-09-04T13:57:30.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2602",
-    "platform": "idn",
-    "member": {
-      "name": "Maira",
-      "username": "jkt48_maira",
-      "avatar": null
-    },
-    "title": "Let’s go!!!",
-    "url": "https://www.idn.app/jkt48_maira",
-    "image": "https://cdn.idn.app/livestream/10281e6cabd925a00ef2812b34f0dd21.webp",
-    "started_at": "2026-09-04T13:44:13.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2603",
-    "platform": "idn",
-    "member": {
-      "name": "Jemima",
-      "username": "jkt48_jemima",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_jemima",
-    "image": "https://cdn.idn.app/livestream/49337380a4a1f802ca4cbd112e56c4a8.webp",
-    "started_at": "2026-09-04T13:44:13.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2601",
-    "platform": "idn",
-    "member": {
-      "name": "Cynthia",
-      "username": "jkt48_cynthia",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_cynthia",
-    "image": "https://cdn.idn.app/livestream/612e186fb9139fe2d23e8a76ea9706f1.webp",
-    "started_at": "2026-09-04T13:41:38.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2600",
-    "platform": "idn",
-    "member": {
-      "name": "Fritzy",
-      "username": "jkt48_fritzy",
-      "avatar": null
-    },
-    "title": "hiii",
-    "url": "https://www.idn.app/jkt48_fritzy",
-    "image": "https://cdn.idn.app/livestream/fc3221745b1bfc8db968109d0a64a788.webp",
-    "started_at": "2026-09-04T13:23:09.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2599",
-    "platform": "idn",
-    "member": {
-      "name": "Lana",
-      "username": "jkt48_lana",
-      "avatar": null
-    },
-    "title": "Hii",
-    "url": "https://www.idn.app/jkt48_lana",
-    "image": "https://cdn.idn.app/livestream/22138d4e85232c4bb46b8b0587165571.webp",
-    "started_at": "2026-09-04T13:13:23.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2598",
-    "platform": "idn",
-    "member": {
-      "name": "Nayla",
-      "username": "jkt48_nayla",
-      "avatar": null
-    },
-    "title": "え",
-    "url": "https://www.idn.app/jkt48_nayla",
-    "image": "https://cdn.idn.app/livestream/b15b1271f26da780309fec4005598051.webp",
-    "started_at": "2026-09-04T13:13:06.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2597",
-    "platform": "idn",
-    "member": {
-      "name": "Mikaela",
-      "username": "jkt48_mikaela",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_mikaela",
-    "image": "https://cdn.idn.app/livestream/8e10929e1a2ac9f0b17e2bc2abac429c.webp",
-    "started_at": "2026-09-03T16:12:01.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,

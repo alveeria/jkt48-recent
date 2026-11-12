@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 22.49 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 22.58 WIB.
 
 ## Pakai datanya
 
@@ -27,31 +27,31 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 1.831 |
-| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 2.442 |
-| Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 6.728 |
-| Levi | IDN Live | hai | 12 Nov 2026, 20.23 | 6.216 |
-| Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 7.396 |
-| Danella | IDN Live | ☺️ | 12 Nov 2026, 20.46 | 2.302 |
-| Daisy | IDN Live | Hi | 12 Nov 2026, 20.48 | 1.839 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 22.02 | 5.634 |
-| Gita | IDN Live | Gits | 12 Nov 2026, 22.02 | 7.449 |
-| Nala | IDN Live | hai ehek | 12 Nov 2026, 22.03 | 9.193 |
-| Marsha | IDN Live | Plisss | 12 Nov 2026, 22.02 | 9.249 |
-| Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 7.161 |
-| Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 9.242 |
-| Eli | IDN Live | KaraokELI | 12 Nov 2026, 22.41 | 410 |
-| Michie | IDN Live | wow | 12 Nov 2026, 22.41 | 1.358 |
-| Fritzy | IDN Live | storytimee | 12 Nov 2026, 22.48 | 45 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 22.02 | 6.329 |
+| Gita | IDN Live | Gits | 12 Nov 2026, 22.02 | 8.355 |
+| Nala | IDN Live | hai ehek | 12 Nov 2026, 22.03 | 10.403 |
+| Marsha | IDN Live | Plisss | 12 Nov 2026, 22.02 | 10.399 |
+| Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 8.058 |
+| Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 10.409 |
+| Eli | IDN Live | KaraokELI | 12 Nov 2026, 22.41 | 1.023 |
+| Michie | IDN Live | wow | 12 Nov 2026, 22.41 | 3.112 |
+| Fritzy | IDN Live | storytimee | 12 Nov 2026, 22.48 | 1.208 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Daisy | IDN Live | Hi | 12 Nov 2026, 20.48 | 63m | 1.839 | — | — | — | — |
+| Danella | IDN Live | ☺️ | 12 Nov 2026, 20.46 | 66m | 2.302 | — | — | — | — |
+| Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 67m | 7.396 | — | — | — | — |
+| Levi | IDN Live | hai | 12 Nov 2026, 20.23 | 74m | 6.216 | — | — | — | — |
+| Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 83m | 6.728 | — | — | — | — |
+| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 55m | 2.442 | — | — | — | — |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 19.23 | 65m | 5.862 | — | — | — | — |
 | Rilly | IDN Live | Geremmmmm | 12 Nov 2026, 19.12 | 69m | 3.118 | — | — | — | — |
 | Aralie | IDN Live | hi | 12 Nov 2026, 19.05 | 75m | 12.574 | — | — | — | — |
 | Fritzy | IDN Live | gais | 12 Nov 2026, 18.45 | 38m | 4.685 | — | — | — | — |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 165m | 1.831 | — | — | — | — |
 | Lily | IDN Live | Hi | 11 Nov 2026, 23.11 | — | — | — | — | — | — |
 | Michie | IDN Live | wow | 11 Nov 2026, 23.06 | — | — | — | — | — | — |
 | Fritzy | IDN Live | gais | 11 Nov 2026, 22.54 | — | — | — | — | — | — |
@@ -81,13 +81,6 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 | Ekin | IDN Live | hai | 6 Nov 2026, 22.52 | — | — | — | — | — | — |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 5 Nov 2026, 23.22 | — | — | — | — | — | — |
 | Delynn | IDN Live | Malming oi | 5 Nov 2026, 23.00 | — | — | — | — | — | — |
-| Gita | IDN Live | Gits | 5 Nov 2026, 22.32 | — | — | — | — | — | — |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 5 Nov 2026, 14.33 | — | — | — | — | — | — |
-| Olla | IDN Live | Ayo ngobrol bareng! | 4 Nov 2026, 22.00 | — | — | — | — | — | — |
-| Gita | IDN Live | Gits | 4 Nov 2026, 22.00 | — | — | — | — | — | — |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 4 Nov 2026, 21.38 | — | — | — | — | — | — |
-| Intan | IDN Live | woy | 4 Nov 2026, 20.21 | — | — | — | — | — | — |
-| Michie | IDN Live | 🪽🪽🪽 | 3 Nov 2026, 21.37 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
