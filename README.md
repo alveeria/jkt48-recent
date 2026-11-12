@@ -21,6 +21,7 @@ Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), 
 `gift_breakdown` (nama gift → jumlah), `top_gifters` (peringkat stage).
 
 > IDN tidak membuka data gift lewat API publiknya, jadi untuk IDN hanya penonton dan durasi yang dicatat.
+> Live sebelum repo ini aktif diambil dari arsip [rznive/JKT48Live-Record](https://github.com/rznive/JKT48Live-Record) (IDN saja, hanya waktu mulai), ditandai `source: "rznive/JKT48Live-Record"` dengan durasi dan penonton `null`.
 > Waktu dalam UTC (ISO 8601). Durasi dihitung dari waktu mulai sampai terakhir terlihat live (presisi ±30 detik).
 
 ## Sedang live
@@ -33,7 +34,46 @@ Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), 
 
 | Member | Platform | Judul | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
-| _Belum ada data_ | | | | | | | | | |
+| Lily | IDN Live | Hi | 11 Nov 2026, 23.11 | — | — | — | — | — | — |
+| Michie | IDN Live | wow | 11 Nov 2026, 23.06 | — | — | — | — | — | — |
+| Fritzy | IDN Live | gais | 11 Nov 2026, 22.54 | — | — | — | — | — | — |
+| Delynn | IDN Live | Malems | 11 Nov 2026, 22.41 | — | — | — | — | — | — |
+| Danella | IDN Live | ☺️ | 11 Nov 2026, 22.33 | — | — | — | — | — | — |
+| Rilly | IDN Live | Yukkk | 11 Nov 2026, 15.02 | — | — | — | — | — | — |
+| Giaa | IDN Live | p | 11 Nov 2026, 14.59 | — | — | — | — | — | — |
+| Intan | IDN Live | Ayo ngobrol bareng! | 11 Nov 2026, 14.47 | — | — | — | — | — | — |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 11 Nov 2026, 14.46 | — | — | — | — | — | — |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 10 Nov 2026, 23.00 | — | — | — | — | — | — |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 10 Nov 2026, 15.53 | — | — | — | — | — | — |
+| Oniel | IDN Live | saya kembali | 9 Nov 2026, 15.19 | — | — | — | — | — | — |
+| Lia | IDN Live | Ayo ngobrol bareng! | 9 Nov 2026, 14.43 | — | — | — | — | — | — |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 8 Nov 2026, 21.06 | — | — | — | — | — | — |
+| Lana | IDN Live | Haii | 8 Nov 2026, 21.01 | — | — | — | — | — | — |
+| Maira | IDN Live | Let’s go!!! | 8 Nov 2026, 14.12 | — | — | — | — | — | — |
+| Oniel | IDN Live | saya kembali | 8 Nov 2026, 13.18 | — | — | — | — | — | — |
+| Michie | IDN Live | grwm | 8 Nov 2026, 12.43 | — | — | — | — | — | — |
+| Jessi | IDN Live | hi | 7 Nov 2026, 19.50 | — | — | — | — | — | — |
+| Elin | IDN Live | Haaii | 7 Nov 2026, 14.04 | — | — | — | — | — | — |
+| Lia | IDN Live | Ayo ngobrol bareng! | 7 Nov 2026, 13.53 | — | — | — | — | — | — |
+| Lily | IDN Live | Haii | 7 Nov 2026, 13.52 | — | — | — | — | — | — |
+| Gracie | IDN Live | hiii | 7 Nov 2026, 13.38 | — | — | — | — | — | — |
+| Fritzy | IDN Live | hii | 7 Nov 2026, 13.16 | — | — | — | — | — | — |
+| Nayla | IDN Live | Hai | 7 Nov 2026, 13.13 | — | — | — | — | — | — |
+| Michie | IDN Live | grwm | 7 Nov 2026, 13.11 | — | — | — | — | — | — |
+| Ekin | IDN Live | hai | 6 Nov 2026, 22.52 | — | — | — | — | — | — |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 5 Nov 2026, 23.22 | — | — | — | — | — | — |
+| Delynn | IDN Live | Malming oi | 5 Nov 2026, 23.00 | — | — | — | — | — | — |
+| Gita | IDN Live | Gits | 5 Nov 2026, 22.32 | — | — | — | — | — | — |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 5 Nov 2026, 14.33 | — | — | — | — | — | — |
+| Olla | IDN Live | Ayo ngobrol bareng! | 4 Nov 2026, 22.00 | — | — | — | — | — | — |
+| Gita | IDN Live | Gits | 4 Nov 2026, 22.00 | — | — | — | — | — | — |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 4 Nov 2026, 21.38 | — | — | — | — | — | — |
+| Intan | IDN Live | woy | 4 Nov 2026, 20.21 | — | — | — | — | — | — |
+| Michie | IDN Live | 🪽🪽🪽 | 3 Nov 2026, 21.37 | — | — | — | — | — | — |
+| Gracie | IDN Live | hiii | 3 Nov 2026, 21.20 | — | — | — | — | — | — |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 3 Nov 2026, 21.14 | — | — | — | — | — | — |
+| Olla | IDN Live | Ayo ngobrol bareng! | 3 Nov 2026, 20.59 | — | — | — | — | — | — |
+| Jessi | IDN Live | belajar menyatok | 3 Nov 2026, 12.57 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.

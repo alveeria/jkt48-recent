@@ -41,7 +41,7 @@ const recentRows = latest
   .slice(0, 40)
   .map((r) => {
     const sr = r.platform === "showroom";
-    return `| ${esc(r.member.name)} | ${platform[r.platform]} | ${esc(r.title)} | ${wib(r.started_at)} | ${r.duration_minutes}m | ${num(r.peak_viewers)} | ${sr ? num(r.gifts) : "—"} | ${sr ? num(r.gift_points) : "—"} | ${sr ? num(r.stars) : "—"} | ${sr ? num(r.comments) : "—"} |`;
+    return `| ${esc(r.member.name)} | ${platform[r.platform]} | ${esc(r.title)} | ${wib(r.started_at)} | ${r.duration_minutes == null ? "—" : `${r.duration_minutes}m`} | ${num(r.peak_viewers)} | ${sr ? num(r.gifts) : "—"} | ${sr ? num(r.gift_points) : "—"} | ${sr ? num(r.stars) : "—"} | ${sr ? num(r.comments) : "—"} |`;
   })
   .join("\n");
 
@@ -68,6 +68,7 @@ Khusus SHOWROOM: \`gifts\` (gift berbayar), \`gift_points\`, \`stars\` (gift gra
 \`gift_breakdown\` (nama gift → jumlah), \`top_gifters\` (peringkat stage).
 
 > IDN tidak membuka data gift lewat API publiknya, jadi untuk IDN hanya penonton dan durasi yang dicatat.
+> Live sebelum repo ini aktif diambil dari arsip [rznive/JKT48Live-Record](https://github.com/rznive/JKT48Live-Record) (IDN saja, hanya waktu mulai), ditandai \`source: "rznive/JKT48Live-Record"\` dengan durasi dan penonton \`null\`.
 > Waktu dalam UTC (ISO 8601). Durasi dihitung dari waktu mulai sampai terakhir terlihat live (presisi ±30 detik).
 
 ## Sedang live
