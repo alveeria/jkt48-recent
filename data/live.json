@@ -1,4 +1,93 @@
 {
-  "updated_at": "2026-11-12T11:09:48.446Z",
-  "lives": []
+  "updated_at": "2026-11-12T12:28:08.934Z",
+  "lives": [
+    {
+      "id": "idn:geremmmmm-261112191242",
+      "platform": "idn",
+      "member": {
+        "name": "Rilly",
+        "username": "jkt48_rilly",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5e38d8edf838fca332ba020f7bb73ec2.webp?v=1743097350"
+      },
+      "title": "Geremmmmm",
+      "url": "https://www.idn.app/jkt48_rilly/live/geremmmmm-261112191242",
+      "image": "https://cdn.idn.app/livestream/0550db889acd7b9f8572da7bdfe90279.webp",
+      "started_at": "2026-11-12T12:12:48.000Z",
+      "viewers": 817,
+      "last_seen_at": "2026-11-12T12:28:07.975Z",
+      "peak_viewers": 817,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": []
+    },
+    {
+      "id": "idn:hi-261112190530",
+      "platform": "idn",
+      "member": {
+        "name": "Aralie",
+        "username": "jkt48_aralie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/71e9df185dcc84e99ddf1dc97cc37467.webp?v=1778755244"
+      },
+      "title": "hi",
+      "url": "https://www.idn.app/jkt48_aralie/live/hi-261112190530",
+      "image": "https://cdn.idn.app/livestream/67e474b1ebf71fec0fca0f464c6039ae.webp",
+      "started_at": "2026-11-12T12:05:35.000Z",
+      "viewers": 5697,
+      "last_seen_at": "2026-11-12T12:28:07.975Z",
+      "peak_viewers": 5697,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": []
+    },
+    {
+      "id": "idn:sambil-menggandeng-erat-tanganku-2026-11-12-261105215453",
+      "platform": "idn",
+      "member": {
+        "name": "JKT48",
+        "username": "jkt48-official",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82baca53b222467300863a9f63b08d1b.webp?v=1731060895"
+      },
+      "title": "Sambil Menggandeng Erat Tanganku - 2026/11/12",
+      "url": "https://www.idn.app/jkt48-official/live/sambil-menggandeng-erat-tanganku-2026-11-12-261105215453",
+      "image": "https://cdn.idn.app/livestream/a35059758fae15da9444f469b858eaed.webp",
+      "started_at": "2026-11-12T11:44:13.000Z",
+      "viewers": 865,
+      "last_seen_at": "2026-11-12T12:28:07.975Z",
+      "peak_viewers": 865,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": []
+    },
+    {
+      "id": "idn:ayo-ngobrol-bareng-261112192335",
+      "platform": "idn",
+      "member": {
+        "name": "Jemima",
+        "username": "jkt48_jemima",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/54c286f829c7ff60a713e07d607edcc2.webp?v=1743097513"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261112192335",
+      "image": "https://cdn.idn.app/livestream/d2139dac4809706ca15b556bded0f16c.webp",
+      "started_at": "2026-11-12T12:23:42.000Z",
+      "viewers": 743,
+      "last_seen_at": "2026-11-12T12:28:07.975Z",
+      "peak_viewers": 743,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": []
+    }
+  ]
 }

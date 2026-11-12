@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 18.09 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 19.28 WIB.
 
 ## Pakai datanya
 
@@ -25,12 +25,16 @@ Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), 
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| _Belum ada yang live_ | | | | |
+| Rilly | IDN Live | Geremmmmm | 12 Nov 2026, 19.12 | 817 |
+| Aralie | IDN Live | hi | 12 Nov 2026, 19.05 | 5.697 |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 865 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 19.23 | 743 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Fritzy | IDN Live | gais | 12 Nov 2026, 18.45 | 38m | 4.685 | — | — | — | — |
 | Lily | IDN Live | Hi | 11 Nov 2026, 23.11 | — | — | — | — | — | — |
 | Michie | IDN Live | wow | 11 Nov 2026, 23.06 | — | — | — | — | — | — |
 | Fritzy | IDN Live | gais | 11 Nov 2026, 22.54 | — | — | — | — | — | — |
@@ -70,7 +74,6 @@ Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), 
 | Gracie | IDN Live | hiii | 3 Nov 2026, 21.20 | — | — | — | — | — | — |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 3 Nov 2026, 21.14 | — | — | — | — | — | — |
 | Olla | IDN Live | Ayo ngobrol bareng! | 3 Nov 2026, 20.59 | — | — | — | — | — | — |
-| Jessi | IDN Live | belajar menyatok | 3 Nov 2026, 12.57 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.

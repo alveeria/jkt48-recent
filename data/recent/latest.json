@@ -1,5 +1,30 @@
 [
   {
+    "id": "idn:gais-261112184504",
+    "platform": "idn",
+    "member": {
+      "name": "Fritzy",
+      "username": "jkt48_fritzy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4d25811b1b50effd560fb480cac8ba0.webp?v=1778761438"
+    },
+    "title": "gais",
+    "url": "https://www.idn.app/jkt48_fritzy/live/gais-261112184504",
+    "image": "https://cdn.idn.app/livestream/0a7d1b42b9b032b99edce802fddcfc8b.webp",
+    "started_at": "2026-11-12T11:45:11.000Z",
+    "last_seen_at": "2026-11-12T12:23:00.873Z",
+    "peak_viewers": 4685,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "ended_at": "2026-11-12T12:23:00.873Z",
+    "duration_minutes": 38,
+    "last_viewers": 4685,
+    "unique_gifters": 0
+  },
+  {
     "id": "idn:rznive-2792",
     "platform": "idn",
     "member": {
@@ -3575,24 +3600,6 @@
     "url": "https://www.idn.app/jkt48_ribka",
     "image": "https://cdn.idn.app/livestream/fa52256d00e84ddba383f83c21a2d917.webp",
     "started_at": "2026-09-03T11:00:13.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:rznive-2593",
-    "platform": "idn",
-    "member": {
-      "name": "Intan",
-      "username": "jkt48_intan",
-      "avatar": null
-    },
-    "title": "hi",
-    "url": "https://www.idn.app/jkt48_intan",
-    "image": "https://cdn.idn.app/livestream/a84f0a93444e47c180c190e1bb7bc05a.webp",
-    "started_at": "2026-09-02T13:24:57.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
