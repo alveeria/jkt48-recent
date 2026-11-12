@@ -839,5 +839,101 @@
         "points": 44
       }
     }
+  },
+  "idn:ayo-ngobrol-bareng-261112220247": {
+    "id": "idn:ayo-ngobrol-bareng-261112220247",
+    "platform": "idn",
+    "member": {
+      "name": "Olla",
+      "username": "jkt48_olla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/76a2fcff460e27571b5abe640d269819.webp?v=1778755935"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261112220247",
+    "image": "https://cdn.idn.app/livestream/f5332439557b392155e0c0fe468ce4ba.webp",
+    "started_at": "2026-11-12T15:02:53.000Z",
+    "viewers": 4,
+    "last_seen_at": "2026-11-12T15:03:07.547Z",
+    "peak_viewers": 4,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL"
+  },
+  "idn:gits-261112220248": {
+    "id": "idn:gits-261112220248",
+    "platform": "idn",
+    "member": {
+      "name": "Gita",
+      "username": "jkt48_gita",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/449dae836a829fdd6767c3268ac51d93.webp?v=1778756058"
+    },
+    "title": "Gits",
+    "url": "https://www.idn.app/jkt48_gita/live/gits-261112220248",
+    "image": "https://cdn.idn.app/livestream/40ce415e1c886eeae562901c85e1d792.webp",
+    "started_at": "2026-11-12T15:02:54.000Z",
+    "viewers": 3,
+    "last_seen_at": "2026-11-12T15:03:07.547Z",
+    "peak_viewers": 3,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj"
+  },
+  "idn:hai-ehek-261112220255": {
+    "id": "idn:hai-ehek-261112220255",
+    "platform": "idn",
+    "member": {
+      "name": "Nala",
+      "username": "jkt48_nala",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/23ec81c50947a98e513e2371ccd140e5.webp?v=1778756416"
+    },
+    "title": "hai ehek",
+    "url": "https://www.idn.app/jkt48_nala/live/hai-ehek-261112220255",
+    "image": "https://cdn.idn.app/livestream/ba689b5cd1aec73e5499ea822204b2b5.webp",
+    "started_at": "2026-11-12T15:03:01.000Z",
+    "viewers": 1,
+    "last_seen_at": "2026-11-12T15:03:07.547Z",
+    "peak_viewers": 1,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/Pqb57KR18YXr"
+  },
+  "idn:plisss-261112220254": {
+    "id": "idn:plisss-261112220254",
+    "platform": "idn",
+    "member": {
+      "name": "Marsha",
+      "username": "jkt48_marsha",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fca5baa79d491e3ae5767af905c1b25b.webp?v=1778756256"
+    },
+    "title": "Plisss",
+    "url": "https://www.idn.app/jkt48_marsha/live/plisss-261112220254",
+    "image": "https://cdn.idn.app/livestream/dcebe19f33c0c8f3c5c655c4ed6c278d.webp",
+    "started_at": "2026-11-12T15:02:58.000Z",
+    "viewers": 1,
+    "last_seen_at": "2026-11-12T15:03:07.547Z",
+    "peak_viewers": 1,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/ZgDVpFoeEbEK"
   }
 }
