@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 22.13 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 22.18 WIB.
 
 ## Pakai datanya
 
@@ -34,12 +34,12 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 | Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 7.396 |
 | Danella | IDN Live | ☺️ | 12 Nov 2026, 20.46 | 2.302 |
 | Daisy | IDN Live | Hi | 12 Nov 2026, 20.48 | 1.839 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 22.02 | 1.591 |
-| Gita | IDN Live | Gits | 12 Nov 2026, 22.02 | 1.843 |
-| Nala | IDN Live | hai ehek | 12 Nov 2026, 22.03 | 2.479 |
-| Marsha | IDN Live | Plisss | 12 Nov 2026, 22.02 | 2.220 |
-| Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 1.832 |
-| Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 2.982 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 22.02 | 2.671 |
+| Gita | IDN Live | Gits | 12 Nov 2026, 22.02 | 3.234 |
+| Nala | IDN Live | hai ehek | 12 Nov 2026, 22.03 | 4.052 |
+| Marsha | IDN Live | Plisss | 12 Nov 2026, 22.02 | 4.088 |
+| Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 3.003 |
+| Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 4.573 |
 
 ## Live terakhir — Nov 2026
 
