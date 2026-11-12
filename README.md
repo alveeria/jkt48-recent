@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 20.33 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 20.39 WIB.
 
 ## Pakai datanya
 
@@ -19,17 +19,19 @@ Field tiap live: `id` (`idn:alveeria-N` / `showroom:alveeria-N`), `source_id` (I
 `started_at`, `ended_at`, `duration_minutes`, `peak_viewers`, `last_viewers`.
 Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), `comments`, `unique_gifters`,
 `gift_breakdown` (nama gift → jumlah), `top_gifters` (peringkat stage).
+Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points`, `gift_breakdown`, `unique_gifters`,
+`top_gifters` (dihitung dari gift yang terdengar selama live).
 
 
 ## Sedang live
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 1.397 |
-| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 1.260 |
-| Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 2.548 |
-| Levi | IDN Live | hai | 12 Nov 2026, 20.23 | 1.290 |
-| Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 446 |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 1.433 |
+| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 1.494 |
+| Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 3.011 |
+| Levi | IDN Live | hai | 12 Nov 2026, 20.23 | 1.842 |
+| Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 1.068 |
 
 ## Live terakhir — Nov 2026
 
