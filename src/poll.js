@@ -221,7 +221,33 @@ function close(session) {
   };
 }
 
-async function archive(ended) {
+/**
+ * Ended lives get a sequential id per platform (idn:alveeria-2793,
+ * showroom:alveeria-1, ...). The platform's own id stays in source_id, which
+ * is what makes re-applying the same ended lives after a reset idempotent.
+ */
+async function assignIds(ended) {
+  const recentDir = path.join(ROOT, "data/recent");
+  const known = new Map(); // source_id -> id
+  const max = {};
+  for (const name of await fs.readdir(recentDir).catch(() => [])) {
+    if (!/\.json$/.test(name)) continue;
+    for (const r of await readJson(`data/recent/${name}`, [])) {
+      const m = /^([a-z]+):alveeria-(\d+)$/.exec(r.id || "");
+      if (m) max[m[1]] = Math.max(max[m[1]] || 0, Number(m[2]));
+      if (r.source_id) known.set(r.source_id, r.id);
+    }
+  }
+  return ended.map((e) => {
+    const sourceId = e.source_id || e.id;
+    const id = known.get(sourceId) || `${e.platform}:alveeria-${(max[e.platform] = (max[e.platform] || 0) + 1)}`;
+    known.set(sourceId, id);
+    return { ...e, id, source_id: sourceId };
+  });
+}
+
+async function archive(endedRaw) {
+  const ended = await assignIds(endedRaw);
   const latest = await readJson("data/recent/latest.json", []);
   const ids = new Set(ended.map((e) => e.id));
   const records = [...ended, ...latest.filter((l) => !ids.has(l.id))]
