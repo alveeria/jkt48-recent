@@ -1,5 +1,107 @@
 [
   {
+    "id": "idn:alveeria-2810",
+    "platform": "idn",
+    "member": {
+      "name": "Fritzy",
+      "username": "jkt48_fritzy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4d25811b1b50effd560fb480cac8ba0.webp?v=1778761438"
+    },
+    "title": "storytimee",
+    "url": "https://www.idn.app/jkt48_fritzy/live/storytimee-261112224827",
+    "image": "https://cdn.idn.app/livestream/99b5c563caacee46203cd76f3a54eefb.webp",
+    "started_at": "2026-11-12T15:48:34.000Z",
+    "last_seen_at": "2026-11-12T16:32:05.156Z",
+    "peak_viewers": 4461,
+    "gifts": 34,
+    "gift_points": 4140,
+    "stars": 0,
+    "comments": 1448,
+    "gift_breakdown": {
+      "SSETAAAN": 1,
+      "Water": 12,
+      "Toa": 3,
+      "Matcha": 2,
+      "Kompas": 1,
+      "Konfeti": 1,
+      "Kembang Api": 1,
+      "Cold Water": 6,
+      "JKT48 Show": 4,
+      "Team Hype": 1,
+      "FREYA": 1,
+      "Boba Tea": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Idham ",
+        "points": 1316,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
+      },
+      {
+        "rank": 2,
+        "name": "Aryo .",
+        "points": 1200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/80ab415ad64e9c92a329c9b3cfddc398.webp?v=1751276211"
+      },
+      {
+        "rank": 3,
+        "name": "Steven Kelvin Anggara",
+        "points": 800,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f860a4a28fc039574a85601975597c23.webp?v=1794384627"
+      },
+      {
+        "rank": 4,
+        "name": "RamasEblak ♡.ᐟ.ᐟ",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1e5b6f18cafab80231c399acd76fa224.webp?v=1793714284"
+      },
+      {
+        "rank": 5,
+        "name": "eM .",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
+      },
+      {
+        "rank": 6,
+        "name": "Im",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/52724c9689b59c0d9342094ce379b0c2.webp?v=1791358862"
+      },
+      {
+        "rank": 7,
+        "name": "RoyZy 🤙💜",
+        "points": 60,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfb91ac8c224a8984d706474dd961eb3.webp?v=1794420038"
+      },
+      {
+        "rank": 8,
+        "name": "Indra 🐹",
+        "points": 48,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036"
+      },
+      {
+        "rank": 9,
+        "name": "Fritzy Force",
+        "points": 44,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/69e48aa9391adf43b7c960802cc4e703.webp?v=1789836883"
+      },
+      {
+        "rank": 10,
+        "name": "Razka _fairel #Fritzyonly",
+        "points": 36,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/630900a6b282c45b1c46d6dbeaa373de.webp?v=1794191401"
+      }
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
+    "gift_gold": 1035,
+    "ended_at": "2026-11-12T16:32:05.156Z",
+    "duration_minutes": 44,
+    "last_viewers": 4461,
+    "unique_gifters": 15,
+    "source_id": "idn:storytimee-261112224827"
+  },
+  {
     "id": "idn:alveeria-2809",
     "platform": "idn",
     "member": {
@@ -4667,24 +4769,6 @@
     "url": "https://www.idn.app/jkt48_levi",
     "image": "https://cdn.idn.app/livestream/5f4e82b0793f11a40d25f68ed50ea082.webp",
     "started_at": "2026-09-05T14:44:19.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2610",
-    "platform": "idn",
-    "member": {
-      "name": "Danella",
-      "username": "jkt48_danella",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_danella",
-    "image": "https://cdn.idn.app/livestream/c797f5abb5624808d1bcc2483f0b329a.webp",
-    "started_at": "2026-09-05T14:43:57.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
