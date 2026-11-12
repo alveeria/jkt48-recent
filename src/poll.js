@@ -250,7 +250,8 @@ const publicView = ({ _seen, gifters, idn_gifters, ...s }) =>
   s.platform === "idn" && idn_gifters ? { ...s, top_gifters: idnTop({ idn_gifters }) } : s;
 
 function close(session) {
-  const { _seen, gifters, viewers, ...rest } = publicView(session);
+  // publicView drops the gifter maps, so count them from the session itself.
+  const { viewers, ...rest } = publicView(session);
   const start = Date.parse(session.started_at || session.last_seen_at);
   const end = Date.parse(session.last_seen_at);
   return {
@@ -258,7 +259,7 @@ function close(session) {
     ended_at: session.last_seen_at,
     duration_minutes: Math.max(0, Math.round((end - start) / 60000)),
     last_viewers: viewers,
-    unique_gifters: Object.keys(gifters).length,
+    unique_gifters: Object.keys(session.gifters || {}).length,
   };
 }
 
@@ -351,7 +352,12 @@ async function tick(active) {
   for (const [id, s] of Object.entries(active)) {
     if (failed.has(s.platform)) continue;
     if (Date.now() - Date.parse(s.last_seen_at) < END_GRACE_MS) continue;
-    ended.push(close(s));
+    try {
+      ended.push(close(s));
+    } catch (e) {
+      // Never let one odd session keep every other one open.
+      log("close failed:", s.id, e.message);
+    }
     delete active[id];
   }
   await archive(ended);
