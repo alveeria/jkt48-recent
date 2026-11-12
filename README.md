@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 20.46 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 20.51 WIB.
 
 ## Pakai datanya
 
@@ -27,11 +27,13 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 1.495 |
-| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 1.794 |
-| Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 3.669 |
-| Levi | IDN Live | hai | 12 Nov 2026, 20.23 | 2.545 |
-| Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 2.255 |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 1.557 |
+| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 2.009 |
+| Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 4.023 |
+| Levi | IDN Live | hai | 12 Nov 2026, 20.23 | 2.958 |
+| Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 2.841 |
+| Danella | IDN Live | ☺️ | 12 Nov 2026, 20.46 | 183 |
+| Daisy | IDN Live | Hi | 12 Nov 2026, 20.48 | 117 |
 
 ## Live terakhir — Nov 2026
 
