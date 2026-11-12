@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 00.56 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 01.01 WIB.
 
 ## Pakai datanya
 
@@ -21,6 +21,7 @@ Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), 
 `gift_breakdown` (nama gift → jumlah), `top_gifters` (peringkat stage).
 Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points`, `gift_breakdown`, `unique_gifters`,
 `top_gifters` (dihitung dari gift yang terdengar selama live).
+Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per menit).
 
 
 ## Sedang live
