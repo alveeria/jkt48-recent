@@ -68,7 +68,7 @@ Data publik, bebas dipakai. Terakhir diperbarui: ${wib(live.updated_at)} WIB.
 const recent = await fetch("${RAW}/data/recent/latest.json").then((r) => r.json());
 \`\`\`
 
-Field tiap live: \`id\`, \`platform\` (\`idn\` | \`showroom\`), \`member { name, username, avatar }\`, \`title\`, \`url\`, \`image\`,
+Field tiap live: \`id\` (\`idn:alveeria-N\` / \`showroom:alveeria-N\`), \`source_id\` (ID asli platform),\`platform\` (\`idn\` | \`showroom\`), \`member { name, username, avatar }\`, \`title\`, \`url\`, \`image\`,
 \`started_at\`, \`ended_at\`, \`duration_minutes\`, \`peak_viewers\`, \`last_viewers\`.
 Khusus SHOWROOM: \`gifts\` (gift berbayar), \`gift_points\`, \`stars\` (gift gratis), \`comments\`, \`unique_gifters\`,
 \`gift_breakdown\` (nama gift → jumlah), \`top_gifters\` (peringkat stage).
