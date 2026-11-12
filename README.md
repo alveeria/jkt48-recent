@@ -8,8 +8,8 @@ Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 18.09 WIB.
 | File | Isi |
 |---|---|
 | [`data/live.json`](https://raw.githubusercontent.com/alveeria/jkt48-recent/main/data/live.json) | Yang sedang live sekarang |
-| [`data/recent/latest.json`](https://raw.githubusercontent.com/alveeria/jkt48-recent/main/data/recent/latest.json) | 200 live terakhir yang sudah selesai |
-| `data/recent/YYYY-MM.json` | Semua live per bulan, contoh [`2026-11.json`](https://raw.githubusercontent.com/alveeria/jkt48-recent/main/data/recent/2026-11.json) |
+| [`data/recent/latest.json`](https://raw.githubusercontent.com/alveeria/jkt48-recent/main/data/recent/latest.json) | Live selesai dalam bulan UTC berjalan |
+| `data/recent/YYYY-MM.json` | Arsip bulan UTC berjalan, contoh [`2026-11.json`](https://raw.githubusercontent.com/alveeria/jkt48-recent/main/data/recent/2026-11.json) |
 
 ```js
 const recent = await fetch("https://raw.githubusercontent.com/alveeria/jkt48-recent/main/data/recent/latest.json").then((r) => r.json());
@@ -26,13 +26,15 @@ Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), 
 
 ## Sedang live
 
-| Member | Platform | Judul | Mulai (WIB) | Penonton |
+| Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
 | _Belum ada yang live_ | | | | |
 
-## Live terakhir
+## Live terakhir — Nov 2026
 
-| Member | Platform | Judul | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
+Daftar ini hanya menampilkan live yang selesai bulan ini. Arsip bulan-bulan sebelumnya tetap tersedia di `data/recent/YYYY-MM.json`.
+
+| Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Lily | IDN Live | Hi | 11 Nov 2026, 23.11 | — | — | — | — | — | — |
 | Michie | IDN Live | wow | 11 Nov 2026, 23.06 | — | — | — | — | — | — |

@@ -6,7 +6,7 @@
 // workflow run every COMMIT_EVERY_MINUTES (reset to origin/main, re-apply, push).
 //
 // Only public, unauthenticated endpoints are used:
-//   IDN       https://api.idn.app/graphql  (searchLivestream: viewers, title, start/end)
+//   IDN       https://api.idn.app/graphql  (viewers, caption/title, start/end)
 //   SHOWROOM  /api/live/onlives, /api/live/gift_log, /api/live/comment_log,
 //             /api/live/stage_user_list, /api/live/gift_list (gift point values)
 
@@ -20,7 +20,8 @@ const POLL_SECONDS = Number(process.env.POLL_SECONDS || 30);
 const RUN_MINUTES = Number(process.env.RUN_MINUTES || 340);
 const COMMIT_EVERY_MINUTES = Number(process.env.COMMIT_EVERY_MINUTES || 5);
 const UA = "jkt48-recent/1.0 (+https://github.com/alveeria/jkt48-recent)";
-const LATEST_MAX = 200;
+// Retain at most one UTC calendar month of recent sessions.
+const RECENT_MONTHS = 1;
 // A session missing for this long is treated as ended (absorbs one flaky poll).
 const END_GRACE_MS = 90_000;
 
@@ -217,24 +218,42 @@ function close(session) {
 }
 
 async function archive(ended) {
-  if (!ended.length) return;
-  const byMonth = new Map();
-  for (const s of ended) {
-    const month = (s.started_at || s.ended_at).slice(0, 7);
-    byMonth.set(month, [...(byMonth.get(month) || []), s]);
+  const cutoff = new Date();
+  cutoff.setUTCDate(1);
+  cutoff.setUTCMonth(cutoff.getUTCMonth() - (RECENT_MONTHS - 1));
+  const cutoffMonth = cutoff.toISOString().slice(0, 7);
+
+  const months = new Set(
+    ended
+      .map((s) => (s.started_at || s.ended_at).slice(0, 7))
+      .filter((month) => month >= cutoffMonth),
+  );
+  const recentDir = path.join(ROOT, "data/recent");
+  for (const name of await fs.readdir(recentDir).catch(() => [])) {
+    if (!/^\d{4}-\d{2}\.json$/.test(name)) continue;
+    const month = name.slice(0, 7);
+    if (month < cutoffMonth) {
+      await fs.rm(path.join(recentDir, name));
+      continue;
+    }
+    months.add(month);
   }
-  for (const [month, items] of byMonth) {
+
+  const latest = await readJson("data/recent/latest.json", []);
+  const ids = new Set(ended.map((e) => e.id));
+  const records = [...ended, ...latest.filter((l) => !ids.has(l.id))].filter(
+    (s) => (s.started_at || s.ended_at || "").slice(0, 7) >= cutoffMonth,
+  );
+  await writeJson("data/recent/latest.json", records);
+
+  for (const month of months) {
     const file = `data/recent/${month}.json`;
     const prev = await readJson(file, []);
     const ids = new Set(prev.map((p) => p.id));
-    await writeJson(file, [...items.filter((i) => !ids.has(i.id)), ...prev]);
+    const additions = ended.filter((s) => (s.started_at || s.ended_at).slice(0, 7) === month);
+    const records = [...additions.filter((i) => !ids.has(i.id)), ...prev];
+    await writeJson(file, records);
   }
-  const latest = await readJson("data/recent/latest.json", []);
-  const ids = new Set(ended.map((e) => e.id));
-  await writeJson(
-    "data/recent/latest.json",
-    [...ended, ...latest.filter((l) => !ids.has(l.id))].slice(0, LATEST_MAX),
-  );
 }
 
 async function writeSnapshot(active, now = new Date().toISOString()) {
@@ -299,7 +318,7 @@ async function commit(active, ended, message) {
       git("reset", "-q", "--hard", "origin/main");
       await archive(ended);
       await writeSnapshot(active);
-      execFileSync("node", [path.join(ROOT, "src/readme.mjs")], { cwd: ROOT, stdio: "inherit" });
+      execFileSync("node", [path.join(ROOT, "src/readme.js")], { cwd: ROOT, stdio: "inherit" });
       git("add", "-A", "data", "state", "README.md");
       try {
         git("diff", "--cached", "--quiet");

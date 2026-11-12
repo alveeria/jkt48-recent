@@ -22,17 +22,22 @@ const wib = (v) =>
       }).format(new Date(v))
     : "—";
 const num = (n) => (n || n === 0 ? new Intl.NumberFormat("id-ID").format(n) : "—");
-const esc = (s) => String(s || "").replace(/\|/g, "\|").replace(/\n/g, " ");
+const esc = (s) => String(s || "").replace(/\|/g, "\\|").replace(/\n/g, " ");
+const liveCaption = (live) => live.caption ?? live.title ?? "";
 
 const live = await read("data/live.json", { lives: [] });
-const latest = await read("data/recent/latest.json", []);
+const latestAll = await read("data/recent/latest.json", []);
+const currentMonth = new Date().toISOString().slice(0, 7);
+const shortMonth = new Intl.DateTimeFormat("id-ID", { month: "short", year: "numeric", timeZone: "UTC" });
+const recentTitle = `## Live terakhir — ${shortMonth.format(new Date(`${currentMonth}-01T00:00:00Z`))}`;
+const latest = latestAll.filter((r) => (r.started_at || r.ended_at || "").slice(0, 7) === currentMonth);
 const platform = { idn: "IDN Live", showroom: "SHOWROOM" };
 
 const liveRows = live.lives.length
   ? live.lives
       .map(
         (l) =>
-          `| ${esc(l.member.name)} | ${platform[l.platform]} | ${esc(l.title)} | ${wib(l.started_at)} | ${num(l.viewers)} |`,
+          `| ${esc(l.member.name)} | ${platform[l.platform]} | ${esc(liveCaption(l))} | ${wib(l.started_at)} | ${num(l.viewers)} |`,
       )
       .join("\n")
   : "| _Belum ada yang live_ | | | | |";
@@ -41,7 +46,8 @@ const recentRows = latest
   .slice(0, 40)
   .map((r) => {
     const sr = r.platform === "showroom";
-    return `| ${esc(r.member.name)} | ${platform[r.platform]} | ${esc(r.title)} | ${wib(r.started_at)} | ${r.duration_minutes == null ? "—" : `${r.duration_minutes}m`} | ${num(r.peak_viewers)} | ${sr ? num(r.gifts) : "—"} | ${sr ? num(r.gift_points) : "—"} | ${sr ? num(r.stars) : "—"} | ${sr ? num(r.comments) : "—"} |`;
+    const historical = r.source === "rznive/JKT48Live-Record";
+    return `| ${esc(r.member.name)} | ${platform[r.platform]} | ${esc(r.caption ?? r.title)} | ${wib(r.started_at)} | ${historical || r.duration_minutes == null ? "—" : `${r.duration_minutes}m`} | ${historical ? "—" : num(r.peak_viewers)} | ${sr ? num(r.gifts) : "—"} | ${sr ? num(r.gift_points) : "—"} | ${sr ? num(r.stars) : "—"} | ${sr ? num(r.comments) : "—"} |`;
   })
   .join("\n");
 
@@ -55,8 +61,8 @@ Data publik, bebas dipakai. Terakhir diperbarui: ${wib(live.updated_at)} WIB.
 | File | Isi |
 |---|---|
 | [\`data/live.json\`](${RAW}/data/live.json) | Yang sedang live sekarang |
-| [\`data/recent/latest.json\`](${RAW}/data/recent/latest.json) | 200 live terakhir yang sudah selesai |
-| \`data/recent/YYYY-MM.json\` | Semua live per bulan, contoh [\`${new Date().toISOString().slice(0, 7)}.json\`](${RAW}/data/recent/${new Date().toISOString().slice(0, 7)}.json) |
+| [\`data/recent/latest.json\`](${RAW}/data/recent/latest.json) | Live selesai dalam bulan UTC berjalan |
+| \`data/recent/YYYY-MM.json\` | Arsip bulan UTC berjalan, contoh [\`${currentMonth}.json\`](${RAW}/data/recent/${currentMonth}.json) |
 
 \`\`\`js
 const recent = await fetch("${RAW}/data/recent/latest.json").then((r) => r.json());
@@ -73,13 +79,15 @@ Khusus SHOWROOM: \`gifts\` (gift berbayar), \`gift_points\`, \`stars\` (gift gra
 
 ## Sedang live
 
-| Member | Platform | Judul | Mulai (WIB) | Penonton |
+| Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
 ${liveRows}
 
-## Live terakhir
+${recentTitle}
 
-| Member | Platform | Judul | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
+Daftar ini hanya menampilkan live yang selesai bulan ini. Arsip bulan-bulan sebelumnya tetap tersedia di \`data/recent/YYYY-MM.json\`.
+
+| Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 ${recentRows || "| _Belum ada data_ | | | | | | | | | |"}
 

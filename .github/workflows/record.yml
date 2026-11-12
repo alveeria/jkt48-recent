@@ -22,12 +22,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          # GitHub suppresses workflows triggered by pushes using GITHUB_TOKEN.
+          # No other step uses the checkout token after checkout.
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+
       - name: Poll IDN Live and SHOWROOM
         env:
           POLL_SECONDS: "30"
           RUN_MINUTES: "340"
           COMMIT_EVERY_MINUTES: "5"
-        run: node src/poll.mjs
+        run: node src/poll.js
