@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "description": "Auto-recorded JKT48 lives from IDN Live and SHOWROOM",
-  "engines": { "node": ">=20" },
+  "engines": { "node": ">=22" },
   "scripts": {
     "once": "node src/poll.js",
     "readme": "node src/readme.js"

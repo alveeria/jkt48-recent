@@ -25,11 +25,12 @@ jobs:
           # src/poll.js pushes data with the checkout token, so it must persist.
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22 # global WebSocket for the IDN chat listener
 
       - name: Poll IDN Live and SHOWROOM
         env:
           POLL_SECONDS: "30"
           RUN_MINUTES: "340"
           COMMIT_EVERY_MINUTES: "5"
+          IDN_REFRESH_TOKEN: ${{ secrets.IDN_REFRESH_TOKEN }}
         run: node src/poll.js

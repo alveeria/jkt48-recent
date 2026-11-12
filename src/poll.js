@@ -14,6 +14,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
+import { IdnChat } from "./idn-chat.js";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const POLL_SECONDS = Number(process.env.POLL_SECONDS || 30);
@@ -92,6 +93,13 @@ async function idnLives() {
       started_at: iso(i.live_at),
       viewers: Number(i.view_count) || 0,
     }));
+}
+
+/** The IRC channel of an IDN live is only published in the live page's HTML. */
+async function idnChatRoom(url) {
+  const res = await fetch(url, { headers: { "user-agent": UA }, signal: AbortSignal.timeout(10_000) });
+  if (!res.ok) throw new Error(`IDN page HTTP ${res.status}`);
+  return /"chat_room_id":"([^"]+)"/.exec(await res.text())?.[1] || null;
 }
 
 /* ---------------- SHOWROOM ---------------- */
@@ -208,8 +216,41 @@ function open(live, now) {
   };
 }
 
+/** Gift or comment heard in an IDN chat room (see src/idn-chat.js). */
+function idnEvent(active, room, ev) {
+  const s = Object.values(active).find((x) => x.platform === "idn" && x.chat_room === room);
+  if (!s) return;
+  if (ev.type === "comment") {
+    s.comments += 1;
+    return;
+  }
+  const gold = Number(ev.gift.gold) || 0;
+  const point = Number(ev.gift.point) || 0;
+  s.gifts += 1;
+  s.gift_gold = (s.gift_gold || 0) + gold;
+  s.gift_points += point;
+  const label = ev.gift.name || ev.gift.slug || "gift";
+  s.gift_breakdown[label] = (s.gift_breakdown[label] || 0) + 1;
+  const key = ev.user.uuid || ev.user.name || "?";
+  const g = (s.idn_gifters ||= {})[key] || { name: ev.user.name || null, avatar: ev.user.avatar_url || null, points: 0 };
+  g.points += point;
+  s.idn_gifters[key] = g;
+  s.gifters[key] = g.name;
+}
+
+/** IDN has no public stage ranking, so it is built from the gifts we heard. */
+function idnTop(session) {
+  return Object.values(session.idn_gifters || {})
+    .sort((a, b) => b.points - a.points)
+    .slice(0, 10)
+    .map((g, i) => ({ rank: i + 1, name: g.name, points: g.points, avatar: g.avatar }));
+}
+
+const publicView = ({ _seen, gifters, idn_gifters, ...s }) =>
+  s.platform === "idn" && idn_gifters ? { ...s, top_gifters: idnTop({ idn_gifters }) } : s;
+
 function close(session) {
-  const { _seen, gifters, viewers, ...rest } = session;
+  const { _seen, gifters, viewers, ...rest } = publicView(session);
   const start = Date.parse(session.started_at || session.last_seen_at);
   const end = Date.parse(session.last_seen_at);
   return {
@@ -270,10 +311,12 @@ async function archive(endedRaw) {
 async function writeSnapshot(active, now = new Date().toISOString()) {
   await writeJson("data/live.json", {
     updated_at: now,
-    lives: Object.values(active).map(({ _seen, gifters, ...s }) => s),
+    lives: Object.values(active).map(publicView),
   });
   await writeJson("state/active.json", active);
 }
+
+let chat = null; // IdnChat, when IDN_REFRESH_TOKEN is set
 
 async function tick(active) {
   const now = new Date().toISOString();
@@ -298,7 +341,11 @@ async function tick(active) {
     s.image = live.image || s.image;
     s.last_seen_at = now;
     if (s.platform === "showroom") await showroomExtras(s).catch((e) => log("extras:", e.message));
+    if (s.platform === "idn" && chat && !s.chat_room) {
+      s.chat_room = await idnChatRoom(s.url).catch((e) => (log("chat room:", e.message), null));
+    }
   }
+  chat?.setRooms(Object.values(active).filter((x) => x.platform === "idn").map((x) => x.chat_room));
 
   const ended = [];
   for (const [id, s] of Object.entries(active)) {
@@ -350,6 +397,10 @@ async function commit(active, ended, message) {
 async function main() {
   const once = process.argv.includes("--once");
   const active = await readJson("state/active.json", {});
+  if (!once && process.env.IDN_REFRESH_TOKEN) {
+    chat = new IdnChat(process.env.IDN_REFRESH_TOKEN, (room, ev) => idnEvent(active, room, ev));
+    chat.start();
+  } else log("IDN chat off (no IDN_REFRESH_TOKEN): IDN gifts/comments are not recorded");
   const stopAt = Date.now() + RUN_MINUTES * 60_000;
   let lastCommit = Date.now();
   let pending = [];
@@ -371,6 +422,8 @@ async function main() {
     const msg = pending.length ? `data: ${pending.length} live selesai` : "data: update live";
     await commit(active, pending, msg);
   }
+  chat?.stop();
+  process.exit(0); // the IRC socket would otherwise keep the process alive
 }
 
 main();
