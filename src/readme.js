@@ -82,8 +82,6 @@ ${liveRows}
 
 ${recentTitle}
 
-Daftar ini hanya menampilkan live yang selesai bulan ini. Arsip bulan-bulan sebelumnya tetap tersedia di \`data/recent/YYYY-MM.json\`.
-
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 ${recentRows || "| _Belum ada data_ | | | | | | | | | |"}

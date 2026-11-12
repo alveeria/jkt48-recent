@@ -29,8 +29,6 @@ Khusus SHOWROOM: `gifts` (gift berbayar), `gift_points`, `stars` (gift gratis), 
 
 ## Live terakhir — Nov 2026
 
-Daftar ini hanya menampilkan live yang selesai bulan ini. Arsip bulan-bulan sebelumnya tetap tersedia di `data/recent/YYYY-MM.json`.
-
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Poin gift | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Lily | IDN Live | Hi | 11 Nov 2026, 23.11 | — | — | — | — | — | — |
