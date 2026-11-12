@@ -619,16 +619,16 @@
     "url": "https://www.idn.app/jkt48_danella/live/261112204642",
     "image": "https://cdn.idn.app/livestream/3fa6ecf4de000295d47b7d9a188da0ed.webp",
     "started_at": "2026-11-12T13:46:47.000Z",
-    "viewers": 1980,
-    "last_seen_at": "2026-11-12T14:42:38.833Z",
-    "peak_viewers": 1980,
-    "gifts": 30,
-    "gift_points": 1728,
+    "viewers": 2141,
+    "last_seen_at": "2026-11-12T14:47:45.482Z",
+    "peak_viewers": 2141,
+    "gifts": 31,
+    "gift_points": 1732,
     "stars": 0,
-    "comments": 286,
+    "comments": 312,
     "gift_breakdown": {
       "Pumpkin": 3,
-      "Cold Water": 2,
+      "Cold Water": 3,
       "Toa": 6,
       "Siomay": 1,
       "Angklung": 3,
@@ -659,11 +659,12 @@
       "6a1fc180-213b-4faf-b590-5ab4398b3fa7": "RoyZy 🤙💜",
       "63541637-ea2d-4f9f-ac84-382e1f575b92": "kirana a",
       "49153d44-e2be-4a46-9ceb-bc5eac93bf29": "Pynuett Loh yaaa",
-      "0405ec4d-d418-41e7-af11-bef7244d2e1a": "pippopippoppi ☮️"
+      "0405ec4d-d418-41e7-af11-bef7244d2e1a": "pippopippoppi ☮️",
+      "516cd3aa-7ecf-485a-9670-97c2fcdc6184": "Reinhard Hamonangan"
     },
     "top_gifters": [],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oVyfRQMZJsNA",
-    "gift_gold": 432,
+    "gift_gold": 433,
     "idn_gifters": {
       "da2ab93e-e31d-4c82-a174-5c16c8c7233f": {
         "name": "Didi Pwk",
@@ -739,6 +740,11 @@
         "name": "pippopippoppi ☮️",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c92f5f59584d7072064815f995563855.webp?v=1766649811",
         "points": 40
+      },
+      "516cd3aa-7ecf-485a-9670-97c2fcdc6184": {
+        "name": "Reinhard Hamonangan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/187401236c8b4e91e992847078e6d16c.webp?v=1793628746",
+        "points": 4
       }
     }
   },
@@ -754,13 +760,13 @@
     "url": "https://www.idn.app/jkt48_daisy/live/hi-261112204800",
     "image": "https://cdn.idn.app/livestream/253f0fa5f906ca2a6cea12d2a8d858a5.webp",
     "started_at": "2026-11-12T13:48:06.000Z",
-    "viewers": 1642,
-    "last_seen_at": "2026-11-12T14:42:38.833Z",
-    "peak_viewers": 1642,
-    "gifts": 10,
-    "gift_points": 316,
+    "viewers": 1763,
+    "last_seen_at": "2026-11-12T14:47:45.482Z",
+    "peak_viewers": 1763,
+    "gifts": 11,
+    "gift_points": 348,
     "stars": 0,
-    "comments": 206,
+    "comments": 223,
     "gift_breakdown": {
       "DAISY": 2,
       "Cold Water": 1,
@@ -768,7 +774,8 @@
       "Kompas": 2,
       "Toa": 2,
       "Pumpkin": 1,
-      "Water": 1
+      "Water": 1,
+      "GGWP!": 1
     },
     "gifters": {
       "b2835d8f-413d-4808-94de-78bfd2ae0f66": "Munier Jaid",
@@ -777,11 +784,12 @@
       "322cc15b-0a57-4b24-9128-d9a1f27d5bbb": "David Jonathan Hariyanto",
       "eca3123a-1ee7-4c1f-8205-88243b405e7e": "Alfian 98",
       "6a1fc180-213b-4faf-b590-5ab4398b3fa7": "RoyZy 🤙💜",
-      "516cd3aa-7ecf-485a-9670-97c2fcdc6184": "Reinhard Hamonangan"
+      "516cd3aa-7ecf-485a-9670-97c2fcdc6184": "Reinhard Hamonangan",
+      "9f6da2cd-3185-4e51-a110-be70bcf5e79a": "Salma Maharani"
     },
     "top_gifters": [],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
-    "gift_gold": 79,
+    "gift_gold": 87,
     "idn_gifters": {
       "b2835d8f-413d-4808-94de-78bfd2ae0f66": {
         "name": "Munier Jaid",
@@ -817,6 +825,11 @@
         "name": "Reinhard Hamonangan",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/187401236c8b4e91e992847078e6d16c.webp?v=1793628746",
         "points": 4
+      },
+      "9f6da2cd-3185-4e51-a110-be70bcf5e79a": {
+        "name": "Salma Maharani",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cce6beb85a6dfce666fea569c476040c.webp?v=1731934192",
+        "points": 32
       }
     }
   }
