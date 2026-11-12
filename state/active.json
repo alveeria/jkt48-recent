@@ -281,7 +281,7 @@
     "gifts": 9,
     "gift_points": 1124,
     "stars": 0,
-    "comments": 1512,
+    "comments": 1526,
     "gift_breakdown": {
       "Emas Batang": 1,
       "Angklung": 1,
@@ -361,13 +361,13 @@
     "url": "https://www.idn.app/jkt48_kathrina/live/wazzap-261112203052",
     "image": "https://cdn.idn.app/livestream/cd594c946c98c0a245d4f045584062a9.webp",
     "started_at": "2026-11-12T13:30:58.000Z",
-    "viewers": 7265,
-    "last_seen_at": "2026-11-12T14:37:32.022Z",
-    "peak_viewers": 7265,
+    "viewers": 7396,
+    "last_seen_at": "2026-11-12T14:38:04.441Z",
+    "peak_viewers": 7396,
     "gifts": 64,
     "gift_points": 3116,
     "stars": 0,
-    "comments": 6430,
+    "comments": 6474,
     "gift_breakdown": {
       "Cold Water": 13,
       "Jailangkung": 1,
@@ -619,29 +619,30 @@
     "url": "https://www.idn.app/jkt48_danella/live/261112204642",
     "image": "https://cdn.idn.app/livestream/3fa6ecf4de000295d47b7d9a188da0ed.webp",
     "started_at": "2026-11-12T13:46:47.000Z",
-    "viewers": 1640,
-    "last_seen_at": "2026-11-12T14:37:32.022Z",
-    "peak_viewers": 1640,
-    "gifts": 26,
-    "gift_points": 1276,
+    "viewers": 1980,
+    "last_seen_at": "2026-11-12T14:42:38.833Z",
+    "peak_viewers": 1980,
+    "gifts": 30,
+    "gift_points": 1728,
     "stars": 0,
-    "comments": 273,
+    "comments": 286,
     "gift_breakdown": {
       "Pumpkin": 3,
       "Cold Water": 2,
-      "Toa": 5,
+      "Toa": 6,
       "Siomay": 1,
       "Angklung": 3,
       "Kompas": 3,
       "Push Rank!!": 1,
-      "Matcha": 1,
+      "Matcha": 2,
       "DANELLA": 1,
       "Lato-Lato": 1,
       "JKT48 Stage": 1,
       "Jari Hati": 1,
       "Kucing": 1,
       "Mawar": 1,
-      "Lemon Tea": 1
+      "Lemon Tea": 1,
+      "Emas Batang": 2
     },
     "gifters": {
       "da2ab93e-e31d-4c82-a174-5c16c8c7233f": "Didi Pwk",
@@ -655,16 +656,19 @@
       "eca3123a-1ee7-4c1f-8205-88243b405e7e": "Alfian 98",
       "8791ef1e-b197-4ff0-8017-9e3c15c11424": "Fritzy Force",
       "4d787067-fbd7-4a33-8af5-4ffc173f378b": "Haris Mubarok",
-      "6a1fc180-213b-4faf-b590-5ab4398b3fa7": "RoyZy 🤙💜"
+      "6a1fc180-213b-4faf-b590-5ab4398b3fa7": "RoyZy 🤙💜",
+      "63541637-ea2d-4f9f-ac84-382e1f575b92": "kirana a",
+      "49153d44-e2be-4a46-9ceb-bc5eac93bf29": "Pynuett Loh yaaa",
+      "0405ec4d-d418-41e7-af11-bef7244d2e1a": "pippopippoppi ☮️"
     },
     "top_gifters": [],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oVyfRQMZJsNA",
-    "gift_gold": 319,
+    "gift_gold": 432,
     "idn_gifters": {
       "da2ab93e-e31d-4c82-a174-5c16c8c7233f": {
         "name": "Didi Pwk",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf5e7053492f85290380921d24cb4172.webp?v=1765004684",
-        "points": 444
+        "points": 640
       },
       "b4d053a5-19a9-464e-8ea5-e5daf8f2b6ee": {
         "name": "Mirukuuuuuu ?",
@@ -720,6 +724,21 @@
         "name": "RoyZy 🤙💜",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfb91ac8c224a8984d706474dd961eb3.webp?v=1794420038",
         "points": 20
+      },
+      "63541637-ea2d-4f9f-ac84-382e1f575b92": {
+        "name": "kirana a",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c2c9e96f2789de9aa2551b175b99ac8.webp?v=1784558638",
+        "points": 196
+      },
+      "49153d44-e2be-4a46-9ceb-bc5eac93bf29": {
+        "name": "Pynuett Loh yaaa",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d91aef1089f27b39ebacbe52de9a1c93.webp?v=1779892737",
+        "points": 20
+      },
+      "0405ec4d-d418-41e7-af11-bef7244d2e1a": {
+        "name": "pippopippoppi ☮️",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c92f5f59584d7072064815f995563855.webp?v=1766649811",
+        "points": 40
       }
     }
   },
@@ -735,13 +754,13 @@
     "url": "https://www.idn.app/jkt48_daisy/live/hi-261112204800",
     "image": "https://cdn.idn.app/livestream/253f0fa5f906ca2a6cea12d2a8d858a5.webp",
     "started_at": "2026-11-12T13:48:06.000Z",
-    "viewers": 1375,
-    "last_seen_at": "2026-11-12T14:37:32.022Z",
-    "peak_viewers": 1375,
+    "viewers": 1642,
+    "last_seen_at": "2026-11-12T14:42:38.833Z",
+    "peak_viewers": 1642,
     "gifts": 10,
     "gift_points": 316,
     "stars": 0,
-    "comments": 187,
+    "comments": 206,
     "gift_breakdown": {
       "DAISY": 2,
       "Cold Water": 1,
