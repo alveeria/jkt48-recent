@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261112224117",
     "image": "https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp",
     "started_at": "2026-11-12T15:41:23.000Z",
-    "viewers": 2514,
-    "last_seen_at": "2026-11-12T16:23:49.834Z",
-    "peak_viewers": 2514,
+    "viewers": 2730,
+    "last_seen_at": "2026-11-12T16:28:58.508Z",
+    "peak_viewers": 2730,
     "gifts": 6,
     "gift_points": 72,
     "stars": 0,
-    "comments": 186,
+    "comments": 227,
     "gift_breakdown": {
       "Cold Water": 1,
       "Water": 2,
@@ -74,13 +74,13 @@
     "url": "https://www.idn.app/jkt48_michie/live/wow-261112224124",
     "image": "https://cdn.idn.app/livestream/d1519c3589501a21bc08d3aa4ba6a721.webp",
     "started_at": "2026-11-12T15:41:32.000Z",
-    "viewers": 7205,
-    "last_seen_at": "2026-11-12T16:23:49.834Z",
-    "peak_viewers": 7205,
-    "gifts": 37,
-    "gift_points": 1484,
+    "viewers": 7713,
+    "last_seen_at": "2026-11-12T16:28:58.508Z",
+    "peak_viewers": 7713,
+    "gifts": 43,
+    "gift_points": 1648,
     "stars": 0,
-    "comments": 2625,
+    "comments": 3234,
     "gift_breakdown": {
       "Water": 1,
       "Cold Water": 5,
@@ -89,7 +89,7 @@
       "Angklung": 3,
       "HADIIIRRR!!": 1,
       "Puding": 2,
-      "Mawar": 4,
+      "Mawar": 6,
       "TC-RIBKA": 1,
       "ALYA": 1,
       "JKT48 Stage": 1,
@@ -97,7 +97,11 @@
       "Kompas": 1,
       "Team Chill": 1,
       "Nasi Goreng": 1,
-      "Lato-Lato": 1
+      "Lato-Lato": 1,
+      "Pumpkin": 1,
+      "Lemon Tea": 1,
+      "MICHIE": 1,
+      "Es Kelapa": 1
     },
     "gifters": {
       "3d10ac00-66bf-48eb-942c-03597b3684c6": "Muhammad ilham Amier",
@@ -117,11 +121,12 @@
       "6318c796-b841-403a-bdef-156c2677d8b5": "Fahmi Nur Rosyid",
       "2464b870-d281-4bea-a8cd-dcf9f1d7c119": "Lingga Kusumanegara",
       "769582b3-a0cb-4d28-b8d2-173d8685d543": "Medii _",
-      "6cb4e568-56c2-4ce5-bd55-2e9bd8fea3e5": "Adil Selalu"
+      "6cb4e568-56c2-4ce5-bd55-2e9bd8fea3e5": "Adil Selalu",
+      "3c88bf39-d4b1-444e-b683-675698a9fd95": "Afgansyah"
     },
     "top_gifters": [],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 371,
+    "gift_gold": 412,
     "idn_gifters": {
       "3d10ac00-66bf-48eb-942c-03597b3684c6": {
         "name": "Muhammad ilham Amier",
@@ -141,7 +146,7 @@
       "0caab7d2-6383-4c14-93bd-2ed6d55f92a7": {
         "name": "Bunbun 😎🤏🏻",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/68d2bc8dda0f0a05cbaacb96b2b86b7c.webp?v=1784508658",
-        "points": 424
+        "points": 460
       },
       "5254c56d-e17f-424c-a33e-a15875a804c8": {
         "name": "Zaza06",
@@ -201,17 +206,22 @@
       "2464b870-d281-4bea-a8cd-dcf9f1d7c119": {
         "name": "Lingga Kusumanegara",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4fdbdf2aece49b43ebf5c968c587e1ea.webp?v=1746357520",
-        "points": 80
+        "points": 120
       },
       "769582b3-a0cb-4d28-b8d2-173d8685d543": {
         "name": "Medii _",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/946edd3a4a038748ca9944e8f3a9b0f2.webp?v=1731214288",
-        "points": 40
+        "points": 120
       },
       "6cb4e568-56c2-4ce5-bd55-2e9bd8fea3e5": {
         "name": "Adil Selalu",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/27f749e011df91882820b5bf9b5b3604.webp?v=1793886957",
         "points": 40
+      },
+      "3c88bf39-d4b1-444e-b683-675698a9fd95": {
+        "name": "Afgansyah",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/12a9eba03cf0606453d2b3edf80c8504.webp?v=1779579092",
+        "points": 8
       }
     }
   },
@@ -227,23 +237,26 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/storytimee-261112224827",
     "image": "https://cdn.idn.app/livestream/99b5c563caacee46203cd76f3a54eefb.webp",
     "started_at": "2026-11-12T15:48:34.000Z",
-    "viewers": 3797,
-    "last_seen_at": "2026-11-12T16:23:49.834Z",
-    "peak_viewers": 3797,
-    "gifts": 26,
-    "gift_points": 2724,
+    "viewers": 4196,
+    "last_seen_at": "2026-11-12T16:28:58.508Z",
+    "peak_viewers": 4196,
+    "gifts": 34,
+    "gift_points": 4140,
     "stars": 0,
-    "comments": 1073,
+    "comments": 1337,
     "gift_breakdown": {
       "SSETAAAN": 1,
-      "Water": 11,
+      "Water": 12,
       "Toa": 3,
-      "Matcha": 1,
+      "Matcha": 2,
       "Kompas": 1,
       "Konfeti": 1,
       "Kembang Api": 1,
       "Cold Water": 6,
-      "JKT48 Show": 1
+      "JKT48 Show": 4,
+      "Team Hype": 1,
+      "FREYA": 1,
+      "Boba Tea": 1
     },
     "gifters": {
       "ebb562b7-7ea2-4ac5-8793-b67ea83e3ccb": "Razka _fairel #Fritzyonly",
@@ -257,16 +270,19 @@
       "b3415fb8-6af6-4e8e-bcff-78034b7503ce": "Arie Brian",
       "4ae7282e-b1c8-430b-ba01-a2c2e2295438": "Nichuuuw Palen",
       "8791ef1e-b197-4ff0-8017-9e3c15c11424": "Fritzy Force",
-      "682aa092-6cc0-4f43-b835-9c57e71edba7": "RamasEblak ♡.ᐟ.ᐟ"
+      "682aa092-6cc0-4f43-b835-9c57e71edba7": "RamasEblak ♡.ᐟ.ᐟ",
+      "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM .",
+      "ddbc917b-caf6-436c-adb7-299cc084986d": "Im",
+      "97f7ec89-2d2f-4685-86b4-4f5a434574c2": "Steven Kelvin Anggara"
     },
     "top_gifters": [],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 681,
+    "gift_gold": 1035,
     "idn_gifters": {
       "ebb562b7-7ea2-4ac5-8793-b67ea83e3ccb": {
         "name": "Razka _fairel #Fritzyonly",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/630900a6b282c45b1c46d6dbeaa373de.webp?v=1794191401",
-        "points": 24
+        "points": 36
       },
       "28f6f053-7ee1-4533-b985-d0aedd6b9511": {
         "name": "Indra 🐹",
@@ -286,7 +302,7 @@
       "64c0457b-f662-44c6-80f2-b65aed5ed0c9": {
         "name": "Aryo .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/80ab415ad64e9c92a329c9b3cfddc398.webp?v=1751276211",
-        "points": 796
+        "points": 1200
       },
       "4e0bf61e-2b35-4489-8056-f9746768c182": {
         "name": "Idham ",
@@ -316,12 +332,27 @@
       "8791ef1e-b197-4ff0-8017-9e3c15c11424": {
         "name": "Fritzy Force",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/69e48aa9391adf43b7c960802cc4e703.webp?v=1789836883",
-        "points": 4
+        "points": 44
       },
       "682aa092-6cc0-4f43-b835-9c57e71edba7": {
         "name": "RamasEblak ♡.ᐟ.ᐟ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1e5b6f18cafab80231c399acd76fa224.webp?v=1793714284",
         "points": 400
+      },
+      "34f3e1cf-7d26-485c-b796-0e17dd1a447b": {
+        "name": "eM .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893",
+        "points": 80
+      },
+      "ddbc917b-caf6-436c-adb7-299cc084986d": {
+        "name": "Im",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/52724c9689b59c0d9342094ce379b0c2.webp?v=1791358862",
+        "points": 80
+      },
+      "97f7ec89-2d2f-4685-86b4-4f5a434574c2": {
+        "name": "Steven Kelvin Anggara",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f860a4a28fc039574a85601975597c23.webp?v=1794384627",
+        "points": 800
       }
     }
   }
