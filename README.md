@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 23.08 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 12 Nov 2026, 23.13 WIB.
 
 ## Pakai datanya
 
@@ -27,13 +27,11 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Olla | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 22.02 | 7.233 |
-| Gita | IDN Live | Gits | 12 Nov 2026, 22.02 | 9.515 |
-| Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 9.284 |
-| Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 11.781 |
-| Eli | IDN Live | KaraokELI | 12 Nov 2026, 22.41 | 1.590 |
-| Michie | IDN Live | wow | 12 Nov 2026, 22.41 | 4.779 |
-| Fritzy | IDN Live | storytimee | 12 Nov 2026, 22.48 | 2.174 |
+| Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 10.224 |
+| Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 12.597 |
+| Eli | IDN Live | KaraokELI | 12 Nov 2026, 22.41 | 1.914 |
+| Michie | IDN Live | wow | 12 Nov 2026, 22.41 | 5.648 |
+| Fritzy | IDN Live | storytimee | 12 Nov 2026, 22.48 | 2.709 |
 
 ## Live terakhir — Nov 2026
 
@@ -41,6 +39,8 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 |---|---|---|---|---|---|---|---|---|---|
 | Nala | IDN Live | hai ehek | 12 Nov 2026, 22.03 | 63m | 11.398 | 36 | 843 | — | 1.189 |
 | Marsha | IDN Live | Plisss | 12 Nov 2026, 22.02 | 63m | 11.384 | 52 | 581 | — | 1.854 |
+| Gita | IDN Live | Gits | 12 Nov 2026, 22.02 | 65m | 9.515 | 40 | 769 | — | 728 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 22.02 | 68m | 7.492 | 54 | 575 | — | 572 |
 | Daisy | IDN Live | Hi | 12 Nov 2026, 20.48 | 63m | 1.839 | 13 | 95 | — | 242 |
 | Danella | IDN Live | ☺️ | 12 Nov 2026, 20.46 | 66m | 2.302 | 35 | 536 | — | 344 |
 | Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 67m | 7.396 | 64 | 779 | — | 6.474 |
@@ -77,8 +77,6 @@ Khusus IDN Live (dari chat live): `comments`, `gifts`, `gift_gold`, `gift_points
 | Gracie | IDN Live | hiii | 7 Nov 2026, 13.38 | — | — | — | — | — | — |
 | Fritzy | IDN Live | hii | 7 Nov 2026, 13.16 | — | — | — | — | — | — |
 | Nayla | IDN Live | Hai | 7 Nov 2026, 13.13 | — | — | — | — | — | — |
-| Michie | IDN Live | grwm | 7 Nov 2026, 13.11 | — | — | — | — | — | — |
-| Ekin | IDN Live | hai | 6 Nov 2026, 22.52 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
