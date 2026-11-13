@@ -11,15 +11,15 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 2072,
-    "last_seen_at": "2026-11-13T04:07:52.912Z",
-    "peak_viewers": 2072,
-    "gifts": 51,
-    "gift_points": 4936,
+    "viewers": 2529,
+    "last_seen_at": "2026-11-13T04:13:02.715Z",
+    "peak_viewers": 2529,
+    "gifts": 56,
+    "gift_points": 8188,
     "stars": 0,
-    "comments": 1383,
+    "comments": 1770,
     "gift_breakdown": {
-      "Toa": 8,
+      "Toa": 9,
       "Cold Water": 4,
       "Kompas": 9,
       "SSETAAAN": 3,
@@ -38,7 +38,11 @@
       "Surabaya": 1,
       "Jari Hati": 1,
       "Angklung": 3,
-      "JKT48 Show": 7
+      "JKT48 Show": 7,
+      "Kembang Api": 1,
+      "Balon Pesta": 1,
+      "Kastil Hantu": 1,
+      "Water": 1
     },
     "gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": "Ajipangestu Erianto Prakoso",
@@ -70,7 +74,9 @@
       "f851dea9-a9e3-4451-ae79-9bc5da07b94f": "ICHAcapslock onlyKaIntan",
       "2812df0f-640b-4b9e-8a28-44b723c8e035": "Cahyo ",
       "587a7855-72ce-4a42-8176-03418709fc7a": "Kevin Dwi .P",
-      "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": "Naga Harp"
+      "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": "Naga Harp",
+      "f60d698b-adcb-4464-b56f-d50b1b3c7ed0": "gmrck .",
+      "7de794ad-c74c-4fbe-a710-630cfaac5889": "nopale carloz"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -157,10 +163,30 @@
       [
         20,
         2035
+      ],
+      [
+        21,
+        2121
+      ],
+      [
+        22,
+        2225
+      ],
+      [
+        23,
+        2329
+      ],
+      [
+        24,
+        2416
+      ],
+      [
+        25,
+        2487
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 1234,
+    "gift_gold": 2047,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -180,7 +206,7 @@
       "060002c8-3634-4120-b0e4-8412fd48f1ac": {
         "name": "Kuncoro Wibowo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cff3df5e7afb0cd15fc5836b591672a0.webp?v=1784571507",
-        "points": 424
+        "points": 1540
       },
       "6fd6eec2-ae66-49ea-8799-07a7cc7045e1": {
         "name": "Hugo Javaa #ungger",
@@ -290,7 +316,7 @@
       "29f3feb3-b0a6-44f7-9e4d-94f7e0d20d63": {
         "name": "Rizkum .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343",
-        "points": 64
+        "points": 1380
       },
       "f851dea9-a9e3-4451-ae79-9bc5da07b94f": {
         "name": "ICHAcapslock onlyKaIntan",
@@ -300,7 +326,7 @@
       "2812df0f-640b-4b9e-8a28-44b723c8e035": {
         "name": "Cahyo ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e42e1a8bba549fb094f4ead841f33997.webp?v=1793376147",
-        "points": 1200
+        "points": 1996
       },
       "587a7855-72ce-4a42-8176-03418709fc7a": {
         "name": "Kevin Dwi .P",
@@ -311,6 +337,16 @@
         "name": "Naga Harp",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/85f04b1670d3e118a4f686445106e548.webp?v=1790092303",
         "points": 4
+      },
+      "f60d698b-adcb-4464-b56f-d50b1b3c7ed0": {
+        "name": "gmrck .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b3e9d728b49bd507c73810433aa95dad.webp?v=1791561995",
+        "points": 4
+      },
+      "7de794ad-c74c-4fbe-a710-630cfaac5889": {
+        "name": "nopale carloz",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6f0fb504283d4eab66ac7da4414f631e.webp?v=1794400681",
+        "points": 20
       }
     }
   },
@@ -326,20 +362,24 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 532,
-    "last_seen_at": "2026-11-13T04:07:52.912Z",
-    "peak_viewers": 532,
-    "gifts": 2,
-    "gift_points": 140,
+    "viewers": 1075,
+    "last_seen_at": "2026-11-13T04:13:02.715Z",
+    "peak_viewers": 1075,
+    "gifts": 4,
+    "gift_points": 320,
     "stars": 0,
-    "comments": 134,
+    "comments": 242,
     "gift_breakdown": {
       "SSETAAAN": 1,
-      "Angklung": 1
+      "Angklung": 1,
+      "MUTHE": 1,
+      "Lightstick": 1
     },
     "gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": "Faiz Darmawan",
-      "7c805a54-aa9e-4003-a9a2-c41b133b5cbf": "Ridwan リドワン"
+      "7c805a54-aa9e-4003-a9a2-c41b133b5cbf": "Ridwan リドワン",
+      "b3e72e2a-68ab-469c-8216-b7f0e063e5b4": "Aufa Dildar",
+      "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM ."
     },
     "top_gifters": [],
     "viewer_series": [
@@ -378,10 +418,34 @@
       [
         8,
         487
+      ],
+      [
+        9,
+        586
+      ],
+      [
+        10,
+        759
+      ],
+      [
+        11,
+        826
+      ],
+      [
+        12,
+        917
+      ],
+      [
+        13,
+        1007
+      ],
+      [
+        14,
+        1075
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 35,
+    "gift_gold": 80,
     "idn_gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": {
         "name": "Faiz Darmawan",
@@ -392,6 +456,16 @@
         "name": "Ridwan リドワン",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d96aaf5a659f0127127d16eda5dbd728.webp?v=1768469094",
         "points": 116
+      },
+      "b3e72e2a-68ab-469c-8216-b7f0e063e5b4": {
+        "name": "Aufa Dildar",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d42d7321123dbbafe9a11b433e554a09.webp?v=1760975162",
+        "points": 80
+      },
+      "34f3e1cf-7d26-485c-b796-0e17dd1a447b": {
+        "name": "eM .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893",
+        "points": 100
       }
     }
   }
