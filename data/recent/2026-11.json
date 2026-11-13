@@ -1,5 +1,79 @@
 [
   {
+    "id": "idn:alveeria-2818",
+    "platform": "idn",
+    "member": {
+      "name": "Michie",
+      "username": "jkt48_michie",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/618c8c824495bd9efea619a7fee89482.webp?v=1778761704"
+    },
+    "title": "MICHZELLE pt 1",
+    "url": "https://www.idn.app/jkt48_michie/live/michzelle-pt-1-261113140314",
+    "image": "https://cdn.idn.app/livestream/e3b08aa0b7bb38afa34830157992454a.webp",
+    "started_at": "2026-11-13T07:03:23.000Z",
+    "last_seen_at": "2026-11-13T07:10:08.258Z",
+    "peak_viewers": 1079,
+    "gifts": 2,
+    "gift_points": 32,
+    "stars": 0,
+    "comments": 379,
+    "gift_breakdown": {
+      "Mawar": 1,
+      "Toa": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "izalcul 👾",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a3d105c02fefad79e991e9049f7c6a5.webp?v=1793252652"
+      },
+      {
+        "rank": 2,
+        "name": "Vino Afriano",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      }
+    ],
+    "viewer_series": [
+      [
+        1,
+        37
+      ],
+      [
+        2,
+        209
+      ],
+      [
+        3,
+        365
+      ],
+      [
+        4,
+        513
+      ],
+      [
+        5,
+        651
+      ],
+      [
+        6,
+        799
+      ],
+      [
+        7,
+        1079
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
+    "gift_gold": 8,
+    "ended_at": "2026-11-13T07:10:08.258Z",
+    "duration_minutes": 7,
+    "last_viewers": 1079,
+    "unique_gifters": 2,
+    "source_id": "idn:michzelle-pt-1-261113140314"
+  },
+  {
     "id": "idn:alveeria-2817",
     "platform": "idn",
     "member": {
