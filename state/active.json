@@ -11,19 +11,19 @@
     "url": "https://www.idn.app/jkt48_erine/live/diroriiiii-261113223844",
     "image": "https://cdn.idn.app/livestream/c1c2e6d8a517f2ab4fc6c8f2435db3f8.webp",
     "started_at": "2026-11-13T15:38:50.000Z",
-    "viewers": 14965,
-    "last_seen_at": "2026-11-13T17:01:48.069Z",
-    "peak_viewers": 14965,
-    "gifts": 38,
-    "gift_points": 2168,
+    "viewers": 15345,
+    "last_seen_at": "2026-11-13T17:06:57.896Z",
+    "peak_viewers": 15345,
+    "gifts": 41,
+    "gift_points": 2420,
     "stars": 0,
-    "comments": 5246,
+    "comments": 5732,
     "gift_breakdown": {
       "Jari Hati": 1,
       "Matcha": 8,
-      "Kompas": 10,
+      "Kompas": 11,
       "Toa": 7,
-      "Angklung": 4,
+      "Angklung": 6,
       "Emas Batang": 4,
       "Martabak": 1,
       "ERINE": 2,
@@ -222,10 +222,30 @@
       [
         83,
         14965
+      ],
+      [
+        84,
+        15006
+      ],
+      [
+        85,
+        15090
+      ],
+      [
+        86,
+        15162
+      ],
+      [
+        87,
+        15239
+      ],
+      [
+        88,
+        15316
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/6hjihgZ20wwR",
-    "gift_gold": 542,
+    "gift_gold": 605,
     "idn_gifters": {
       "cb604bcb-c481-4145-8310-837c0bb565de": {
         "name": "Pianbee",
@@ -325,17 +345,17 @@
       "17a61ea8-d6a1-48b3-bd15-52d159fed7e4": {
         "name": ". EFHA",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/54fe5e5a549672d5f625908c57b1d03d.webp?v=1788796025",
-        "points": 196
+        "points": 216
       },
       "4e191767-d7c4-4d67-96a6-616bb2eadf85": {
         "name": "hai tem 💫 #TheSTARS",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3541d84c6d298c36f1f3ca1a7dc67f01.webp?v=1793986344",
-        "points": 196
+        "points": 312
       },
       "541eff6a-5329-4557-8c77-84ee4f4305ce": {
         "name": "Nia Anya",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/40274345dd278ee8a415007685f250e7.webp?v=1785517052",
-        "points": 80
+        "points": 196
       }
     }
   }
