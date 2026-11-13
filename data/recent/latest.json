@@ -1,5 +1,91 @@
 [
   {
+    "id": "idn:alveeria-2845",
+    "platform": "idn",
+    "member": {
+      "name": "Nachia",
+      "username": "jkt48_nachia",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/48887ca3b5d4c5cce2d53cee2e024118.webp?v=1778756357"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_nachia/live/hi-261113222601",
+    "image": "https://cdn.idn.app/livestream/8576bf715738d45b15c8e07ca850a985.webp",
+    "started_at": "2026-11-13T15:26:09.000Z",
+    "last_seen_at": "2026-11-13T15:35:12.148Z",
+    "peak_viewers": 1822,
+    "gifts": 2,
+    "gift_points": 24,
+    "stars": 0,
+    "comments": 349,
+    "gift_breakdown": {
+      "Water": 1,
+      "Kompas": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Hasruull .",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/900d5364868749ca73e6e3c4b4bfee3d.webp?v=1783698425"
+      },
+      {
+        "rank": 2,
+        "name": "Mutiara Eka Prasasti ",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        41
+      ],
+      [
+        2,
+        162
+      ],
+      [
+        3,
+        301
+      ],
+      [
+        4,
+        463
+      ],
+      [
+        5,
+        681
+      ],
+      [
+        6,
+        1107
+      ],
+      [
+        7,
+        1432
+      ],
+      [
+        8,
+        1541
+      ],
+      [
+        9,
+        1722
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/7GRCSbmwgd4L",
+    "gift_gold": 6,
+    "ended_at": "2026-11-13T15:35:12.148Z",
+    "duration_minutes": 9,
+    "last_viewers": 1822,
+    "unique_gifters": 2,
+    "source_id": "idn:hi-261113222601"
+  },
+  {
     "id": "idn:alveeria-2840",
     "platform": "idn",
     "member": {
@@ -13590,24 +13676,6 @@
     "url": "https://www.idn.app/jkt48_levi",
     "image": "https://cdn.idn.app/livestream/6f8d18ece7f5f0e6fce0268a933b22cf.webp",
     "started_at": "2026-09-13T12:26:55.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2645",
-    "platform": "idn",
-    "member": {
-      "name": "Fritzy",
-      "username": "jkt48_fritzy",
-      "avatar": null
-    },
-    "title": "soreee",
-    "url": "https://www.idn.app/jkt48_fritzy",
-    "image": "https://cdn.idn.app/livestream/8ceacd9c2a0629f759c629ac17afc8b4.webp",
-    "started_at": "2026-09-13T08:48:20.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
