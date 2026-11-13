@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
     "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
     "started_at": "2026-11-13T11:46:04.000Z",
-    "viewers": 355,
-    "last_seen_at": "2026-11-13T13:50:01.600Z",
-    "peak_viewers": 355,
+    "viewers": 365,
+    "last_seen_at": "2026-11-13T13:55:08.034Z",
+    "peak_viewers": 365,
     "gifts": 3,
     "gift_points": 316,
     "stars": 0,
-    "comments": 401,
+    "comments": 427,
     "gift_breakdown": {
       "Angklung": 1,
       "Happy B-Day!": 1,
@@ -527,6 +527,26 @@
       [
         124,
         355
+      ],
+      [
+        125,
+        358
+      ],
+      [
+        126,
+        359
+      ],
+      [
+        127,
+        361
+      ],
+      [
+        128,
+        362
+      ],
+      [
+        129,
+        365
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
@@ -551,24 +571,26 @@
     "url": "https://www.idn.app/jkt48_gita/live/gits-261113202255",
     "image": "https://cdn.idn.app/livestream/7d883ee09d09f560aec87ebaad7c35f1.webp",
     "started_at": "2026-11-13T13:23:03.000Z",
-    "viewers": 3366,
-    "last_seen_at": "2026-11-13T13:50:01.600Z",
-    "peak_viewers": 3366,
-    "gifts": 17,
-    "gift_points": 500,
+    "viewers": 3886,
+    "last_seen_at": "2026-11-13T13:55:08.034Z",
+    "peak_viewers": 3886,
+    "gifts": 20,
+    "gift_points": 648,
     "stars": 0,
-    "comments": 416,
+    "comments": 459,
     "gift_breakdown": {
       "Kompas": 4,
       "Water": 2,
       "Toa": 3,
-      "HADIIIRRR!!": 1,
+      "HADIIIRRR!!": 2,
       "Lemon Tea": 1,
       "Matcha": 2,
       "Emas Batang": 1,
       "Mawar": 1,
       "HAHAHA": 1,
-      "Cold Water": 1
+      "Cold Water": 1,
+      "Lightstick": 1,
+      "Nasi Goreng": 1
     },
     "gifters": {
       "2c7ddcd4-fdd2-42aa-ae93-1f933a093065": "Sunan See you Lombok",
@@ -584,7 +606,10 @@
       "fe4e2027-4e43-4616-99d1-75c9d8b07d50": "Pasukan Bebek kwek kwek",
       "609b60f1-df48-4604-adf5-11527a79aa3a": "Asrie Annisa",
       "793e1f3f-96c1-4fd6-94b1-516ad8c19201": "Maya Ya",
-      "398147fc-3cfc-418e-a6d9-8b0dbb09a7ff": "firdan ɐzʞɐ ƃıɟɟɐɹı"
+      "398147fc-3cfc-418e-a6d9-8b0dbb09a7ff": "firdan ɐzʞɐ ƃıɟɟɐɹı",
+      "dada6ca7-6413-4c7a-b1a5-a739824787d4": "Rizki Fauzan",
+      "2b013b0b-935f-491c-9457-28aabc7ad68b": "Wuhan .",
+      "68514043-112a-4184-85ac-e2a65bd3fbc0": "Desti Nurpadilah"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -699,10 +724,30 @@
       [
         27,
         3366
+      ],
+      [
+        28,
+        3422
+      ],
+      [
+        29,
+        3518
+      ],
+      [
+        30,
+        3636
+      ],
+      [
+        31,
+        3734
+      ],
+      [
+        32,
+        3835
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-    "gift_gold": 125,
+    "gift_gold": 162,
     "idn_gifters": {
       "2c7ddcd4-fdd2-42aa-ae93-1f933a093065": {
         "name": "Sunan See you Lombok",
@@ -773,6 +818,21 @@
         "name": "firdan ɐzʞɐ ƃıɟɟɐɹı",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7088f627bd570a6f65b79bdb63ab9e84.webp?v=1792053775",
         "points": 40
+      },
+      "dada6ca7-6413-4c7a-b1a5-a739824787d4": {
+        "name": "Rizki Fauzan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d1642571639bb8e11a2b91ee17e8b901.webp?v=1758037050",
+        "points": 100
+      },
+      "2b013b0b-935f-491c-9457-28aabc7ad68b": {
+        "name": "Wuhan .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bfb1df8ffceddff29b32c6963e48e0e2.webp?v=1793719284",
+        "points": 28
+      },
+      "68514043-112a-4184-85ac-e2a65bd3fbc0": {
+        "name": "Desti Nurpadilah",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/86f8c3562ebc1f2e2418e5a2552d7536.webp?v=1789728644",
+        "points": 20
       }
     }
   },
@@ -788,20 +848,20 @@
     "url": "https://www.idn.app/jkt48_cynthia/live/ayo-ngobrol-bareng-261113202417",
     "image": "https://cdn.idn.app/livestream/3619838519beaa1bcd7ea99dd5da60fe.webp",
     "started_at": "2026-11-13T13:24:22.000Z",
-    "viewers": 2837,
-    "last_seen_at": "2026-11-13T13:50:01.600Z",
-    "peak_viewers": 2837,
-    "gifts": 13,
-    "gift_points": 924,
+    "viewers": 3352,
+    "last_seen_at": "2026-11-13T13:55:08.034Z",
+    "peak_viewers": 3352,
+    "gifts": 14,
+    "gift_points": 944,
     "stars": 0,
-    "comments": 1061,
+    "comments": 1225,
     "gift_breakdown": {
       "CYNTHIA": 3,
       "Matcha": 5,
       "Makan ya kak": 1,
       "SSETAAAN": 1,
       "Water": 1,
-      "Toa": 1,
+      "Toa": 2,
       "Kuntilanak": 1
     },
     "gifters": {
@@ -811,7 +871,8 @@
       "3f3e5f78-6e68-4b7a-84c8-5db8f39e1b0d": "Andesta07 .",
       "26981881-de36-47fb-b612-ae7c8933eda1": "dinza ",
       "205e10fa-edb0-4a53-84c8-7ffff34f66f6": "Iwan Trisna",
-      "7335aa94-c571-4eae-b366-f023a9c2459b": "Reza Ardiyann🦊"
+      "7335aa94-c571-4eae-b366-f023a9c2459b": "Reza Ardiyann🦊",
+      "ed8af61a-1590-4019-b80d-da5e16144841": "Ihxann ^"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -922,10 +983,30 @@
       [
         26,
         2837
+      ],
+      [
+        27,
+        2969
+      ],
+      [
+        28,
+        3061
+      ],
+      [
+        29,
+        3154
+      ],
+      [
+        30,
+        3248
+      ],
+      [
+        31,
+        3352
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/5VlmuaxElVot",
-    "gift_gold": 231,
+    "gift_gold": 236,
     "idn_gifters": {
       "65e2f416-171c-4d8b-b0f5-eed2e19a7a60": {
         "name": "Zain Ma'ruffatah",
@@ -961,6 +1042,11 @@
         "name": "Reza Ardiyann🦊",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/61958d98761daedf084292d2d54f8260.webp?v=1794468129",
         "points": 396
+      },
+      "ed8af61a-1590-4019-b80d-da5e16144841": {
+        "name": "Ihxann ^",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5c44accb9b9038b45a4e007c51c6b589.webp?v=1749226618",
+        "points": 20
       }
     }
   },
@@ -976,13 +1062,13 @@
     "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261113203520",
     "image": "https://cdn.idn.app/livestream/0a4c95a5bcdfd7f8691a981e3aa8ae58.webp",
     "started_at": "2026-11-13T13:35:28.000Z",
-    "viewers": 1337,
-    "last_seen_at": "2026-11-13T13:50:01.600Z",
-    "peak_viewers": 1337,
+    "viewers": 1760,
+    "last_seen_at": "2026-11-13T13:55:08.034Z",
+    "peak_viewers": 1760,
     "gifts": 11,
     "gift_points": 704,
     "stars": 0,
-    "comments": 188,
+    "comments": 252,
     "gift_breakdown": {
       "Kompas": 2,
       "Cold Water": 3,
@@ -1069,6 +1155,26 @@
       [
         15,
         1337
+      ],
+      [
+        16,
+        1427
+      ],
+      [
+        17,
+        1511
+      ],
+      [
+        18,
+        1595
+      ],
+      [
+        19,
+        1677
+      ],
+      [
+        20,
+        1760
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL",
@@ -1143,15 +1249,29 @@
     "url": "https://www.idn.app/jkt48_delynn/live/whatsappp-261113204848",
     "image": "https://cdn.idn.app/livestream/4ff03f3da1b93818961803b277129937.webp",
     "started_at": "2026-11-13T13:48:53.000Z",
-    "viewers": 226,
-    "last_seen_at": "2026-11-13T13:50:01.600Z",
-    "peak_viewers": 226,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 1604,
+    "last_seen_at": "2026-11-13T13:55:08.034Z",
+    "peak_viewers": 1604,
+    "gifts": 9,
+    "gift_points": 404,
     "stars": 0,
-    "comments": 84,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 351,
+    "gift_breakdown": {
+      "Emas Batang": 1,
+      "Kompas": 5,
+      "Martabak": 1,
+      "Matcha": 2
+    },
+    "gifters": {
+      "1b64799d-0961-4abb-805c-f7f5891f7105": "Bayou ❤️‍🔥ADJ",
+      "5b3f8757-5a37-40e8-b4a5-cc3d8ec0aeba": "ULIMA AKWOKA V",
+      "a437bfed-acc3-4f00-a92d-e40f4a832032": "saka dipanggil nengok",
+      "c052b874-8fc2-49c1-83cd-2da8400e5322": "Nid",
+      "df68bb30-3e1a-4a7d-84be-0b59f76a6b3a": "cokelatmaniisss .",
+      "0e3ba02e-9889-4a84-88b7-2a292f9ed062": "rambutan 🔥💥",
+      "56603238-650d-41a8-95ad-01dc9e3dcda3": "Ami .",
+      "5508d670-b5fa-46d3-a113-5263681f1825": "skyy only delynn"
+    },
     "top_gifters": [],
     "viewer_series": [
       [
@@ -1161,8 +1281,71 @@
       [
         1,
         91
+      ],
+      [
+        2,
+        362
+      ],
+      [
+        3,
+        605
+      ],
+      [
+        4,
+        846
+      ],
+      [
+        5,
+        1087
+      ],
+      [
+        6,
+        1400
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/mnMORuLVJAeJ"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/mnMORuLVJAeJ",
+    "gift_gold": 101,
+    "idn_gifters": {
+      "1b64799d-0961-4abb-805c-f7f5891f7105": {
+        "name": "Bayou ❤️‍🔥ADJ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6390294d49dc9eb6574f98e2a723f601.webp?v=1794465857",
+        "points": 236
+      },
+      "5b3f8757-5a37-40e8-b4a5-cc3d8ec0aeba": {
+        "name": "ULIMA AKWOKA V",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/58352ca810f50dbb1c218ad50698073b.webp?v=1794558802",
+        "points": 20
+      },
+      "a437bfed-acc3-4f00-a92d-e40f4a832032": {
+        "name": "saka dipanggil nengok",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0479be0e84cc1b179d4e3369a2021339.webp?v=1794312102",
+        "points": 20
+      },
+      "c052b874-8fc2-49c1-83cd-2da8400e5322": {
+        "name": "Nid",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1247378729922a13d675ab150f331829.webp?v=1731222568",
+        "points": 28
+      },
+      "df68bb30-3e1a-4a7d-84be-0b59f76a6b3a": {
+        "name": "cokelatmaniisss .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5e50f4f23248b3dc636da37d6513864d.webp?v=1794231941",
+        "points": 20
+      },
+      "0e3ba02e-9889-4a84-88b7-2a292f9ed062": {
+        "name": "rambutan 🔥💥",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/aa3c81159ae680332801969bd5f5ce99.webp?v=1784823163",
+        "points": 20
+      },
+      "56603238-650d-41a8-95ad-01dc9e3dcda3": {
+        "name": "Ami .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/657f14ef5cb775d8587c347caf049960.webp?v=1794488838",
+        "points": 40
+      },
+      "5508d670-b5fa-46d3-a113-5263681f1825": {
+        "name": "skyy only delynn",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ee4b461fd0955a8b020a1eae5ffa280c.webp?v=1794231908",
+        "points": 20
+      }
+    }
   }
 }
