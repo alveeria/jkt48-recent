@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:57:14.778Z",
+  "updated_at": "2026-11-13T12:02:21.331Z",
   "lives": [
     {
       "id": "idn:p-261113183240",
@@ -13,20 +13,22 @@
       "url": "https://www.idn.app/jkt48_giaa/live/p-261113183240",
       "image": "https://cdn.idn.app/livestream/00a2ba90bd186cad7cc63495465a76ac.webp",
       "started_at": "2026-11-13T11:32:45.000Z",
-      "viewers": 1160,
-      "last_seen_at": "2026-11-13T11:57:14.331Z",
-      "peak_viewers": 1160,
-      "gifts": 10,
-      "gift_points": 460,
+      "viewers": 1358,
+      "last_seen_at": "2026-11-13T12:02:20.412Z",
+      "peak_viewers": 1358,
+      "gifts": 13,
+      "gift_points": 592,
       "stars": 0,
-      "comments": 413,
+      "comments": 485,
       "gift_breakdown": {
         "Pumpkin": 2,
         "Toa": 3,
         "Emas Batang": 1,
         "Combat": 1,
-        "Matcha": 2,
-        "Kompas": 1
+        "Matcha": 3,
+        "Kompas": 1,
+        "Lemonade": 1,
+        "Tulip Flower": 1
       },
       "top_gifters": [
         {
@@ -37,33 +39,45 @@
         },
         {
           "rank": 2,
+          "name": "WIDI 12",
+          "points": 120,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2dcbb122813410d60a67c987576a82a2.webp?v=1793700340"
+        },
+        {
+          "rank": 3,
           "name": "Daun Singkong",
           "points": 100,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ae03704c86492f6571091cdbf44c2938.webp?v=1772290586"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Dimas .",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/847d2f2c960068c8462485573551349c.webp?v=1792670160"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Aldi Syahputra",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "izalcul 👾",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a3d105c02fefad79e991e9049f7c6a5.webp?v=1793252652"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "YannKai Langganan #8",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cf4d02a7ec404243265d4a96c8571194.webp?v=1794141448"
+        },
+        {
+          "rank": 8,
+          "name": "Mr Ju",
+          "points": 12,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eac09a36662baf36a3c4e68db349389f.webp?v=1769345522"
         }
       ],
       "viewer_series": [
@@ -166,10 +180,34 @@
         [
           24,
           1131
+        ],
+        [
+          25,
+          1186
+        ],
+        [
+          26,
+          1203
+        ],
+        [
+          27,
+          1253
+        ],
+        [
+          28,
+          1287
+        ],
+        [
+          29,
+          1321
+        ],
+        [
+          30,
+          1358
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
-      "gift_gold": 115
+      "gift_gold": 148
     },
     {
       "id": "idn:hai-261113184616",
@@ -183,16 +221,17 @@
       "url": "https://www.idn.app/jkt48_lana/live/hai-261113184616",
       "image": "https://cdn.idn.app/livestream/fa15d2c6657dd8d0eee847762907a172.webp",
       "started_at": "2026-11-13T11:46:22.000Z",
-      "viewers": 1538,
-      "last_seen_at": "2026-11-13T11:57:14.331Z",
-      "peak_viewers": 1538,
-      "gifts": 4,
-      "gift_points": 596,
+      "viewers": 2015,
+      "last_seen_at": "2026-11-13T12:02:20.412Z",
+      "peak_viewers": 2015,
+      "gifts": 5,
+      "gift_points": 712,
       "stars": 0,
-      "comments": 468,
+      "comments": 598,
       "gift_breakdown": {
         "Emas Batang": 3,
-        "Lemon Tea": 1
+        "Lemon Tea": 1,
+        "Angklung": 1
       },
       "top_gifters": [
         {
@@ -215,6 +254,12 @@
         },
         {
           "rank": 4,
+          "name": "Yuda_ 💤🌙",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa1bd45bacc14a835bbf2b32a1a50c59.webp?v=1793797657"
+        },
+        {
+          "rank": 5,
           "name": "Freddy T",
           "points": 8,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c26c46580b5b3c2def76d270d76d3792.webp?v=1794320767"
@@ -268,10 +313,30 @@
         [
           11,
           1538
+        ],
+        [
+          12,
+          1643
+        ],
+        [
+          13,
+          1770
+        ],
+        [
+          14,
+          1849
+        ],
+        [
+          15,
+          1936
+        ],
+        [
+          16,
+          2015
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
-      "gift_gold": 149
+      "gift_gold": 178
     },
     {
       "id": "idn:pajama-drive-2026-11-13-261105215553",
@@ -285,13 +350,13 @@
       "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
       "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
       "started_at": "2026-11-13T11:46:04.000Z",
-      "viewers": 70,
-      "last_seen_at": "2026-11-13T11:57:14.331Z",
-      "peak_viewers": 70,
+      "viewers": 109,
+      "last_seen_at": "2026-11-13T12:02:20.412Z",
+      "peak_viewers": 109,
       "gifts": 3,
       "gift_points": 316,
       "stars": 0,
-      "comments": 12,
+      "comments": 25,
       "gift_breakdown": {
         "Angklung": 1,
         "Happy B-Day!": 1,
@@ -353,6 +418,26 @@
         [
           11,
           67
+        ],
+        [
+          12,
+          73
+        ],
+        [
+          13,
+          79
+        ],
+        [
+          14,
+          89
+        ],
+        [
+          15,
+          100
+        ],
+        [
+          16,
+          108
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
