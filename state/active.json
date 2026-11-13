@@ -11,15 +11,15 @@
     "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
     "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
     "started_at": "2026-11-13T22:17:11.000Z",
-    "viewers": 1745,
-    "last_seen_at": "2026-11-13T22:47:12.344Z",
-    "peak_viewers": 1745,
-    "gifts": 31,
-    "gift_points": 2396,
+    "viewers": 1941,
+    "last_seen_at": "2026-11-13T22:52:22.730Z",
+    "peak_viewers": 1941,
+    "gifts": 33,
+    "gift_points": 2624,
     "stars": 0,
-    "comments": 1798,
+    "comments": 2054,
     "gift_breakdown": {
-      "Emas Batang": 2,
+      "Emas Batang": 3,
       "Cold Water": 4,
       "Angklung": 1,
       "Toa": 2,
@@ -38,7 +38,8 @@
       "Siomay": 1,
       "Nasi Goreng": 1,
       "Tulip Flower": 1,
-      "Rempeyek": 1
+      "Rempeyek": 1,
+      "Rendang": 1
     },
     "gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": "iSocial Bae",
@@ -164,15 +165,35 @@
       [
         30,
         1731
+      ],
+      [
+        31,
+        1771
+      ],
+      [
+        32,
+        1800
+      ],
+      [
+        33,
+        1837
+      ],
+      [
+        34,
+        1886
+      ],
+      [
+        35,
+        1926
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-    "gift_gold": 599,
+    "gift_gold": 656,
     "idn_gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": {
         "name": "iSocial Bae",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664",
-        "points": 196
+        "points": 392
       },
       "2d58c906-b130-4e42-90b8-4225395b36d8": {
         "name": "Rafy Rapyra",
@@ -232,7 +253,7 @@
       "c20c5175-9cea-4bd0-87bf-d600b7882eae": {
         "name": "afra aja",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/99d34200a0f7f0e984685796b9af7350.webp?v=1784298227",
-        "points": 16
+        "points": 48
       },
       "953d35b8-064c-40ed-a341-894b6ea2b2ec": {
         "name": "ahmadmastur ",

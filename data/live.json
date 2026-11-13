@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:47:13.390Z",
+  "updated_at": "2026-11-13T22:52:23.813Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114051705",
@@ -13,15 +13,15 @@
       "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
       "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
       "started_at": "2026-11-13T22:17:11.000Z",
-      "viewers": 1745,
-      "last_seen_at": "2026-11-13T22:47:12.344Z",
-      "peak_viewers": 1745,
-      "gifts": 31,
-      "gift_points": 2396,
+      "viewers": 1941,
+      "last_seen_at": "2026-11-13T22:52:22.730Z",
+      "peak_viewers": 1941,
+      "gifts": 33,
+      "gift_points": 2624,
       "stars": 0,
-      "comments": 1798,
+      "comments": 2054,
       "gift_breakdown": {
-        "Emas Batang": 2,
+        "Emas Batang": 3,
         "Cold Water": 4,
         "Angklung": 1,
         "Toa": 2,
@@ -40,7 +40,8 @@
         "Siomay": 1,
         "Nasi Goreng": 1,
         "Tulip Flower": 1,
-        "Rempeyek": 1
+        "Rempeyek": 1,
+        "Rendang": 1
       },
       "top_gifters": [
         {
@@ -57,21 +58,21 @@
         },
         {
           "rank": 3,
+          "name": "iSocial Bae",
+          "points": 392,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
+        },
+        {
+          "rank": 4,
           "name": "Khalif Nazar Arafat",
           "points": 388,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/49750de42f8d7090389e032e9e687cad.webp?v=1766229958"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Franko ...",
           "points": 260,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
-        },
-        {
-          "rank": 5,
-          "name": "iSocial Bae",
-          "points": 196,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
         },
         {
           "rank": 6,
@@ -93,15 +94,15 @@
         },
         {
           "rank": 9,
-          "name": "MULYANA ",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+          "name": "afra aja",
+          "points": 48,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/99d34200a0f7f0e984685796b9af7350.webp?v=1784298227"
         },
         {
           "rank": 10,
-          "name": "Ricko Zulfa",
-          "points": 24,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e1847b1bd709c5262fbf592cb39fa818.webp?v=1731940647"
+          "name": "MULYANA ",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         }
       ],
       "viewer_series": [
@@ -208,10 +209,30 @@
         [
           30,
           1731
+        ],
+        [
+          31,
+          1771
+        ],
+        [
+          32,
+          1800
+        ],
+        [
+          33,
+          1837
+        ],
+        [
+          34,
+          1886
+        ],
+        [
+          35,
+          1926
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-      "gift_gold": 599
+      "gift_gold": 656
     }
   ]
 }
