@@ -11,20 +11,20 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 2529,
-    "last_seen_at": "2026-11-13T04:13:02.715Z",
-    "peak_viewers": 2529,
-    "gifts": 56,
-    "gift_points": 8188,
+    "viewers": 2905,
+    "last_seen_at": "2026-11-13T04:18:11.948Z",
+    "peak_viewers": 2905,
+    "gifts": 61,
+    "gift_points": 8400,
     "stars": 0,
-    "comments": 1770,
+    "comments": 2218,
     "gift_breakdown": {
       "Toa": 9,
       "Cold Water": 4,
-      "Kompas": 9,
+      "Kompas": 11,
       "SSETAAAN": 3,
       "Rempeyek": 1,
-      "INTAN": 1,
+      "INTAN": 2,
       "Lemon Tea": 1,
       "Matcha": 2,
       "Makan ya kak": 1,
@@ -42,7 +42,9 @@
       "Kembang Api": 1,
       "Balon Pesta": 1,
       "Kastil Hantu": 1,
-      "Water": 1
+      "Water": 1,
+      "Es Kelapa": 1,
+      "OLINE": 1
     },
     "gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": "Ajipangestu Erianto Prakoso",
@@ -76,7 +78,8 @@
       "587a7855-72ce-4a42-8176-03418709fc7a": "Kevin Dwi .P",
       "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": "Naga Harp",
       "f60d698b-adcb-4464-b56f-d50b1b3c7ed0": "gmrck .",
-      "7de794ad-c74c-4fbe-a710-630cfaac5889": "nopale carloz"
+      "7de794ad-c74c-4fbe-a710-630cfaac5889": "nopale carloz",
+      "fa6a89b6-522f-4ab5-8feb-92fcf15a1233": "Khoirul Muminin"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -183,10 +186,30 @@
       [
         25,
         2487
+      ],
+      [
+        26,
+        2570
+      ],
+      [
+        27,
+        2652
+      ],
+      [
+        28,
+        2725
+      ],
+      [
+        29,
+        2793
+      ],
+      [
+        30,
+        2875
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 2047,
+    "gift_gold": 2100,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -201,12 +224,12 @@
       "e3835e0e-9d56-47b1-b444-766aa7e88e9a": {
         "name": "shirou .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/df7a4081696bafea4e420ba025da9312.webp?v=1791298352",
-        "points": 24
+        "points": 44
       },
       "060002c8-3634-4120-b0e4-8412fd48f1ac": {
         "name": "Kuncoro Wibowo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cff3df5e7afb0cd15fc5836b591672a0.webp?v=1784571507",
-        "points": 1540
+        "points": 1620
       },
       "6fd6eec2-ae66-49ea-8799-07a7cc7045e1": {
         "name": "Hugo Javaa #ungger",
@@ -231,7 +254,7 @@
       "17a25a39-951e-4786-a30e-de6d775f435b": {
         "name": "binnn. 💫",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ff80844959412a1e9b00df2a346a29e1.webp?v=1793869519",
-        "points": 20
+        "points": 40
       },
       "af511219-7533-4043-8c69-821a291c5b26": {
         "name": "ipii .",
@@ -291,7 +314,7 @@
       "5af4704a-cee0-4060-a64c-4672b488167b": {
         "name": "Lutpii pacar intan",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/370cdedfa074c0d3151da9b9768cff9c.webp?v=1794383923",
-        "points": 296
+        "points": 376
       },
       "fe4e2027-4e43-4616-99d1-75c9d8b07d50": {
         "name": "Pasukan Bebek kwek kwek",
@@ -347,6 +370,11 @@
         "name": "nopale carloz",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6f0fb504283d4eab66ac7da4414f631e.webp?v=1794400681",
         "points": 20
+      },
+      "fa6a89b6-522f-4ab5-8feb-92fcf15a1233": {
+        "name": "Khoirul Muminin",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 12
       }
     }
   },
@@ -362,24 +390,28 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 1075,
-    "last_seen_at": "2026-11-13T04:13:02.715Z",
-    "peak_viewers": 1075,
-    "gifts": 4,
-    "gift_points": 320,
+    "viewers": 1413,
+    "last_seen_at": "2026-11-13T04:18:11.948Z",
+    "peak_viewers": 1413,
+    "gifts": 9,
+    "gift_points": 916,
     "stars": 0,
-    "comments": 242,
+    "comments": 359,
     "gift_breakdown": {
       "SSETAAAN": 1,
       "Angklung": 1,
       "MUTHE": 1,
-      "Lightstick": 1
+      "Lightstick": 1,
+      "Emas Batang": 3,
+      "Cold Water": 2
     },
     "gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": "Faiz Darmawan",
       "7c805a54-aa9e-4003-a9a2-c41b133b5cbf": "Ridwan リドワン",
       "b3e72e2a-68ab-469c-8216-b7f0e063e5b4": "Aufa Dildar",
-      "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM ."
+      "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM .",
+      "cb002747-b551-4db3-b200-d9e307c0310d": "miko ",
+      "d86689a3-3c12-4de3-ab05-ee5f767b23e5": "Akbar ruh Pambudi "
     },
     "top_gifters": [],
     "viewer_series": [
@@ -442,10 +474,30 @@
       [
         14,
         1075
+      ],
+      [
+        15,
+        1155
+      ],
+      [
+        16,
+        1216
+      ],
+      [
+        17,
+        1294
+      ],
+      [
+        18,
+        1350
+      ],
+      [
+        19,
+        1413
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 80,
+    "gift_gold": 229,
     "idn_gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": {
         "name": "Faiz Darmawan",
@@ -460,12 +512,22 @@
       "b3e72e2a-68ab-469c-8216-b7f0e063e5b4": {
         "name": "Aufa Dildar",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d42d7321123dbbafe9a11b433e554a09.webp?v=1760975162",
-        "points": 80
+        "points": 280
       },
       "34f3e1cf-7d26-485c-b796-0e17dd1a447b": {
         "name": "eM .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893",
         "points": 100
+      },
+      "cb002747-b551-4db3-b200-d9e307c0310d": {
+        "name": "miko ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bd7a114a2349a8f0b8453f57a1c2e9f8.webp?v=1793391611",
+        "points": 392
+      },
+      "d86689a3-3c12-4de3-ab05-ee5f767b23e5": {
+        "name": "Akbar ruh Pambudi ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9c95217ef796619bf8543f39b815012b.webp?v=1746444076",
+        "points": 4
       }
     }
   }
