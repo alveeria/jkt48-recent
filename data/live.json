@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:22:04.452Z",
+  "updated_at": "2026-11-13T06:27:16.079Z",
   "lives": [
     {
       "id": "idn:hellooo-261113122949",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
       "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
       "started_at": "2026-11-13T05:29:54.000Z",
-      "viewers": 2005,
-      "last_seen_at": "2026-11-13T06:22:03.262Z",
-      "peak_viewers": 2005,
+      "viewers": 2116,
+      "last_seen_at": "2026-11-13T06:27:15.058Z",
+      "peak_viewers": 2116,
       "gifts": 22,
       "gift_points": 848,
       "stars": 0,
-      "comments": 840,
+      "comments": 932,
       "gift_breakdown": {
         "Team Hype": 3,
         "Combat": 2,
@@ -302,10 +302,106 @@
         [
           52,
           1990
+        ],
+        [
+          53,
+          2016
+        ],
+        [
+          54,
+          2034
+        ],
+        [
+          55,
+          2063
+        ],
+        [
+          56,
+          2082
+        ],
+        [
+          57,
+          2103
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
       "gift_gold": 212
+    },
+    {
+      "id": "idn:ayo-ngobrol-bareng-261113132606",
+      "platform": "idn",
+      "member": {
+        "name": "Indah",
+        "username": "jkt48_indah",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/909548d57b8bc9ce5b7784107fa36858.webp?v=1778761549"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261113132606",
+      "image": "https://cdn.idn.app/livestream/b26395fa8695182a5371382645230d0a.webp",
+      "started_at": "2026-11-13T06:26:12.000Z",
+      "viewers": 95,
+      "last_seen_at": "2026-11-13T06:27:15.058Z",
+      "peak_viewers": 95,
+      "gifts": 1,
+      "gift_points": 116,
+      "stars": 0,
+      "comments": 6,
+      "gift_breakdown": {
+        "Padang": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "Tommy '(",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec61c7b81e86b713c14d0ca12d1d8174.webp?v=1794325969"
+        }
+      ],
+      "viewer_series": [
+        [
+          0,
+          12
+        ],
+        [
+          1,
+          95
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
+      "gift_gold": 29
+    },
+    {
+      "id": "idn:ayo-ngobrol-bareng-261113132622",
+      "platform": "idn",
+      "member": {
+        "name": "Ribka",
+        "username": "jkt48_ribka",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c3e9142730d1eb21db56de1eaa161d2.webp?v=1778755827"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261113132622",
+      "image": "https://cdn.idn.app/livestream/a057bf98dc019e9e76f602497b66c2c8.webp",
+      "started_at": "2026-11-13T06:26:29.000Z",
+      "viewers": 44,
+      "last_seen_at": "2026-11-13T06:27:15.058Z",
+      "peak_viewers": 44,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 3,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          44
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB"
     }
   ]
 }
