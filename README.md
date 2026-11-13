@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 19.58 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 20.03 WIB.
 
 ## Pakai datanya
 
@@ -28,17 +28,17 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lana | IDN Live | Hai | 13 Nov 2026, 18.46 | 7.024 |
-| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 238 |
-| Elin | IDN Live | Hai | 13 Nov 2026, 19.33 | 2.467 |
-| Nayla | IDN Live | Manadooo | 13 Nov 2026, 19.35 | 2.598 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 19.36 | 2.467 |
-| Aralie | IDN Live | hi | 13 Nov 2026, 19.35 | 5.570 |
+| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 248 |
+| Elin | IDN Live | Hai | 13 Nov 2026, 19.33 | 2.853 |
+| Nayla | IDN Live | Manadooo | 13 Nov 2026, 19.35 | 3.067 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 19.36 | 2.931 |
+| Aralie | IDN Live | hi | 13 Nov 2026, 19.35 | 6.548 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lana | IDN Live | Hai | 13 Nov 2026, 18.46 | 74m | 7.131 | 45 | 1.098 | — | 2.738 |
 | Giaa | IDN Live | p | 13 Nov 2026, 18.32 | 63m | 2.680 | 30 | 369 | — | 865 |
 | Fahira | IDN Live | ada apa??? | 13 Nov 2026, 15.42 | 41m | 2.890 | 0 | — | — | 5 |
 | Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 41m | 2.957 | 23 | 1.162 | — | 455 |
@@ -78,7 +78,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Aralie | IDN Live | hi | 12 Nov 2026, 19.05 | 75m | 12.574 | 0 | — | — | 0 |
 | Fritzy | IDN Live | gais | 12 Nov 2026, 18.45 | 38m | 4.685 | 0 | — | — | 0 |
 | JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 165m | 1.831 | 4 | 9 | — | 723 |
-| Lily | IDN Live | Hi | 11 Nov 2026, 23.11 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
