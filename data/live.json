@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T23:18:13.051Z",
+  "updated_at": "2026-11-13T23:23:23.221Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114051705",
@@ -13,30 +13,30 @@
       "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
       "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
       "started_at": "2026-11-13T22:17:11.000Z",
-      "viewers": 2721,
-      "last_seen_at": "2026-11-13T23:18:11.939Z",
-      "peak_viewers": 2721,
-      "gifts": 49,
-      "gift_points": 3432,
+      "viewers": 2851,
+      "last_seen_at": "2026-11-13T23:23:22.079Z",
+      "peak_viewers": 2851,
+      "gifts": 54,
+      "gift_points": 4588,
       "stars": 0,
-      "comments": 3569,
+      "comments": 3969,
       "gift_breakdown": {
-        "Emas Batang": 4,
+        "Emas Batang": 5,
         "Cold Water": 4,
         "Angklung": 1,
         "Toa": 4,
         "JKT48 Show": 2,
         "Buket Mawar": 1,
         "Semangat kak": 2,
-        "Kompas": 5,
-        "Panjat": 2,
+        "Kompas": 6,
+        "Panjat": 3,
         "MIKAELA": 1,
         "Water": 2,
         "Puding": 1,
         "Tumpeng": 1,
         "Hii Takut": 1,
         "Gift Card": 1,
-        "Matcha": 4,
+        "Matcha": 5,
         "Siomay": 2,
         "Nasi Goreng": 1,
         "Tulip Flower": 2,
@@ -45,32 +45,33 @@
         "Pumpkin": 1,
         "Mawar": 1,
         "HAHAHA": 2,
-        "Ngeri Banget": 1
+        "Ngeri Banget": 1,
+        "Bubble Gun": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "Izii .",
-          "points": 840,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384"
+          "name": "Alfan Ma’arif",
+          "points": 1216,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a701006ef70132668e0029b0d470714c.webp?v=1789565671"
         },
         {
           "rank": 2,
-          "name": "iSocial Bae",
-          "points": 656,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
-        },
-        {
-          "rank": 3,
           "name": "Khalif Nazar Arafat",
-          "points": 628,
+          "points": 888,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/49750de42f8d7090389e032e9e687cad.webp?v=1766229958"
         },
         {
+          "rank": 3,
+          "name": "iSocial Bae",
+          "points": 852,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
+        },
+        {
           "rank": 4,
-          "name": "Alfan Ma’arif",
-          "points": 516,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a701006ef70132668e0029b0d470714c.webp?v=1789565671"
+          "name": "Izii .",
+          "points": 840,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384"
         },
         {
           "rank": 5,
@@ -337,10 +338,30 @@
         [
           61,
           2709
+        ],
+        [
+          62,
+          2739
+        ],
+        [
+          63,
+          2767
+        ],
+        [
+          64,
+          2776
+        ],
+        [
+          65,
+          2807
+        ],
+        [
+          66,
+          2838
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-      "gift_gold": 858
+      "gift_gold": 1147
     }
   ]
 }
