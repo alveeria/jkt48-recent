@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 15.36 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 15.41 WIB.
 
 ## Pakai datanya
 
@@ -28,16 +28,18 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 3.837 |
-| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 4.718 |
-| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 4.828 |
-| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 5.907 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 1.287 |
+| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 5.126 |
+| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 5.143 |
+| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 6.287 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 1.434 |
+| Rara | IDN Live | 💗💗 | 13 Nov 2026, 15.38 | 84 |
+| Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 3 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 66m | 3.837 | 86 | 667 | — | 2.472 |
 | Carissa | IDN Live | Hello helloo 😚 | 13 Nov 2026, 14.26 | 68m | 4.089 | 49 | 1.164 | — | 847 |
 | Sona | IDN Live | sm ica | 13 Nov 2026, 14.25 | 70m | 4.855 | 48 | 1.083 | — | 563 |
 | Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 77m | 9.665 | 57 | 726 | — | 6.748 |
@@ -77,7 +79,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Giaa | IDN Live | p | 11 Nov 2026, 14.59 | — | — | — | — | — | — |
 | Intan | IDN Live | Ayo ngobrol bareng! | 11 Nov 2026, 14.47 | — | — | — | — | — | — |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 11 Nov 2026, 14.46 | — | — | — | — | — | — |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 10 Nov 2026, 23.00 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
