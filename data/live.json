@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:36:54.264Z",
+  "updated_at": "2026-11-13T22:42:04.601Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114051705",
@@ -13,47 +13,51 @@
       "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
       "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
       "started_at": "2026-11-13T22:17:11.000Z",
-      "viewers": 1365,
-      "last_seen_at": "2026-11-13T22:36:53.249Z",
-      "peak_viewers": 1365,
-      "gifts": 13,
-      "gift_points": 1520,
+      "viewers": 1575,
+      "last_seen_at": "2026-11-13T22:42:03.559Z",
+      "peak_viewers": 1575,
+      "gifts": 20,
+      "gift_points": 1864,
       "stars": 0,
-      "comments": 1130,
+      "comments": 1469,
       "gift_breakdown": {
         "Emas Batang": 2,
         "Cold Water": 2,
         "Angklung": 1,
-        "Toa": 1,
+        "Toa": 2,
         "JKT48 Show": 2,
         "Buket Mawar": 1,
         "Semangat kak": 2,
-        "Kompas": 2
+        "Kompas": 3,
+        "Panjat": 1,
+        "MIKAELA": 1,
+        "Water": 2,
+        "Puding": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "Izii .",
+          "points": 600,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384"
+        },
+        {
+          "rank": 2,
           "name": "Alfan Ma’arif",
           "points": 516,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a701006ef70132668e0029b0d470714c.webp?v=1789565671"
         },
         {
-          "rank": 2,
-          "name": "Izii .",
-          "points": 400,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384"
-        },
-        {
           "rank": 3,
-          "name": "iSocial Bae",
-          "points": 196,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
+          "name": "Franko ...",
+          "points": 220,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
         },
         {
           "rank": 4,
-          "name": "Franko ...",
+          "name": "iSocial Bae",
           "points": 196,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
         },
         {
           "rank": 5,
@@ -63,33 +67,33 @@
         },
         {
           "rank": 6,
+          "name": "alep ᅠ",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/978e811f0dab508fc8f38bdd2b41bb49.webp?v=1786811923"
+        },
+        {
+          "rank": 7,
           "name": "Reii Wijaya",
           "points": 56,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Dias Mahardika",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a39f0026fc1c5dee8fc011c4210c34e7.webp?v=1788780237"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Ricko Zulfa",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e1847b1bd709c5262fbf592cb39fa818.webp?v=1731940647"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Ameeek .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c7f399d02e1bf729106455ca6e83d80a.webp?v=1794307593"
-        },
-        {
-          "rank": 10,
-          "name": "Rafy Rapyra",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310"
         }
       ],
       "viewer_series": [
@@ -156,10 +160,30 @@
         [
           20,
           1365
+        ],
+        [
+          21,
+          1417
+        ],
+        [
+          22,
+          1454
+        ],
+        [
+          23,
+          1498
+        ],
+        [
+          24,
+          1531
+        ],
+        [
+          25,
+          1575
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-      "gift_gold": 380
+      "gift_gold": 466
     }
   ]
 }
