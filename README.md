@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 21.20 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 21.25 WIB.
 
 ## Pakai datanya
 
@@ -28,16 +28,16 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Gita | IDN Live | Gits | 13 Nov 2026, 20.23 | 6.032 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.24 | 5.699 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.35 | 4.078 |
-| Delynn | IDN Live | WHATSAPPP | 13 Nov 2026, 20.48 | 6.329 |
-| Fritzy | IDN Live | hai | 13 Nov 2026, 21.01 | 1.806 |
+| Gita | IDN Live | Gits | 13 Nov 2026, 20.23 | 6.402 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.35 | 4.409 |
+| Delynn | IDN Live | WHATSAPPP | 13 Nov 2026, 20.48 | 6.896 |
+| Fritzy | IDN Live | hai | 13 Nov 2026, 21.01 | 2.194 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.24 | 59m | 5.901 | 36 | 760 | — | 2.445 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 19.36 | 69m | 6.092 | 4 | 14 | — | 30 |
 | Aralie | IDN Live | hi | 13 Nov 2026, 19.35 | 71m | 12.788 | 42 | 796 | — | 4.699 |
 | Nayla | IDN Live | Manadooo | 13 Nov 2026, 19.35 | 71m | 7.152 | 33 | 593 | — | 875 |
@@ -77,7 +77,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Kathrina | IDN Live | wazzap | 12 Nov 2026, 20.30 | 67m | 7.396 | 64 | 779 | — | 6.474 |
 | Levi | IDN Live | hai | 12 Nov 2026, 20.23 | 74m | 6.216 | 9 | 281 | — | 1.526 |
 | Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 83m | 6.728 | 25 | 445 | — | 1.151 |
-| Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 55m | 2.442 | 14 | 194 | — | 315 |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
