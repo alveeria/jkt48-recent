@@ -11,24 +11,30 @@
     "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
     "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
     "started_at": "2026-11-13T22:17:11.000Z",
-    "viewers": 659,
-    "last_seen_at": "2026-11-13T22:21:13.729Z",
-    "peak_viewers": 659,
-    "gifts": 4,
-    "gift_points": 336,
+    "viewers": 929,
+    "last_seen_at": "2026-11-13T22:26:22.625Z",
+    "peak_viewers": 929,
+    "gifts": 7,
+    "gift_points": 852,
     "stars": 0,
-    "comments": 438,
+    "comments": 764,
     "gift_breakdown": {
       "Emas Batang": 1,
       "Cold Water": 1,
       "Angklung": 1,
-      "Toa": 1
+      "Toa": 1,
+      "JKT48 Show": 1,
+      "Buket Mawar": 1,
+      "Semangat kak": 1
     },
     "gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": "iSocial Bae",
       "2d58c906-b130-4e42-90b8-4225395b36d8": "Rafy Rapyra",
       "905814b1-7709-4f23-90eb-ea55643a1cbf": "Alfan Ma’arif",
-      "e4b9c367-ecea-408b-8518-0da7a89dc1a2": "Dias Mahardika"
+      "e4b9c367-ecea-408b-8518-0da7a89dc1a2": "Dias Mahardika",
+      "35681bdc-0ca1-4f3d-8de8-ecf529be9584": "Izii .",
+      "c8e511bf-6ff9-4b07-bd6e-d81d101fc544": "Annisa Nurul",
+      "38ec9711-56f7-4ea2-9339-4461e2d1b8a8": "Reii Wijaya"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -51,10 +57,30 @@
       [
         4,
         616
+      ],
+      [
+        5,
+        707
+      ],
+      [
+        6,
+        772
+      ],
+      [
+        7,
+        821
+      ],
+      [
+        8,
+        868
+      ],
+      [
+        9,
+        905
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-    "gift_gold": 84,
+    "gift_gold": 213,
     "idn_gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": {
         "name": "iSocial Bae",
@@ -75,6 +101,21 @@
         "name": "Dias Mahardika",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a39f0026fc1c5dee8fc011c4210c34e7.webp?v=1788780237",
         "points": 20
+      },
+      "35681bdc-0ca1-4f3d-8de8-ecf529be9584": {
+        "name": "Izii .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384",
+        "points": 400
+      },
+      "c8e511bf-6ff9-4b07-bd6e-d81d101fc544": {
+        "name": "Annisa Nurul",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2a6ff1c94d4eefe02f68058b1fdfd755.webp?v=1746092135",
+        "points": 88
+      },
+      "38ec9711-56f7-4ea2-9339-4461e2d1b8a8": {
+        "name": "Reii Wijaya",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414",
+        "points": 28
       }
     }
   }
