@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 13.11 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 13.16 WIB.
 
 ## Pakai datanya
 
@@ -28,8 +28,8 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jemima | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 12.13 | 3.540 |
-| Rilly | IDN Live | Hellooo | 13 Nov 2026, 12.29 | 1.629 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 12.13 | 3.732 |
+| Rilly | IDN Live | Hellooo | 13 Nov 2026, 12.29 | 1.767 |
 
 ## Live terakhir — Nov 2026
 

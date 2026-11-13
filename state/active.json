@@ -11,16 +11,16 @@
     "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
     "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
     "started_at": "2026-11-13T05:13:57.000Z",
-    "viewers": 3540,
-    "last_seen_at": "2026-11-13T06:11:43.930Z",
-    "peak_viewers": 3540,
-    "gifts": 21,
-    "gift_points": 2276,
+    "viewers": 3732,
+    "last_seen_at": "2026-11-13T06:16:53.781Z",
+    "peak_viewers": 3732,
+    "gifts": 22,
+    "gift_points": 2280,
     "stars": 0,
-    "comments": 865,
+    "comments": 979,
     "gift_breakdown": {
       "Cold Water": 1,
-      "Water": 1,
+      "Water": 2,
       "JEMIMA": 3,
       "Graffiti": 1,
       "Kompas": 6,
@@ -45,7 +45,8 @@
       "6c317cd1-e7c5-488d-a2d2-0be3a7c65217": "Vin Demen Jemima .",
       "933678df-78f5-47d2-a7ae-a34ba49ad313": "Ghina S",
       "6963f51b-9c0f-4b54-bc3e-36b8670f8196": "Beem ..",
-      "53c2841e-46d3-4b25-b9bc-1496893f4fdf": "(Dek) Arifah Aja"
+      "53c2841e-46d3-4b25-b9bc-1496893f4fdf": "(Dek) Arifah Aja",
+      "fe2230a3-3c8b-4809-b185-6e22453d7271": "Zain Nur Ramadhian"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -220,10 +221,30 @@
       [
         58,
         3540
+      ],
+      [
+        59,
+        3578
+      ],
+      [
+        60,
+        3618
+      ],
+      [
+        61,
+        3664
+      ],
+      [
+        62,
+        3699
+      ],
+      [
+        63,
+        3732
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
-    "gift_gold": 569,
+    "gift_gold": 570,
     "idn_gifters": {
       "3ebea6d0-dae7-4646-9153-1e04009717ba": {
         "name": "duy ",
@@ -289,6 +310,11 @@
         "name": "(Dek) Arifah Aja",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/122c2b65097f430a489711b4ab540d9c.webp?v=1794303560",
         "points": 36
+      },
+      "fe2230a3-3c8b-4809-b185-6e22453d7271": {
+        "name": "Zain Nur Ramadhian",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fdb717bd5eb546bf0a642a990bc92d9a.webp?v=1731319645",
+        "points": 4
       }
     }
   },
@@ -304,16 +330,16 @@
     "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
     "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
     "started_at": "2026-11-13T05:29:54.000Z",
-    "viewers": 1629,
-    "last_seen_at": "2026-11-13T06:11:43.930Z",
-    "peak_viewers": 1629,
-    "gifts": 20,
-    "gift_points": 820,
+    "viewers": 1767,
+    "last_seen_at": "2026-11-13T06:16:53.781Z",
+    "peak_viewers": 1767,
+    "gifts": 21,
+    "gift_points": 844,
     "stars": 0,
-    "comments": 654,
+    "comments": 728,
     "gift_breakdown": {
       "Team Hype": 3,
-      "Combat": 1,
+      "Combat": 2,
       "Hii Takut": 1,
       "Toa": 5,
       "Matcha": 2,
@@ -333,7 +359,8 @@
       "cda90855-b042-41b4-a55a-ded861c484a1": "Dewade Dwipa",
       "c87cc2bb-d368-4d78-bde9-3d5521e86e70": "Rey .",
       "fe4e2027-4e43-4616-99d1-75c9d8b07d50": "Pasukan Bebek kwek kwek",
-      "2e9c273d-a114-41a9-9ba7-c61939f7a2da": "John Smith"
+      "2e9c273d-a114-41a9-9ba7-c61939f7a2da": "John Smith",
+      "2d34f027-ef8a-4b1e-8b43-fc72c75405cc": "Juan Adiknya Thanos"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -508,10 +535,30 @@
       [
         42,
         1629
+      ],
+      [
+        43,
+        1655
+      ],
+      [
+        44,
+        1685
+      ],
+      [
+        45,
+        1716
+      ],
+      [
+        46,
+        1739
+      ],
+      [
+        47,
+        1767
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
-    "gift_gold": 205,
+    "gift_gold": 211,
     "idn_gifters": {
       "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": {
         "name": "Azrie Ahmad",
@@ -552,6 +599,11 @@
         "name": "John Smith",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/012ae059cb92eb61df5a691fbd88e8d4.webp?v=1794041963",
         "points": 40
+      },
+      "2d34f027-ef8a-4b1e-8b43-fc72c75405cc": {
+        "name": "Juan Adiknya Thanos",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dc1393bacdff35b3ccb4c9b8940d6115.webp?v=1794487059",
+        "points": 24
       }
     }
   }

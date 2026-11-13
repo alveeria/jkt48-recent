@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:11:44.514Z",
+  "updated_at": "2026-11-13T06:16:54.888Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261113121352",
@@ -13,16 +13,16 @@
       "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
       "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
       "started_at": "2026-11-13T05:13:57.000Z",
-      "viewers": 3540,
-      "last_seen_at": "2026-11-13T06:11:43.930Z",
-      "peak_viewers": 3540,
-      "gifts": 21,
-      "gift_points": 2276,
+      "viewers": 3732,
+      "last_seen_at": "2026-11-13T06:16:53.781Z",
+      "peak_viewers": 3732,
+      "gifts": 22,
+      "gift_points": 2280,
       "stars": 0,
-      "comments": 865,
+      "comments": 979,
       "gift_breakdown": {
         "Cold Water": 1,
-        "Water": 1,
+        "Water": 2,
         "JEMIMA": 3,
         "Graffiti": 1,
         "Kompas": 6,
@@ -268,10 +268,30 @@
         [
           58,
           3540
+        ],
+        [
+          59,
+          3578
+        ],
+        [
+          60,
+          3618
+        ],
+        [
+          61,
+          3664
+        ],
+        [
+          62,
+          3699
+        ],
+        [
+          63,
+          3732
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
-      "gift_gold": 569
+      "gift_gold": 570
     },
     {
       "id": "idn:hellooo-261113122949",
@@ -285,16 +305,16 @@
       "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
       "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
       "started_at": "2026-11-13T05:29:54.000Z",
-      "viewers": 1629,
-      "last_seen_at": "2026-11-13T06:11:43.930Z",
-      "peak_viewers": 1629,
-      "gifts": 20,
-      "gift_points": 820,
+      "viewers": 1767,
+      "last_seen_at": "2026-11-13T06:16:53.781Z",
+      "peak_viewers": 1767,
+      "gifts": 21,
+      "gift_points": 844,
       "stars": 0,
-      "comments": 654,
+      "comments": 728,
       "gift_breakdown": {
         "Team Hype": 3,
-        "Combat": 1,
+        "Combat": 2,
         "Hii Takut": 1,
         "Toa": 5,
         "Matcha": 2,
@@ -351,6 +371,12 @@
         },
         {
           "rank": 8,
+          "name": "Juan Adiknya Thanos",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dc1393bacdff35b3ccb4c9b8940d6115.webp?v=1794487059"
+        },
+        {
+          "rank": 9,
           "name": "Maska lagi tidur 🛌",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bfec47f8124b037f949df2259732a9ff.webp?v=1794485778"
@@ -528,10 +554,30 @@
         [
           42,
           1629
+        ],
+        [
+          43,
+          1655
+        ],
+        [
+          44,
+          1685
+        ],
+        [
+          45,
+          1716
+        ],
+        [
+          46,
+          1739
+        ],
+        [
+          47,
+          1767
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
-      "gift_gold": 205
+      "gift_gold": 211
     }
   ]
 }
