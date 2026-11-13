@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 12.56 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 13.01 WIB.
 
 ## Pakai datanya
 
@@ -28,14 +28,14 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jemima | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 12.13 | 2.670 |
-| Rilly | IDN Live | Hellooo | 13 Nov 2026, 12.29 | 1.068 |
-| Gracie | IDN Live | hiii | 13 Nov 2026, 11.52 | 4.266 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 12.13 | 3.028 |
+| Rilly | IDN Live | Hellooo | 13 Nov 2026, 12.29 | 1.268 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Gracie | IDN Live | hiii | 13 Nov 2026, 11.52 | 65m | 4.332 | 41 | 476 | — | 976 |
 | Muthe | IDN Live | Hi | 13 Nov 2026, 10.59 | 64m | 3.565 | 35 | 689 | — | 805 |
 | Intan | IDN Live | tmnin mammm | 13 Nov 2026, 10.47 | 70m | 4.835 | 80 | 3.378 | — | 3.680 |
 | Fritzy | IDN Live | storytimee | 12 Nov 2026, 22.48 | 44m | 4.461 | 34 | 1.035 | — | 1.448 |
@@ -75,7 +75,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Lana | IDN Live | Haii | 8 Nov 2026, 21.01 | — | — | — | — | — | — |
 | Maira | IDN Live | Let’s go!!! | 8 Nov 2026, 14.12 | — | — | — | — | — | — |
 | Oniel | IDN Live | saya kembali | 8 Nov 2026, 13.18 | — | — | — | — | — | — |
-| Michie | IDN Live | grwm | 8 Nov 2026, 12.43 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.

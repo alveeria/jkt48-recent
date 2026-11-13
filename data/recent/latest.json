@@ -1,5 +1,224 @@
 [
   {
+    "id": "idn:alveeria-2815",
+    "platform": "idn",
+    "member": {
+      "name": "Gracie",
+      "username": "jkt48_gracie",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b54dbd0f2ccde80f7fc4d40c575eed24.webp?v=1778761482"
+    },
+    "title": "hiii",
+    "url": "https://www.idn.app/jkt48_gracie/live/hiii-261113115224",
+    "image": "https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp",
+    "started_at": "2026-11-13T04:52:30.000Z",
+    "last_seen_at": "2026-11-13T05:57:49.577Z",
+    "peak_viewers": 4332,
+    "gifts": 41,
+    "gift_points": 1904,
+    "stars": 0,
+    "comments": 976,
+    "gift_breakdown": {
+      "Nasi Goreng": 6,
+      "GRACIE": 10,
+      "Kompas": 6,
+      "Arcade Game": 1,
+      "Panjat": 1,
+      "Toa": 6,
+      "Balon Udara": 1,
+      "Mawar": 2,
+      "ELIN": 1,
+      "Cold Water": 1,
+      "SSETAAAN": 1,
+      "HAHAHA": 1,
+      "Team Hype": 2,
+      "Es Kelapa": 1,
+      "Pumpkin": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Ivan R",
+        "points": 420,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8928000c1d81affbbeee6d064ef61f5a.webp?v=1793723466"
+      },
+      {
+        "rank": 2,
+        "name": "Desti Nurpadilah",
+        "points": 360,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/86f8c3562ebc1f2e2418e5a2552d7536.webp?v=1789728644"
+      },
+      {
+        "rank": 3,
+        "name": "Haris Mubarok",
+        "points": 340,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b08127b35a382f71b0f151a08faef831.webp?v=1787667718"
+      },
+      {
+        "rank": 4,
+        "name": "Josafat #DedekGracie",
+        "points": 280,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4ec7a70e10ffce757cff99190cfb63b3.webp?v=1787153186"
+      },
+      {
+        "rank": 5,
+        "name": "Dikycuyy #AllAboutGracie",
+        "points": 232,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6a265d9e4be281b1b3a31ce2ce8f1e49.webp?v=1789737848"
+      },
+      {
+        "rank": 6,
+        "name": "Raffly (Hanayume)",
+        "points": 104,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8c9c43547717f6a44a8b6d19ba20dfc.webp?v=1786458208"
+      },
+      {
+        "rank": 7,
+        "name": "Heggyss Septian",
+        "points": 88,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/28036b579674116f70da81484450a53a.webp?v=1793711683"
+      },
+      {
+        "rank": 8,
+        "name": "Ghina S",
+        "points": 36,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ce21aa71926a0607d552927ee1a7415.webp?v=1765767824"
+      },
+      {
+        "rank": 9,
+        "name": "Kakek Duan Blue Rabbit",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8844571c010bb422b6361213665512cf.webp?v=1785767370"
+      },
+      {
+        "rank": 10,
+        "name": "duy ",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/287a0281cc0f9bae43098314bf04a585.webp?v=1794105235"
+      }
+    ],
+    "viewer_series": [
+      [
+        38,
+        2822
+      ],
+      [
+        39,
+        2883
+      ],
+      [
+        40,
+        2962
+      ],
+      [
+        41,
+        3028
+      ],
+      [
+        42,
+        3095
+      ],
+      [
+        43,
+        3125
+      ],
+      [
+        44,
+        3189
+      ],
+      [
+        45,
+        3253
+      ],
+      [
+        46,
+        3308
+      ],
+      [
+        47,
+        3360
+      ],
+      [
+        48,
+        3411
+      ],
+      [
+        49,
+        3473
+      ],
+      [
+        50,
+        3528
+      ],
+      [
+        51,
+        3588
+      ],
+      [
+        52,
+        3658
+      ],
+      [
+        53,
+        3708
+      ],
+      [
+        54,
+        3772
+      ],
+      [
+        55,
+        3833
+      ],
+      [
+        56,
+        3876
+      ],
+      [
+        57,
+        3908
+      ],
+      [
+        58,
+        3963
+      ],
+      [
+        59,
+        4016
+      ],
+      [
+        60,
+        4073
+      ],
+      [
+        61,
+        4116
+      ],
+      [
+        62,
+        4167
+      ],
+      [
+        63,
+        4214
+      ],
+      [
+        64,
+        4266
+      ],
+      [
+        65,
+        4305
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
+    "gift_gold": 476,
+    "ended_at": "2026-11-13T05:57:49.577Z",
+    "duration_minutes": 65,
+    "last_viewers": 4332,
+    "unique_gifters": 11,
+    "source_id": "idn:hiii-261113115224"
+  },
+  {
     "id": "idn:alveeria-2814",
     "platform": "idn",
     "member": {
@@ -5672,24 +5891,6 @@
     "url": "https://www.idn.app/jkt48_alya",
     "image": "https://cdn.idn.app/livestream/729c444a1d1cce2d43c30e88f98091a7.webp",
     "started_at": "2026-09-05T14:57:18.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2615",
-    "platform": "idn",
-    "member": {
-      "name": "Daisy",
-      "username": "jkt48_daisy",
-      "avatar": null
-    },
-    "title": "Hi",
-    "url": "https://www.idn.app/jkt48_daisy",
-    "image": "https://cdn.idn.app/livestream/e4beaa2a1a1374e13f3d2130cede9cae.webp",
-    "started_at": "2026-09-05T14:47:40.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
