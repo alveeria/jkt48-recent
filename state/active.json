@@ -11,16 +11,16 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 4296,
-    "last_seen_at": "2026-11-13T04:44:02.934Z",
-    "peak_viewers": 4296,
-    "gifts": 71,
-    "gift_points": 8948,
+    "viewers": 4513,
+    "last_seen_at": "2026-11-13T04:49:12.757Z",
+    "peak_viewers": 4513,
+    "gifts": 75,
+    "gift_points": 11356,
     "stars": 0,
-    "comments": 3329,
+    "comments": 3483,
     "gift_breakdown": {
       "Toa": 10,
-      "Cold Water": 4,
+      "Cold Water": 5,
       "Kompas": 11,
       "SSETAAAN": 3,
       "Rempeyek": 1,
@@ -42,9 +42,10 @@
       "Kembang Api": 1,
       "Balon Pesta": 1,
       "Kastil Hantu": 1,
-      "Water": 2,
+      "Water": 4,
       "Es Kelapa": 1,
-      "OLINE": 1
+      "OLINE": 1,
+      "MELUNCUR!!": 1
     },
     "gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": "Ajipangestu Erianto Prakoso",
@@ -83,7 +84,8 @@
       "ddbc917b-caf6-436c-adb7-299cc084986d": "im ",
       "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad",
       "ab0946d6-a6d6-4408-bfaf-4c0c3b1846a3": "Dimas Saepul anwar",
-      "cce196b0-7644-4ddf-b381-fe04b407afa4": "NUR HIDAYAT WIKANTYASA"
+      "cce196b0-7644-4ddf-b381-fe04b407afa4": "NUR HIDAYAT WIKANTYASA",
+      "fa698861-02d8-41ec-a4d6-7001cf30d9a6": "K i k y"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -314,10 +316,30 @@
       [
         56,
         4280
+      ],
+      [
+        57,
+        4314
+      ],
+      [
+        58,
+        4358
+      ],
+      [
+        59,
+        4413
+      ],
+      [
+        60,
+        4452
+      ],
+      [
+        61,
+        4492
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 2237,
+    "gift_gold": 2839,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -377,7 +399,7 @@
       "2f2935e2-b1b0-487f-86cc-382950605f31": {
         "name": "ɘibovƎ ǫᴎɒƚᴎiᙠ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a5ca0291d8da9c8a56066cb6e921a9e8.webp?v=1765378964",
-        "points": 60
+        "points": 64
       },
       "188c8ff6-aa83-4a15-8a6b-d40b99e420d1": {
         "name": "Farel k",
@@ -447,7 +469,7 @@
       "29f3feb3-b0a6-44f7-9e4d-94f7e0d20d63": {
         "name": "Rizkum .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343",
-        "points": 1620
+        "points": 1624
       },
       "f851dea9-a9e3-4451-ae79-9bc5da07b94f": {
         "name": "ICHAcapslock onlyKaIntan",
@@ -503,6 +525,11 @@
         "name": "NUR HIDAYAT WIKANTYASA",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 80
+      },
+      "fa698861-02d8-41ec-a4d6-7001cf30d9a6": {
+        "name": "K i k y",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e3c7b4290ac5900f70e52733e13536a1.webp?v=1765186273",
+        "points": 2400
       }
     }
   },
@@ -518,13 +545,13 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 2577,
-    "last_seen_at": "2026-11-13T04:44:02.934Z",
-    "peak_viewers": 2577,
+    "viewers": 2774,
+    "last_seen_at": "2026-11-13T04:49:12.757Z",
+    "peak_viewers": 2774,
     "gifts": 30,
     "gift_points": 2632,
     "stars": 0,
-    "comments": 617,
+    "comments": 670,
     "gift_breakdown": {
       "SSETAAAN": 1,
       "Angklung": 3,
@@ -744,6 +771,26 @@
       [
         45,
         2577
+      ],
+      [
+        46,
+        2614
+      ],
+      [
+        47,
+        2655
+      ],
+      [
+        48,
+        2695
+      ],
+      [
+        49,
+        2729
+      ],
+      [
+        50,
+        2774
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
