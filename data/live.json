@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T04:33:44.523Z",
+  "updated_at": "2026-11-13T04:38:54.549Z",
   "lives": [
     {
       "id": "idn:tmnin-mammm-261113104745",
@@ -13,20 +13,20 @@
       "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
       "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
       "started_at": "2026-11-13T03:47:49.000Z",
-      "viewers": 3855,
-      "last_seen_at": "2026-11-13T04:33:43.376Z",
-      "peak_viewers": 3855,
-      "gifts": 68,
-      "gift_points": 8844,
+      "viewers": 4064,
+      "last_seen_at": "2026-11-13T04:38:53.575Z",
+      "peak_viewers": 4064,
+      "gifts": 69,
+      "gift_points": 8924,
       "stars": 0,
-      "comments": 2856,
+      "comments": 3063,
       "gift_breakdown": {
         "Toa": 10,
         "Cold Water": 4,
         "Kompas": 11,
         "SSETAAAN": 3,
         "Rempeyek": 1,
-        "INTAN": 3,
+        "INTAN": 4,
         "Lemon Tea": 1,
         "Matcha": 4,
         "Makan ya kak": 1,
@@ -105,9 +105,9 @@
         },
         {
           "rank": 10,
-          "name": "Pasukan Bebek kwek kwek",
-          "points": 68,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4db3910cee223618b5449838d696af27.webp?v=1787739085"
+          "name": "NUR HIDAYAT WIKANTYASA",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         }
       ],
       "viewer_series": [
@@ -298,10 +298,30 @@
         [
           46,
           3855
+        ],
+        [
+          47,
+          3907
+        ],
+        [
+          48,
+          3951
+        ],
+        [
+          49,
+          3973
+        ],
+        [
+          50,
+          4019
+        ],
+        [
+          51,
+          4051
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-      "gift_gold": 2211
+      "gift_gold": 2231
     },
     {
       "id": "idn:hi-261113105919",
@@ -315,26 +335,28 @@
       "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
       "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
       "started_at": "2026-11-13T03:59:27.000Z",
-      "viewers": 2200,
-      "last_seen_at": "2026-11-13T04:33:43.376Z",
-      "peak_viewers": 2200,
-      "gifts": 18,
-      "gift_points": 1948,
+      "viewers": 2389,
+      "last_seen_at": "2026-11-13T04:38:53.575Z",
+      "peak_viewers": 2389,
+      "gifts": 24,
+      "gift_points": 2452,
       "stars": 0,
-      "comments": 513,
+      "comments": 552,
       "gift_breakdown": {
         "SSETAAAN": 1,
         "Angklung": 2,
-        "MUTHE": 1,
+        "MUTHE": 2,
         "Lightstick": 1,
-        "Emas Batang": 3,
-        "Cold Water": 3,
+        "Emas Batang": 4,
+        "Cold Water": 5,
         "Water": 2,
         "Semangat kak": 1,
         "Lemon Tea": 1,
         "Rendang": 1,
         "Konfeti": 1,
-        "Matcha": 1
+        "Matcha": 1,
+        "Panjat": 1,
+        "Nasi Goreng": 1
       },
       "top_gifters": [
         {
@@ -345,27 +367,27 @@
         },
         {
           "rank": 2,
+          "name": "Aufa Dildar",
+          "points": 500,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d42d7321123dbbafe9a11b433e554a09.webp?v=1760975162"
+        },
+        {
+          "rank": 3,
           "name": "miko ",
           "points": 400,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bd7a114a2349a8f0b8453f57a1c2e9f8.webp?v=1793391611"
         },
         {
-          "rank": 3,
-          "name": "Aufa Dildar",
-          "points": 280,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d42d7321123dbbafe9a11b433e554a09.webp?v=1760975162"
-        },
-        {
           "rank": 4,
-          "name": "Ridwan リドワン",
-          "points": 116,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d96aaf5a659f0127127d16eda5dbd728.webp?v=1768469094"
+          "name": "Zen Zen .",
+          "points": 400,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f62a4c98940411f9cbcd8296f8e9b48d.webp?v=1789056984"
         },
         {
           "rank": 5,
-          "name": "Zen Zen .",
+          "name": "Ridwan リドワン",
           "points": 116,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f62a4c98940411f9cbcd8296f8e9b48d.webp?v=1789056984"
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d96aaf5a659f0127127d16eda5dbd728.webp?v=1768469094"
         },
         {
           "rank": 6,
@@ -538,10 +560,30 @@
         [
           34,
           2171
+        ],
+        [
+          35,
+          2231
+        ],
+        [
+          36,
+          2263
+        ],
+        [
+          37,
+          2303
+        ],
+        [
+          38,
+          2345
+        ],
+        [
+          39,
+          2375
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-      "gift_gold": 487
+      "gift_gold": 613
     }
   ]
 }

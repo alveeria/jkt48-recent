@@ -11,20 +11,20 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 3855,
-    "last_seen_at": "2026-11-13T04:33:43.376Z",
-    "peak_viewers": 3855,
-    "gifts": 68,
-    "gift_points": 8844,
+    "viewers": 4064,
+    "last_seen_at": "2026-11-13T04:38:53.575Z",
+    "peak_viewers": 4064,
+    "gifts": 69,
+    "gift_points": 8924,
     "stars": 0,
-    "comments": 2856,
+    "comments": 3063,
     "gift_breakdown": {
       "Toa": 10,
       "Cold Water": 4,
       "Kompas": 11,
       "SSETAAAN": 3,
       "Rempeyek": 1,
-      "INTAN": 3,
+      "INTAN": 4,
       "Lemon Tea": 1,
       "Matcha": 4,
       "Makan ya kak": 1,
@@ -82,7 +82,8 @@
       "fa6a89b6-522f-4ab5-8feb-92fcf15a1233": "Khoirul Muminin",
       "ddbc917b-caf6-436c-adb7-299cc084986d": "im ",
       "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad",
-      "ab0946d6-a6d6-4408-bfaf-4c0c3b1846a3": "Dimas Saepul anwar"
+      "ab0946d6-a6d6-4408-bfaf-4c0c3b1846a3": "Dimas Saepul anwar",
+      "cce196b0-7644-4ddf-b381-fe04b407afa4": "NUR HIDAYAT WIKANTYASA"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -273,10 +274,30 @@
       [
         46,
         3855
+      ],
+      [
+        47,
+        3907
+      ],
+      [
+        48,
+        3951
+      ],
+      [
+        49,
+        3973
+      ],
+      [
+        50,
+        4019
+      ],
+      [
+        51,
+        4051
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 2211,
+    "gift_gold": 2231,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -457,6 +478,11 @@
         "name": "Dimas Saepul anwar",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 80
+      },
+      "cce196b0-7644-4ddf-b381-fe04b407afa4": {
+        "name": "NUR HIDAYAT WIKANTYASA",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 80
       }
     }
   },
@@ -472,26 +498,28 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 2200,
-    "last_seen_at": "2026-11-13T04:33:43.376Z",
-    "peak_viewers": 2200,
-    "gifts": 18,
-    "gift_points": 1948,
+    "viewers": 2389,
+    "last_seen_at": "2026-11-13T04:38:53.575Z",
+    "peak_viewers": 2389,
+    "gifts": 24,
+    "gift_points": 2452,
     "stars": 0,
-    "comments": 513,
+    "comments": 552,
     "gift_breakdown": {
       "SSETAAAN": 1,
       "Angklung": 2,
-      "MUTHE": 1,
+      "MUTHE": 2,
       "Lightstick": 1,
-      "Emas Batang": 3,
-      "Cold Water": 3,
+      "Emas Batang": 4,
+      "Cold Water": 5,
       "Water": 2,
       "Semangat kak": 1,
       "Lemon Tea": 1,
       "Rendang": 1,
       "Konfeti": 1,
-      "Matcha": 1
+      "Matcha": 1,
+      "Panjat": 1,
+      "Nasi Goreng": 1
     },
     "gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": "Faiz Darmawan",
@@ -648,10 +676,30 @@
       [
         34,
         2171
+      ],
+      [
+        35,
+        2231
+      ],
+      [
+        36,
+        2263
+      ],
+      [
+        37,
+        2303
+      ],
+      [
+        38,
+        2345
+      ],
+      [
+        39,
+        2375
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 487,
+    "gift_gold": 613,
     "idn_gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": {
         "name": "Faiz Darmawan",
@@ -666,7 +714,7 @@
       "b3e72e2a-68ab-469c-8216-b7f0e063e5b4": {
         "name": "Aufa Dildar",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d42d7321123dbbafe9a11b433e554a09.webp?v=1760975162",
-        "points": 280
+        "points": 500
       },
       "34f3e1cf-7d26-485c-b796-0e17dd1a447b": {
         "name": "eM .",
@@ -711,7 +759,7 @@
       "5270a6ba-13ad-4433-9d2b-7fb4a5f429a7": {
         "name": "Zen Zen .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f62a4c98940411f9cbcd8296f8e9b48d.webp?v=1789056984",
-        "points": 116
+        "points": 400
       }
     }
   }
