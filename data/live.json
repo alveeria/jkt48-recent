@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:42:04.601Z",
+  "updated_at": "2026-11-13T22:47:13.390Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114051705",
@@ -13,16 +13,16 @@
       "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
       "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
       "started_at": "2026-11-13T22:17:11.000Z",
-      "viewers": 1575,
-      "last_seen_at": "2026-11-13T22:42:03.559Z",
-      "peak_viewers": 1575,
-      "gifts": 20,
-      "gift_points": 1864,
+      "viewers": 1745,
+      "last_seen_at": "2026-11-13T22:47:12.344Z",
+      "peak_viewers": 1745,
+      "gifts": 31,
+      "gift_points": 2396,
       "stars": 0,
-      "comments": 1469,
+      "comments": 1798,
       "gift_breakdown": {
         "Emas Batang": 2,
-        "Cold Water": 2,
+        "Cold Water": 4,
         "Angklung": 1,
         "Toa": 2,
         "JKT48 Show": 2,
@@ -32,7 +32,15 @@
         "Panjat": 1,
         "MIKAELA": 1,
         "Water": 2,
-        "Puding": 1
+        "Puding": 1,
+        "Tumpeng": 1,
+        "Hii Takut": 1,
+        "Gift Card": 1,
+        "Matcha": 2,
+        "Siomay": 1,
+        "Nasi Goreng": 1,
+        "Tulip Flower": 1,
+        "Rempeyek": 1
       },
       "top_gifters": [
         {
@@ -49,51 +57,51 @@
         },
         {
           "rank": 3,
-          "name": "Franko ...",
-          "points": 220,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+          "name": "Khalif Nazar Arafat",
+          "points": 388,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/49750de42f8d7090389e032e9e687cad.webp?v=1766229958"
         },
         {
           "rank": 4,
+          "name": "Franko ...",
+          "points": 260,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+        },
+        {
+          "rank": 5,
           "name": "iSocial Bae",
           "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "name": "Reii Wijaya",
+          "points": 100,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414"
+        },
+        {
+          "rank": 7,
+          "name": "alep ᅠ",
+          "points": 96,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/978e811f0dab508fc8f38bdd2b41bb49.webp?v=1786811923"
+        },
+        {
+          "rank": 8,
           "name": "Annisa Nurul",
           "points": 88,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2a6ff1c94d4eefe02f68058b1fdfd755.webp?v=1746092135"
         },
         {
-          "rank": 6,
-          "name": "alep ᅠ",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/978e811f0dab508fc8f38bdd2b41bb49.webp?v=1786811923"
-        },
-        {
-          "rank": 7,
-          "name": "Reii Wijaya",
-          "points": 56,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414"
-        },
-        {
-          "rank": 8,
-          "name": "Dias Mahardika",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a39f0026fc1c5dee8fc011c4210c34e7.webp?v=1788780237"
-        },
-        {
           "rank": 9,
-          "name": "Ricko Zulfa",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e1847b1bd709c5262fbf592cb39fa818.webp?v=1731940647"
+          "name": "MULYANA ",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
           "rank": 10,
-          "name": "Ameeek .",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c7f399d02e1bf729106455ca6e83d80a.webp?v=1794307593"
+          "name": "Ricko Zulfa",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e1847b1bd709c5262fbf592cb39fa818.webp?v=1731940647"
         }
       ],
       "viewer_series": [
@@ -180,10 +188,30 @@
         [
           25,
           1575
+        ],
+        [
+          26,
+          1617
+        ],
+        [
+          27,
+          1643
+        ],
+        [
+          28,
+          1683
+        ],
+        [
+          29,
+          1714
+        ],
+        [
+          30,
+          1731
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-      "gift_gold": 466
+      "gift_gold": 599
     }
   ]
 }

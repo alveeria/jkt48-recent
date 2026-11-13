@@ -11,16 +11,16 @@
     "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
     "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
     "started_at": "2026-11-13T22:17:11.000Z",
-    "viewers": 1575,
-    "last_seen_at": "2026-11-13T22:42:03.559Z",
-    "peak_viewers": 1575,
-    "gifts": 20,
-    "gift_points": 1864,
+    "viewers": 1745,
+    "last_seen_at": "2026-11-13T22:47:12.344Z",
+    "peak_viewers": 1745,
+    "gifts": 31,
+    "gift_points": 2396,
     "stars": 0,
-    "comments": 1469,
+    "comments": 1798,
     "gift_breakdown": {
       "Emas Batang": 2,
-      "Cold Water": 2,
+      "Cold Water": 4,
       "Angklung": 1,
       "Toa": 2,
       "JKT48 Show": 2,
@@ -30,7 +30,15 @@
       "Panjat": 1,
       "MIKAELA": 1,
       "Water": 2,
-      "Puding": 1
+      "Puding": 1,
+      "Tumpeng": 1,
+      "Hii Takut": 1,
+      "Gift Card": 1,
+      "Matcha": 2,
+      "Siomay": 1,
+      "Nasi Goreng": 1,
+      "Tulip Flower": 1,
+      "Rempeyek": 1
     },
     "gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": "iSocial Bae",
@@ -47,7 +55,9 @@
       "b8e5a4cc-c192-4988-9a2f-0b1056afb09a": "alep ᅠ",
       "c20c5175-9cea-4bd0-87bf-d600b7882eae": "afra aja",
       "953d35b8-064c-40ed-a341-894b6ea2b2ec": "ahmadmastur ",
-      "def53a0f-b3a5-4861-ab23-b7b93f453c27": "Miftahul Ihsan "
+      "def53a0f-b3a5-4861-ab23-b7b93f453c27": "Miftahul Ihsan ",
+      "295be97e-bad4-4369-ad3b-6ddb4b707920": "Khalif Nazar Arafat",
+      "049d4d0c-7fda-4ac3-978e-2d2103d824a3": "MULYANA "
     },
     "top_gifters": [],
     "viewer_series": [
@@ -134,10 +144,30 @@
       [
         25,
         1575
+      ],
+      [
+        26,
+        1617
+      ],
+      [
+        27,
+        1643
+      ],
+      [
+        28,
+        1683
+      ],
+      [
+        29,
+        1714
+      ],
+      [
+        30,
+        1731
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-    "gift_gold": 466,
+    "gift_gold": 599,
     "idn_gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": {
         "name": "iSocial Bae",
@@ -172,7 +202,7 @@
       "38ec9711-56f7-4ea2-9339-4461e2d1b8a8": {
         "name": "Reii Wijaya",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414",
-        "points": 56
+        "points": 100
       },
       "68488ddb-4b3f-4179-a64c-bf5ecb6b1a44": {
         "name": "ㅤ ㅤ",
@@ -182,12 +212,12 @@
       "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": {
         "name": "Franko ...",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626",
-        "points": 220
+        "points": 260
       },
       "11a934d4-620f-480e-b4c4-4758e2a0143d": {
         "name": "Ricko Zulfa",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e1847b1bd709c5262fbf592cb39fa818.webp?v=1731940647",
-        "points": 20
+        "points": 24
       },
       "d0b2bb72-1cfd-4200-a301-defba4a04d13": {
         "name": "Ameeek .",
@@ -197,7 +227,7 @@
       "b8e5a4cc-c192-4988-9a2f-0b1056afb09a": {
         "name": "alep ᅠ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/978e811f0dab508fc8f38bdd2b41bb49.webp?v=1786811923",
-        "points": 80
+        "points": 96
       },
       "c20c5175-9cea-4bd0-87bf-d600b7882eae": {
         "name": "afra aja",
@@ -213,6 +243,16 @@
         "name": "Miftahul Ihsan ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 4
+      },
+      "295be97e-bad4-4369-ad3b-6ddb4b707920": {
+        "name": "Khalif Nazar Arafat",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/49750de42f8d7090389e032e9e687cad.webp?v=1766229958",
+        "points": 388
+      },
+      "049d4d0c-7fda-4ac3-978e-2d2103d824a3": {
+        "name": "MULYANA ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 40
       }
     }
   }
