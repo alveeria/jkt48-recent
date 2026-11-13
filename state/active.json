@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_erine/live/diroriiiii-261113223844",
     "image": "https://cdn.idn.app/livestream/c1c2e6d8a517f2ab4fc6c8f2435db3f8.webp",
     "started_at": "2026-11-13T15:38:50.000Z",
-    "viewers": 15345,
-    "last_seen_at": "2026-11-13T17:06:57.896Z",
-    "peak_viewers": 15345,
-    "gifts": 41,
-    "gift_points": 2420,
+    "viewers": 15654,
+    "last_seen_at": "2026-11-13T17:12:07.143Z",
+    "peak_viewers": 15654,
+    "gifts": 42,
+    "gift_points": 2424,
     "stars": 0,
-    "comments": 5732,
+    "comments": 6231,
     "gift_breakdown": {
       "Jari Hati": 1,
       "Matcha": 8,
@@ -27,7 +27,8 @@
       "Emas Batang": 4,
       "Martabak": 1,
       "ERINE": 2,
-      "Lemon Tea": 1
+      "Lemon Tea": 1,
+      "Cold Water": 1
     },
     "gifters": {
       "cb604bcb-c481-4145-8310-837c0bb565de": "Pianbee",
@@ -51,7 +52,8 @@
       "bfdaa44f-f8af-4c9f-ab23-d0cb7cf8badc": "HBD Pacar james",
       "17a61ea8-d6a1-48b3-bd15-52d159fed7e4": ". EFHA",
       "4e191767-d7c4-4d67-96a6-616bb2eadf85": "hai tem 💫 #TheSTARS",
-      "541eff6a-5329-4557-8c77-84ee4f4305ce": "Nia Anya"
+      "541eff6a-5329-4557-8c77-84ee4f4305ce": "Nia Anya",
+      "fe2230a3-3c8b-4809-b185-6e22453d7271": "Zain Nur Ramadhian"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -242,10 +244,30 @@
       [
         88,
         15316
+      ],
+      [
+        89,
+        15373
+      ],
+      [
+        90,
+        15440
+      ],
+      [
+        91,
+        15501
+      ],
+      [
+        92,
+        15562
+      ],
+      [
+        93,
+        15632
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/6hjihgZ20wwR",
-    "gift_gold": 605,
+    "gift_gold": 606,
     "idn_gifters": {
       "cb604bcb-c481-4145-8310-837c0bb565de": {
         "name": "Pianbee",
@@ -356,6 +378,11 @@
         "name": "Nia Anya",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/40274345dd278ee8a415007685f250e7.webp?v=1785517052",
         "points": 196
+      },
+      "fe2230a3-3c8b-4809-b185-6e22453d7271": {
+        "name": "Zain Nur Ramadhian",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fdb717bd5eb546bf0a642a990bc92d9a.webp?v=1731319645",
+        "points": 4
       }
     }
   }
