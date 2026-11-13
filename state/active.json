@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 2905,
-    "last_seen_at": "2026-11-13T04:18:11.948Z",
-    "peak_viewers": 2905,
-    "gifts": 61,
-    "gift_points": 8400,
+    "viewers": 3220,
+    "last_seen_at": "2026-11-13T04:23:22.025Z",
+    "peak_viewers": 3220,
+    "gifts": 63,
+    "gift_points": 8600,
     "stars": 0,
-    "comments": 2218,
+    "comments": 2496,
     "gift_breakdown": {
       "Toa": 9,
       "Cold Water": 4,
@@ -33,7 +33,7 @@
       "Lightstick": 2,
       "Mawar": 2,
       "Puding": 1,
-      "Emas Batang": 1,
+      "Emas Batang": 2,
       "Kucing": 1,
       "Surabaya": 1,
       "Jari Hati": 1,
@@ -42,7 +42,7 @@
       "Kembang Api": 1,
       "Balon Pesta": 1,
       "Kastil Hantu": 1,
-      "Water": 1,
+      "Water": 2,
       "Es Kelapa": 1,
       "OLINE": 1
     },
@@ -206,10 +206,34 @@
       [
         30,
         2875
+      ],
+      [
+        31,
+        2940
+      ],
+      [
+        32,
+        3004
+      ],
+      [
+        33,
+        3056
+      ],
+      [
+        34,
+        3078
+      ],
+      [
+        35,
+        3137
+      ],
+      [
+        36,
+        3220
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 2100,
+    "gift_gold": 2150,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -339,7 +363,7 @@
       "29f3feb3-b0a6-44f7-9e4d-94f7e0d20d63": {
         "name": "Rizkum .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343",
-        "points": 1380
+        "points": 1580
       },
       "f851dea9-a9e3-4451-ae79-9bc5da07b94f": {
         "name": "ICHAcapslock onlyKaIntan",
@@ -390,20 +414,25 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 1413,
-    "last_seen_at": "2026-11-13T04:18:11.948Z",
-    "peak_viewers": 1413,
-    "gifts": 9,
-    "gift_points": 916,
+    "viewers": 1697,
+    "last_seen_at": "2026-11-13T04:23:22.025Z",
+    "peak_viewers": 1697,
+    "gifts": 15,
+    "gift_points": 1788,
     "stars": 0,
-    "comments": 359,
+    "comments": 426,
     "gift_breakdown": {
       "SSETAAAN": 1,
       "Angklung": 1,
       "MUTHE": 1,
       "Lightstick": 1,
       "Emas Batang": 3,
-      "Cold Water": 2
+      "Cold Water": 2,
+      "Water": 2,
+      "Semangat kak": 1,
+      "Lemon Tea": 1,
+      "Rendang": 1,
+      "Konfeti": 1
     },
     "gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": "Faiz Darmawan",
@@ -411,7 +440,11 @@
       "b3e72e2a-68ab-469c-8216-b7f0e063e5b4": "Aufa Dildar",
       "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM .",
       "cb002747-b551-4db3-b200-d9e307c0310d": "miko ",
-      "d86689a3-3c12-4de3-ab05-ee5f767b23e5": "Akbar ruh Pambudi "
+      "d86689a3-3c12-4de3-ab05-ee5f767b23e5": "Akbar ruh Pambudi ",
+      "76377853-8893-480e-8487-cfc53e46a1a9": "Nazip NakMakan",
+      "5ec91552-2903-4329-844d-b966a78e5dc0": "Muhammad Mawardi",
+      "c8e49185-fff3-4cc5-ab41-42915bde4a5e": "TASHA .",
+      "cc3e6ff4-94ec-4d81-95d4-17961a154ca4": "yusuf ucup marucup"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -494,10 +527,30 @@
       [
         19,
         1413
+      ],
+      [
+        20,
+        1470
+      ],
+      [
+        21,
+        1533
+      ],
+      [
+        22,
+        1573
+      ],
+      [
+        23,
+        1620
+      ],
+      [
+        24,
+        1697
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 229,
+    "gift_gold": 447,
     "idn_gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": {
         "name": "Faiz Darmawan",
@@ -522,12 +575,32 @@
       "cb002747-b551-4db3-b200-d9e307c0310d": {
         "name": "miko ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bd7a114a2349a8f0b8453f57a1c2e9f8.webp?v=1793391611",
-        "points": 392
+        "points": 400
       },
       "d86689a3-3c12-4de3-ab05-ee5f767b23e5": {
         "name": "Akbar ruh Pambudi ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9c95217ef796619bf8543f39b815012b.webp?v=1746444076",
         "points": 4
+      },
+      "76377853-8893-480e-8487-cfc53e46a1a9": {
+        "name": "Nazip NakMakan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/537b23e6592de355ec26c195abf72b25.webp?v=1793950700",
+        "points": 4
+      },
+      "5ec91552-2903-4329-844d-b966a78e5dc0": {
+        "name": "Muhammad Mawardi",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/88a36ca197fe59d2766e27469e66fd4e.webp?v=1780572574",
+        "points": 60
+      },
+      "c8e49185-fff3-4cc5-ab41-42915bde4a5e": {
+        "name": "TASHA .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f6662c3671c16ce18db8eb36c374ccfa.webp?v=1743953817",
+        "points": 4
+      },
+      "cc3e6ff4-94ec-4d81-95d4-17961a154ca4": {
+        "name": "yusuf ucup marucup",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4dad5f71fff7c9e4298291b0e81c73e.webp?v=1793198010",
+        "points": 796
       }
     }
   }
