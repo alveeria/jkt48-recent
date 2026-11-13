@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 22.42 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 22.48 WIB.
 
 ## Pakai datanya
 
@@ -28,18 +28,18 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.41 | 3.841 |
-| Greesel | IDN Live | hi | 13 Nov 2026, 22.11 | 3.959 |
-| Lily | IDN Live | Buka paket | 13 Nov 2026, 22.18 | 3.830 |
-| Nala | IDN Live | HELO | 13 Nov 2026, 22.25 | 4.074 |
-| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 2.766 |
-| Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 1.071 |
+| Greesel | IDN Live | hi | 13 Nov 2026, 22.11 | 4.672 |
+| Lily | IDN Live | Buka paket | 13 Nov 2026, 22.18 | 4.635 |
+| Nala | IDN Live | HELO | 13 Nov 2026, 22.25 | 5.014 |
+| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 3.659 |
+| Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 2.856 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 9m | 1.822 | 2 | 6 | — | 349 |
+| Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.41 | 64m | 4.097 | 25 | 543 | — | 1.200 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.36 | 4m | 330 | 0 | — | — | 66 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.28 | 7m | 504 | 1 | 3 | — | 80 |
 | Fritzy | IDN Live | hai | 13 Nov 2026, 21.01 | 65m | 5.295 | 45 | 720 | — | 2.923 |
@@ -78,7 +78,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 72m | 11.013 | 75 | 1.517 | — | 1.442 |
 | Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 69m | 12.597 | 65 | 1.398 | — | 1.650 |
 | Nala | IDN Live | hai ehek | 12 Nov 2026, 22.03 | 63m | 11.398 | 36 | 843 | — | 1.189 |
-| Marsha | IDN Live | Plisss | 12 Nov 2026, 22.02 | 63m | 11.384 | 52 | 581 | — | 1.854 |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
