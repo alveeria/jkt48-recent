@@ -1,5 +1,374 @@
 [
   {
+    "id": "idn:alveeria-2833",
+    "platform": "idn",
+    "member": {
+      "name": "Lia",
+      "username": "jkt48_lia",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/774813dd4e183c97cb589eecb765b034.webp?v=1778761632"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261113193546",
+    "image": "https://cdn.idn.app/livestream/a3c1ff4df011adc6d50bf2f7651c561f.webp",
+    "started_at": "2026-11-13T12:36:02.000Z",
+    "last_seen_at": "2026-11-13T13:40:17.775Z",
+    "peak_viewers": 5867,
+    "gifts": 30,
+    "gift_points": 2628,
+    "stars": 0,
+    "comments": 1200,
+    "gift_breakdown": {
+      "Orange Syrup": 2,
+      "Kupu-Kupu": 1,
+      "Lemon Tea": 1,
+      "Matcha": 3,
+      "LIA": 1,
+      "Kompas": 1,
+      "Toa": 9,
+      "JKT48 Show": 1,
+      "Pumpkin": 1,
+      "Nasi Goreng": 1,
+      "Mawar": 1,
+      "Lightstick": 1,
+      "Tumpeng": 1,
+      "Emas Batang": 3,
+      "Water": 1,
+      "Bubble Gun": 1,
+      "HADIIIRRR!!": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Sashihara 莉乃",
+        "points": 1200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6420f95627a5734e4810b8471f100622.webp?v=1785052730"
+      },
+      {
+        "rank": 2,
+        "name": "Wuhan .",
+        "points": 436,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bfb1df8ffceddff29b32c6963e48e0e2.webp?v=1793719284"
+      },
+      {
+        "rank": 3,
+        "name": "Elriemo Muda",
+        "points": 200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/283fdcbe88799b9a0545d093ddf4db35.webp?v=1793886960"
+      },
+      {
+        "rank": 4,
+        "name": "Dova .",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c9ddd371ef4d6c9b541d38d092b9dce4.webp?v=1794467083"
+      },
+      {
+        "rank": 5,
+        "name": "ASDI .",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c03c4b7a836db9b95de6776f48f4cb67.webp?v=1794061270"
+      },
+      {
+        "rank": 6,
+        "name": "Ojan The Standing Noodles",
+        "points": 100,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a1ab76f36caf7b60e8d56beec73c8baa.webp?v=1792467411"
+      },
+      {
+        "rank": 7,
+        "name": "Angelia J.R",
+        "points": 84,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/413881dd784b8f2e515f6c5094effc25.webp?v=1794483856"
+      },
+      {
+        "rank": 8,
+        "name": "Baba Rafi",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bcd31832244303c872049cd85267a08a.webp?v=1789490573"
+      },
+      {
+        "rank": 9,
+        "name": "Samuel ",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a18ed2bd39313a999baf5a8eddddd41.webp?v=1769596602"
+      },
+      {
+        "rank": 10,
+        "name": "Abil .",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/faff7fd9951731a1c1a4913a6fe4070f.webp?v=1791807840"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        21
+      ],
+      [
+        2,
+        123
+      ],
+      [
+        3,
+        220
+      ],
+      [
+        4,
+        327
+      ],
+      [
+        5,
+        429
+      ],
+      [
+        6,
+        571
+      ],
+      [
+        7,
+        733
+      ],
+      [
+        8,
+        881
+      ],
+      [
+        9,
+        1030
+      ],
+      [
+        10,
+        1180
+      ],
+      [
+        11,
+        1294
+      ],
+      [
+        12,
+        1397
+      ],
+      [
+        13,
+        1499
+      ],
+      [
+        14,
+        1603
+      ],
+      [
+        15,
+        1713
+      ],
+      [
+        16,
+        1763
+      ],
+      [
+        17,
+        1879
+      ],
+      [
+        18,
+        1977
+      ],
+      [
+        19,
+        2081
+      ],
+      [
+        20,
+        2185
+      ],
+      [
+        21,
+        2273
+      ],
+      [
+        22,
+        2377
+      ],
+      [
+        23,
+        2467
+      ],
+      [
+        24,
+        2560
+      ],
+      [
+        25,
+        2668
+      ],
+      [
+        26,
+        2773
+      ],
+      [
+        27,
+        2841
+      ],
+      [
+        28,
+        2931
+      ],
+      [
+        29,
+        3008
+      ],
+      [
+        30,
+        3088
+      ],
+      [
+        31,
+        3163
+      ],
+      [
+        32,
+        3245
+      ],
+      [
+        33,
+        3290
+      ],
+      [
+        34,
+        3388
+      ],
+      [
+        35,
+        3484
+      ],
+      [
+        36,
+        3569
+      ],
+      [
+        37,
+        3667
+      ],
+      [
+        38,
+        3739
+      ],
+      [
+        39,
+        3808
+      ],
+      [
+        40,
+        3878
+      ],
+      [
+        41,
+        3940
+      ],
+      [
+        42,
+        3988
+      ],
+      [
+        43,
+        4070
+      ],
+      [
+        44,
+        4173
+      ],
+      [
+        45,
+        4236
+      ],
+      [
+        46,
+        4302
+      ],
+      [
+        47,
+        4368
+      ],
+      [
+        48,
+        4455
+      ],
+      [
+        49,
+        4527
+      ],
+      [
+        50,
+        4596
+      ],
+      [
+        51,
+        4671
+      ],
+      [
+        52,
+        4759
+      ],
+      [
+        53,
+        4833
+      ],
+      [
+        54,
+        4902
+      ],
+      [
+        55,
+        4940
+      ],
+      [
+        56,
+        5019
+      ],
+      [
+        57,
+        5140
+      ],
+      [
+        58,
+        5239
+      ],
+      [
+        59,
+        5334
+      ],
+      [
+        60,
+        5459
+      ],
+      [
+        61,
+        5575
+      ],
+      [
+        62,
+        5648
+      ],
+      [
+        63,
+        5733
+      ],
+      [
+        64,
+        5814
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
+    "gift_gold": 657,
+    "ended_at": "2026-11-13T13:40:17.775Z",
+    "duration_minutes": 64,
+    "last_viewers": 5867,
+    "unique_gifters": 18,
+    "source_id": "idn:ayo-ngobrol-bareng-261113193546"
+  },
+  {
     "id": "idn:alveeria-2832",
     "platform": "idn",
     "member": {
