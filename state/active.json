@@ -11,23 +11,24 @@
     "url": "https://www.idn.app/jkt48_lana/live/hai-261113184616",
     "image": "https://cdn.idn.app/livestream/fa15d2c6657dd8d0eee847762907a172.webp",
     "started_at": "2026-11-13T11:46:22.000Z",
-    "viewers": 5141,
-    "last_seen_at": "2026-11-13T12:38:15.338Z",
-    "peak_viewers": 5141,
-    "gifts": 26,
-    "gift_points": 3436,
+    "viewers": 5720,
+    "last_seen_at": "2026-11-13T12:43:22.373Z",
+    "peak_viewers": 5720,
+    "gifts": 33,
+    "gift_points": 3900,
     "stars": 0,
-    "comments": 2106,
+    "comments": 2333,
     "gift_breakdown": {
-      "Emas Batang": 14,
-      "Lemon Tea": 2,
+      "Emas Batang": 16,
+      "Lemon Tea": 3,
       "Angklung": 1,
       "Lato-Lato": 1,
       "Cendrawasih": 1,
       "Orange Syrup": 1,
-      "Nasi Goreng": 1,
+      "Nasi Goreng": 2,
       "Cold Water": 4,
-      "Water": 1
+      "Water": 2,
+      "Kompas": 2
     },
     "gifters": {
       "86ced4ed-e7ef-4c90-95ed-1cdb2e5e868d": "Andre Fahreza",
@@ -45,7 +46,10 @@
       "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM .",
       "bf822dba-4f98-484d-9cdc-cabd8e5e547b": "U s e e e .",
       "5b833d5a-1872-4a12-9dbf-d490fded8f1f": "Ahmed, L.",
-      "29b5323e-c8b6-44bf-a329-e89279a28337": "SH1F4 🌛"
+      "29b5323e-c8b6-44bf-a329-e89279a28337": "SH1F4 🌛",
+      "1aea6cd3-7828-4742-a51a-2fb941890e62": "hayKalzii f",
+      "f67ccf54-c9f7-4a2d-876d-0373cdf0146e": "densaa .",
+      "bf99a922-e965-4e8d-9a1d-055d741d6d5d": "✩Adithya Sahputra✩"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -260,10 +264,30 @@
       [
         52,
         5141
+      ],
+      [
+        53,
+        5250
+      ],
+      [
+        54,
+        5346
+      ],
+      [
+        55,
+        5470
+      ],
+      [
+        56,
+        5599
+      ],
+      [
+        57,
+        5720
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
-    "gift_gold": 859,
+    "gift_gold": 975,
     "idn_gifters": {
       "86ced4ed-e7ef-4c90-95ed-1cdb2e5e868d": {
         "name": "Andre Fahreza",
@@ -308,12 +332,12 @@
       "ce1397ef-17ab-494e-8a33-04d3805f597c": {
         "name": "Rosesa -",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d641fb376084f02f199c06b345a6eb9.webp?v=1785337995",
-        "points": 196
+        "points": 204
       },
       "acd42ece-912c-4c1e-99ba-5c3fdbeaa8fa": {
         "name": "Galang Fachrezy",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8d8e47c512b7d77cd388d10b94d8db3c.webp?v=1788872379",
-        "points": 196
+        "points": 200
       },
       "a3e3e3ea-2720-40a8-853a-5a249c4c811d": {
         "name": "Andree ",
@@ -333,7 +357,7 @@
       "bf822dba-4f98-484d-9cdc-cabd8e5e547b": {
         "name": "U s e e e .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/80761f729f3f849059a6988dc9345064.webp?v=1793628403",
-        "points": 196
+        "points": 216
       },
       "5b833d5a-1872-4a12-9dbf-d490fded8f1f": {
         "name": "Ahmed, L.",
@@ -344,6 +368,21 @@
         "name": "SH1F4 🌛",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e518ef629a2bf9742f432a02cff0e277.webp?v=1787236884",
         "points": 588
+      },
+      "1aea6cd3-7828-4742-a51a-2fb941890e62": {
+        "name": "hayKalzii f",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b19edba18168a24c28bcb4ae35746e8d.webp?v=1794553188",
+        "points": 40
+      },
+      "f67ccf54-c9f7-4a2d-876d-0373cdf0146e": {
+        "name": "densaa .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/46a224741c63ad3588b31ab994e90263.webp?v=1794498099",
+        "points": 196
+      },
+      "bf99a922-e965-4e8d-9a1d-055d741d6d5d": {
+        "name": "✩Adithya Sahputra✩",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/401bd9cdc4f3145994f6e67f20e2be31.webp?v=1793982768",
+        "points": 196
       }
     }
   },
@@ -359,13 +398,13 @@
     "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
     "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
     "started_at": "2026-11-13T11:46:04.000Z",
-    "viewers": 201,
-    "last_seen_at": "2026-11-13T12:38:15.338Z",
-    "peak_viewers": 201,
+    "viewers": 213,
+    "last_seen_at": "2026-11-13T12:43:22.373Z",
+    "peak_viewers": 213,
     "gifts": 3,
     "gift_points": 316,
     "stars": 0,
-    "comments": 169,
+    "comments": 184,
     "gift_breakdown": {
       "Angklung": 1,
       "Happy B-Day!": 1,
@@ -587,6 +626,26 @@
       [
         52,
         200
+      ],
+      [
+        53,
+        203
+      ],
+      [
+        54,
+        204
+      ],
+      [
+        55,
+        206
+      ],
+      [
+        56,
+        209
+      ],
+      [
+        57,
+        213
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
@@ -611,20 +670,26 @@
     "url": "https://www.idn.app/jkt48_elin/live/hai-261113193253",
     "image": "https://cdn.idn.app/livestream/62133a590dfac0067efdc11221a12b16.webp",
     "started_at": "2026-11-13T12:33:00.000Z",
-    "viewers": 350,
-    "last_seen_at": "2026-11-13T12:38:15.338Z",
-    "peak_viewers": 350,
-    "gifts": 2,
-    "gift_points": 376,
+    "viewers": 1080,
+    "last_seen_at": "2026-11-13T12:43:22.373Z",
+    "peak_viewers": 1080,
+    "gifts": 6,
+    "gift_points": 564,
     "stars": 0,
-    "comments": 82,
+    "comments": 120,
     "gift_breakdown": {
       "Motor Sport": 1,
-      "HAHAHA": 1
+      "HAHAHA": 1,
+      "HADIIIRRR!!": 1,
+      "Water": 1,
+      "Jikoshoukai": 1,
+      "ELIN": 1
     },
     "gifters": {
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": "dagdigdugdeerr .",
-      "0368909d-e732-4eaf-9e0a-547a9dfa8cef": "liaaa aaaja"
+      "0368909d-e732-4eaf-9e0a-547a9dfa8cef": "liaaa aaaja",
+      "dcd87281-4b2e-479f-9bdb-81867d0b7922": "Kei😴. ᅠ",
+      "091a1a06-f9c8-448a-a536-7b333124df0f": "Mahendra Pramudita"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -651,10 +716,30 @@
       [
         5,
         312
+      ],
+      [
+        6,
+        398
+      ],
+      [
+        7,
+        513
+      ],
+      [
+        8,
+        656
+      ],
+      [
+        9,
+        823
+      ],
+      [
+        10,
+        1003
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBuGTLoLJOCV",
-    "gift_gold": 94,
+    "gift_gold": 141,
     "idn_gifters": {
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": {
         "name": "dagdigdugdeerr .",
@@ -665,6 +750,16 @@
         "name": "liaaa aaaja",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f83f8a5b1842245f9a88bae81746bc7.webp?v=1761489357",
         "points": 24
+      },
+      "dcd87281-4b2e-479f-9bdb-81867d0b7922": {
+        "name": "Kei😴. ᅠ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec30492bb9d618a0302004d5282dd79a.webp?v=1794118263",
+        "points": 32
+      },
+      "091a1a06-f9c8-448a-a536-7b333124df0f": {
+        "name": "Mahendra Pramudita",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a89881c43cc1daba78f08718217622c9.webp?v=1789239454",
+        "points": 156
       }
     }
   },
@@ -680,18 +775,23 @@
     "url": "https://www.idn.app/jkt48_nayla/live/manadooo-261113193531",
     "image": "https://cdn.idn.app/livestream/4cea84d39d8d8fb2e7dd17cff92368cc.webp",
     "started_at": "2026-11-13T12:35:37.000Z",
-    "viewers": 180,
-    "last_seen_at": "2026-11-13T12:38:15.338Z",
-    "peak_viewers": 180,
-    "gifts": 1,
-    "gift_points": 40,
+    "viewers": 939,
+    "last_seen_at": "2026-11-13T12:43:22.373Z",
+    "peak_viewers": 939,
+    "gifts": 4,
+    "gift_points": 220,
     "stars": 0,
-    "comments": 22,
+    "comments": 119,
     "gift_breakdown": {
-      "Matcha": 1
+      "Matcha": 1,
+      "Jari Hati": 1,
+      "Puding": 1,
+      "Lightstick": 1
     },
     "gifters": {
-      "2ae52683-70e9-4fbf-bf4b-f85d3f9f732c": "Zaidan Harith"
+      "2ae52683-70e9-4fbf-bf4b-f85d3f9f732c": "Zaidan Harith",
+      "3c2342de-acdd-44f3-a4a4-ca540e345635": "Ade Wahyudin",
+      "9cba54bb-6f59-4904-aa70-5dac5e106e2f": "KEI KEI"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -710,15 +810,45 @@
       [
         3,
         180
+      ],
+      [
+        4,
+        281
+      ],
+      [
+        5,
+        405
+      ],
+      [
+        6,
+        584
+      ],
+      [
+        7,
+        759
+      ],
+      [
+        8,
+        939
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
-    "gift_gold": 10,
+    "gift_gold": 55,
     "idn_gifters": {
       "2ae52683-70e9-4fbf-bf4b-f85d3f9f732c": {
         "name": "Zaidan Harith",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/06d1c20d79a8932daf95be37138d9fcc.webp?v=1757677486",
         "points": 40
+      },
+      "3c2342de-acdd-44f3-a4a4-ca540e345635": {
+        "name": "Ade Wahyudin",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 80
+      },
+      "9cba54bb-6f59-4904-aa70-5dac5e106e2f": {
+        "name": "KEI KEI",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0bd368dcae06994a1ff82c5f0cb02364.webp?v=1779199728",
+        "points": 100
       }
     }
   },
@@ -734,15 +864,19 @@
     "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261113193546",
     "image": "https://cdn.idn.app/livestream/a3c1ff4df011adc6d50bf2f7651c561f.webp",
     "started_at": "2026-11-13T12:36:02.000Z",
-    "viewers": 171,
-    "last_seen_at": "2026-11-13T12:38:15.338Z",
-    "peak_viewers": 171,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 813,
+    "last_seen_at": "2026-11-13T12:43:22.373Z",
+    "peak_viewers": 813,
+    "gifts": 1,
+    "gift_points": 8,
     "stars": 0,
-    "comments": 21,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 116,
+    "gift_breakdown": {
+      "Orange Syrup": 1
+    },
+    "gifters": {
+      "f378e7f4-7d4b-4751-8f88-e2ed4495bf39": "Yudhistira Azhar "
+    },
     "top_gifters": [],
     "viewer_series": [
       [
@@ -756,9 +890,37 @@
       [
         2,
         123
+      ],
+      [
+        3,
+        220
+      ],
+      [
+        4,
+        327
+      ],
+      [
+        5,
+        429
+      ],
+      [
+        6,
+        571
+      ],
+      [
+        7,
+        733
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
+    "gift_gold": 2,
+    "idn_gifters": {
+      "f378e7f4-7d4b-4751-8f88-e2ed4495bf39": {
+        "name": "Yudhistira Azhar ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ac6eeeb6231b311c45ad016ea310158d.webp?v=1754379613",
+        "points": 8
+      }
+    }
   },
   "idn:hi-261113193547": {
     "id": "idn:hi-261113193547",
@@ -772,13 +934,13 @@
     "url": "https://www.idn.app/jkt48_aralie/live/hi-261113193547",
     "image": "https://cdn.idn.app/livestream/06370c37cbeed23db89754e8e0a83712.webp",
     "started_at": "2026-11-13T12:35:54.000Z",
-    "viewers": 416,
-    "last_seen_at": "2026-11-13T12:38:15.338Z",
-    "peak_viewers": 416,
+    "viewers": 2150,
+    "last_seen_at": "2026-11-13T12:43:22.373Z",
+    "peak_viewers": 2150,
     "gifts": 0,
     "gift_points": 0,
     "stars": 0,
-    "comments": 93,
+    "comments": 375,
     "gift_breakdown": {},
     "gifters": {},
     "top_gifters": [],
@@ -794,6 +956,26 @@
       [
         2,
         305
+      ],
+      [
+        3,
+        533
+      ],
+      [
+        4,
+        728
+      ],
+      [
+        5,
+        1009
+      ],
+      [
+        6,
+        1464
+      ],
+      [
+        7,
+        1987
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E0I7e29Eqkw6"
