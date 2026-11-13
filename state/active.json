@@ -11,26 +11,27 @@
     "url": "https://www.idn.app/jkt48_gracie/live/hiii-261113115224",
     "image": "https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp",
     "started_at": "2026-11-13T04:52:30.000Z",
-    "viewers": 2551,
-    "last_seen_at": "2026-11-13T05:25:29.621Z",
-    "peak_viewers": 2551,
-    "gifts": 37,
-    "gift_points": 1632,
+    "viewers": 2783,
+    "last_seen_at": "2026-11-13T05:29:37.399Z",
+    "peak_viewers": 2783,
+    "gifts": 41,
+    "gift_points": 1932,
     "stars": 0,
-    "comments": 888,
+    "comments": 1040,
     "gift_breakdown": {
       "Kompas": 4,
-      "Toa": 10,
+      "Toa": 11,
       "Lato-Lato": 2,
       "Water": 3,
       "SSETAAAN": 2,
       "Puding": 2,
       "GRACIE": 3,
       "Angklung": 3,
-      "Pumpkin": 3,
+      "Pumpkin": 5,
       "Lightstick": 2,
       "ELIN": 1,
-      "Arcade Game": 2
+      "Arcade Game": 2,
+      "Panjat": 1
     },
     "gifters": {
       "52b95f5c-ab59-4e36-982b-97d78932927a": "EchiiInii .",
@@ -55,7 +56,8 @@
       "11bb746d-1488-42b9-a98f-63621a750cb5": "Raffly (Hanayume)",
       "4d787067-fbd7-4a33-8af5-4ffc173f378b": "Haris Mubarok",
       "0f56a589-d538-403b-91f6-61d807dcb021": "Ivan R",
-      "6cb4e568-56c2-4ce5-bd55-2e9bd8fea3e5": "Adil Selalu"
+      "6cb4e568-56c2-4ce5-bd55-2e9bd8fea3e5": "Adil Selalu",
+      "68514043-112a-4184-85ac-e2a65bd3fbc0": "Desti Nurpadilah"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -194,10 +196,26 @@
       [
         33,
         2551
+      ],
+      [
+        34,
+        2588
+      ],
+      [
+        35,
+        2633
+      ],
+      [
+        36,
+        2694
+      ],
+      [
+        37,
+        2755
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "gift_gold": 408,
+    "gift_gold": 483,
     "idn_gifters": {
       "52b95f5c-ab59-4e36-982b-97d78932927a": {
         "name": "EchiiInii .",
@@ -217,7 +235,7 @@
       "933678df-78f5-47d2-a7ae-a34ba49ad313": {
         "name": "Ghina S",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ce21aa71926a0607d552927ee1a7415.webp?v=1765767824",
-        "points": 96
+        "points": 116
       },
       "ea652666-7a33-40d0-85da-f9d75169da08": {
         "name": "Albert Camus",
@@ -302,7 +320,7 @@
       "4d787067-fbd7-4a33-8af5-4ffc173f378b": {
         "name": "Haris Mubarok",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b08127b35a382f71b0f151a08faef831.webp?v=1787667718",
-        "points": 120
+        "points": 200
       },
       "0f56a589-d538-403b-91f6-61d807dcb021": {
         "name": "Ivan R",
@@ -313,6 +331,11 @@
         "name": "Adil Selalu",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/27f749e011df91882820b5bf9b5b3604.webp?v=1793886957",
         "points": 20
+      },
+      "68514043-112a-4184-85ac-e2a65bd3fbc0": {
+        "name": "Desti Nurpadilah",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/86f8c3562ebc1f2e2418e5a2552d7536.webp?v=1789728644",
+        "points": 200
       }
     }
   },
@@ -328,22 +351,23 @@
     "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
     "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
     "started_at": "2026-11-13T05:13:57.000Z",
-    "viewers": 814,
-    "last_seen_at": "2026-11-13T05:25:29.621Z",
-    "peak_viewers": 814,
-    "gifts": 10,
-    "gift_points": 524,
+    "viewers": 1022,
+    "last_seen_at": "2026-11-13T05:29:37.399Z",
+    "peak_viewers": 1022,
+    "gifts": 14,
+    "gift_points": 720,
     "stars": 0,
-    "comments": 241,
+    "comments": 299,
     "gift_breakdown": {
       "Emas Batang": 1,
-      "Matcha": 1,
+      "Matcha": 3,
       "Kompas": 1,
       "Toa": 2,
-      "Pumpkin": 1,
+      "Pumpkin": 2,
       "JEMIMA": 2,
       "Water": 1,
-      "Combat": 1
+      "Combat": 1,
+      "Cupid": 1
     },
     "gifters": {
       "1b64799d-0961-4abb-805c-f7f5891f7105": "Bayou ❤️‍🔥ADJ",
@@ -351,7 +375,8 @@
       "6cb4e568-56c2-4ce5-bd55-2e9bd8fea3e5": "Adil Selalu",
       "a44de038-050e-441b-b44a-fea12e5931c3": "MasSalsa Aja",
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": "hann",
-      "5254c56d-e17f-424c-a33e-a15875a804c8": "Zaza06"
+      "5254c56d-e17f-424c-a33e-a15875a804c8": "Zaza06",
+      "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": "Agus Priyogo"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -406,15 +431,31 @@
       [
         12,
         814
+      ],
+      [
+        13,
+        863
+      ],
+      [
+        14,
+        906
+      ],
+      [
+        15,
+        956
+      ],
+      [
+        16,
+        1022
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
-    "gift_gold": 131,
+    "gift_gold": 180,
     "idn_gifters": {
       "1b64799d-0961-4abb-805c-f7f5891f7105": {
         "name": "Bayou ❤️‍🔥ADJ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6390294d49dc9eb6574f98e2a723f601.webp?v=1794465857",
-        "points": 436
+        "points": 516
       },
       "372a34dd-3642-468e-82d9-586d0a7b2dbc": {
         "name": "egi ☆",
@@ -429,7 +470,7 @@
       "a44de038-050e-441b-b44a-fea12e5931c3": {
         "name": "MasSalsa Aja",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ebdb12d62e60e44b207ac2522c9650b1.webp?v=1793021480",
-        "points": 20
+        "points": 96
       },
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": {
         "name": "hann",
@@ -440,6 +481,11 @@
         "name": "Zaza06",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 24
+      },
+      "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": {
+        "name": "Agus Priyogo",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f9e63b89addb4ef8f4f0d28be83bcb5a.webp?v=1774429080",
+        "points": 40
       }
     }
   }
