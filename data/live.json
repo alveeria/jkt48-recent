@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:22:52.836Z",
+  "updated_at": "2026-11-13T12:28:00.309Z",
   "lives": [
     {
       "id": "idn:p-261113183240",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_giaa/live/p-261113183240",
       "image": "https://cdn.idn.app/livestream/00a2ba90bd186cad7cc63495465a76ac.webp",
       "started_at": "2026-11-13T11:32:45.000Z",
-      "viewers": 2114,
-      "last_seen_at": "2026-11-13T12:22:51.921Z",
-      "peak_viewers": 2114,
-      "gifts": 20,
-      "gift_points": 864,
+      "viewers": 2350,
+      "last_seen_at": "2026-11-13T12:27:59.381Z",
+      "peak_viewers": 2350,
+      "gifts": 23,
+      "gift_points": 964,
       "stars": 0,
-      "comments": 710,
+      "comments": 768,
       "gift_breakdown": {
         "Pumpkin": 3,
         "Toa": 4,
@@ -32,7 +32,9 @@
         "Angklung": 1,
         "Yuk bisa yuk": 1,
         "SSETAAAN": 1,
-        "Cold Water": 1
+        "Cold Water": 2,
+        "GIAA": 1,
+        "Gift Card": 1
       },
       "top_gifters": [
         {
@@ -67,33 +69,33 @@
         },
         {
           "rank": 6,
+          "name": "©️ Mas Aneh (FERDI MAULANA)",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cad81df68c8af957e68d224f6a123cdc.webp?v=1774669942"
+        },
+        {
+          "rank": 7,
           "name": "Dimas .",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/847d2f2c960068c8462485573551349c.webp?v=1792670160"
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "name": "YannKai Langganan #8",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cf4d02a7ec404243265d4a96c8571194.webp?v=1794141448"
+        },
+        {
+          "rank": 9,
           "name": "Ren Rakuen",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/06067d58908a4cbc752242a1e09b5eeb.webp?v=1761585765"
         },
         {
-          "rank": 8,
-          "name": "YannKai Langganan #8",
-          "points": 24,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cf4d02a7ec404243265d4a96c8571194.webp?v=1794141448"
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "name": "Divaa ❤️‍🩹",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/16cef96ceb739b6f788710028edcd82b.webp?v=1794486845"
-        },
-        {
-          "rank": 10,
-          "name": "izalcul 👾",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a3d105c02fefad79e991e9049f7c6a5.webp?v=1793252652"
         }
       ],
       "viewer_series": [
@@ -300,10 +302,30 @@
         [
           50,
           2061
+        ],
+        [
+          51,
+          2159
+        ],
+        [
+          52,
+          2209
+        ],
+        [
+          53,
+          2246
+        ],
+        [
+          54,
+          2289
+        ],
+        [
+          55,
+          2332
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
-      "gift_gold": 216
+      "gift_gold": 241
     },
     {
       "id": "idn:hai-261113184616",
@@ -317,22 +339,22 @@
       "url": "https://www.idn.app/jkt48_lana/live/hai-261113184616",
       "image": "https://cdn.idn.app/livestream/fa15d2c6657dd8d0eee847762907a172.webp",
       "started_at": "2026-11-13T11:46:22.000Z",
-      "viewers": 3718,
-      "last_seen_at": "2026-11-13T12:22:51.921Z",
-      "peak_viewers": 3718,
-      "gifts": 14,
-      "gift_points": 2040,
+      "viewers": 4239,
+      "last_seen_at": "2026-11-13T12:27:59.381Z",
+      "peak_viewers": 4239,
+      "gifts": 20,
+      "gift_points": 2836,
       "stars": 0,
-      "comments": 1368,
+      "comments": 1665,
       "gift_breakdown": {
-        "Emas Batang": 7,
-        "Lemon Tea": 1,
+        "Emas Batang": 11,
+        "Lemon Tea": 2,
         "Angklung": 1,
         "Lato-Lato": 1,
         "Cendrawasih": 1,
         "Orange Syrup": 1,
         "Nasi Goreng": 1,
-        "Cold Water": 1
+        "Cold Water": 2
       },
       "top_gifters": [
         {
@@ -343,57 +365,57 @@
         },
         {
           "rank": 2,
+          "name": "Yuda_ 💤🌙",
+          "points": 312,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa1bd45bacc14a835bbf2b32a1a50c59.webp?v=1793797657"
+        },
+        {
+          "rank": 3,
+          "name": "Andree ",
+          "points": 224,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b178e9b681b64fbf6b412d14900770ce.webp?v=1786895903"
+        },
+        {
+          "rank": 4,
+          "name": "eM .",
+          "points": 204,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
+        },
+        {
+          "rank": 5,
           "name": "Andre Fahreza",
           "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/87bec3c1de14ea5a622ba7bb5a99b0bd.webp?v=1793945460"
         },
         {
-          "rank": 3,
+          "rank": 6,
           "name": "ᯓ Iki Lan ᯓ",
           "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/560be429d0e27b4111d44953d9490555.webp?v=1793697115"
         },
         {
-          "rank": 4,
+          "rank": 7,
           "name": "Reza Gian",
           "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/110a8321879970fb3419309bf2fa4459.webp?v=1786294054"
         },
         {
-          "rank": 5,
+          "rank": 8,
           "name": "RamasEblak ♡.ᐟ.ᐟ",
           "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1e5b6f18cafab80231c399acd76fa224.webp?v=1793714284"
         },
         {
-          "rank": 6,
+          "rank": 9,
           "name": "Rosesa -",
           "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d641fb376084f02f199c06b345a6eb9.webp?v=1785337995"
         },
         {
-          "rank": 7,
+          "rank": 10,
           "name": "Galang Fachrezy",
           "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8d8e47c512b7d77cd388d10b94d8db3c.webp?v=1788872379"
-        },
-        {
-          "rank": 8,
-          "name": "eM .",
-          "points": 196,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
-        },
-        {
-          "rank": 9,
-          "name": "Yuda_ 💤🌙",
-          "points": 116,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa1bd45bacc14a835bbf2b32a1a50c59.webp?v=1793797657"
-        },
-        {
-          "rank": 10,
-          "name": "Ade Wahyudin",
-          "points": 36,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         }
       ],
       "viewer_series": [
@@ -544,10 +566,34 @@
         [
           36,
           3587
+        ],
+        [
+          37,
+          3793
+        ],
+        [
+          38,
+          3857
+        ],
+        [
+          39,
+          3962
+        ],
+        [
+          40,
+          4078
+        ],
+        [
+          41,
+          4158
+        ],
+        [
+          42,
+          4239
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
-      "gift_gold": 510
+      "gift_gold": 709
     },
     {
       "id": "idn:pajama-drive-2026-11-13-261105215553",
@@ -561,13 +607,13 @@
       "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
       "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
       "started_at": "2026-11-13T11:46:04.000Z",
-      "viewers": 173,
-      "last_seen_at": "2026-11-13T12:22:51.921Z",
-      "peak_viewers": 173,
+      "viewers": 184,
+      "last_seen_at": "2026-11-13T12:27:59.381Z",
+      "peak_viewers": 184,
       "gifts": 3,
       "gift_points": 316,
       "stars": 0,
-      "comments": 113,
+      "comments": 133,
       "gift_breakdown": {
         "Angklung": 1,
         "Happy B-Day!": 1,
@@ -733,6 +779,26 @@
         [
           37,
           173
+        ],
+        [
+          38,
+          177
+        ],
+        [
+          39,
+          179
+        ],
+        [
+          40,
+          182
+        ],
+        [
+          41,
+          184
+        ],
+        [
+          42,
+          184
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
