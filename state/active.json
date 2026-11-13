@@ -11,36 +11,40 @@
     "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261113132606",
     "image": "https://cdn.idn.app/livestream/b26395fa8695182a5371382645230d0a.webp",
     "started_at": "2026-11-13T06:26:12.000Z",
-    "viewers": 6372,
-    "last_seen_at": "2026-11-13T07:13:44.989Z",
-    "peak_viewers": 6372,
-    "gifts": 56,
-    "gift_points": 3024,
+    "viewers": 6926,
+    "last_seen_at": "2026-11-13T07:18:55.388Z",
+    "peak_viewers": 6926,
+    "gifts": 72,
+    "gift_points": 4344,
     "stars": 0,
-    "comments": 1545,
+    "comments": 1742,
     "gift_breakdown": {
       "Padang": 1,
-      "Angklung": 2,
+      "Angklung": 4,
       "Rendang": 1,
-      "INDAH": 6,
-      "Pumpkin": 11,
-      "Matcha": 2,
+      "INDAH": 9,
+      "Pumpkin": 14,
+      "Matcha": 3,
       "Combat": 2,
       "Mawar": 4,
       "Toa": 3,
       "Lemon Tea": 2,
       "Puding": 3,
       "Makan ya kak": 1,
-      "Lightstick": 1,
+      "Lightstick": 2,
       "Buket Mawar": 2,
-      "Kupu-Kupu": 6,
+      "Kupu-Kupu": 7,
       "ONIEL": 1,
       "Emas Batang": 1,
       "Cold Water": 3,
       "JKT48 Stage": 1,
       "Gift Card": 1,
       "TC-RIBKA": 1,
-      "Water": 1
+      "Water": 1,
+      "RIBKA": 2,
+      "Serem Bor": 1,
+      "Happy B-Day!": 1,
+      "Panjat": 1
     },
     "gifters": {
       "682eb8e5-ca59-418e-ba2a-a9087c7f0677": "Tommy '(",
@@ -258,10 +262,30 @@
       [
         48,
         6372
+      ],
+      [
+        49,
+        6516
+      ],
+      [
+        50,
+        6625
+      ],
+      [
+        51,
+        6742
+      ],
+      [
+        52,
+        6845
+      ],
+      [
+        53,
+        6926
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
-    "gift_gold": 756,
+    "gift_gold": 1086,
     "idn_gifters": {
       "682eb8e5-ca59-418e-ba2a-a9087c7f0677": {
         "name": "Tommy '(",
@@ -281,12 +305,12 @@
       "d4040465-f418-48eb-87d2-1d0adcc7206e": {
         "name": "Jay Kangen Dedek Indah",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eecb1fb6553479efc6976def17855879.webp?v=1787238946",
-        "points": 360
+        "points": 680
       },
       "dbd9e107-5c2b-40f1-9874-8a6a94dc847d": {
         "name": "Raiiiii ditinggal mommy grad",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/66dcb1c9577515fac1e041a89e9e1f02.webp?v=1793606732",
-        "points": 308
+        "points": 508
       },
       "0c5be3f6-d56c-42d7-a6b4-17a6b427b2ca": {
         "name": "Adit A",
@@ -316,12 +340,12 @@
       "c5cb4817-4bba-47bb-baed-1eb4fb869a11": {
         "name": "Rizky Emy",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/30fbd0ee361d7b0fc69b61e961c73779.webp?v=1794498274",
-        "points": 300
+        "points": 500
       },
       "0d08ed77-fd04-4e99-9292-c7776f7a3870": {
         "name": "andika adhi parwa",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5763fe641c5589f480c04eb60e3e4dc9.webp?v=1790776318",
-        "points": 432
+        "points": 504
       },
       "41020186-ed69-48d9-96a3-126d4b128e66": {
         "name": "REFI .",
@@ -336,12 +360,12 @@
       "b81188cf-d0a2-4278-b9be-21bd2b10dd0f": {
         "name": "Ryuu Oshinya Fritzy",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/978c8bcfab4ec4539c1f69fb36b98043.webp?v=1790691016",
-        "points": 232
+        "points": 464
       },
       "2eb11109-5cf5-4ecc-943e-dc46d6cc594a": {
         "name": "AYUKUN NUNGGU PAP INDAH",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7dee4c9238c873ce0158327a86d6a4f8.webp?v=1794410745",
-        "points": 288
+        "points": 584
       },
       "b786e33d-3af3-4480-b2b7-6a2fa933b6ee": {
         "name": "Gading (Gads) ",
@@ -362,13 +386,13 @@
     "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261113132622",
     "image": "https://cdn.idn.app/livestream/a057bf98dc019e9e76f602497b66c2c8.webp",
     "started_at": "2026-11-13T06:26:29.000Z",
-    "viewers": 5703,
-    "last_seen_at": "2026-11-13T07:13:44.989Z",
-    "peak_viewers": 5703,
+    "viewers": 6363,
+    "last_seen_at": "2026-11-13T07:18:55.388Z",
+    "peak_viewers": 6363,
     "gifts": 15,
     "gift_points": 1888,
     "stars": 0,
-    "comments": 759,
+    "comments": 826,
     "gift_breakdown": {
       "Emas Batang": 6,
       "Tumpeng": 1,
@@ -583,6 +607,26 @@
       [
         47,
         5532
+      ],
+      [
+        48,
+        5800
+      ],
+      [
+        49,
+        5971
+      ],
+      [
+        50,
+        6089
+      ],
+      [
+        51,
+        6207
+      ],
+      [
+        52,
+        6321
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
@@ -637,15 +681,21 @@
     "url": "https://www.idn.app/jkt48_michie/live/michzelle-pt-1-261113140314",
     "image": "https://cdn.idn.app/livestream/e3b08aa0b7bb38afa34830157992454a.webp",
     "started_at": "2026-11-13T07:03:23.000Z",
-    "viewers": 2136,
-    "last_seen_at": "2026-11-13T07:13:44.989Z",
-    "peak_viewers": 2136,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 3241,
+    "last_seen_at": "2026-11-13T07:18:55.388Z",
+    "peak_viewers": 3241,
+    "gifts": 3,
+    "gift_points": 52,
     "stars": 0,
-    "comments": 163,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 576,
+    "gift_breakdown": {
+      "Toa": 2,
+      "Boba Tea": 1
+    },
+    "gifters": {
+      "a2cf427e-c761-4900-8b7e-4fdfc320cc2a": "Fatmah Ezzz",
+      "85aac906-22a4-45e9-9c2d-d0642461c39b": "Eyass ww"
+    },
     "top_gifters": [],
     "viewer_series": [
       [
@@ -655,8 +705,45 @@
       [
         10,
         1778
+      ],
+      [
+        11,
+        2347
+      ],
+      [
+        12,
+        2643
+      ],
+      [
+        13,
+        2849
+      ],
+      [
+        14,
+        3017
+      ],
+      [
+        15,
+        3105
+      ],
+      [
+        16,
+        3241
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
+    "gift_gold": 13,
+    "idn_gifters": {
+      "a2cf427e-c761-4900-8b7e-4fdfc320cc2a": {
+        "name": "Fatmah Ezzz",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ddc7fa44614f4c69f4d048b79cdad90d.webp?v=1794410590",
+        "points": 40
+      },
+      "85aac906-22a4-45e9-9c2d-d0642461c39b": {
+        "name": "Eyass ww",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/506d3125dff544024aa92462ef731df7.webp?v=1794377101",
+        "points": 12
+      }
+    }
   }
 }
