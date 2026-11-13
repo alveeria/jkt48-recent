@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_erine/live/diroriiiii-261113223844",
     "image": "https://cdn.idn.app/livestream/c1c2e6d8a517f2ab4fc6c8f2435db3f8.webp",
     "started_at": "2026-11-13T15:38:50.000Z",
-    "viewers": 15654,
-    "last_seen_at": "2026-11-13T17:12:07.143Z",
-    "peak_viewers": 15654,
-    "gifts": 42,
-    "gift_points": 2424,
+    "viewers": 15947,
+    "last_seen_at": "2026-11-13T17:17:15.387Z",
+    "peak_viewers": 15947,
+    "gifts": 43,
+    "gift_points": 2428,
     "stars": 0,
-    "comments": 6231,
+    "comments": 6788,
     "gift_breakdown": {
       "Jari Hati": 1,
       "Matcha": 8,
@@ -28,7 +28,8 @@
       "Martabak": 1,
       "ERINE": 2,
       "Lemon Tea": 1,
-      "Cold Water": 1
+      "Cold Water": 1,
+      "Water": 1
     },
     "gifters": {
       "cb604bcb-c481-4145-8310-837c0bb565de": "Pianbee",
@@ -53,7 +54,8 @@
       "17a61ea8-d6a1-48b3-bd15-52d159fed7e4": ". EFHA",
       "4e191767-d7c4-4d67-96a6-616bb2eadf85": "hai tem 💫 #TheSTARS",
       "541eff6a-5329-4557-8c77-84ee4f4305ce": "Nia Anya",
-      "fe2230a3-3c8b-4809-b185-6e22453d7271": "Zain Nur Ramadhian"
+      "fe2230a3-3c8b-4809-b185-6e22453d7271": "Zain Nur Ramadhian",
+      "16f0c3a8-e000-4ef6-95ef-1a7e493221ec": "Yama si Pelukis"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -264,10 +266,30 @@
       [
         93,
         15632
+      ],
+      [
+        94,
+        15687
+      ],
+      [
+        95,
+        15751
+      ],
+      [
+        96,
+        15798
+      ],
+      [
+        97,
+        15857
+      ],
+      [
+        98,
+        15927
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/6hjihgZ20wwR",
-    "gift_gold": 606,
+    "gift_gold": 607,
     "idn_gifters": {
       "cb604bcb-c481-4145-8310-837c0bb565de": {
         "name": "Pianbee",
@@ -382,6 +404,11 @@
       "fe2230a3-3c8b-4809-b185-6e22453d7271": {
         "name": "Zain Nur Ramadhian",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fdb717bd5eb546bf0a642a990bc92d9a.webp?v=1731319645",
+        "points": 4
+      },
+      "16f0c3a8-e000-4ef6-95ef-1a7e493221ec": {
+        "name": "Yama si Pelukis",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f05542a8c182b317b8e07f70b4031ba1.webp?v=1794486858",
         "points": 4
       }
     }
