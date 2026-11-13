@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T23:23:23.221Z",
+  "updated_at": "2026-11-13T23:28:31.652Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114051705",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
       "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
       "started_at": "2026-11-13T22:17:11.000Z",
-      "viewers": 2851,
-      "last_seen_at": "2026-11-13T23:23:22.079Z",
-      "peak_viewers": 2851,
+      "viewers": 2962,
+      "last_seen_at": "2026-11-13T23:27:59.891Z",
+      "peak_viewers": 2962,
       "gifts": 54,
       "gift_points": 4588,
       "stars": 0,
-      "comments": 3969,
+      "comments": 4146,
       "gift_breakdown": {
         "Emas Batang": 5,
         "Cold Water": 4,
@@ -358,6 +358,26 @@
         [
           66,
           2838
+        ],
+        [
+          67,
+          2867
+        ],
+        [
+          68,
+          2898
+        ],
+        [
+          69,
+          2916
+        ],
+        [
+          70,
+          2939
+        ],
+        [
+          71,
+          2962
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
