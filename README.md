@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 15.16 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 15.21 WIB.
 
 ## Pakai datanya
 
@@ -28,14 +28,14 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 9.334 |
-| Sona | IDN Live | sm ica | 13 Nov 2026, 14.25 | 3.709 |
-| Carissa | IDN Live | Hello helloo 😚 | 13 Nov 2026, 14.26 | 3.174 |
-| Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 2.966 |
-| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 2.965 |
-| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 3.460 |
-| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 3.972 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 585 |
+| Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 9.665 |
+| Sona | IDN Live | sm ica | 13 Nov 2026, 14.25 | 4.071 |
+| Carissa | IDN Live | Hello helloo 😚 | 13 Nov 2026, 14.26 | 3.458 |
+| Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 3.219 |
+| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 3.412 |
+| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 3.818 |
+| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 4.582 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 760 |
 
 ## Live terakhir — Nov 2026
 
