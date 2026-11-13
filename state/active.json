@@ -11,15 +11,27 @@
     "url": "https://www.idn.app/jkt48_giaa/live/p-261113183240",
     "image": "https://cdn.idn.app/livestream/00a2ba90bd186cad7cc63495465a76ac.webp",
     "started_at": "2026-11-13T11:32:45.000Z",
-    "viewers": 222,
-    "last_seen_at": "2026-11-13T11:36:42.482Z",
-    "peak_viewers": 222,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 410,
+    "last_seen_at": "2026-11-13T11:41:48.646Z",
+    "peak_viewers": 410,
+    "gifts": 6,
+    "gift_points": 360,
     "stars": 0,
-    "comments": 77,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 142,
+    "gift_breakdown": {
+      "Pumpkin": 2,
+      "Toa": 1,
+      "Emas Batang": 1,
+      "Combat": 1,
+      "Matcha": 1
+    },
+    "gifters": {
+      "8c3c1a24-c6c6-4354-a110-5118998d9795": "Dimas .",
+      "8e348f39-6307-4712-a956-179e673dcb7d": "Aldi Syahputra",
+      "1fed656d-366f-43e7-802e-61235b412868": "izalcul 👾",
+      "3fc522e7-322a-4d33-8ec4-00c11f46d482": "WISNU CARISSA ONLY🦖🦖🦖 AJA",
+      "2374d322-dd9e-4b61-8410-1885e371d5c7": "Daun Singkong"
+    },
     "top_gifters": [],
     "viewer_series": [
       [
@@ -41,8 +53,56 @@
       [
         4,
         222
+      ],
+      [
+        5,
+        269
+      ],
+      [
+        6,
+        292
+      ],
+      [
+        7,
+        338
+      ],
+      [
+        8,
+        362
+      ],
+      [
+        9,
+        396
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
+    "gift_gold": 90,
+    "idn_gifters": {
+      "8c3c1a24-c6c6-4354-a110-5118998d9795": {
+        "name": "Dimas .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/847d2f2c960068c8462485573551349c.webp?v=1792670160",
+        "points": 40
+      },
+      "8e348f39-6307-4712-a956-179e673dcb7d": {
+        "name": "Aldi Syahputra",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 40
+      },
+      "1fed656d-366f-43e7-802e-61235b412868": {
+        "name": "izalcul 👾",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a3d105c02fefad79e991e9049f7c6a5.webp?v=1793252652",
+        "points": 20
+      },
+      "3fc522e7-322a-4d33-8ec4-00c11f46d482": {
+        "name": "WISNU CARISSA ONLY🦖🦖🦖 AJA",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d2697f8719892a602f109b7f7e008511.webp?v=1794057590",
+        "points": 220
+      },
+      "2374d322-dd9e-4b61-8410-1885e371d5c7": {
+        "name": "Daun Singkong",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ae03704c86492f6571091cdbf44c2938.webp?v=1772290586",
+        "points": 40
+      }
+    }
   }
 }
