@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 23.23 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 23.28 WIB.
 
 ## Pakai datanya
 
@@ -28,16 +28,16 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lily | IDN Live | Buka paket | 13 Nov 2026, 22.18 | 9.159 |
-| Nala | IDN Live | HELO | 13 Nov 2026, 22.25 | 10.461 |
-| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 9.416 |
-| Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 10.102 |
+| Nala | IDN Live | HELO | 13 Nov 2026, 22.25 | 11.042 |
+| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 10.262 |
+| Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 11.285 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 9m | 1.822 | 2 | 6 | — | 349 |
+| Lily | IDN Live | Buka paket | 13 Nov 2026, 22.18 | 66m | 9.217 | 46 | 1.888 | — | 3.185 |
 | Greesel | IDN Live | hi | 13 Nov 2026, 22.11 | 65m | 7.833 | 90 | 1.569 | — | 1.912 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.41 | 64m | 4.097 | 25 | 543 | — | 1.200 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.36 | 4m | 330 | 0 | — | — | 66 |
@@ -76,7 +76,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Michie | IDN Live | wow | 12 Nov 2026, 22.41 | 61m | 9.005 | 83 | 1.370 | — | 4.613 |
 | Eli | IDN Live | KaraokELI | 12 Nov 2026, 22.41 | 128m | 4.690 | 21 | 107 | — | 869 |
 | Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 72m | 11.013 | 75 | 1.517 | — | 1.442 |
-| Delynn | IDN Live | malms bosku | 12 Nov 2026, 22.04 | 69m | 12.597 | 65 | 1.398 | — | 1.650 |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
