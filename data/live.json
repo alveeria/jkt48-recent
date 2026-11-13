@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:01:26.133Z",
+  "updated_at": "2026-11-13T06:06:35.700Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261113121352",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
       "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
       "started_at": "2026-11-13T05:13:57.000Z",
-      "viewers": 3028,
-      "last_seen_at": "2026-11-13T06:01:25.148Z",
-      "peak_viewers": 3028,
+      "viewers": 3312,
+      "last_seen_at": "2026-11-13T06:06:34.674Z",
+      "peak_viewers": 3312,
       "gifts": 19,
       "gift_points": 2240,
       "stars": 0,
-      "comments": 654,
+      "comments": 760,
       "gift_breakdown": {
         "Cold Water": 1,
         "Water": 1,
@@ -223,6 +223,30 @@
         [
           47,
           2996
+        ],
+        [
+          48,
+          3056
+        ],
+        [
+          49,
+          3089
+        ],
+        [
+          50,
+          3136
+        ],
+        [
+          51,
+          3204
+        ],
+        [
+          52,
+          3269
+        ],
+        [
+          53,
+          3312
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
@@ -240,15 +264,15 @@
       "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
       "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
       "started_at": "2026-11-13T05:29:54.000Z",
-      "viewers": 1268,
-      "last_seen_at": "2026-11-13T06:01:25.148Z",
-      "peak_viewers": 1268,
-      "gifts": 18,
-      "gift_points": 716,
+      "viewers": 1458,
+      "last_seen_at": "2026-11-13T06:06:34.674Z",
+      "peak_viewers": 1458,
+      "gifts": 20,
+      "gift_points": 820,
       "stars": 0,
-      "comments": 544,
+      "comments": 606,
       "gift_breakdown": {
-        "Team Hype": 2,
+        "Team Hype": 3,
         "Combat": 1,
         "Hii Takut": 1,
         "Toa": 5,
@@ -258,19 +282,20 @@
         "Mawar": 1,
         "Water": 1,
         "Angklung": 1,
-        "Lightstick": 1
+        "Lightstick": 1,
+        "HAHAHA": 1
       },
       "top_gifters": [
         {
           "rank": 1,
           "name": "Azrie Ahmad",
-          "points": 260,
+          "points": 340,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787"
         },
         {
           "rank": 2,
           "name": "Pasukan Bebek kwek kwek",
-          "points": 156,
+          "points": 180,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4db3910cee223618b5449838d696af27.webp?v=1787739085"
         },
         {
@@ -442,10 +467,30 @@
         [
           32,
           1268
+        ],
+        [
+          33,
+          1313
+        ],
+        [
+          34,
+          1337
+        ],
+        [
+          35,
+          1376
+        ],
+        [
+          36,
+          1415
+        ],
+        [
+          37,
+          1458
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
-      "gift_gold": 179
+      "gift_gold": 205
     }
   ]
 }
