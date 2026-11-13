@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 4513,
-    "last_seen_at": "2026-11-13T04:49:12.757Z",
-    "peak_viewers": 4513,
-    "gifts": 75,
-    "gift_points": 11356,
+    "viewers": 4694,
+    "last_seen_at": "2026-11-13T04:54:23.271Z",
+    "peak_viewers": 4694,
+    "gifts": 79,
+    "gift_points": 12956,
     "stars": 0,
-    "comments": 3483,
+    "comments": 3596,
     "gift_breakdown": {
       "Toa": 10,
       "Cold Water": 5,
@@ -38,7 +38,7 @@
       "Surabaya": 1,
       "Jari Hati": 2,
       "Angklung": 3,
-      "JKT48 Show": 7,
+      "JKT48 Show": 11,
       "Kembang Api": 1,
       "Balon Pesta": 1,
       "Kastil Hantu": 1,
@@ -336,10 +336,34 @@
       [
         61,
         4492
+      ],
+      [
+        62,
+        4525
+      ],
+      [
+        63,
+        4560
+      ],
+      [
+        64,
+        4587
+      ],
+      [
+        65,
+        4605
+      ],
+      [
+        66,
+        4652
+      ],
+      [
+        67,
+        4694
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 2839,
+    "gift_gold": 3239,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -359,7 +383,7 @@
       "060002c8-3634-4120-b0e4-8412fd48f1ac": {
         "name": "Kuncoro Wibowo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cff3df5e7afb0cd15fc5836b591672a0.webp?v=1784571507",
-        "points": 1620
+        "points": 2420
       },
       "6fd6eec2-ae66-49ea-8799-07a7cc7045e1": {
         "name": "Hugo Javaa #ungger",
@@ -429,7 +453,7 @@
       "c45e24db-268b-45e7-aabf-65e5bd8be03d": {
         "name": "Shinbé Kiyawara",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705",
-        "points": 1356
+        "points": 2156
       },
       "5adb89bd-66af-4c0e-b511-fd9ab34feae4": {
         "name": "FreeCaramel 🐻 🍯",
@@ -545,20 +569,20 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 2774,
-    "last_seen_at": "2026-11-13T04:49:12.757Z",
-    "peak_viewers": 2774,
-    "gifts": 30,
-    "gift_points": 2632,
+    "viewers": 2960,
+    "last_seen_at": "2026-11-13T04:54:23.271Z",
+    "peak_viewers": 2960,
+    "gifts": 34,
+    "gift_points": 2736,
     "stars": 0,
-    "comments": 670,
+    "comments": 718,
     "gift_breakdown": {
       "SSETAAAN": 1,
       "Angklung": 3,
       "MUTHE": 2,
       "Lightstick": 1,
       "Emas Batang": 4,
-      "Cold Water": 5,
+      "Cold Water": 6,
       "Water": 2,
       "Semangat kak": 1,
       "Lemon Tea": 3,
@@ -569,7 +593,9 @@
       "Nasi Goreng": 1,
       "Boba Tea": 1,
       "Lemonade": 1,
-      "Ikan Bakar": 1
+      "Ikan Bakar": 1,
+      "Makan ya kak": 2,
+      "Toa": 1
     },
     "gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": "Faiz Darmawan",
@@ -584,7 +610,8 @@
       "cc3e6ff4-94ec-4d81-95d4-17961a154ca4": "yusuf ucup marucup",
       "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": "Agus Priyogo",
       "5270a6ba-13ad-4433-9d2b-7fb4a5f429a7": "Zen Zen .",
-      "84236cf2-c1d6-448f-b511-9a49ffe0823c": "Lenny Octaviani"
+      "84236cf2-c1d6-448f-b511-9a49ffe0823c": "Lenny Octaviani",
+      "df872aab-c306-478a-9966-cc190663ad01": "Qiran ʕっ•ᴥ•ʔっ"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -791,10 +818,30 @@
       [
         50,
         2774
+      ],
+      [
+        51,
+        2802
+      ],
+      [
+        52,
+        2831
+      ],
+      [
+        53,
+        2871
+      ],
+      [
+        54,
+        2908
+      ],
+      [
+        55,
+        2960
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 658,
+    "gift_gold": 684,
     "idn_gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": {
         "name": "Faiz Darmawan",
@@ -859,8 +906,51 @@
       "84236cf2-c1d6-448f-b511-9a49ffe0823c": {
         "name": "Lenny Octaviani",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/35e80d7338bebdac2cf4e4b9823e07e4.webp?v=1745162359",
-        "points": 116
+        "points": 120
+      },
+      "df872aab-c306-478a-9966-cc190663ad01": {
+        "name": "Qiran ʕっ•ᴥ•ʔっ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 100
       }
     }
+  },
+  "idn:hiii-261113115224": {
+    "id": "idn:hiii-261113115224",
+    "platform": "idn",
+    "member": {
+      "name": "Gracie",
+      "username": "jkt48_gracie",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b54dbd0f2ccde80f7fc4d40c575eed24.webp?v=1778761482"
+    },
+    "title": "hiii",
+    "url": "https://www.idn.app/jkt48_gracie/live/hiii-261113115224",
+    "image": "https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp",
+    "started_at": "2026-11-13T04:52:30.000Z",
+    "viewers": 134,
+    "last_seen_at": "2026-11-13T04:54:23.271Z",
+    "peak_viewers": 134,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 32,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [
+      [
+        0,
+        11
+      ],
+      [
+        1,
+        47
+      ],
+      [
+        2,
+        134
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6"
   }
 }
