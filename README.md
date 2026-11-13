@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 21.05 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 21.10 WIB.
 
 ## Pakai datanya
 
@@ -28,12 +28,11 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 380 |
-| Gita | IDN Live | Gits | 13 Nov 2026, 20.23 | 4.779 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.24 | 4.344 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.35 | 2.674 |
-| Delynn | IDN Live | WHATSAPPP | 13 Nov 2026, 20.48 | 3.785 |
-| Fritzy | IDN Live | hai | 13 Nov 2026, 21.01 | 285 |
+| Gita | IDN Live | Gits | 13 Nov 2026, 20.23 | 5.155 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.24 | 4.772 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.35 | 3.168 |
+| Delynn | IDN Live | WHATSAPPP | 13 Nov 2026, 20.48 | 4.676 |
+| Fritzy | IDN Live | hai | 13 Nov 2026, 21.01 | 905 |
 
 ## Live terakhir — Nov 2026
 
@@ -44,6 +43,7 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Nayla | IDN Live | Manadooo | 13 Nov 2026, 19.35 | 71m | 7.152 | 33 | 593 | — | 875 |
 | Elin | IDN Live | Hai | 13 Nov 2026, 19.33 | 72m | 5.541 | 24 | 251 | — | 908 |
 | Lana | IDN Live | Hai | 13 Nov 2026, 18.46 | 74m | 7.131 | 45 | 1.098 | — | 2.738 |
+| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 138m | 380 | 4 | 104 | — | 528 |
 | Giaa | IDN Live | p | 13 Nov 2026, 18.32 | 63m | 2.680 | 30 | 369 | — | 865 |
 | Fahira | IDN Live | ada apa??? | 13 Nov 2026, 15.42 | 41m | 2.890 | 0 | — | — | 5 |
 | Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 41m | 2.957 | 23 | 1.162 | — | 455 |
@@ -78,7 +78,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Levi | IDN Live | hai | 12 Nov 2026, 20.23 | 74m | 6.216 | 9 | 281 | — | 1.526 |
 | Ribka | IDN Live | nagu mania | 12 Nov 2026, 20.12 | 83m | 6.728 | 25 | 445 | — | 1.151 |
 | Giaa | IDN Live | p  | 12 Nov 2026, 20.04 | 55m | 2.442 | 14 | 194 | — | 315 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 12 Nov 2026, 19.23 | 65m | 5.862 | 0 | — | — | 0 |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
