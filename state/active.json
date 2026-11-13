@@ -11,20 +11,24 @@
     "url": "https://www.idn.app/jkt48_gracie/live/hiii-261113115224",
     "image": "https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp",
     "started_at": "2026-11-13T04:52:30.000Z",
-    "viewers": 1166,
-    "last_seen_at": "2026-11-13T05:04:44.353Z",
-    "peak_viewers": 1166,
-    "gifts": 9,
-    "gift_points": 180,
+    "viewers": 1467,
+    "last_seen_at": "2026-11-13T05:09:54.660Z",
+    "peak_viewers": 1467,
+    "gifts": 23,
+    "gift_points": 800,
     "stars": 0,
-    "comments": 233,
+    "comments": 337,
     "gift_breakdown": {
-      "Kompas": 2,
-      "Toa": 3,
+      "Kompas": 4,
+      "Toa": 8,
       "Lato-Lato": 1,
-      "Water": 1,
-      "SSETAAAN": 1,
-      "Puding": 1
+      "Water": 2,
+      "SSETAAAN": 2,
+      "Puding": 1,
+      "GRACIE": 1,
+      "Angklung": 2,
+      "Pumpkin": 1,
+      "Lightstick": 1
     },
     "gifters": {
       "52b95f5c-ab59-4e36-982b-97d78932927a": "EchiiInii .",
@@ -34,7 +38,17 @@
       "ea652666-7a33-40d0-85da-f9d75169da08": "Albert Camus",
       "04a589a2-8071-496f-9e0c-dc99246643f9": "WINDHU COYYY ",
       "f92d7cf8-79dd-4447-aded-a17063dc4a53": "Ontaarab ",
-      "94139a78-2a85-4c2d-a69c-8159d758f14f": "Samidiii"
+      "94139a78-2a85-4c2d-a69c-8159d758f14f": "Samidiii",
+      "81319c79-f730-4372-9a91-fb85a977d827": "Robbi Bebe",
+      "9f9a6437-89ee-4b1d-9ba6-056e2b1335fe": "Dikycuyy #AllAboutGracie",
+      "6a9aba81-5230-45f3-ae6c-9d7a7b4696ff": "Grace Jovanka",
+      "fbeb07de-5ae4-44e2-ab5c-f0ae1275a0e6": "Heggyss Septian",
+      "6a915f7f-1d54-4014-859b-f43c0bedc09c": "Luqman gzn",
+      "b0faab18-e069-45c9-8050-3fc10b2d7cea": "IniStep ",
+      "ce2f3d07-96e1-4bb2-b3c2-c242e16274d4": "Aldyan Fanindya",
+      "4738ca13-27f5-4a6a-8d46-adc8a1df921b": "Riann ",
+      "b00939dd-d715-4d73-935f-0b27b203357b": "Josafat #DedekGracie",
+      "2fd9bc32-a783-4fb2-9478-077550723031": "Alycia Kesayangn Michie"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -89,10 +103,30 @@
       [
         12,
         1127
+      ],
+      [
+        13,
+        1203
+      ],
+      [
+        14,
+        1271
+      ],
+      [
+        15,
+        1337
+      ],
+      [
+        16,
+        1378
+      ],
+      [
+        17,
+        1436
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "gift_gold": 45,
+    "gift_gold": 200,
     "idn_gifters": {
       "52b95f5c-ab59-4e36-982b-97d78932927a": {
         "name": "EchiiInii .",
@@ -112,7 +146,7 @@
       "933678df-78f5-47d2-a7ae-a34ba49ad313": {
         "name": "Ghina S",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ce21aa71926a0607d552927ee1a7415.webp?v=1765767824",
-        "points": 36
+        "points": 40
       },
       "ea652666-7a33-40d0-85da-f9d75169da08": {
         "name": "Albert Camus",
@@ -122,17 +156,67 @@
       "04a589a2-8071-496f-9e0c-dc99246643f9": {
         "name": "WINDHU COYYY ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/feee6d5884ec88d00e275d827b620425.webp?v=1785996421",
-        "points": 20
+        "points": 40
       },
       "f92d7cf8-79dd-4447-aded-a17063dc4a53": {
         "name": "Ontaarab ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4fe30a2c4669ff75a767797a5f828a2.webp?v=1794391961",
-        "points": 24
+        "points": 48
       },
       "94139a78-2a85-4c2d-a69c-8159d758f14f": {
         "name": "Samidiii",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 16
+      },
+      "81319c79-f730-4372-9a91-fb85a977d827": {
+        "name": "Robbi Bebe",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cae44e5038f92c5047da8aeec31cf20e.webp?v=1785756182",
+        "points": 20
+      },
+      "9f9a6437-89ee-4b1d-9ba6-056e2b1335fe": {
+        "name": "Dikycuyy #AllAboutGracie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6a265d9e4be281b1b3a31ce2ce8f1e49.webp?v=1789737848",
+        "points": 80
+      },
+      "6a9aba81-5230-45f3-ae6c-9d7a7b4696ff": {
+        "name": "Grace Jovanka",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ea2bdffeab920c0adebdb071444f526e.webp?v=1794477650",
+        "points": 116
+      },
+      "fbeb07de-5ae4-44e2-ab5c-f0ae1275a0e6": {
+        "name": "Heggyss Septian",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/28036b579674116f70da81484450a53a.webp?v=1793711683",
+        "points": 20
+      },
+      "6a915f7f-1d54-4014-859b-f43c0bedc09c": {
+        "name": "Luqman gzn",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f74f3faf7fad6ef4f66b9b7788f986c5.webp?v=1794540387",
+        "points": 20
+      },
+      "b0faab18-e069-45c9-8050-3fc10b2d7cea": {
+        "name": "IniStep ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/67a60d5dbdbe843d5c25540656dc9962.webp?v=1794236674",
+        "points": 20
+      },
+      "ce2f3d07-96e1-4bb2-b3c2-c242e16274d4": {
+        "name": "Aldyan Fanindya",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0b964b40c9c839a6db92c4507db557cb.webp?v=1755950994",
+        "points": 116
+      },
+      "4738ca13-27f5-4a6a-8d46-adc8a1df921b": {
+        "name": "Riann ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2b7635388880ff7345d7c7f4b4c70b53.webp?v=1752164858",
+        "points": 140
+      },
+      "b00939dd-d715-4d73-935f-0b27b203357b": {
+        "name": "Josafat #DedekGracie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4ec7a70e10ffce757cff99190cfb63b3.webp?v=1787153186",
+        "points": 20
+      },
+      "2fd9bc32-a783-4fb2-9478-077550723031": {
+        "name": "Alycia Kesayangn Michie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bd53f3ec7c5056bdb5ef2c82a1f1f4ab.webp?v=1794488832",
+        "points": 20
       }
     }
   }

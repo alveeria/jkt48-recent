@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T05:04:45.393Z",
+  "updated_at": "2026-11-13T05:09:55.622Z",
   "lives": [
     {
       "id": "idn:hiii-261113115224",
@@ -13,69 +13,85 @@
       "url": "https://www.idn.app/jkt48_gracie/live/hiii-261113115224",
       "image": "https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp",
       "started_at": "2026-11-13T04:52:30.000Z",
-      "viewers": 1166,
-      "last_seen_at": "2026-11-13T05:04:44.353Z",
-      "peak_viewers": 1166,
-      "gifts": 9,
-      "gift_points": 180,
+      "viewers": 1467,
+      "last_seen_at": "2026-11-13T05:09:54.660Z",
+      "peak_viewers": 1467,
+      "gifts": 23,
+      "gift_points": 800,
       "stars": 0,
-      "comments": 233,
+      "comments": 337,
       "gift_breakdown": {
-        "Kompas": 2,
-        "Toa": 3,
+        "Kompas": 4,
+        "Toa": 8,
         "Lato-Lato": 1,
-        "Water": 1,
-        "SSETAAAN": 1,
-        "Puding": 1
+        "Water": 2,
+        "SSETAAAN": 2,
+        "Puding": 1,
+        "GRACIE": 1,
+        "Angklung": 2,
+        "Pumpkin": 1,
+        "Lightstick": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "Riann ",
+          "points": 140,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2b7635388880ff7345d7c7f4b4c70b53.webp?v=1752164858"
+        },
+        {
+          "rank": 2,
+          "name": "Grace Jovanka",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ea2bdffeab920c0adebdb071444f526e.webp?v=1794477650"
+        },
+        {
+          "rank": 3,
+          "name": "Aldyan Fanindya",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0b964b40c9c839a6db92c4507db557cb.webp?v=1755950994"
+        },
+        {
+          "rank": 4,
+          "name": "Dikycuyy #AllAboutGracie",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6a265d9e4be281b1b3a31ce2ce8f1e49.webp?v=1789737848"
+        },
+        {
+          "rank": 5,
+          "name": "Ontaarab ",
+          "points": 48,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4fe30a2c4669ff75a767797a5f828a2.webp?v=1794391961"
+        },
+        {
+          "rank": 6,
           "name": "EchiiInii .",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/65e2f2fa99fdb08a40831bca8d7ab5b9.webp?v=1793541518"
         },
         {
-          "rank": 2,
+          "rank": 7,
           "name": "Ghina S",
-          "points": 36,
+          "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ce21aa71926a0607d552927ee1a7415.webp?v=1765767824"
         },
         {
-          "rank": 3,
-          "name": "Ontaarab ",
-          "points": 24,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4fe30a2c4669ff75a767797a5f828a2.webp?v=1794391961"
+          "rank": 8,
+          "name": "WINDHU COYYY ",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/feee6d5884ec88d00e275d827b620425.webp?v=1785996421"
         },
         {
-          "rank": 4,
+          "rank": 9,
           "name": "ruli 🐰",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/64630341a1f68f4131dfcb174e891666.webp?v=1788792893"
         },
         {
-          "rank": 5,
+          "rank": 10,
           "name": "Bli Putu Dicky MP",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9659f3252457548f57cbdcda34f1ad4.webp?v=1792135196"
-        },
-        {
-          "rank": 6,
-          "name": "WINDHU COYYY ",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/feee6d5884ec88d00e275d827b620425.webp?v=1785996421"
-        },
-        {
-          "rank": 7,
-          "name": "Samidiii",
-          "points": 16,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-        },
-        {
-          "rank": 8,
-          "name": "Albert Camus",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ad5b59969fbd3922e68c511477190bd.webp?v=1794317449"
         }
       ],
       "viewer_series": [
@@ -130,10 +146,30 @@
         [
           12,
           1127
+        ],
+        [
+          13,
+          1203
+        ],
+        [
+          14,
+          1271
+        ],
+        [
+          15,
+          1337
+        ],
+        [
+          16,
+          1378
+        ],
+        [
+          17,
+          1436
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-      "gift_gold": 45
+      "gift_gold": 200
     }
   ]
 }
