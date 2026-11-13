@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_giaa/live/p-261113183240",
     "image": "https://cdn.idn.app/livestream/00a2ba90bd186cad7cc63495465a76ac.webp",
     "started_at": "2026-11-13T11:32:45.000Z",
-    "viewers": 716,
-    "last_seen_at": "2026-11-13T11:46:57.933Z",
-    "peak_viewers": 716,
+    "viewers": 916,
+    "last_seen_at": "2026-11-13T11:52:04.440Z",
+    "peak_viewers": 916,
     "gifts": 10,
     "gift_points": 460,
     "stars": 0,
-    "comments": 277,
+    "comments": 349,
     "gift_breakdown": {
       "Pumpkin": 2,
       "Toa": 3,
@@ -95,6 +95,26 @@
       [
         14,
         699
+      ],
+      [
+        15,
+        741
+      ],
+      [
+        16,
+        784
+      ],
+      [
+        17,
+        820
+      ],
+      [
+        18,
+        857
+      ],
+      [
+        19,
+        897
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
@@ -144,15 +164,20 @@
     "url": "https://www.idn.app/jkt48_lana/live/hai-261113184616",
     "image": "https://cdn.idn.app/livestream/fa15d2c6657dd8d0eee847762907a172.webp",
     "started_at": "2026-11-13T11:46:22.000Z",
-    "viewers": 40,
-    "last_seen_at": "2026-11-13T11:46:57.933Z",
-    "peak_viewers": 40,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 787,
+    "last_seen_at": "2026-11-13T11:52:04.440Z",
+    "peak_viewers": 787,
+    "gifts": 2,
+    "gift_points": 392,
     "stars": 0,
-    "comments": 8,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 288,
+    "gift_breakdown": {
+      "Emas Batang": 2
+    },
+    "gifters": {
+      "86ced4ed-e7ef-4c90-95ed-1cdb2e5e868d": "Andre Fahreza",
+      "0a9d189d-f296-4d8c-bef5-22a878d69082": "ᯓ Iki Lan ᯓ"
+    },
     "top_gifters": [],
     "viewer_series": [
       [
@@ -162,9 +187,42 @@
       [
         1,
         40
+      ],
+      [
+        2,
+        210
+      ],
+      [
+        3,
+        353
+      ],
+      [
+        4,
+        462
+      ],
+      [
+        5,
+        587
+      ],
+      [
+        6,
+        787
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
+    "gift_gold": 98,
+    "idn_gifters": {
+      "86ced4ed-e7ef-4c90-95ed-1cdb2e5e868d": {
+        "name": "Andre Fahreza",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/87bec3c1de14ea5a622ba7bb5a99b0bd.webp?v=1793945460",
+        "points": 196
+      },
+      "0a9d189d-f296-4d8c-bef5-22a878d69082": {
+        "name": "ᯓ Iki Lan ᯓ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/560be429d0e27b4111d44953d9490555.webp?v=1793697115",
+        "points": 196
+      }
+    }
   },
   "idn:pajama-drive-2026-11-13-261105215553": {
     "id": "idn:pajama-drive-2026-11-13-261105215553",
@@ -178,13 +236,13 @@
     "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
     "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
     "started_at": "2026-11-13T11:46:04.000Z",
-    "viewers": 12,
-    "last_seen_at": "2026-11-13T11:46:57.933Z",
-    "peak_viewers": 12,
+    "viewers": 47,
+    "last_seen_at": "2026-11-13T11:52:04.440Z",
+    "peak_viewers": 47,
     "gifts": 0,
     "gift_points": 0,
     "stars": 0,
-    "comments": 0,
+    "comments": 7,
     "gift_breakdown": {},
     "gifters": {},
     "top_gifters": [],
@@ -196,6 +254,26 @@
       [
         1,
         12
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        3,
+        27
+      ],
+      [
+        4,
+        34
+      ],
+      [
+        5,
+        41
+      ],
+      [
+        6,
+        44
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E"
