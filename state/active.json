@@ -11,24 +11,26 @@
     "url": "https://www.idn.app/jkt48_gracie/live/hiii-261113115224",
     "image": "https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp",
     "started_at": "2026-11-13T04:52:30.000Z",
-    "viewers": 1793,
-    "last_seen_at": "2026-11-13T05:15:06.987Z",
-    "peak_viewers": 1793,
-    "gifts": 25,
-    "gift_points": 856,
+    "viewers": 2180,
+    "last_seen_at": "2026-11-13T05:20:20.074Z",
+    "peak_viewers": 2180,
+    "gifts": 32,
+    "gift_points": 1432,
     "stars": 0,
-    "comments": 476,
+    "comments": 640,
     "gift_breakdown": {
       "Kompas": 4,
-      "Toa": 8,
+      "Toa": 9,
       "Lato-Lato": 1,
       "Water": 2,
       "SSETAAAN": 2,
       "Puding": 2,
-      "GRACIE": 1,
-      "Angklung": 2,
+      "GRACIE": 3,
+      "Angklung": 3,
       "Pumpkin": 2,
-      "Lightstick": 1
+      "Lightstick": 2,
+      "ELIN": 1,
+      "Arcade Game": 1
     },
     "gifters": {
       "52b95f5c-ab59-4e36-982b-97d78932927a": "EchiiInii .",
@@ -48,7 +50,11 @@
       "ce2f3d07-96e1-4bb2-b3c2-c242e16274d4": "Aldyan Fanindya",
       "4738ca13-27f5-4a6a-8d46-adc8a1df921b": "Riann ",
       "b00939dd-d715-4d73-935f-0b27b203357b": "Josafat #DedekGracie",
-      "2fd9bc32-a783-4fb2-9478-077550723031": "Alycia Kesayangn Michie"
+      "2fd9bc32-a783-4fb2-9478-077550723031": "Alycia Kesayangn Michie",
+      "a3e57fc6-c9e7-460a-b764-285d3f5868cf": "tasya Tasyul",
+      "11bb746d-1488-42b9-a98f-63621a750cb5": "Raffly (Hanayume)",
+      "4d787067-fbd7-4a33-8af5-4ffc173f378b": "Haris Mubarok",
+      "0f56a589-d538-403b-91f6-61d807dcb021": "Ivan R"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -147,10 +153,30 @@
       [
         23,
         1793
+      ],
+      [
+        24,
+        1874
+      ],
+      [
+        25,
+        1949
+      ],
+      [
+        26,
+        2024
+      ],
+      [
+        27,
+        2096
+      ],
+      [
+        28,
+        2180
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "gift_gold": 214,
+    "gift_gold": 358,
     "idn_gifters": {
       "52b95f5c-ab59-4e36-982b-97d78932927a": {
         "name": "EchiiInii .",
@@ -235,12 +261,32 @@
       "b00939dd-d715-4d73-935f-0b27b203357b": {
         "name": "Josafat #DedekGracie",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4ec7a70e10ffce757cff99190cfb63b3.webp?v=1787153186",
-        "points": 20
+        "points": 280
       },
       "2fd9bc32-a783-4fb2-9478-077550723031": {
         "name": "Alycia Kesayangn Michie",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bd53f3ec7c5056bdb5ef2c82a1f1f4ab.webp?v=1794488832",
         "points": 20
+      },
+      "a3e57fc6-c9e7-460a-b764-285d3f5868cf": {
+        "name": "tasya Tasyul",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/76aa95956541b6822dbd59ba427141a2.webp?v=1785332809",
+        "points": 20
+      },
+      "11bb746d-1488-42b9-a98f-63621a750cb5": {
+        "name": "Raffly (Hanayume)",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8c9c43547717f6a44a8b6d19ba20dfc.webp?v=1786458208",
+        "points": 116
+      },
+      "4d787067-fbd7-4a33-8af5-4ffc173f378b": {
+        "name": "Haris Mubarok",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b08127b35a382f71b0f151a08faef831.webp?v=1787667718",
+        "points": 80
+      },
+      "0f56a589-d538-403b-91f6-61d807dcb021": {
+        "name": "Ivan R",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8928000c1d81affbbeee6d064ef61f5a.webp?v=1793723466",
+        "points": 100
       }
     }
   },
@@ -256,15 +302,24 @@
     "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
     "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
     "started_at": "2026-11-13T05:13:57.000Z",
-    "viewers": 77,
-    "last_seen_at": "2026-11-13T05:15:06.987Z",
-    "peak_viewers": 77,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 455,
+    "last_seen_at": "2026-11-13T05:20:20.074Z",
+    "peak_viewers": 455,
+    "gifts": 4,
+    "gift_points": 276,
     "stars": 0,
-    "comments": 18,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 127,
+    "gift_breakdown": {
+      "Emas Batang": 1,
+      "Matcha": 1,
+      "Kompas": 1,
+      "Toa": 1
+    },
+    "gifters": {
+      "1b64799d-0961-4abb-805c-f7f5891f7105": "Bayou ❤️‍🔥ADJ",
+      "372a34dd-3642-468e-82d9-586d0a7b2dbc": "egi ☆",
+      "6cb4e568-56c2-4ce5-bd55-2e9bd8fea3e5": "Adil Selalu"
+    },
     "top_gifters": [],
     "viewer_series": [
       [
@@ -274,8 +329,46 @@
       [
         1,
         37
+      ],
+      [
+        2,
+        118
+      ],
+      [
+        3,
+        185
+      ],
+      [
+        4,
+        274
+      ],
+      [
+        5,
+        344
+      ],
+      [
+        6,
+        416
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
+    "gift_gold": 69,
+    "idn_gifters": {
+      "1b64799d-0961-4abb-805c-f7f5891f7105": {
+        "name": "Bayou ❤️‍🔥ADJ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6390294d49dc9eb6574f98e2a723f601.webp?v=1794465857",
+        "points": 236
+      },
+      "372a34dd-3642-468e-82d9-586d0a7b2dbc": {
+        "name": "egi ☆",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfad89ec6f6649b43c13fd85f0a19331.webp?v=1781529609",
+        "points": 20
+      },
+      "6cb4e568-56c2-4ce5-bd55-2e9bd8fea3e5": {
+        "name": "Adil Selalu",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/27f749e011df91882820b5bf9b5b3604.webp?v=1793886957",
+        "points": 20
+      }
+    }
   }
 }
