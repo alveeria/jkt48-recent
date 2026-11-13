@@ -1,357 +1,4 @@
 {
-  "idn:hellooo-261113122949": {
-    "id": "idn:hellooo-261113122949",
-    "platform": "idn",
-    "member": {
-      "name": "Rilly",
-      "username": "jkt48_rilly",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5e38d8edf838fca332ba020f7bb73ec2.webp?v=1743097350"
-    },
-    "title": "Hellooo",
-    "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
-    "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
-    "started_at": "2026-11-13T05:29:54.000Z",
-    "viewers": 2315,
-    "last_seen_at": "2026-11-13T06:32:24.657Z",
-    "peak_viewers": 2315,
-    "gifts": 22,
-    "gift_points": 848,
-    "stars": 0,
-    "comments": 999,
-    "gift_breakdown": {
-      "Team Hype": 3,
-      "Combat": 2,
-      "Hii Takut": 1,
-      "Toa": 5,
-      "Matcha": 2,
-      "Kompas": 2,
-      "Makan ya kak": 1,
-      "Mawar": 1,
-      "Water": 2,
-      "Angklung": 1,
-      "Lightstick": 1,
-      "HAHAHA": 1
-    },
-    "gifters": {
-      "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad",
-      "867fd685-73b9-4a27-8175-0c063df10885": "ahnaf Fawwaz",
-      "adb2760e-10df-467b-90ce-cfc5ea0e33b8": "sepz 14",
-      "3badf035-5902-49ae-ad81-7343d34fd7db": "Maska lagi tidur 🛌",
-      "cda90855-b042-41b4-a55a-ded861c484a1": "Dewade Dwipa",
-      "c87cc2bb-d368-4d78-bde9-3d5521e86e70": "Rey .",
-      "fe4e2027-4e43-4616-99d1-75c9d8b07d50": "Pasukan Bebek kwek kwek",
-      "2e9c273d-a114-41a9-9ba7-c61939f7a2da": "John Smith",
-      "2d34f027-ef8a-4b1e-8b43-fc72c75405cc": "Juan Adiknya Thanos"
-    },
-    "top_gifters": [],
-    "viewer_series": [
-      [
-        0,
-        2
-      ],
-      [
-        1,
-        33
-      ],
-      [
-        2,
-        72
-      ],
-      [
-        3,
-        148
-      ],
-      [
-        4,
-        200
-      ],
-      [
-        5,
-        254
-      ],
-      [
-        6,
-        311
-      ],
-      [
-        7,
-        357
-      ],
-      [
-        8,
-        421
-      ],
-      [
-        9,
-        457
-      ],
-      [
-        10,
-        500
-      ],
-      [
-        11,
-        534
-      ],
-      [
-        12,
-        570
-      ],
-      [
-        13,
-        616
-      ],
-      [
-        14,
-        669
-      ],
-      [
-        15,
-        710
-      ],
-      [
-        16,
-        747
-      ],
-      [
-        17,
-        761
-      ],
-      [
-        18,
-        801
-      ],
-      [
-        19,
-        842
-      ],
-      [
-        20,
-        866
-      ],
-      [
-        21,
-        898
-      ],
-      [
-        22,
-        938
-      ],
-      [
-        23,
-        966
-      ],
-      [
-        24,
-        998
-      ],
-      [
-        25,
-        1025
-      ],
-      [
-        26,
-        1054
-      ],
-      [
-        27,
-        1080
-      ],
-      [
-        28,
-        1112
-      ],
-      [
-        29,
-        1171
-      ],
-      [
-        30,
-        1200
-      ],
-      [
-        31,
-        1242
-      ],
-      [
-        32,
-        1268
-      ],
-      [
-        33,
-        1313
-      ],
-      [
-        34,
-        1337
-      ],
-      [
-        35,
-        1376
-      ],
-      [
-        36,
-        1415
-      ],
-      [
-        37,
-        1458
-      ],
-      [
-        38,
-        1495
-      ],
-      [
-        39,
-        1522
-      ],
-      [
-        40,
-        1561
-      ],
-      [
-        41,
-        1589
-      ],
-      [
-        42,
-        1629
-      ],
-      [
-        43,
-        1655
-      ],
-      [
-        44,
-        1685
-      ],
-      [
-        45,
-        1716
-      ],
-      [
-        46,
-        1739
-      ],
-      [
-        47,
-        1767
-      ],
-      [
-        48,
-        1784
-      ],
-      [
-        49,
-        1824
-      ],
-      [
-        50,
-        1905
-      ],
-      [
-        51,
-        1961
-      ],
-      [
-        52,
-        1990
-      ],
-      [
-        53,
-        2016
-      ],
-      [
-        54,
-        2034
-      ],
-      [
-        55,
-        2063
-      ],
-      [
-        56,
-        2082
-      ],
-      [
-        57,
-        2103
-      ],
-      [
-        58,
-        2128
-      ],
-      [
-        59,
-        2172
-      ],
-      [
-        60,
-        2220
-      ],
-      [
-        61,
-        2249
-      ],
-      [
-        62,
-        2288
-      ],
-      [
-        63,
-        2315
-      ]
-    ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
-    "gift_gold": 212,
-    "idn_gifters": {
-      "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": {
-        "name": "Azrie Ahmad",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787",
-        "points": 340
-      },
-      "867fd685-73b9-4a27-8175-0c063df10885": {
-        "name": "ahnaf Fawwaz",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e9979a516513cef3199dba57befb95e6.webp?v=1754904553",
-        "points": 24
-      },
-      "adb2760e-10df-467b-90ce-cfc5ea0e33b8": {
-        "name": "sepz 14",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/60c6fbabbd89f5c5f5774bd690e28585.webp?v=1784507604",
-        "points": 52
-      },
-      "3badf035-5902-49ae-ad81-7343d34fd7db": {
-        "name": "Maska lagi tidur 🛌",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bfec47f8124b037f949df2259732a9ff.webp?v=1794485778",
-        "points": 20
-      },
-      "cda90855-b042-41b4-a55a-ded861c484a1": {
-        "name": "Dewade Dwipa",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2382f07f1e5f64ad95985a215daeb55d.webp?v=1784595744",
-        "points": 140
-      },
-      "c87cc2bb-d368-4d78-bde9-3d5521e86e70": {
-        "name": "Rey .",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa8b1106b07ec0422f4a7645d5f2c07e.webp?v=1794315141",
-        "points": 28
-      },
-      "fe4e2027-4e43-4616-99d1-75c9d8b07d50": {
-        "name": "Pasukan Bebek kwek kwek",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4db3910cee223618b5449838d696af27.webp?v=1787739085",
-        "points": 180
-      },
-      "2e9c273d-a114-41a9-9ba7-c61939f7a2da": {
-        "name": "John Smith",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/012ae059cb92eb61df5a691fbd88e8d4.webp?v=1794041963",
-        "points": 40
-      },
-      "2d34f027-ef8a-4b1e-8b43-fc72c75405cc": {
-        "name": "Juan Adiknya Thanos",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dc1393bacdff35b3ccb4c9b8940d6115.webp?v=1794487059",
-        "points": 24
-      }
-    }
-  },
   "idn:ayo-ngobrol-bareng-261113132606": {
     "id": "idn:ayo-ngobrol-bareng-261113132606",
     "platform": "idn",
@@ -364,20 +11,28 @@
     "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261113132606",
     "image": "https://cdn.idn.app/livestream/b26395fa8695182a5371382645230d0a.webp",
     "started_at": "2026-11-13T06:26:12.000Z",
-    "viewers": 929,
-    "last_seen_at": "2026-11-13T06:32:24.657Z",
-    "peak_viewers": 929,
-    "gifts": 2,
-    "gift_points": 232,
+    "viewers": 2114,
+    "last_seen_at": "2026-11-13T06:37:34.269Z",
+    "peak_viewers": 2114,
+    "gifts": 6,
+    "gift_points": 424,
     "stars": 0,
-    "comments": 115,
+    "comments": 255,
     "gift_breakdown": {
       "Padang": 1,
-      "Angklung": 1
+      "Angklung": 1,
+      "Rendang": 1,
+      "INDAH": 1,
+      "Pumpkin": 1,
+      "Matcha": 1
     },
     "gifters": {
       "682eb8e5-ca59-418e-ba2a-a9087c7f0677": "Tommy '(",
-      "ed93ff1b-c143-44fe-8ac6-f2733a00b858": "rererizkYYYY (((("
+      "ed93ff1b-c143-44fe-8ac6-f2733a00b858": "rererizkYYYY ((((",
+      "42ee3ac1-9864-4c60-823b-e054240a0e9d": "Fildza Hadyan",
+      "d4040465-f418-48eb-87d2-1d0adcc7206e": "Jay Kangen Dedek Indah",
+      "dbd9e107-5c2b-40f1-9874-8a6a94dc847d": "Raiiiii ditinggal mommy grad",
+      "0c5be3f6-d56c-42d7-a6b4-17a6b427b2ca": "Adit A"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -408,10 +63,30 @@
       [
         6,
         829
+      ],
+      [
+        7,
+        1045
+      ],
+      [
+        8,
+        1235
+      ],
+      [
+        9,
+        1451
+      ],
+      [
+        10,
+        1760
+      ],
+      [
+        11,
+        2004
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
-    "gift_gold": 58,
+    "gift_gold": 106,
     "idn_gifters": {
       "682eb8e5-ca59-418e-ba2a-a9087c7f0677": {
         "name": "Tommy '(",
@@ -422,6 +97,26 @@
         "name": "rererizkYYYY ((((",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a25191c14afcb537c69128b2a5fc1569.webp?v=1794032903",
         "points": 116
+      },
+      "42ee3ac1-9864-4c60-823b-e054240a0e9d": {
+        "name": "Fildza Hadyan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/11f6469f61b1a09d93f21cb1f1106541.webp?v=1787239382",
+        "points": 32
+      },
+      "d4040465-f418-48eb-87d2-1d0adcc7206e": {
+        "name": "Jay Kangen Dedek Indah",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eecb1fb6553479efc6976def17855879.webp?v=1787238946",
+        "points": 80
+      },
+      "dbd9e107-5c2b-40f1-9874-8a6a94dc847d": {
+        "name": "Raiiiii ditinggal mommy grad",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/66dcb1c9577515fac1e041a89e9e1f02.webp?v=1793606732",
+        "points": 40
+      },
+      "0c5be3f6-d56c-42d7-a6b4-17a6b427b2ca": {
+        "name": "Adit A",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 40
       }
     }
   },
@@ -437,19 +132,29 @@
     "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261113132622",
     "image": "https://cdn.idn.app/livestream/a057bf98dc019e9e76f602497b66c2c8.webp",
     "started_at": "2026-11-13T06:26:29.000Z",
-    "viewers": 883,
-    "last_seen_at": "2026-11-13T06:32:24.657Z",
-    "peak_viewers": 883,
-    "gifts": 3,
-    "gift_points": 588,
+    "viewers": 1762,
+    "last_seen_at": "2026-11-13T06:37:34.269Z",
+    "peak_viewers": 1762,
+    "gifts": 11,
+    "gift_points": 1548,
     "stars": 0,
-    "comments": 61,
+    "comments": 167,
     "gift_breakdown": {
-      "Emas Batang": 3
+      "Emas Batang": 5,
+      "Tumpeng": 1,
+      "INDAH": 1,
+      "MIKAELA": 1,
+      "Kucing": 1,
+      "Toa": 1,
+      "Team Chill": 1
     },
     "gifters": {
       "408098c4-dadf-48a6-94d1-351b6e9dfd37": "rizky pratama",
-      "a6818f9b-672c-4dd4-86c7-9768d04c312a": "Arya Sutanto"
+      "a6818f9b-672c-4dd4-86c7-9768d04c312a": "Arya Sutanto",
+      "68488ddb-4b3f-4179-a64c-bf5ecb6b1a44": "ㅤ ㅤ",
+      "d4040465-f418-48eb-87d2-1d0adcc7206e": "Jay Kangen Dedek Indah",
+      "6a1fc180-213b-4faf-b590-5ab4398b3fa7": "RoyZy 🤙💜",
+      "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": "Franko ..."
     },
     "top_gifters": [],
     "viewer_series": [
@@ -480,20 +185,60 @@
       [
         6,
         883
+      ],
+      [
+        7,
+        1062
+      ],
+      [
+        8,
+        1222
+      ],
+      [
+        9,
+        1287
+      ],
+      [
+        10,
+        1487
+      ],
+      [
+        11,
+        1678
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
-    "gift_gold": 147,
+    "gift_gold": 387,
     "idn_gifters": {
       "408098c4-dadf-48a6-94d1-351b6e9dfd37": {
         "name": "rizky pratama",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92e2dd223b08aea025baa84b635766df.webp?v=1794387195",
-        "points": 392
+        "points": 852
       },
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": {
         "name": "Arya Sutanto",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/576c634c83a0f5a040f0f760c42e7362.webp?v=1758817060",
-        "points": 196
+        "points": 436
+      },
+      "68488ddb-4b3f-4179-a64c-bf5ecb6b1a44": {
+        "name": "ㅤ ㅤ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/93740188af89cc51b18e960d2c42e943.webp?v=1791458472",
+        "points": 80
+      },
+      "d4040465-f418-48eb-87d2-1d0adcc7206e": {
+        "name": "Jay Kangen Dedek Indah",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eecb1fb6553479efc6976def17855879.webp?v=1787238946",
+        "points": 80
+      },
+      "6a1fc180-213b-4faf-b590-5ab4398b3fa7": {
+        "name": "RoyZy 🤙💜",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfb91ac8c224a8984d706474dd961eb3.webp?v=1794546556",
+        "points": 20
+      },
+      "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": {
+        "name": "Franko ...",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626",
+        "points": 80
       }
     }
   }

@@ -1,5 +1,371 @@
 [
   {
+    "id": "idn:alveeria-2817",
+    "platform": "idn",
+    "member": {
+      "name": "Rilly",
+      "username": "jkt48_rilly",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5e38d8edf838fca332ba020f7bb73ec2.webp?v=1743097350"
+    },
+    "title": "Hellooo",
+    "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
+    "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
+    "started_at": "2026-11-13T05:29:54.000Z",
+    "last_seen_at": "2026-11-13T06:36:01.948Z",
+    "peak_viewers": 2466,
+    "gifts": 23,
+    "gift_points": 964,
+    "stars": 0,
+    "comments": 1045,
+    "gift_breakdown": {
+      "Team Hype": 3,
+      "Combat": 2,
+      "Hii Takut": 1,
+      "Toa": 5,
+      "Matcha": 2,
+      "Kompas": 2,
+      "Makan ya kak": 1,
+      "Mawar": 1,
+      "Water": 2,
+      "Angklung": 2,
+      "Lightstick": 1,
+      "HAHAHA": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Azrie Ahmad",
+        "points": 340,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787"
+      },
+      {
+        "rank": 2,
+        "name": "Pasukan Bebek kwek kwek",
+        "points": 296,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4db3910cee223618b5449838d696af27.webp?v=1787739085"
+      },
+      {
+        "rank": 3,
+        "name": "Dewade Dwipa",
+        "points": 140,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2382f07f1e5f64ad95985a215daeb55d.webp?v=1784595744"
+      },
+      {
+        "rank": 4,
+        "name": "sepz 14",
+        "points": 52,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/60c6fbabbd89f5c5f5774bd690e28585.webp?v=1784507604"
+      },
+      {
+        "rank": 5,
+        "name": "John Smith",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/012ae059cb92eb61df5a691fbd88e8d4.webp?v=1794041963"
+      },
+      {
+        "rank": 6,
+        "name": "Rey .",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa8b1106b07ec0422f4a7645d5f2c07e.webp?v=1794315141"
+      },
+      {
+        "rank": 7,
+        "name": "ahnaf Fawwaz",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e9979a516513cef3199dba57befb95e6.webp?v=1754904553"
+      },
+      {
+        "rank": 8,
+        "name": "Juan Adiknya Thanos",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dc1393bacdff35b3ccb4c9b8940d6115.webp?v=1794487059"
+      },
+      {
+        "rank": 9,
+        "name": "Maska lagi tidur 🛌",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bfec47f8124b037f949df2259732a9ff.webp?v=1794485778"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        2,
+        72
+      ],
+      [
+        3,
+        148
+      ],
+      [
+        4,
+        200
+      ],
+      [
+        5,
+        254
+      ],
+      [
+        6,
+        311
+      ],
+      [
+        7,
+        357
+      ],
+      [
+        8,
+        421
+      ],
+      [
+        9,
+        457
+      ],
+      [
+        10,
+        500
+      ],
+      [
+        11,
+        534
+      ],
+      [
+        12,
+        570
+      ],
+      [
+        13,
+        616
+      ],
+      [
+        14,
+        669
+      ],
+      [
+        15,
+        710
+      ],
+      [
+        16,
+        747
+      ],
+      [
+        17,
+        761
+      ],
+      [
+        18,
+        801
+      ],
+      [
+        19,
+        842
+      ],
+      [
+        20,
+        866
+      ],
+      [
+        21,
+        898
+      ],
+      [
+        22,
+        938
+      ],
+      [
+        23,
+        966
+      ],
+      [
+        24,
+        998
+      ],
+      [
+        25,
+        1025
+      ],
+      [
+        26,
+        1054
+      ],
+      [
+        27,
+        1080
+      ],
+      [
+        28,
+        1112
+      ],
+      [
+        29,
+        1171
+      ],
+      [
+        30,
+        1200
+      ],
+      [
+        31,
+        1242
+      ],
+      [
+        32,
+        1268
+      ],
+      [
+        33,
+        1313
+      ],
+      [
+        34,
+        1337
+      ],
+      [
+        35,
+        1376
+      ],
+      [
+        36,
+        1415
+      ],
+      [
+        37,
+        1458
+      ],
+      [
+        38,
+        1495
+      ],
+      [
+        39,
+        1522
+      ],
+      [
+        40,
+        1561
+      ],
+      [
+        41,
+        1589
+      ],
+      [
+        42,
+        1629
+      ],
+      [
+        43,
+        1655
+      ],
+      [
+        44,
+        1685
+      ],
+      [
+        45,
+        1716
+      ],
+      [
+        46,
+        1739
+      ],
+      [
+        47,
+        1767
+      ],
+      [
+        48,
+        1784
+      ],
+      [
+        49,
+        1824
+      ],
+      [
+        50,
+        1905
+      ],
+      [
+        51,
+        1961
+      ],
+      [
+        52,
+        1990
+      ],
+      [
+        53,
+        2016
+      ],
+      [
+        54,
+        2034
+      ],
+      [
+        55,
+        2063
+      ],
+      [
+        56,
+        2082
+      ],
+      [
+        57,
+        2103
+      ],
+      [
+        58,
+        2128
+      ],
+      [
+        59,
+        2172
+      ],
+      [
+        60,
+        2220
+      ],
+      [
+        61,
+        2249
+      ],
+      [
+        62,
+        2288
+      ],
+      [
+        63,
+        2315
+      ],
+      [
+        64,
+        2345
+      ],
+      [
+        65,
+        2389
+      ],
+      [
+        66,
+        2438
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
+    "gift_gold": 241,
+    "ended_at": "2026-11-13T06:36:01.948Z",
+    "duration_minutes": 66,
+    "last_viewers": 2466,
+    "unique_gifters": 9,
+    "source_id": "idn:hellooo-261113122949"
+  },
+  {
     "id": "idn:alveeria-2816",
     "platform": "idn",
     "member": {
