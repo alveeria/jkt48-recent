@@ -1,1348 +1,6 @@
 {
-  "updated_at": "2026-11-13T09:02:38.216Z",
+  "updated_at": "2026-11-13T09:07:49.474Z",
   "lives": [
-    {
-      "id": "idn:ayo-masuk-261113143320",
-      "platform": "idn",
-      "member": {
-        "name": "Fera",
-        "username": "jkt48_fera",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d66f83efb55bc65f61f4a3943dfd6c95.webp?v=1779088009"
-      },
-      "title": "Ayo masuk",
-      "url": "https://www.idn.app/jkt48_fera/live/ayo-masuk-261113143320",
-      "image": "https://cdn.idn.app/livestream/a84528704d5244ee6fb68d06c0ee1a1b.webp",
-      "started_at": "2026-11-13T07:33:26.000Z",
-      "viewers": 6803,
-      "last_seen_at": "2026-11-13T09:02:37.106Z",
-      "peak_viewers": 6803,
-      "gifts": 25,
-      "gift_points": 2380,
-      "stars": 0,
-      "comments": 918,
-      "gift_breakdown": {
-        "Graffiti": 1,
-        "JKT48 Show": 1,
-        "Kompas": 5,
-        "Toa": 5,
-        "Matcha": 1,
-        "Kelelawar": 1,
-        "Jari Hati": 1,
-        "Pumpkin": 2,
-        "Angklung": 3,
-        "Emas Batang": 1,
-        "Water": 1,
-        "Rempeyek": 1,
-        "ARALIE": 1,
-        "HADIIIRRR!!": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "dagdigdugdeerr .",
-          "points": 1184,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a265d8588c4b140a34250ca9937442ea.webp?v=1792413558"
-        },
-        {
-          "rank": 2,
-          "name": "Luthfi",
-          "points": 400,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-        },
-        {
-          "rank": 3,
-          "name": "ULIMA WKWK",
-          "points": 280,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/58352ca810f50dbb1c218ad50698073b.webp?v=1793853504"
-        },
-        {
-          "rank": 4,
-          "name": "Geoffrey #seeyoulombok",
-          "points": 156,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cf5c05e101c2ff9d492d3e248b531a5b.webp?v=1794490738"
-        },
-        {
-          "rank": 5,
-          "name": "Yama si Pelukis",
-          "points": 100,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f05542a8c182b317b8e07f70b4031ba1.webp?v=1794486858"
-        },
-        {
-          "rank": 6,
-          "name": "Willie #OnlyBella",
-          "points": 64,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/65fe58393fb845f125c7a1603040b951.webp?v=1794128582"
-        },
-        {
-          "rank": 7,
-          "name": "Dekdoni 20",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c0ea50db16c13257afed26f7b3f52719.webp?v=1793935490"
-        },
-        {
-          "rank": 8,
-          "name": "Madjeri Ilham ",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc9cfa685d94de71af4209010a5e74ba.webp?v=1766137157"
-        },
-        {
-          "rank": 9,
-          "name": "Bang Adin",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/58f7a4458ca0b80445c1b2f841d277ab.webp?v=1791807167"
-        },
-        {
-          "rank": 10,
-          "name": "yumnaa .",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2ece0837655f4e2d24e96ea64d818c86.webp?v=1794124213"
-        }
-      ],
-      "viewer_series": [
-        [
-          0,
-          0
-        ],
-        [
-          1,
-          6
-        ],
-        [
-          2,
-          107
-        ],
-        [
-          3,
-          162
-        ],
-        [
-          4,
-          212
-        ],
-        [
-          5,
-          269
-        ],
-        [
-          6,
-          306
-        ],
-        [
-          7,
-          347
-        ],
-        [
-          8,
-          393
-        ],
-        [
-          9,
-          442
-        ],
-        [
-          10,
-          484
-        ],
-        [
-          11,
-          522
-        ],
-        [
-          12,
-          559
-        ],
-        [
-          13,
-          577
-        ],
-        [
-          14,
-          606
-        ],
-        [
-          15,
-          653
-        ],
-        [
-          16,
-          721
-        ],
-        [
-          17,
-          806
-        ],
-        [
-          18,
-          878
-        ],
-        [
-          19,
-          954
-        ],
-        [
-          20,
-          1030
-        ],
-        [
-          21,
-          1106
-        ],
-        [
-          22,
-          1203
-        ],
-        [
-          23,
-          1294
-        ],
-        [
-          24,
-          1398
-        ],
-        [
-          25,
-          1486
-        ],
-        [
-          26,
-          1532
-        ],
-        [
-          27,
-          1620
-        ],
-        [
-          28,
-          1715
-        ],
-        [
-          29,
-          1860
-        ],
-        [
-          30,
-          1958
-        ],
-        [
-          31,
-          2023
-        ],
-        [
-          32,
-          2073
-        ],
-        [
-          33,
-          2137
-        ],
-        [
-          34,
-          2188
-        ],
-        [
-          35,
-          2268
-        ],
-        [
-          36,
-          2332
-        ],
-        [
-          37,
-          2435
-        ],
-        [
-          38,
-          2551
-        ],
-        [
-          39,
-          2629
-        ],
-        [
-          40,
-          2735
-        ],
-        [
-          41,
-          2782
-        ],
-        [
-          42,
-          2890
-        ],
-        [
-          43,
-          2965
-        ],
-        [
-          44,
-          3047
-        ],
-        [
-          45,
-          3135
-        ],
-        [
-          46,
-          3210
-        ],
-        [
-          47,
-          3294
-        ],
-        [
-          48,
-          3412
-        ],
-        [
-          49,
-          3520
-        ],
-        [
-          50,
-          3600
-        ],
-        [
-          51,
-          3686
-        ],
-        [
-          52,
-          3768
-        ],
-        [
-          53,
-          3834
-        ],
-        [
-          54,
-          3919
-        ],
-        [
-          55,
-          3997
-        ],
-        [
-          56,
-          4030
-        ],
-        [
-          57,
-          4106
-        ],
-        [
-          58,
-          4181
-        ],
-        [
-          59,
-          4257
-        ],
-        [
-          60,
-          4352
-        ],
-        [
-          61,
-          4439
-        ],
-        [
-          62,
-          4572
-        ],
-        [
-          63,
-          4671
-        ],
-        [
-          64,
-          4775
-        ],
-        [
-          65,
-          4869
-        ],
-        [
-          66,
-          4940
-        ],
-        [
-          67,
-          5005
-        ],
-        [
-          68,
-          5083
-        ],
-        [
-          69,
-          5169
-        ],
-        [
-          70,
-          5212
-        ],
-        [
-          71,
-          5291
-        ],
-        [
-          72,
-          5363
-        ],
-        [
-          73,
-          5449
-        ],
-        [
-          74,
-          5519
-        ],
-        [
-          75,
-          5591
-        ],
-        [
-          76,
-          5661
-        ],
-        [
-          77,
-          5729
-        ],
-        [
-          78,
-          5802
-        ],
-        [
-          79,
-          5912
-        ],
-        [
-          80,
-          6005
-        ],
-        [
-          81,
-          6081
-        ],
-        [
-          82,
-          6162
-        ],
-        [
-          83,
-          6252
-        ],
-        [
-          84,
-          6349
-        ],
-        [
-          85,
-          6393
-        ],
-        [
-          86,
-          6473
-        ],
-        [
-          87,
-          6565
-        ],
-        [
-          88,
-          6657
-        ],
-        [
-          89,
-          6753
-        ]
-      ],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/POC6D488qiQY",
-      "gift_gold": 595
-    },
-    {
-      "id": "idn:hellooo-261113143321",
-      "platform": "idn",
-      "member": {
-        "name": "Bella",
-        "username": "jkt48_bella",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7dba9f66e9e74856ced7c5d6b674b2.webp?v=1779088114"
-      },
-      "title": "Hellooo",
-      "url": "https://www.idn.app/jkt48_bella/live/hellooo-261113143321",
-      "image": "https://cdn.idn.app/livestream/6441c5a851e87b64b4280b70b39a8872.webp",
-      "started_at": "2026-11-13T07:33:30.000Z",
-      "viewers": 6407,
-      "last_seen_at": "2026-11-13T09:02:37.106Z",
-      "peak_viewers": 6407,
-      "gifts": 28,
-      "gift_points": 3612,
-      "stars": 0,
-      "comments": 674,
-      "gift_breakdown": {
-        "JKT48 Show": 3,
-        "HADIIIRRR!!": 1,
-        "Matcha": 4,
-        "MICHIE": 2,
-        "Angklung": 5,
-        "SSETAAAN": 1,
-        "Emas Batang": 2,
-        "Jari Hati": 1,
-        "Buket Mawar": 1,
-        "Balon Udara": 1,
-        "Nasi Goreng": 1,
-        "Semangat kak": 1,
-        "Mawar": 1,
-        "Toa": 2,
-        "Pumpkin": 1,
-        "Bubble Gun": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "Willie #OnlyBella",
-          "points": 1640,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/65fe58393fb845f125c7a1603040b951.webp?v=1794128582"
-        },
-        {
-          "rank": 2,
-          "name": "Dekdoni 20",
-          "points": 600,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c0ea50db16c13257afed26f7b3f52719.webp?v=1793935490"
-        },
-        {
-          "rank": 3,
-          "name": "Luthfi",
-          "points": 420,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-        },
-        {
-          "rank": 4,
-          "name": "Diko .",
-          "points": 400,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9366724273271ad3eb005607717918ac.webp?v=1782742827"
-        },
-        {
-          "rank": 5,
-          "name": "dione ㅤ",
-          "points": 160,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/27bff09b2adae2050c776ea0770aca1a.webp?v=1794133043"
-        },
-        {
-          "rank": 6,
-          "name": "Geoffrey #seeyoulombok",
-          "points": 116,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cf5c05e101c2ff9d492d3e248b531a5b.webp?v=1794490738"
-        },
-        {
-          "rank": 7,
-          "name": "Anto .",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5703c3da2d264e0e4ade99ccf07854f2.webp?v=1785496830"
-        },
-        {
-          "rank": 8,
-          "name": "ZUUNNIIIII 🦈🦈🦈",
-          "points": 60,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc927b29c58fc99ed88fcc79c62ddecf.webp?v=1770141205"
-        },
-        {
-          "rank": 9,
-          "name": "Dazzle 7",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/98fee36a4ef40ad3f765aa98d53e0a01.webp?v=1789386879"
-        },
-        {
-          "rank": 10,
-          "name": "Madjeri Ilham ",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc9cfa685d94de71af4209010a5e74ba.webp?v=1766137157"
-        }
-      ],
-      "viewer_series": [
-        [
-          0,
-          22
-        ],
-        [
-          1,
-          110
-        ],
-        [
-          2,
-          212
-        ],
-        [
-          3,
-          313
-        ],
-        [
-          4,
-          396
-        ],
-        [
-          5,
-          470
-        ],
-        [
-          6,
-          527
-        ],
-        [
-          7,
-          607
-        ],
-        [
-          8,
-          690
-        ],
-        [
-          9,
-          767
-        ],
-        [
-          10,
-          839
-        ],
-        [
-          11,
-          907
-        ],
-        [
-          12,
-          965
-        ],
-        [
-          13,
-          1011
-        ],
-        [
-          14,
-          1077
-        ],
-        [
-          15,
-          1195
-        ],
-        [
-          16,
-          1248
-        ],
-        [
-          17,
-          1371
-        ],
-        [
-          18,
-          1476
-        ],
-        [
-          19,
-          1566
-        ],
-        [
-          20,
-          1667
-        ],
-        [
-          21,
-          1756
-        ],
-        [
-          22,
-          1852
-        ],
-        [
-          23,
-          1952
-        ],
-        [
-          24,
-          2061
-        ],
-        [
-          25,
-          2158
-        ],
-        [
-          26,
-          2244
-        ],
-        [
-          27,
-          2334
-        ],
-        [
-          28,
-          2369
-        ],
-        [
-          29,
-          2464
-        ],
-        [
-          30,
-          2541
-        ],
-        [
-          31,
-          2609
-        ],
-        [
-          32,
-          2667
-        ],
-        [
-          33,
-          2723
-        ],
-        [
-          34,
-          2795
-        ],
-        [
-          35,
-          2871
-        ],
-        [
-          36,
-          2964
-        ],
-        [
-          37,
-          3055
-        ],
-        [
-          38,
-          3133
-        ],
-        [
-          39,
-          3205
-        ],
-        [
-          40,
-          3274
-        ],
-        [
-          41,
-          3355
-        ],
-        [
-          42,
-          3426
-        ],
-        [
-          43,
-          3460
-        ],
-        [
-          44,
-          3516
-        ],
-        [
-          45,
-          3581
-        ],
-        [
-          46,
-          3650
-        ],
-        [
-          47,
-          3707
-        ],
-        [
-          48,
-          3818
-        ],
-        [
-          49,
-          3901
-        ],
-        [
-          50,
-          3994
-        ],
-        [
-          51,
-          4064
-        ],
-        [
-          52,
-          4140
-        ],
-        [
-          53,
-          4199
-        ],
-        [
-          54,
-          4251
-        ],
-        [
-          55,
-          4309
-        ],
-        [
-          56,
-          4371
-        ],
-        [
-          57,
-          4426
-        ],
-        [
-          58,
-          4454
-        ],
-        [
-          59,
-          4503
-        ],
-        [
-          60,
-          4583
-        ],
-        [
-          61,
-          4637
-        ],
-        [
-          62,
-          4698
-        ],
-        [
-          63,
-          4788
-        ],
-        [
-          64,
-          4869
-        ],
-        [
-          65,
-          4938
-        ],
-        [
-          66,
-          4982
-        ],
-        [
-          67,
-          5033
-        ],
-        [
-          68,
-          5102
-        ],
-        [
-          69,
-          5186
-        ],
-        [
-          70,
-          5279
-        ],
-        [
-          71,
-          5311
-        ],
-        [
-          72,
-          5382
-        ],
-        [
-          73,
-          5465
-        ],
-        [
-          74,
-          5547
-        ],
-        [
-          75,
-          5622
-        ],
-        [
-          76,
-          5684
-        ],
-        [
-          77,
-          5719
-        ],
-        [
-          78,
-          5777
-        ],
-        [
-          79,
-          5839
-        ],
-        [
-          80,
-          5891
-        ],
-        [
-          81,
-          5945
-        ],
-        [
-          82,
-          5987
-        ],
-        [
-          83,
-          6048
-        ],
-        [
-          84,
-          6118
-        ],
-        [
-          85,
-          6187
-        ],
-        [
-          86,
-          6210
-        ],
-        [
-          87,
-          6260
-        ],
-        [
-          88,
-          6321
-        ],
-        [
-          89,
-          6375
-        ]
-      ],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/z9BVDVnpFbGq",
-      "gift_gold": 903
-    },
-    {
-      "id": "idn:wazzap-261113144729",
-      "platform": "idn",
-      "member": {
-        "name": "Kathrina",
-        "username": "jkt48_kathrina",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4be4288584db41e48aad4777ce9fa167.webp?v=1778755501"
-      },
-      "title": "wazzap",
-      "url": "https://www.idn.app/jkt48_kathrina/live/wazzap-261113144729",
-      "image": "https://cdn.idn.app/livestream/f641df7194c9681b85d5f08605e6e808.webp",
-      "started_at": "2026-11-13T07:47:39.000Z",
-      "viewers": 7848,
-      "last_seen_at": "2026-11-13T09:02:37.106Z",
-      "peak_viewers": 7848,
-      "gifts": 72,
-      "gift_points": 7984,
-      "stars": 0,
-      "comments": 2056,
-      "gift_breakdown": {
-        "KATHRINA": 3,
-        "Toa": 7,
-        "Cold Water": 10,
-        "Kompas": 7,
-        "Angklung": 1,
-        "Water": 8,
-        "Pumpkin": 5,
-        "Cendrawasih": 5,
-        "Lightstick": 4,
-        "SSETAAAN": 1,
-        "Konfeti": 1,
-        "Semangat kak": 2,
-        "Lemon Tea": 1,
-        "Bubble Gun": 1,
-        "Emas Batang": 3,
-        "Buket Mawar": 1,
-        "Lemonade": 1,
-        "Matcha": 1,
-        "Mawar": 1,
-        "JKT48 Stage": 2,
-        "Rempeyek": 1,
-        "JKT48 Show": 3,
-        "Orange Syrup": 1,
-        "Team Hype": 2
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "Nessy Susanti",
-          "points": 2048,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/973fc566a78d93aea222cd7d2cda092f.webp?v=1782752198"
-        },
-        {
-          "rank": 2,
-          "name": "Veritas _",
-          "points": 2040,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b9c9b7af0c67522c5725a219317dfd3e.webp?v=1772290481"
-        },
-        {
-          "rank": 3,
-          "name": "Irfan Aditya",
-          "points": 1676,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3390e3c05641ebb9194884a28207b7e7.webp?v=1788740062"
-        },
-        {
-          "rank": 4,
-          "name": "Geoffrey #seeyoulombok",
-          "points": 1612,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cf5c05e101c2ff9d492d3e248b531a5b.webp?v=1794490738"
-        },
-        {
-          "rank": 5,
-          "name": "TAUFIK ZAWADI",
-          "points": 140,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e8b3296114f19e10eb6f1c46ab1d70b3.webp?v=1782021953"
-        },
-        {
-          "rank": 6,
-          "name": "• Hermann26",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc4a12610131b306f465f7159f06e1ba.webp?v=1787935290"
-        },
-        {
-          "rank": 7,
-          "name": "Vaaaaa #Masih SD",
-          "points": 56,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1a770c3f9e2e66696604f0427f662903.webp?v=1794435673"
-        },
-        {
-          "rank": 8,
-          "name": "Idol Karbitan",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4d89dd8f2a523bb51ad091f7f1ee695a.webp?v=1793778139"
-        },
-        {
-          "rank": 9,
-          "name": "andika adhi parwa",
-          "points": 32,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5763fe641c5589f480c04eb60e3e4dc9.webp?v=1794554370"
-        },
-        {
-          "rank": 10,
-          "name": "Shiel _",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/972da43e7b1a9ed9dcf81c2d2aa6a56c.webp?v=1781929590"
-        }
-      ],
-      "viewer_series": [
-        [
-          0,
-          6
-        ],
-        [
-          1,
-          49
-        ],
-        [
-          2,
-          206
-        ],
-        [
-          3,
-          353
-        ],
-        [
-          4,
-          477
-        ],
-        [
-          5,
-          541
-        ],
-        [
-          6,
-          666
-        ],
-        [
-          7,
-          772
-        ],
-        [
-          8,
-          929
-        ],
-        [
-          9,
-          1204
-        ],
-        [
-          10,
-          1436
-        ],
-        [
-          11,
-          1602
-        ],
-        [
-          12,
-          1770
-        ],
-        [
-          13,
-          1926
-        ],
-        [
-          14,
-          2104
-        ],
-        [
-          15,
-          2343
-        ],
-        [
-          16,
-          2550
-        ],
-        [
-          17,
-          2709
-        ],
-        [
-          18,
-          2769
-        ],
-        [
-          19,
-          2898
-        ],
-        [
-          20,
-          3015
-        ],
-        [
-          21,
-          3136
-        ],
-        [
-          22,
-          3253
-        ],
-        [
-          23,
-          3377
-        ],
-        [
-          24,
-          3491
-        ],
-        [
-          25,
-          3605
-        ],
-        [
-          26,
-          3711
-        ],
-        [
-          27,
-          3822
-        ],
-        [
-          28,
-          3923
-        ],
-        [
-          29,
-          4020
-        ],
-        [
-          30,
-          4115
-        ],
-        [
-          31,
-          4223
-        ],
-        [
-          32,
-          4314
-        ],
-        [
-          33,
-          4361
-        ],
-        [
-          34,
-          4582
-        ],
-        [
-          35,
-          4694
-        ],
-        [
-          36,
-          4804
-        ],
-        [
-          37,
-          4903
-        ],
-        [
-          38,
-          5009
-        ],
-        [
-          39,
-          5099
-        ],
-        [
-          40,
-          5170
-        ],
-        [
-          41,
-          5241
-        ],
-        [
-          42,
-          5340
-        ],
-        [
-          43,
-          5408
-        ],
-        [
-          44,
-          5482
-        ],
-        [
-          45,
-          5559
-        ],
-        [
-          46,
-          5646
-        ],
-        [
-          47,
-          5722
-        ],
-        [
-          48,
-          5759
-        ],
-        [
-          49,
-          5859
-        ],
-        [
-          50,
-          5944
-        ],
-        [
-          51,
-          6014
-        ],
-        [
-          52,
-          6079
-        ],
-        [
-          53,
-          6154
-        ],
-        [
-          54,
-          6244
-        ],
-        [
-          55,
-          6336
-        ],
-        [
-          56,
-          6432
-        ],
-        [
-          57,
-          6506
-        ],
-        [
-          58,
-          6596
-        ],
-        [
-          59,
-          6676
-        ],
-        [
-          60,
-          6755
-        ],
-        [
-          61,
-          6790
-        ],
-        [
-          62,
-          6865
-        ],
-        [
-          63,
-          6916
-        ],
-        [
-          64,
-          7009
-        ],
-        [
-          65,
-          7071
-        ],
-        [
-          66,
-          7152
-        ],
-        [
-          67,
-          7226
-        ],
-        [
-          68,
-          7285
-        ],
-        [
-          69,
-          7373
-        ],
-        [
-          70,
-          7461
-        ],
-        [
-          71,
-          7563
-        ],
-        [
-          72,
-          7625
-        ],
-        [
-          73,
-          7698
-        ],
-        [
-          74,
-          7776
-        ],
-        [
-          75,
-          7848
-        ]
-      ],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/uweM6GnyxtvD",
-      "gift_gold": 1996
-    },
     {
       "id": "idn:ayo-ngobrol-bareng-261113150213",
       "platform": "idn",
@@ -1355,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261113150213",
       "image": "https://cdn.idn.app/livestream/b26935b2331d076e1f6792035a3c0047.webp",
       "started_at": "2026-11-13T08:02:18.000Z",
-      "viewers": 2124,
-      "last_seen_at": "2026-11-13T09:02:37.106Z",
-      "peak_viewers": 2124,
-      "gifts": 23,
-      "gift_points": 1740,
+      "viewers": 2299,
+      "last_seen_at": "2026-11-13T09:06:46.797Z",
+      "peak_viewers": 2299,
+      "gifts": 24,
+      "gift_points": 2092,
       "stars": 0,
-      "comments": 242,
+      "comments": 275,
       "gift_breakdown": {
         "HADIIIRRR!!": 1,
         "Angklung": 2,
@@ -1372,14 +30,14 @@
         "Toa": 1,
         "LYN": 1,
         "Nasi Goreng": 1,
-        "Motor Sport": 1,
+        "Motor Sport": 2,
         "Kuntilanak": 1
       },
       "top_gifters": [
         {
           "rank": 1,
           "name": "Veritas _",
-          "points": 828,
+          "points": 1180,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b9c9b7af0c67522c5725a219317dfd3e.webp?v=1772290481"
         },
         {
@@ -1681,10 +339,26 @@
         [
           60,
           2109
+        ],
+        [
+          61,
+          2160
+        ],
+        [
+          62,
+          2202
+        ],
+        [
+          63,
+          2240
+        ],
+        [
+          64,
+          2281
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
-      "gift_gold": 435
+      "gift_gold": 523
     },
     {
       "id": "idn:261113153841",
@@ -1698,32 +372,34 @@
       "url": "https://www.idn.app/jkt48_rara/live/261113153841",
       "image": "https://cdn.idn.app/livestream/0059d9a1b328efcbb911190941f91d57.webp",
       "started_at": "2026-11-13T08:38:46.000Z",
-      "viewers": 875,
-      "last_seen_at": "2026-11-13T09:02:37.106Z",
-      "peak_viewers": 875,
-      "gifts": 7,
-      "gift_points": 816,
+      "viewers": 1112,
+      "last_seen_at": "2026-11-13T09:07:48.340Z",
+      "peak_viewers": 1112,
+      "gifts": 9,
+      "gift_points": 860,
       "stars": 0,
-      "comments": 175,
+      "comments": 232,
       "gift_breakdown": {
         "Kompas": 1,
         "HADIIIRRR!!": 1,
         "Toa": 1,
         "Angklung": 3,
-        "JKT48 Show": 1
+        "JKT48 Show": 1,
+        "Cold Water": 1,
+        "Pumpkin": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "Luthfi",
-          "points": 400,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+          "name": "~y ~",
+          "points": 416,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
         },
         {
           "rank": 2,
-          "name": "~y ~",
-          "points": 376,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
+          "name": "Luthfi",
+          "points": 400,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
           "rank": 3,
@@ -1736,6 +412,12 @@
           "name": "Pauuuu .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3165e2a3db2405893cedc50996372e94.webp?v=1789566421"
+        },
+        {
+          "rank": 5,
+          "name": "✶ ‎ Rysaaa.",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b1a7d5eb58105f730c3d629052341b4.webp?v=1793886003"
         }
       ],
       "viewer_series": [
@@ -1838,10 +520,30 @@
         [
           24,
           875
+        ],
+        [
+          25,
+          916
+        ],
+        [
+          26,
+          959
+        ],
+        [
+          27,
+          999
+        ],
+        [
+          28,
+          1018
+        ],
+        [
+          29,
+          1072
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-      "gift_gold": 204
+      "gift_gold": 215
     },
     {
       "id": "idn:haiii-261113154120",
@@ -1855,16 +557,16 @@
       "url": "https://www.idn.app/jkt48_ralyne/live/haiii-261113154120",
       "image": "https://cdn.idn.app/livestream/443941a205adb423b83aa2c4a670ccfd.webp",
       "started_at": "2026-11-13T08:41:27.000Z",
-      "viewers": 1391,
-      "last_seen_at": "2026-11-13T09:02:37.106Z",
-      "peak_viewers": 1391,
-      "gifts": 11,
-      "gift_points": 2044,
+      "viewers": 1736,
+      "last_seen_at": "2026-11-13T09:07:48.340Z",
+      "peak_viewers": 1736,
+      "gifts": 13,
+      "gift_points": 2084,
       "stars": 0,
-      "comments": 260,
+      "comments": 312,
       "gift_breakdown": {
         "JKT48 Show": 3,
-        "Toa": 2,
+        "Toa": 4,
         "Cold Water": 2,
         "Cendrawasih": 1,
         "Lightstick": 1,
@@ -1895,6 +597,18 @@
           "name": "Pauuuu .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3165e2a3db2405893cedc50996372e94.webp?v=1789566421"
+        },
+        {
+          "rank": 5,
+          "name": "Ameeek .",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c7f399d02e1bf729106455ca6e83d80a.webp?v=1794307593"
+        },
+        {
+          "rank": 6,
+          "name": "septi anak kewcill 13",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4f49576f8e41e76fec3000511cff672b.webp?v=1780428687"
         }
       ],
       "viewer_series": [
@@ -1985,10 +699,30 @@
         [
           21,
           1367
+        ],
+        [
+          22,
+          1423
+        ],
+        [
+          23,
+          1473
+        ],
+        [
+          24,
+          1539
+        ],
+        [
+          25,
+          1589
+        ],
+        [
+          26,
+          1674
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/IkkRMUVBqeCM",
-      "gift_gold": 511
+      "gift_gold": 521
     },
     {
       "id": "idn:ada-apa-261113154211",
@@ -2002,13 +736,13 @@
       "url": "https://www.idn.app/jkt48_fahira/live/ada-apa-261113154211",
       "image": "https://cdn.idn.app/livestream/8bab363a640338516dd2fcb473d4bb04.webp",
       "started_at": "2026-11-13T08:42:18.000Z",
-      "viewers": 1447,
-      "last_seen_at": "2026-11-13T09:02:37.106Z",
-      "peak_viewers": 1447,
+      "viewers": 1883,
+      "last_seen_at": "2026-11-13T09:07:48.340Z",
+      "peak_viewers": 1883,
       "gifts": 3,
       "gift_points": 840,
       "stars": 0,
-      "comments": 313,
+      "comments": 407,
       "gift_breakdown": {
         "JKT48 Show": 2,
         "Pumpkin": 1
@@ -2105,6 +839,30 @@
         [
           20,
           1422
+        ],
+        [
+          21,
+          1483
+        ],
+        [
+          22,
+          1541
+        ],
+        [
+          23,
+          1610
+        ],
+        [
+          24,
+          1669
+        ],
+        [
+          25,
+          1807
+        ],
+        [
+          26,
+          1883
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/DHkd7c5kKLxY",
