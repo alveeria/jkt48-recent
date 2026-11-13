@@ -1,5 +1,761 @@
 [
   {
+    "id": "idn:alveeria-2819",
+    "platform": "idn",
+    "member": {
+      "name": "Indah",
+      "username": "jkt48_indah",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/909548d57b8bc9ce5b7784107fa36858.webp?v=1778761549"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261113132606",
+    "image": "https://cdn.idn.app/livestream/b26395fa8695182a5371382645230d0a.webp",
+    "started_at": "2026-11-13T06:26:12.000Z",
+    "last_seen_at": "2026-11-13T07:31:24.372Z",
+    "peak_viewers": 8081,
+    "gifts": 104,
+    "gift_points": 6740,
+    "stars": 0,
+    "comments": 2174,
+    "gift_breakdown": {
+      "Padang": 1,
+      "Angklung": 4,
+      "Rendang": 2,
+      "INDAH": 10,
+      "Pumpkin": 30,
+      "Matcha": 3,
+      "Combat": 2,
+      "Mawar": 5,
+      "Toa": 3,
+      "Lemon Tea": 2,
+      "Puding": 3,
+      "Makan ya kak": 1,
+      "Lightstick": 3,
+      "Buket Mawar": 2,
+      "Kupu-Kupu": 14,
+      "ONIEL": 1,
+      "Emas Batang": 1,
+      "Cold Water": 3,
+      "JKT48 Stage": 2,
+      "Gift Card": 1,
+      "TC-RIBKA": 1,
+      "Water": 1,
+      "RIBKA": 2,
+      "Serem Bor": 1,
+      "Happy B-Day!": 3,
+      "Panjat": 1,
+      "JKT48 Show": 1,
+      "Goaaaaal!!": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "andika adhi parwa",
+        "points": 1408,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5763fe641c5589f480c04eb60e3e4dc9.webp?v=1790776318"
+      },
+      {
+        "rank": 2,
+        "name": "Raiiiii ditinggal mommy grad",
+        "points": 1120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/66dcb1c9577515fac1e041a89e9e1f02.webp?v=1793606732"
+      },
+      {
+        "rank": 3,
+        "name": "AYUKUN NUNGGU PAP INDAH",
+        "points": 1112,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7dee4c9238c873ce0158327a86d6a4f8.webp?v=1794410745"
+      },
+      {
+        "rank": 4,
+        "name": "Jay Kangen Dedek Indah",
+        "points": 1000,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eecb1fb6553479efc6976def17855879.webp?v=1787238946"
+      },
+      {
+        "rank": 5,
+        "name": "Rizky Emy",
+        "points": 500,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/30fbd0ee361d7b0fc69b61e961c73779.webp?v=1794498274"
+      },
+      {
+        "rank": 6,
+        "name": "Ryuu Oshinya Fritzy",
+        "points": 464,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/978c8bcfab4ec4539c1f69fb36b98043.webp?v=1790691016"
+      },
+      {
+        "rank": 7,
+        "name": "rererizkYYYY ((((",
+        "points": 284,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a25191c14afcb537c69128b2a5fc1569.webp?v=1794032903"
+      },
+      {
+        "rank": 8,
+        "name": "ina .",
+        "points": 240,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1517b0123db0481cb6522a359d5a9af1.webp?v=1747201859"
+      },
+      {
+        "rank": 9,
+        "name": "Tommy '(",
+        "points": 156,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec61c7b81e86b713c14d0ca12d1d8174.webp?v=1794325969"
+      },
+      {
+        "rank": 10,
+        "name": "Triii .",
+        "points": 136,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7bfd390c52dc36384f549f84f7e8ad56.webp?v=1793846534"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        12
+      ],
+      [
+        1,
+        95
+      ],
+      [
+        2,
+        190
+      ],
+      [
+        3,
+        327
+      ],
+      [
+        4,
+        483
+      ],
+      [
+        5,
+        633
+      ],
+      [
+        6,
+        829
+      ],
+      [
+        7,
+        1045
+      ],
+      [
+        8,
+        1235
+      ],
+      [
+        9,
+        1451
+      ],
+      [
+        10,
+        1760
+      ],
+      [
+        11,
+        2004
+      ],
+      [
+        12,
+        2207
+      ],
+      [
+        13,
+        2381
+      ],
+      [
+        14,
+        2519
+      ],
+      [
+        15,
+        2647
+      ],
+      [
+        16,
+        2712
+      ],
+      [
+        17,
+        2841
+      ],
+      [
+        18,
+        2956
+      ],
+      [
+        19,
+        3068
+      ],
+      [
+        20,
+        3177
+      ],
+      [
+        21,
+        3285
+      ],
+      [
+        22,
+        3395
+      ],
+      [
+        23,
+        3493
+      ],
+      [
+        24,
+        3592
+      ],
+      [
+        25,
+        3730
+      ],
+      [
+        26,
+        3854
+      ],
+      [
+        27,
+        3953
+      ],
+      [
+        28,
+        4076
+      ],
+      [
+        29,
+        4189
+      ],
+      [
+        30,
+        4290
+      ],
+      [
+        31,
+        4408
+      ],
+      [
+        32,
+        4525
+      ],
+      [
+        33,
+        4585
+      ],
+      [
+        34,
+        4712
+      ],
+      [
+        35,
+        4843
+      ],
+      [
+        36,
+        4963
+      ],
+      [
+        37,
+        5066
+      ],
+      [
+        38,
+        5183
+      ],
+      [
+        39,
+        5301
+      ],
+      [
+        40,
+        5398
+      ],
+      [
+        41,
+        5503
+      ],
+      [
+        42,
+        5613
+      ],
+      [
+        43,
+        5709
+      ],
+      [
+        44,
+        5858
+      ],
+      [
+        45,
+        6016
+      ],
+      [
+        46,
+        6182
+      ],
+      [
+        47,
+        6228
+      ],
+      [
+        48,
+        6372
+      ],
+      [
+        49,
+        6516
+      ],
+      [
+        50,
+        6625
+      ],
+      [
+        51,
+        6742
+      ],
+      [
+        52,
+        6845
+      ],
+      [
+        53,
+        6926
+      ],
+      [
+        54,
+        7029
+      ],
+      [
+        55,
+        7137
+      ],
+      [
+        56,
+        7223
+      ],
+      [
+        57,
+        7309
+      ],
+      [
+        58,
+        7393
+      ],
+      [
+        59,
+        7469
+      ],
+      [
+        60,
+        7553
+      ],
+      [
+        61,
+        7657
+      ],
+      [
+        62,
+        7699
+      ],
+      [
+        63,
+        7817
+      ],
+      [
+        64,
+        7905
+      ],
+      [
+        65,
+        8017
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
+    "gift_gold": 1685,
+    "ended_at": "2026-11-13T07:31:24.372Z",
+    "duration_minutes": 65,
+    "last_viewers": 8081,
+    "unique_gifters": 18,
+    "source_id": "idn:ayo-ngobrol-bareng-261113132606"
+  },
+  {
+    "id": "idn:alveeria-2820",
+    "platform": "idn",
+    "member": {
+      "name": "Ribka",
+      "username": "jkt48_ribka",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c3e9142730d1eb21db56de1eaa161d2.webp?v=1778755827"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261113132622",
+    "image": "https://cdn.idn.app/livestream/a057bf98dc019e9e76f602497b66c2c8.webp",
+    "started_at": "2026-11-13T06:26:29.000Z",
+    "last_seen_at": "2026-11-13T07:31:24.372Z",
+    "peak_viewers": 7543,
+    "gifts": 30,
+    "gift_points": 2612,
+    "stars": 0,
+    "comments": 930,
+    "gift_breakdown": {
+      "Emas Batang": 8,
+      "Tumpeng": 1,
+      "INDAH": 1,
+      "MIKAELA": 1,
+      "Kucing": 1,
+      "Toa": 1,
+      "Team Chill": 1,
+      "Pumpkin": 1,
+      "Makan ya kak": 1,
+      "Jari Hati": 1,
+      "TC-RIBKA": 2,
+      "Cold Water": 6,
+      "Water": 2,
+      "Nasi Goreng": 1,
+      "Kompas": 1,
+      "Lightstick": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "rizky pratama",
+        "points": 852,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92e2dd223b08aea025baa84b635766df.webp?v=1794387195"
+      },
+      {
+        "rank": 2,
+        "name": "Arya Sutanto",
+        "points": 500,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/576c634c83a0f5a040f0f760c42e7362.webp?v=1758817060"
+      },
+      {
+        "rank": 3,
+        "name": "Franko ...",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+      },
+      {
+        "rank": 4,
+        "name": "Alif Lajim",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6bd90af47d17b774dede9cf21d5b006b.webp?v=1783963204"
+      },
+      {
+        "rank": 5,
+        "name": "saafaa adknya Juhoon loh ya",
+        "points": 220,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/653565b91e4620eeefda31d7d08a8678.webp?v=1794390884"
+      },
+      {
+        "rank": 6,
+        "name": "Jay Kangen Dedek Indah",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eecb1fb6553479efc6976def17855879.webp?v=1787238946"
+      },
+      {
+        "rank": 7,
+        "name": "ㅤ ㅤ",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/93740188af89cc51b18e960d2c42e943.webp?v=1791458472"
+      },
+      {
+        "rank": 8,
+        "name": "RoyZy 🤙💜",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfb91ac8c224a8984d706474dd961eb3.webp?v=1794546556"
+      },
+      {
+        "rank": 9,
+        "name": "FADLY PRATAMA",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/760004db2e8144bc9a16367f381f3f55.webp?v=1788797045"
+      },
+      {
+        "rank": 10,
+        "name": "BILLEMON .",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6bd5ca90cd67488dd1576439e01dc847.webp?v=1793877240"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        44
+      ],
+      [
+        2,
+        156
+      ],
+      [
+        3,
+        297
+      ],
+      [
+        4,
+        428
+      ],
+      [
+        5,
+        600
+      ],
+      [
+        6,
+        883
+      ],
+      [
+        7,
+        1062
+      ],
+      [
+        8,
+        1222
+      ],
+      [
+        9,
+        1287
+      ],
+      [
+        10,
+        1487
+      ],
+      [
+        11,
+        1678
+      ],
+      [
+        12,
+        1859
+      ],
+      [
+        13,
+        2002
+      ],
+      [
+        14,
+        2104
+      ],
+      [
+        15,
+        2240
+      ],
+      [
+        16,
+        2356
+      ],
+      [
+        17,
+        2453
+      ],
+      [
+        18,
+        2546
+      ],
+      [
+        19,
+        2628
+      ],
+      [
+        20,
+        2720
+      ],
+      [
+        21,
+        2854
+      ],
+      [
+        22,
+        2948
+      ],
+      [
+        23,
+        3047
+      ],
+      [
+        24,
+        3124
+      ],
+      [
+        25,
+        3172
+      ],
+      [
+        26,
+        3262
+      ],
+      [
+        27,
+        3332
+      ],
+      [
+        28,
+        3420
+      ],
+      [
+        29,
+        3513
+      ],
+      [
+        30,
+        3593
+      ],
+      [
+        31,
+        3725
+      ],
+      [
+        32,
+        3841
+      ],
+      [
+        33,
+        3949
+      ],
+      [
+        34,
+        4080
+      ],
+      [
+        35,
+        4207
+      ],
+      [
+        36,
+        4321
+      ],
+      [
+        37,
+        4408
+      ],
+      [
+        38,
+        4496
+      ],
+      [
+        39,
+        4580
+      ],
+      [
+        40,
+        4635
+      ],
+      [
+        41,
+        4737
+      ],
+      [
+        42,
+        4833
+      ],
+      [
+        43,
+        4921
+      ],
+      [
+        44,
+        5057
+      ],
+      [
+        45,
+        5237
+      ],
+      [
+        46,
+        5395
+      ],
+      [
+        47,
+        5532
+      ],
+      [
+        48,
+        5800
+      ],
+      [
+        49,
+        5971
+      ],
+      [
+        50,
+        6089
+      ],
+      [
+        51,
+        6207
+      ],
+      [
+        52,
+        6321
+      ],
+      [
+        53,
+        6416
+      ],
+      [
+        54,
+        6460
+      ],
+      [
+        55,
+        6579
+      ],
+      [
+        56,
+        6685
+      ],
+      [
+        57,
+        6771
+      ],
+      [
+        58,
+        6846
+      ],
+      [
+        59,
+        6931
+      ],
+      [
+        60,
+        7002
+      ],
+      [
+        61,
+        7091
+      ],
+      [
+        62,
+        7197
+      ],
+      [
+        63,
+        7321
+      ],
+      [
+        64,
+        7446
+      ],
+      [
+        65,
+        7543
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
+    "gift_gold": 653,
+    "ended_at": "2026-11-13T07:31:24.372Z",
+    "duration_minutes": 65,
+    "last_viewers": 7543,
+    "unique_gifters": 11,
+    "source_id": "idn:ayo-ngobrol-bareng-261113132622"
+  },
+  {
     "id": "idn:alveeria-2818",
     "platform": "idn",
     "member": {
