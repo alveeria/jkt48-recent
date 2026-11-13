@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 16.07 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 16.12 WIB.
 
 ## Pakai datanya
 
@@ -28,15 +28,15 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 2.299 |
-| Rara | IDN Live | 💗💗 | 13 Nov 2026, 15.38 | 1.112 |
-| Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 1.736 |
-| Fahira | IDN Live | ada apa??? | 13 Nov 2026, 15.42 | 1.883 |
+| Rara | IDN Live | 💗💗 | 13 Nov 2026, 15.38 | 1.395 |
+| Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 2.189 |
+| Fahira | IDN Live | ada apa??? | 13 Nov 2026, 15.42 | 2.287 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 64m | 2.299 | 24 | 523 | — | 275 |
 | Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 79m | 8.094 | 75 | 2.134 | — | 2.127 |
 | Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 91m | 6.542 | 28 | 903 | — | 698 |
 | Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 92m | 7.082 | 25 | 595 | — | 934 |
@@ -76,7 +76,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Fritzy | IDN Live | gais | 11 Nov 2026, 22.54 | — | — | — | — | — | — |
 | Delynn | IDN Live | Malems | 11 Nov 2026, 22.41 | — | — | — | — | — | — |
 | Danella | IDN Live | ☺️ | 11 Nov 2026, 22.33 | — | — | — | — | — | — |
-| Rilly | IDN Live | Yukkk | 11 Nov 2026, 15.02 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.

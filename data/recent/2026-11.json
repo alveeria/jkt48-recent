@@ -1,5 +1,368 @@
 [
   {
+    "id": "idn:alveeria-2827",
+    "platform": "idn",
+    "member": {
+      "name": "Lyn",
+      "username": "jkt48_lyn",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ee2e0cc39430cd350beff149bf93ee6d.webp?v=1778756223"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261113150213",
+    "image": "https://cdn.idn.app/livestream/b26935b2331d076e1f6792035a3c0047.webp",
+    "started_at": "2026-11-13T08:02:18.000Z",
+    "last_seen_at": "2026-11-13T09:06:46.797Z",
+    "peak_viewers": 2299,
+    "gifts": 24,
+    "gift_points": 2092,
+    "stars": 0,
+    "comments": 275,
+    "gift_breakdown": {
+      "HADIIIRRR!!": 1,
+      "Angklung": 2,
+      "Water": 3,
+      "Cold Water": 7,
+      "Cendrawasih": 1,
+      "SSETAAAN": 4,
+      "Toa": 1,
+      "LYN": 1,
+      "Nasi Goreng": 1,
+      "Motor Sport": 2,
+      "Kuntilanak": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Veritas _",
+        "points": 1180,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b9c9b7af0c67522c5725a219317dfd3e.webp?v=1772290481"
+      },
+      {
+        "rank": 2,
+        "name": "Syafiq Hassim",
+        "points": 448,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f4fadad046cb532e4723126c9b27010.webp?v=1785231048"
+      },
+      {
+        "rank": 3,
+        "name": "Nathannn_ ",
+        "points": 144,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/168099af9c643d9c70f80cd22cc36814.webp?v=1784127276"
+      },
+      {
+        "rank": 4,
+        "name": "Franko ...",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+      },
+      {
+        "rank": 5,
+        "name": "Dwi Refa #4thDescender",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f07fd548dd8b9b98d45839e91b477d56.webp?v=1793719774"
+      },
+      {
+        "rank": 6,
+        "name": "Hari Bimantara",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0777c5945c152138add5a31294a587d6.webp?v=1789572886"
+      },
+      {
+        "rank": 7,
+        "name": "Prisma Aji",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9fa5b6c1ffa4d61a0a7b2eb405c4a424.webp?v=1784630060"
+      },
+      {
+        "rank": 8,
+        "name": "Vanalika 🌻",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/af261aec5922a40c8b78ee11016cc8c4.webp?v=1794477837"
+      },
+      {
+        "rank": 9,
+        "name": "Salma Maharani",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cce6beb85a6dfce666fea569c476040c.webp?v=1731934192"
+      },
+      {
+        "rank": 10,
+        "name": "rama fadilla",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20730496286e27ef9b2e258842be0958.webp?v=1786540564"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        44
+      ],
+      [
+        3,
+        81
+      ],
+      [
+        4,
+        139
+      ],
+      [
+        5,
+        179
+      ],
+      [
+        6,
+        234
+      ],
+      [
+        7,
+        260
+      ],
+      [
+        8,
+        322
+      ],
+      [
+        9,
+        369
+      ],
+      [
+        10,
+        414
+      ],
+      [
+        11,
+        450
+      ],
+      [
+        12,
+        504
+      ],
+      [
+        13,
+        556
+      ],
+      [
+        14,
+        585
+      ],
+      [
+        15,
+        617
+      ],
+      [
+        16,
+        649
+      ],
+      [
+        17,
+        676
+      ],
+      [
+        18,
+        716
+      ],
+      [
+        19,
+        760
+      ],
+      [
+        20,
+        805
+      ],
+      [
+        21,
+        848
+      ],
+      [
+        22,
+        886
+      ],
+      [
+        23,
+        907
+      ],
+      [
+        24,
+        942
+      ],
+      [
+        25,
+        967
+      ],
+      [
+        26,
+        1006
+      ],
+      [
+        27,
+        1040
+      ],
+      [
+        28,
+        1063
+      ],
+      [
+        29,
+        1087
+      ],
+      [
+        30,
+        1110
+      ],
+      [
+        31,
+        1134
+      ],
+      [
+        32,
+        1169
+      ],
+      [
+        33,
+        1210
+      ],
+      [
+        34,
+        1255
+      ],
+      [
+        35,
+        1313
+      ],
+      [
+        36,
+        1338
+      ],
+      [
+        37,
+        1361
+      ],
+      [
+        38,
+        1376
+      ],
+      [
+        39,
+        1401
+      ],
+      [
+        40,
+        1434
+      ],
+      [
+        41,
+        1478
+      ],
+      [
+        42,
+        1519
+      ],
+      [
+        43,
+        1562
+      ],
+      [
+        44,
+        1611
+      ],
+      [
+        45,
+        1642
+      ],
+      [
+        46,
+        1668
+      ],
+      [
+        47,
+        1699
+      ],
+      [
+        48,
+        1722
+      ],
+      [
+        49,
+        1750
+      ],
+      [
+        50,
+        1804
+      ],
+      [
+        51,
+        1814
+      ],
+      [
+        52,
+        1861
+      ],
+      [
+        53,
+        1899
+      ],
+      [
+        54,
+        1922
+      ],
+      [
+        55,
+        1951
+      ],
+      [
+        56,
+        1989
+      ],
+      [
+        57,
+        2021
+      ],
+      [
+        58,
+        2051
+      ],
+      [
+        59,
+        2080
+      ],
+      [
+        60,
+        2109
+      ],
+      [
+        61,
+        2160
+      ],
+      [
+        62,
+        2202
+      ],
+      [
+        63,
+        2240
+      ],
+      [
+        64,
+        2281
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
+    "gift_gold": 523,
+    "ended_at": "2026-11-13T09:06:46.797Z",
+    "duration_minutes": 64,
+    "last_viewers": 2299,
+    "unique_gifters": 10,
+    "source_id": "idn:ayo-ngobrol-bareng-261113150213"
+  },
+  {
     "id": "idn:alveeria-2824",
     "platform": "idn",
     "member": {
