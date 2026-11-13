@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 15.47 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 15.52 WIB.
 
 ## Pakai datanya
 
@@ -28,13 +28,13 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 5.519 |
-| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 5.547 |
-| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 6.732 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 1.642 |
-| Rara | IDN Live | 💗💗 | 13 Nov 2026, 15.38 | 331 |
-| Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 377 |
-| Fahira | IDN Live | ada apa??? | 13 Nov 2026, 15.42 | 379 |
+| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 5.912 |
+| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 5.839 |
+| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 7.071 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 1.804 |
+| Rara | IDN Live | 💗💗 | 13 Nov 2026, 15.38 | 513 |
+| Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 730 |
+| Fahira | IDN Live | ada apa??? | 13 Nov 2026, 15.42 | 770 |
 
 ## Live terakhir — Nov 2026
 
