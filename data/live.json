@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:06:35.700Z",
+  "updated_at": "2026-11-13T06:11:44.514Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261113121352",
@@ -13,25 +13,26 @@
       "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
       "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
       "started_at": "2026-11-13T05:13:57.000Z",
-      "viewers": 3312,
-      "last_seen_at": "2026-11-13T06:06:34.674Z",
-      "peak_viewers": 3312,
-      "gifts": 19,
-      "gift_points": 2240,
+      "viewers": 3540,
+      "last_seen_at": "2026-11-13T06:11:43.930Z",
+      "peak_viewers": 3540,
+      "gifts": 21,
+      "gift_points": 2276,
       "stars": 0,
-      "comments": 760,
+      "comments": 865,
       "gift_breakdown": {
         "Cold Water": 1,
         "Water": 1,
         "JEMIMA": 3,
         "Graffiti": 1,
-        "Kompas": 5,
+        "Kompas": 6,
         "Kastil Hantu": 1,
         "JKT48 Stage": 1,
         "Pumpkin": 1,
         "Matcha": 3,
         "Team Hype": 1,
-        "Mawar": 1
+        "Mawar": 1,
+        "Puding": 1
       },
       "top_gifters": [
         {
@@ -78,21 +79,21 @@
         },
         {
           "rank": 8,
+          "name": "(Dek) Arifah Aja",
+          "points": 36,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/122c2b65097f430a489711b4ab540d9c.webp?v=1794303560"
+        },
+        {
+          "rank": 9,
           "name": "Dio Muah Muah",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/026caeb8ef507e3392fe46d6b56e89b6.webp?v=1794237509"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Bli Putu Dicky MP",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9659f3252457548f57cbdcda34f1ad4.webp?v=1792135196"
-        },
-        {
-          "rank": 10,
-          "name": "LilaAa J",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/94ea8bfe8bb7f3e67301482833b5bd1c.webp?v=1792594491"
         }
       ],
       "viewer_series": [
@@ -247,10 +248,30 @@
         [
           53,
           3312
+        ],
+        [
+          54,
+          3369
+        ],
+        [
+          55,
+          3417
+        ],
+        [
+          56,
+          3456
+        ],
+        [
+          57,
+          3494
+        ],
+        [
+          58,
+          3540
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
-      "gift_gold": 560
+      "gift_gold": 569
     },
     {
       "id": "idn:hellooo-261113122949",
@@ -264,13 +285,13 @@
       "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
       "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
       "started_at": "2026-11-13T05:29:54.000Z",
-      "viewers": 1458,
-      "last_seen_at": "2026-11-13T06:06:34.674Z",
-      "peak_viewers": 1458,
+      "viewers": 1629,
+      "last_seen_at": "2026-11-13T06:11:43.930Z",
+      "peak_viewers": 1629,
       "gifts": 20,
       "gift_points": 820,
       "stars": 0,
-      "comments": 606,
+      "comments": 654,
       "gift_breakdown": {
         "Team Hype": 3,
         "Combat": 1,
@@ -487,6 +508,26 @@
         [
           37,
           1458
+        ],
+        [
+          38,
+          1495
+        ],
+        [
+          39,
+          1522
+        ],
+        [
+          40,
+          1561
+        ],
+        [
+          41,
+          1589
+        ],
+        [
+          42,
+          1629
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",

@@ -11,25 +11,26 @@
     "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
     "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
     "started_at": "2026-11-13T05:13:57.000Z",
-    "viewers": 3312,
-    "last_seen_at": "2026-11-13T06:06:34.674Z",
-    "peak_viewers": 3312,
-    "gifts": 19,
-    "gift_points": 2240,
+    "viewers": 3540,
+    "last_seen_at": "2026-11-13T06:11:43.930Z",
+    "peak_viewers": 3540,
+    "gifts": 21,
+    "gift_points": 2276,
     "stars": 0,
-    "comments": 760,
+    "comments": 865,
     "gift_breakdown": {
       "Cold Water": 1,
       "Water": 1,
       "JEMIMA": 3,
       "Graffiti": 1,
-      "Kompas": 5,
+      "Kompas": 6,
       "Kastil Hantu": 1,
       "JKT48 Stage": 1,
       "Pumpkin": 1,
       "Matcha": 3,
       "Team Hype": 1,
-      "Mawar": 1
+      "Mawar": 1,
+      "Puding": 1
     },
     "gifters": {
       "3ebea6d0-dae7-4646-9153-1e04009717ba": "duy ",
@@ -43,7 +44,8 @@
       "8ce834d7-c27a-4e7c-8345-8a4970d8ca5e": "David Adam",
       "6c317cd1-e7c5-488d-a2d2-0be3a7c65217": "Vin Demen Jemima .",
       "933678df-78f5-47d2-a7ae-a34ba49ad313": "Ghina S",
-      "6963f51b-9c0f-4b54-bc3e-36b8670f8196": "Beem .."
+      "6963f51b-9c0f-4b54-bc3e-36b8670f8196": "Beem ..",
+      "53c2841e-46d3-4b25-b9bc-1496893f4fdf": "(Dek) Arifah Aja"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -198,10 +200,30 @@
       [
         53,
         3312
+      ],
+      [
+        54,
+        3369
+      ],
+      [
+        55,
+        3417
+      ],
+      [
+        56,
+        3456
+      ],
+      [
+        57,
+        3494
+      ],
+      [
+        58,
+        3540
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
-    "gift_gold": 560,
+    "gift_gold": 569,
     "idn_gifters": {
       "3ebea6d0-dae7-4646-9153-1e04009717ba": {
         "name": "duy ",
@@ -262,6 +284,11 @@
         "name": "Beem ..",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/78157416b129c3707fcda4a1b0edf72f.webp?v=1789878075",
         "points": 20
+      },
+      "53c2841e-46d3-4b25-b9bc-1496893f4fdf": {
+        "name": "(Dek) Arifah Aja",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/122c2b65097f430a489711b4ab540d9c.webp?v=1794303560",
+        "points": 36
       }
     }
   },
@@ -277,13 +304,13 @@
     "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
     "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
     "started_at": "2026-11-13T05:29:54.000Z",
-    "viewers": 1458,
-    "last_seen_at": "2026-11-13T06:06:34.674Z",
-    "peak_viewers": 1458,
+    "viewers": 1629,
+    "last_seen_at": "2026-11-13T06:11:43.930Z",
+    "peak_viewers": 1629,
     "gifts": 20,
     "gift_points": 820,
     "stars": 0,
-    "comments": 606,
+    "comments": 654,
     "gift_breakdown": {
       "Team Hype": 3,
       "Combat": 1,
@@ -461,6 +488,26 @@
       [
         37,
         1458
+      ],
+      [
+        38,
+        1495
+      ],
+      [
+        39,
+        1522
+      ],
+      [
+        40,
+        1561
+      ],
+      [
+        41,
+        1589
+      ],
+      [
+        42,
+        1629
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
