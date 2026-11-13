@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:28:00.309Z",
+  "updated_at": "2026-11-13T12:33:06.477Z",
   "lives": [
     {
       "id": "idn:p-261113183240",
@@ -13,89 +13,91 @@
       "url": "https://www.idn.app/jkt48_giaa/live/p-261113183240",
       "image": "https://cdn.idn.app/livestream/00a2ba90bd186cad7cc63495465a76ac.webp",
       "started_at": "2026-11-13T11:32:45.000Z",
-      "viewers": 2350,
-      "last_seen_at": "2026-11-13T12:27:59.381Z",
-      "peak_viewers": 2350,
-      "gifts": 23,
-      "gift_points": 964,
+      "viewers": 2527,
+      "last_seen_at": "2026-11-13T12:33:04.945Z",
+      "peak_viewers": 2527,
+      "gifts": 30,
+      "gift_points": 1476,
       "stars": 0,
-      "comments": 768,
+      "comments": 826,
       "gift_breakdown": {
-        "Pumpkin": 3,
-        "Toa": 4,
+        "Pumpkin": 5,
+        "Toa": 5,
         "Emas Batang": 1,
         "Combat": 1,
         "Matcha": 4,
         "Kompas": 1,
         "Lemonade": 1,
         "Tulip Flower": 1,
-        "Angklung": 1,
+        "Angklung": 3,
         "Yuk bisa yuk": 1,
         "SSETAAAN": 1,
         "Cold Water": 2,
         "GIAA": 1,
-        "Gift Card": 1
+        "Gift Card": 1,
+        "Lightstick": 1,
+        "Team Chill": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "Divaa ❤️‍🩹",
+          "points": 276,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/16cef96ceb739b6f788710028edcd82b.webp?v=1794486845"
+        },
+        {
+          "rank": 2,
+          "name": "Aldi Syahputra",
+          "points": 240,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+        },
+        {
+          "rank": 3,
           "name": "WISNU CARISSA ONLY🦖🦖🦖 AJA",
           "points": 240,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d2697f8719892a602f109b7f7e008511.webp?v=1794057590"
         },
         {
-          "rank": 2,
+          "rank": 4,
+          "name": "©️ Mas Aneh (FERDI MAULANA)",
+          "points": 180,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cad81df68c8af957e68d224f6a123cdc.webp?v=1774669942"
+        },
+        {
+          "rank": 5,
           "name": "Mr Ju",
           "points": 156,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eac09a36662baf36a3c4e68db349389f.webp?v=1769345522"
         },
         {
-          "rank": 3,
+          "rank": 6,
           "name": "WIDI 12",
           "points": 120,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2dcbb122813410d60a67c987576a82a2.webp?v=1793700340"
         },
         {
-          "rank": 4,
+          "rank": 7,
           "name": "Daun Singkong",
           "points": 100,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ae03704c86492f6571091cdbf44c2938.webp?v=1772290586"
         },
         {
-          "rank": 5,
-          "name": "Aldi Syahputra",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-        },
-        {
-          "rank": 6,
-          "name": "©️ Mas Aneh (FERDI MAULANA)",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cad81df68c8af957e68d224f6a123cdc.webp?v=1774669942"
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "name": "Dimas .",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/847d2f2c960068c8462485573551349c.webp?v=1792670160"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "YannKai Langganan #8",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cf4d02a7ec404243265d4a96c8571194.webp?v=1794141448"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Ren Rakuen",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/06067d58908a4cbc752242a1e09b5eeb.webp?v=1761585765"
-        },
-        {
-          "rank": 10,
-          "name": "Divaa ❤️‍🩹",
-          "points": 24,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/16cef96ceb739b6f788710028edcd82b.webp?v=1794486845"
         }
       ],
       "viewer_series": [
@@ -322,10 +324,30 @@
         [
           55,
           2332
+        ],
+        [
+          56,
+          2368
+        ],
+        [
+          57,
+          2410
+        ],
+        [
+          58,
+          2445
+        ],
+        [
+          59,
+          2475
+        ],
+        [
+          60,
+          2512
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
-      "gift_gold": 241
+      "gift_gold": 369
     },
     {
       "id": "idn:hai-261113184616",
@@ -339,13 +361,13 @@
       "url": "https://www.idn.app/jkt48_lana/live/hai-261113184616",
       "image": "https://cdn.idn.app/livestream/fa15d2c6657dd8d0eee847762907a172.webp",
       "started_at": "2026-11-13T11:46:22.000Z",
-      "viewers": 4239,
-      "last_seen_at": "2026-11-13T12:27:59.381Z",
-      "peak_viewers": 4239,
+      "viewers": 4646,
+      "last_seen_at": "2026-11-13T12:33:04.945Z",
+      "peak_viewers": 4646,
       "gifts": 20,
       "gift_points": 2836,
       "stars": 0,
-      "comments": 1665,
+      "comments": 1912,
       "gift_breakdown": {
         "Emas Batang": 11,
         "Lemon Tea": 2,
@@ -590,6 +612,26 @@
         [
           42,
           4239
+        ],
+        [
+          43,
+          4312
+        ],
+        [
+          44,
+          4385
+        ],
+        [
+          45,
+          4469
+        ],
+        [
+          46,
+          4555
+        ],
+        [
+          47,
+          4646
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
@@ -607,13 +649,13 @@
       "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
       "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
       "started_at": "2026-11-13T11:46:04.000Z",
-      "viewers": 184,
-      "last_seen_at": "2026-11-13T12:27:59.381Z",
-      "peak_viewers": 184,
+      "viewers": 192,
+      "last_seen_at": "2026-11-13T12:33:04.945Z",
+      "peak_viewers": 192,
       "gifts": 3,
       "gift_points": 316,
       "stars": 0,
-      "comments": 133,
+      "comments": 151,
       "gift_breakdown": {
         "Angklung": 1,
         "Happy B-Day!": 1,
@@ -799,10 +841,59 @@
         [
           42,
           184
+        ],
+        [
+          43,
+          185
+        ],
+        [
+          44,
+          186
+        ],
+        [
+          45,
+          188
+        ],
+        [
+          46,
+          190
+        ],
+        [
+          47,
+          192
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
       "gift_gold": 79
+    },
+    {
+      "id": "idn:hai-261113193253",
+      "platform": "idn",
+      "member": {
+        "name": "Elin",
+        "username": "jkt48_elin",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0fb5a0de260626f7c1319567ce5e7f39.webp?v=1778761360"
+      },
+      "title": "Hai",
+      "url": "https://www.idn.app/jkt48_elin/live/hai-261113193253",
+      "image": "https://cdn.idn.app/livestream/62133a590dfac0067efdc11221a12b16.webp",
+      "started_at": "2026-11-13T12:33:00.000Z",
+      "viewers": 1,
+      "last_seen_at": "2026-11-13T12:33:04.945Z",
+      "peak_viewers": 1,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [
+        [
+          0,
+          1
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBuGTLoLJOCV"
     }
   ]
 }
