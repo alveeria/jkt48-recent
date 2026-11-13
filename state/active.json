@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
     "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
     "started_at": "2026-11-13T22:17:11.000Z",
-    "viewers": 2409,
-    "last_seen_at": "2026-11-13T23:07:50.316Z",
-    "peak_viewers": 2409,
-    "gifts": 47,
-    "gift_points": 3208,
+    "viewers": 2571,
+    "last_seen_at": "2026-11-13T23:12:59.320Z",
+    "peak_viewers": 2571,
+    "gifts": 49,
+    "gift_points": 3432,
     "stars": 0,
-    "comments": 2897,
+    "comments": 3262,
     "gift_breakdown": {
       "Emas Batang": 4,
       "Cold Water": 4,
@@ -27,7 +27,7 @@
       "Buket Mawar": 1,
       "Semangat kak": 2,
       "Kompas": 5,
-      "Panjat": 1,
+      "Panjat": 2,
       "MIKAELA": 1,
       "Water": 2,
       "Puding": 1,
@@ -42,7 +42,8 @@
       "Rendang": 1,
       "Pumpkin": 1,
       "Mawar": 1,
-      "HAHAHA": 2
+      "HAHAHA": 2,
+      "Ngeri Banget": 1
     },
     "gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": "iSocial Bae",
@@ -254,15 +255,35 @@
       [
         51,
         2409
+      ],
+      [
+        52,
+        2450
+      ],
+      [
+        53,
+        2484
+      ],
+      [
+        54,
+        2514
+      ],
+      [
+        55,
+        2554
+      ],
+      [
+        56,
+        2571
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-    "gift_gold": 802,
+    "gift_gold": 858,
     "idn_gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": {
         "name": "iSocial Bae",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664",
-        "points": 632
+        "points": 656
       },
       "2d58c906-b130-4e42-90b8-4225395b36d8": {
         "name": "Rafy Rapyra",
@@ -282,7 +303,7 @@
       "35681bdc-0ca1-4f3d-8de8-ecf529be9584": {
         "name": "Izii .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384",
-        "points": 640
+        "points": 840
       },
       "c8e511bf-6ff9-4b07-bd6e-d81d101fc544": {
         "name": "Annisa Nurul",
