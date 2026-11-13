@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:57:32.475Z",
+  "updated_at": "2026-11-13T23:02:42.606Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114051705",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
       "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
       "started_at": "2026-11-13T22:17:11.000Z",
-      "viewers": 2127,
-      "last_seen_at": "2026-11-13T22:57:31.394Z",
-      "peak_viewers": 2127,
-      "gifts": 38,
-      "gift_points": 2980,
+      "viewers": 2263,
+      "last_seen_at": "2026-11-13T23:02:41.477Z",
+      "peak_viewers": 2263,
+      "gifts": 42,
+      "gift_points": 3080,
       "stars": 0,
-      "comments": 2299,
+      "comments": 2570,
       "gift_breakdown": {
         "Emas Batang": 4,
         "Cold Water": 4,
@@ -28,7 +28,7 @@
         "JKT48 Show": 2,
         "Buket Mawar": 1,
         "Semangat kak": 2,
-        "Kompas": 4,
+        "Kompas": 5,
         "Panjat": 1,
         "MIKAELA": 1,
         "Water": 2,
@@ -40,14 +40,16 @@
         "Siomay": 2,
         "Nasi Goreng": 1,
         "Tulip Flower": 2,
-        "Rempeyek": 1,
-        "Rendang": 1
+        "Rempeyek": 2,
+        "Rendang": 1,
+        "Pumpkin": 1,
+        "Mawar": 1
       },
       "top_gifters": [
         {
           "rank": 1,
           "name": "Izii .",
-          "points": 600,
+          "points": 640,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384"
         },
         {
@@ -59,7 +61,7 @@
         {
           "rank": 3,
           "name": "Khalif Nazar Arafat",
-          "points": 528,
+          "points": 568,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/49750de42f8d7090389e032e9e687cad.webp?v=1766229958"
         },
         {
@@ -249,10 +251,34 @@
         [
           40,
           2114
+        ],
+        [
+          41,
+          2144
+        ],
+        [
+          42,
+          2159
+        ],
+        [
+          43,
+          2188
+        ],
+        [
+          44,
+          2215
+        ],
+        [
+          45,
+          2245
+        ],
+        [
+          46,
+          2263
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-      "gift_gold": 745
+      "gift_gold": 770
     }
   ]
 }

@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
     "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
     "started_at": "2026-11-13T22:17:11.000Z",
-    "viewers": 2127,
-    "last_seen_at": "2026-11-13T22:57:31.394Z",
-    "peak_viewers": 2127,
-    "gifts": 38,
-    "gift_points": 2980,
+    "viewers": 2263,
+    "last_seen_at": "2026-11-13T23:02:41.477Z",
+    "peak_viewers": 2263,
+    "gifts": 42,
+    "gift_points": 3080,
     "stars": 0,
-    "comments": 2299,
+    "comments": 2570,
     "gift_breakdown": {
       "Emas Batang": 4,
       "Cold Water": 4,
@@ -26,7 +26,7 @@
       "JKT48 Show": 2,
       "Buket Mawar": 1,
       "Semangat kak": 2,
-      "Kompas": 4,
+      "Kompas": 5,
       "Panjat": 1,
       "MIKAELA": 1,
       "Water": 2,
@@ -38,8 +38,10 @@
       "Siomay": 2,
       "Nasi Goreng": 1,
       "Tulip Flower": 2,
-      "Rempeyek": 1,
-      "Rendang": 1
+      "Rempeyek": 2,
+      "Rendang": 1,
+      "Pumpkin": 1,
+      "Mawar": 1
     },
     "gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": "iSocial Bae",
@@ -58,7 +60,8 @@
       "953d35b8-064c-40ed-a341-894b6ea2b2ec": "ahmadmastur ",
       "def53a0f-b3a5-4861-ab23-b7b93f453c27": "Miftahul Ihsan ",
       "295be97e-bad4-4369-ad3b-6ddb4b707920": "Khalif Nazar Arafat",
-      "049d4d0c-7fda-4ac3-978e-2d2103d824a3": "MULYANA "
+      "049d4d0c-7fda-4ac3-978e-2d2103d824a3": "MULYANA ",
+      "a234bfcd-9c2e-4780-93a3-a28d8a6f9361": "Hafid Alfin"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -205,10 +208,34 @@
       [
         40,
         2114
+      ],
+      [
+        41,
+        2144
+      ],
+      [
+        42,
+        2159
+      ],
+      [
+        43,
+        2188
+      ],
+      [
+        44,
+        2215
+      ],
+      [
+        45,
+        2245
+      ],
+      [
+        46,
+        2263
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-    "gift_gold": 745,
+    "gift_gold": 770,
     "idn_gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": {
         "name": "iSocial Bae",
@@ -233,7 +260,7 @@
       "35681bdc-0ca1-4f3d-8de8-ecf529be9584": {
         "name": "Izii .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384",
-        "points": 600
+        "points": 640
       },
       "c8e511bf-6ff9-4b07-bd6e-d81d101fc544": {
         "name": "Annisa Nurul",
@@ -288,12 +315,17 @@
       "295be97e-bad4-4369-ad3b-6ddb4b707920": {
         "name": "Khalif Nazar Arafat",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/49750de42f8d7090389e032e9e687cad.webp?v=1766229958",
-        "points": 528
+        "points": 568
       },
       "049d4d0c-7fda-4ac3-978e-2d2103d824a3": {
         "name": "MULYANA ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 40
+      },
+      "a234bfcd-9c2e-4780-93a3-a28d8a6f9361": {
+        "name": "Hafid Alfin",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b4f2afb5dae008d592c3aa52254ce5d7.webp?v=1789298791",
+        "points": 20
       }
     }
   }
