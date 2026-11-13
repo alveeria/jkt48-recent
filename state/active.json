@@ -11,19 +11,19 @@
     "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
     "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
     "started_at": "2026-11-13T05:13:57.000Z",
-    "viewers": 1751,
-    "last_seen_at": "2026-11-13T05:40:43.345Z",
-    "peak_viewers": 1751,
-    "gifts": 13,
-    "gift_points": 2028,
+    "viewers": 2096,
+    "last_seen_at": "2026-11-13T05:45:53.009Z",
+    "peak_viewers": 2096,
+    "gifts": 14,
+    "gift_points": 2048,
     "stars": 0,
-    "comments": 196,
+    "comments": 294,
     "gift_breakdown": {
       "Cold Water": 1,
       "Water": 1,
       "JEMIMA": 3,
       "Graffiti": 1,
-      "Kompas": 3,
+      "Kompas": 4,
       "Kastil Hantu": 1,
       "JKT48 Stage": 1,
       "Pumpkin": 1,
@@ -36,7 +36,8 @@
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": "dagdigdugdeerr .",
       "c029d4c6-6872-4b65-9c13-15860c15d639": "Dio Muah Muah",
       "4e0bf61e-2b35-4489-8056-f9746768c182": "Idham ",
-      "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": "Bli Putu Dicky MP"
+      "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": "Bli Putu Dicky MP",
+      "341e6d3d-1983-4735-8ee3-cfa1f49c5bcb": "LilaAa J"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -87,10 +88,30 @@
       [
         27,
         1751
+      ],
+      [
+        28,
+        1808
+      ],
+      [
+        29,
+        1874
+      ],
+      [
+        30,
+        1948
+      ],
+      [
+        31,
+        2030
+      ],
+      [
+        32,
+        2096
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
-    "gift_gold": 507,
+    "gift_gold": 512,
     "idn_gifters": {
       "3ebea6d0-dae7-4646-9153-1e04009717ba": {
         "name": "duy ",
@@ -126,6 +147,11 @@
         "name": "Bli Putu Dicky MP",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9659f3252457548f57cbdcda34f1ad4.webp?v=1792135196",
         "points": 20
+      },
+      "341e6d3d-1983-4735-8ee3-cfa1f49c5bcb": {
+        "name": "LilaAa J",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/94ea8bfe8bb7f3e67301482833b5bd1c.webp?v=1792594491",
+        "points": 20
       }
     }
   },
@@ -141,26 +167,28 @@
     "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
     "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
     "started_at": "2026-11-13T05:29:54.000Z",
-    "viewers": 534,
-    "last_seen_at": "2026-11-13T05:40:43.345Z",
-    "peak_viewers": 534,
-    "gifts": 6,
-    "gift_points": 224,
+    "viewers": 747,
+    "last_seen_at": "2026-11-13T05:45:53.009Z",
+    "peak_viewers": 747,
+    "gifts": 9,
+    "gift_points": 304,
     "stars": 0,
-    "comments": 139,
+    "comments": 220,
     "gift_breakdown": {
       "Team Hype": 1,
       "Combat": 1,
       "Hii Takut": 1,
-      "Toa": 1,
-      "Matcha": 1,
+      "Toa": 3,
+      "Matcha": 2,
       "Kompas": 1
     },
     "gifters": {
       "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad",
       "867fd685-73b9-4a27-8175-0c063df10885": "ahnaf Fawwaz",
       "adb2760e-10df-467b-90ce-cfc5ea0e33b8": "sepz 14",
-      "3badf035-5902-49ae-ad81-7343d34fd7db": "Maska lagi tidur 🛌"
+      "3badf035-5902-49ae-ad81-7343d34fd7db": "Maska lagi tidur 🛌",
+      "cda90855-b042-41b4-a55a-ded861c484a1": "Dewade Dwipa",
+      "c87cc2bb-d368-4d78-bde9-3d5521e86e70": "Rey ."
     },
     "top_gifters": [],
     "viewer_series": [
@@ -211,15 +239,35 @@
       [
         11,
         534
+      ],
+      [
+        12,
+        570
+      ],
+      [
+        13,
+        616
+      ],
+      [
+        14,
+        669
+      ],
+      [
+        15,
+        710
+      ],
+      [
+        16,
+        747
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
-    "gift_gold": 56,
+    "gift_gold": 76,
     "idn_gifters": {
       "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": {
         "name": "Azrie Ahmad",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787",
-        "points": 140
+        "points": 180
       },
       "867fd685-73b9-4a27-8175-0c063df10885": {
         "name": "ahnaf Fawwaz",
@@ -234,6 +282,16 @@
       "3badf035-5902-49ae-ad81-7343d34fd7db": {
         "name": "Maska lagi tidur 🛌",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bfec47f8124b037f949df2259732a9ff.webp?v=1794485778",
+        "points": 20
+      },
+      "cda90855-b042-41b4-a55a-ded861c484a1": {
+        "name": "Dewade Dwipa",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2382f07f1e5f64ad95985a215daeb55d.webp?v=1784595744",
+        "points": 20
+      },
+      "c87cc2bb-d368-4d78-bde9-3d5521e86e70": {
+        "name": "Rey .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa8b1106b07ec0422f4a7645d5f2c07e.webp?v=1794315141",
         "points": 20
       }
     }
@@ -250,23 +308,26 @@
     "url": "https://www.idn.app/jkt48_gracie/live/hiii-261113115224",
     "image": "https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp",
     "started_at": "2026-11-13T04:52:30.000Z",
-    "viewers": 3442,
-    "last_seen_at": "2026-11-13T05:40:43.345Z",
-    "peak_viewers": 3442,
-    "gifts": 17,
-    "gift_points": 1068,
+    "viewers": 3734,
+    "last_seen_at": "2026-11-13T05:45:53.009Z",
+    "peak_viewers": 3734,
+    "gifts": 30,
+    "gift_points": 1380,
     "stars": 0,
-    "comments": 438,
+    "comments": 593,
     "gift_breakdown": {
-      "Nasi Goreng": 2,
-      "GRACIE": 6,
-      "Kompas": 2,
+      "Nasi Goreng": 6,
+      "GRACIE": 7,
+      "Kompas": 4,
       "Arcade Game": 1,
       "Panjat": 1,
-      "Toa": 2,
+      "Toa": 5,
       "Balon Udara": 1,
       "Mawar": 1,
-      "ELIN": 1
+      "ELIN": 1,
+      "Cold Water": 1,
+      "SSETAAAN": 1,
+      "HAHAHA": 1
     },
     "gifters": {
       "68514043-112a-4184-85ac-e2a65bd3fbc0": "Desti Nurpadilah",
@@ -275,7 +336,11 @@
       "0f56a589-d538-403b-91f6-61d807dcb021": "Ivan R",
       "6089d349-c923-4a87-ac5c-e3f5acff0904": "Kakek Duan Blue Rabbit",
       "9f9a6437-89ee-4b1d-9ba6-056e2b1335fe": "Dikycuyy #AllAboutGracie",
-      "fbeb07de-5ae4-44e2-ab5c-f0ae1275a0e6": "Heggyss Septian"
+      "fbeb07de-5ae4-44e2-ab5c-f0ae1275a0e6": "Heggyss Septian",
+      "6a9aba81-5230-45f3-ae6c-9d7a7b4696ff": "Grace Jovanka",
+      "11bb746d-1488-42b9-a98f-63621a750cb5": "Raffly (Hanayume)",
+      "933678df-78f5-47d2-a7ae-a34ba49ad313": "Ghina S",
+      "3ebea6d0-dae7-4646-9153-1e04009717ba": "duy "
     },
     "top_gifters": [],
     "viewer_series": [
@@ -322,15 +387,35 @@
       [
         48,
         3411
+      ],
+      [
+        49,
+        3473
+      ],
+      [
+        50,
+        3528
+      ],
+      [
+        51,
+        3588
+      ],
+      [
+        52,
+        3658
+      ],
+      [
+        53,
+        3708
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "gift_gold": 267,
+    "gift_gold": 345,
     "idn_gifters": {
       "68514043-112a-4184-85ac-e2a65bd3fbc0": {
         "name": "Desti Nurpadilah",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/86f8c3562ebc1f2e2418e5a2552d7536.webp?v=1789728644",
-        "points": 120
+        "points": 200
       },
       "b00939dd-d715-4d73-935f-0b27b203357b": {
         "name": "Josafat #DedekGracie",
@@ -340,7 +425,7 @@
       "4d787067-fbd7-4a33-8af5-4ffc173f378b": {
         "name": "Haris Mubarok",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b08127b35a382f71b0f151a08faef831.webp?v=1787667718",
-        "points": 120
+        "points": 200
       },
       "0f56a589-d538-403b-91f6-61d807dcb021": {
         "name": "Ivan R",
@@ -361,6 +446,26 @@
         "name": "Heggyss Septian",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/28036b579674116f70da81484450a53a.webp?v=1793711683",
         "points": 76
+      },
+      "6a9aba81-5230-45f3-ae6c-9d7a7b4696ff": {
+        "name": "Grace Jovanka",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ea2bdffeab920c0adebdb071444f526e.webp?v=1794477650",
+        "points": 4
+      },
+      "11bb746d-1488-42b9-a98f-63621a750cb5": {
+        "name": "Raffly (Hanayume)",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8c9c43547717f6a44a8b6d19ba20dfc.webp?v=1786458208",
+        "points": 104
+      },
+      "933678df-78f5-47d2-a7ae-a34ba49ad313": {
+        "name": "Ghina S",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ce21aa71926a0607d552927ee1a7415.webp?v=1765767824",
+        "points": 24
+      },
+      "3ebea6d0-dae7-4646-9153-1e04009717ba": {
+        "name": "duy ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/287a0281cc0f9bae43098314bf04a585.webp?v=1794105235",
+        "points": 20
       }
     }
   }
