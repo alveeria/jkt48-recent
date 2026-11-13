@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 19.33 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 19.38 WIB.
 
 ## Pakai datanya
 
@@ -28,15 +28,18 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Giaa | IDN Live | p | 13 Nov 2026, 18.32 | 2.527 |
-| Lana | IDN Live | Hai | 13 Nov 2026, 18.46 | 4.646 |
-| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 192 |
-| Elin | IDN Live | Hai | 13 Nov 2026, 19.33 | 1 |
+| Lana | IDN Live | Hai | 13 Nov 2026, 18.46 | 5.141 |
+| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 201 |
+| Elin | IDN Live | Hai | 13 Nov 2026, 19.33 | 350 |
+| Nayla | IDN Live | Manadooo | 13 Nov 2026, 19.35 | 180 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 19.36 | 171 |
+| Aralie | IDN Live | hi | 13 Nov 2026, 19.35 | 416 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Giaa | IDN Live | p | 13 Nov 2026, 18.32 | 63m | 2.680 | 30 | 369 | — | 865 |
 | Fahira | IDN Live | ada apa??? | 13 Nov 2026, 15.42 | 41m | 2.890 | 0 | — | — | 5 |
 | Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 41m | 2.957 | 23 | 1.162 | — | 455 |
 | Rara | IDN Live | 💗💗 | 13 Nov 2026, 15.38 | 47m | 1.969 | 12 | 250 | — | 354 |
@@ -76,7 +79,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Fritzy | IDN Live | gais | 12 Nov 2026, 18.45 | 38m | 4.685 | 0 | — | — | 0 |
 | JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/12 | 12 Nov 2026, 18.44 | 165m | 1.831 | 4 | 9 | — | 723 |
 | Lily | IDN Live | Hi | 11 Nov 2026, 23.11 | — | — | — | — | — | — |
-| Michie | IDN Live | wow | 11 Nov 2026, 23.06 | — | — | — | — | — | — |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
