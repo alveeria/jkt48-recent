@@ -11,22 +11,22 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 1712,
-    "last_seen_at": "2026-11-13T04:02:43.797Z",
-    "peak_viewers": 1712,
-    "gifts": 36,
-    "gift_points": 1640,
+    "viewers": 2072,
+    "last_seen_at": "2026-11-13T04:07:52.912Z",
+    "peak_viewers": 2072,
+    "gifts": 51,
+    "gift_points": 4936,
     "stars": 0,
-    "comments": 1154,
+    "comments": 1383,
     "gift_breakdown": {
-      "Toa": 7,
-      "Cold Water": 3,
-      "Kompas": 8,
+      "Toa": 8,
+      "Cold Water": 4,
+      "Kompas": 9,
       "SSETAAAN": 3,
       "Rempeyek": 1,
       "INTAN": 1,
       "Lemon Tea": 1,
-      "Matcha": 1,
+      "Matcha": 2,
       "Makan ya kak": 1,
       "Buket Mawar": 1,
       "Motor Sport": 1,
@@ -35,7 +35,10 @@
       "Puding": 1,
       "Emas Batang": 1,
       "Kucing": 1,
-      "Surabaya": 1
+      "Surabaya": 1,
+      "Jari Hati": 1,
+      "Angklung": 3,
+      "JKT48 Show": 7
     },
     "gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": "Ajipangestu Erianto Prakoso",
@@ -61,7 +64,13 @@
       "5af4704a-cee0-4060-a64c-4672b488167b": "Lutpii pacar intan",
       "fe4e2027-4e43-4616-99d1-75c9d8b07d50": "Pasukan Bebek kwek kwek",
       "6c25d3a1-a348-4c99-ba1f-ae700f6a526e": "Keem (kim)",
-      "5eb2845b-7b31-45f2-b967-08591d6f8d9c": "nasip nasipp"
+      "5eb2845b-7b31-45f2-b967-08591d6f8d9c": "nasip nasipp",
+      "bdeda73d-2043-46d5-a3d8-f1e5c0aa9f92": "agaxx ~",
+      "29f3feb3-b0a6-44f7-9e4d-94f7e0d20d63": "Rizkum .",
+      "f851dea9-a9e3-4451-ae79-9bc5da07b94f": "ICHAcapslock onlyKaIntan",
+      "2812df0f-640b-4b9e-8a28-44b723c8e035": "Cahyo ",
+      "587a7855-72ce-4a42-8176-03418709fc7a": "Kevin Dwi .P",
+      "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": "Naga Harp"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -128,10 +137,30 @@
       [
         15,
         1712
+      ],
+      [
+        16,
+        1777
+      ],
+      [
+        17,
+        1853
+      ],
+      [
+        18,
+        1880
+      ],
+      [
+        19,
+        1959
+      ],
+      [
+        20,
+        2035
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 410,
+    "gift_gold": 1234,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -151,7 +180,7 @@
       "060002c8-3634-4120-b0e4-8412fd48f1ac": {
         "name": "Kuncoro Wibowo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cff3df5e7afb0cd15fc5836b591672a0.webp?v=1784571507",
-        "points": 24
+        "points": 424
       },
       "6fd6eec2-ae66-49ea-8799-07a7cc7045e1": {
         "name": "Hugo Javaa #ungger",
@@ -171,7 +200,7 @@
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": {
         "name": "Arya Sutanto",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/576c634c83a0f5a040f0f760c42e7362.webp?v=1758817060",
-        "points": 24
+        "points": 772
       },
       "17a25a39-951e-4786-a30e-de6d775f435b": {
         "name": "binnn. 💫",
@@ -221,7 +250,7 @@
       "c45e24db-268b-45e7-aabf-65e5bd8be03d": {
         "name": "Shinbé Kiyawara",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705",
-        "points": 556
+        "points": 1356
       },
       "5adb89bd-66af-4c0e-b511-fd9ab34feae4": {
         "name": "FreeCaramel 🐻 🍯",
@@ -252,6 +281,36 @@
         "name": "nasip nasipp",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91dd07ad26442e0055a1718166a3c6bb.webp?v=1790608954",
         "points": 20
+      },
+      "bdeda73d-2043-46d5-a3d8-f1e5c0aa9f92": {
+        "name": "agaxx ~",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/909c7ae3034e6691ad2310d80319a8d7.webp?v=1788168425",
+        "points": 20
+      },
+      "29f3feb3-b0a6-44f7-9e4d-94f7e0d20d63": {
+        "name": "Rizkum .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343",
+        "points": 64
+      },
+      "f851dea9-a9e3-4451-ae79-9bc5da07b94f": {
+        "name": "ICHAcapslock onlyKaIntan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c422766bad9832a92ca1ed12b0ef5317.webp?v=1788357124",
+        "points": 40
+      },
+      "2812df0f-640b-4b9e-8a28-44b723c8e035": {
+        "name": "Cahyo ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e42e1a8bba549fb094f4ead841f33997.webp?v=1793376147",
+        "points": 1200
+      },
+      "587a7855-72ce-4a42-8176-03418709fc7a": {
+        "name": "Kevin Dwi .P",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/483585375fa24d024d97cdf2bf00f0a5.webp?v=1777652313",
+        "points": 20
+      },
+      "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": {
+        "name": "Naga Harp",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/85f04b1670d3e118a4f686445106e548.webp?v=1790092303",
+        "points": 4
       }
     }
   },
@@ -267,15 +326,21 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 222,
-    "last_seen_at": "2026-11-13T04:02:43.797Z",
-    "peak_viewers": 222,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 532,
+    "last_seen_at": "2026-11-13T04:07:52.912Z",
+    "peak_viewers": 532,
+    "gifts": 2,
+    "gift_points": 140,
     "stars": 0,
-    "comments": 60,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 134,
+    "gift_breakdown": {
+      "SSETAAAN": 1,
+      "Angklung": 1
+    },
+    "gifters": {
+      "5777e06f-a7ff-4255-82bc-c77876c5a57c": "Faiz Darmawan",
+      "7c805a54-aa9e-4003-a9a2-c41b133b5cbf": "Ridwan リドワン"
+    },
     "top_gifters": [],
     "viewer_series": [
       [
@@ -293,8 +358,41 @@
       [
         3,
         188
+      ],
+      [
+        4,
+        253
+      ],
+      [
+        5,
+        301
+      ],
+      [
+        6,
+        350
+      ],
+      [
+        7,
+        424
+      ],
+      [
+        8,
+        487
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
+    "gift_gold": 35,
+    "idn_gifters": {
+      "5777e06f-a7ff-4255-82bc-c77876c5a57c": {
+        "name": "Faiz Darmawan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ece60897ba5a1882ea03024267aaa3f3.webp?v=1759623571",
+        "points": 24
+      },
+      "7c805a54-aa9e-4003-a9a2-c41b133b5cbf": {
+        "name": "Ridwan リドワン",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d96aaf5a659f0127127d16eda5dbd728.webp?v=1768469094",
+        "points": 116
+      }
+    }
   }
 }
