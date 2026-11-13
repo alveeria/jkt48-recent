@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 18.10 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 18.16 WIB.
 
 ## Pakai datanya
 
@@ -38,13 +38,13 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 41m | 2.957 | 23 | 1.162 | — | 455 |
 | Rara | IDN Live | 💗💗 | 13 Nov 2026, 15.38 | 47m | 1.969 | 12 | 250 | — | 354 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 64m | 2.299 | 24 | 523 | — | 275 |
-| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 79m | 8.094 | 75 | 2.134 | — | 2.127 |
-| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 91m | 6.542 | 28 | 903 | — | 698 |
-| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 92m | 7.082 | 25 | 595 | — | 934 |
-| Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 66m | 3.837 | 86 | 667 | — | 2.472 |
-| Carissa | IDN Live | Hello helloo 😚 | 13 Nov 2026, 14.26 | 68m | 4.089 | 49 | 1.164 | — | 847 |
-| Sona | IDN Live | sm ica | 13 Nov 2026, 14.25 | 70m | 4.855 | 48 | 1.083 | — | 563 |
-| Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 77m | 9.665 | 57 | 726 | — | 6.748 |
+| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 2m | 274 | 0 | — | — | 42 |
+| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 17m | 1.371 | 15 | 486 | — | 191 |
+| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 17m | 806 | 8 | 358 | — | 193 |
+| Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 20m | 1.404 | 12 | 192 | — | 474 |
+| Carissa | IDN Live | Hello helloo 😚 | 13 Nov 2026, 14.26 | 23m | 1.666 | 17 | 398 | — | 327 |
+| Sona | IDN Live | sm ica | 13 Nov 2026, 14.25 | 25m | 2.019 | 8 | 173 | — | 276 |
+| Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 47m | 6.846 | 9 | 76 | — | 2.910 |
 | Ribka | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 13.26 | 65m | 7.543 | 30 | 653 | — | 930 |
 | Indah | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 13.26 | 65m | 8.081 | 104 | 1.685 | — | 2.174 |
 | Rilly | IDN Live | Hellooo | 13 Nov 2026, 12.29 | 66m | 2.466 | 23 | 241 | — | 1.045 |
