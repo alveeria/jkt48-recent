@@ -11,25 +11,27 @@
     "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261113132606",
     "image": "https://cdn.idn.app/livestream/b26395fa8695182a5371382645230d0a.webp",
     "started_at": "2026-11-13T06:26:12.000Z",
-    "viewers": 2841,
-    "last_seen_at": "2026-11-13T06:42:43.837Z",
-    "peak_viewers": 2841,
-    "gifts": 13,
-    "gift_points": 556,
+    "viewers": 3395,
+    "last_seen_at": "2026-11-13T06:47:52.808Z",
+    "peak_viewers": 3395,
+    "gifts": 19,
+    "gift_points": 856,
     "stars": 0,
-    "comments": 372,
+    "comments": 478,
     "gift_breakdown": {
       "Padang": 1,
       "Angklung": 1,
       "Rendang": 1,
-      "INDAH": 1,
-      "Pumpkin": 2,
+      "INDAH": 2,
+      "Pumpkin": 3,
       "Matcha": 1,
-      "Combat": 1,
+      "Combat": 2,
       "Mawar": 2,
       "Toa": 1,
       "Lemon Tea": 1,
-      "Puding": 1
+      "Puding": 2,
+      "Makan ya kak": 1,
+      "Lightstick": 1
     },
     "gifters": {
       "682eb8e5-ca59-418e-ba2a-a9087c7f0677": "Tommy '(",
@@ -41,7 +43,8 @@
       "ef316c0f-b3a1-4882-b256-9a706f615d9b": "loveliaa _BocillHeidii",
       "f7173333-6fdb-4879-9b45-ae27e58513a4": "Triii .",
       "e91b3a7b-928e-48c9-88f9-749019959eb9": "Purwanto .",
-      "a611c156-e840-41e6-8417-59aa7383c975": "Senja Putrisia Fajar Eldiningtyas"
+      "a611c156-e840-41e6-8417-59aa7383c975": "Senja Putrisia Fajar Eldiningtyas",
+      "c5cb4817-4bba-47bb-baed-1eb4fb869a11": "Rizky Emy"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -116,10 +119,30 @@
       [
         17,
         2841
+      ],
+      [
+        18,
+        2956
+      ],
+      [
+        19,
+        3068
+      ],
+      [
+        20,
+        3177
+      ],
+      [
+        21,
+        3285
+      ],
+      [
+        22,
+        3395
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
-    "gift_gold": 139,
+    "gift_gold": 214,
     "idn_gifters": {
       "682eb8e5-ca59-418e-ba2a-a9087c7f0677": {
         "name": "Tommy '(",
@@ -139,12 +162,12 @@
       "d4040465-f418-48eb-87d2-1d0adcc7206e": {
         "name": "Jay Kangen Dedek Indah",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eecb1fb6553479efc6976def17855879.webp?v=1787238946",
-        "points": 80
+        "points": 120
       },
       "dbd9e107-5c2b-40f1-9874-8a6a94dc847d": {
         "name": "Raiiiii ditinggal mommy grad",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/66dcb1c9577515fac1e041a89e9e1f02.webp?v=1793606732",
-        "points": 48
+        "points": 88
       },
       "0c5be3f6-d56c-42d7-a6b4-17a6b427b2ca": {
         "name": "Adit A",
@@ -159,7 +182,7 @@
       "f7173333-6fdb-4879-9b45-ae27e58513a4": {
         "name": "Triii .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7bfd390c52dc36384f549f84f7e8ad56.webp?v=1793846534",
-        "points": 56
+        "points": 96
       },
       "e91b3a7b-928e-48c9-88f9-749019959eb9": {
         "name": "Purwanto .",
@@ -170,6 +193,11 @@
         "name": "Senja Putrisia Fajar Eldiningtyas",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7cc33be116945f11fb004e984ef8e58c.webp?v=1731477331",
         "points": 12
+      },
+      "c5cb4817-4bba-47bb-baed-1eb4fb869a11": {
+        "name": "Rizky Emy",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/30fbd0ee361d7b0fc69b61e961c73779.webp?v=1794498274",
+        "points": 180
       }
     }
   },
@@ -185,13 +213,13 @@
     "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261113132622",
     "image": "https://cdn.idn.app/livestream/a057bf98dc019e9e76f602497b66c2c8.webp",
     "started_at": "2026-11-13T06:26:29.000Z",
-    "viewers": 2406,
-    "last_seen_at": "2026-11-13T06:42:43.837Z",
-    "peak_viewers": 2406,
-    "gifts": 12,
-    "gift_points": 1588,
+    "viewers": 2907,
+    "last_seen_at": "2026-11-13T06:47:52.808Z",
+    "peak_viewers": 2907,
+    "gifts": 13,
+    "gift_points": 1628,
     "stars": 0,
-    "comments": 234,
+    "comments": 294,
     "gift_breakdown": {
       "Emas Batang": 5,
       "Tumpeng": 1,
@@ -200,7 +228,8 @@
       "Kucing": 1,
       "Toa": 1,
       "Team Chill": 1,
-      "Pumpkin": 1
+      "Pumpkin": 1,
+      "Makan ya kak": 1
     },
     "gifters": {
       "408098c4-dadf-48a6-94d1-351b6e9dfd37": "rizky pratama",
@@ -279,10 +308,30 @@
       [
         16,
         2356
+      ],
+      [
+        17,
+        2453
+      ],
+      [
+        18,
+        2546
+      ],
+      [
+        19,
+        2628
+      ],
+      [
+        20,
+        2720
+      ],
+      [
+        21,
+        2854
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
-    "gift_gold": 397,
+    "gift_gold": 407,
     "idn_gifters": {
       "408098c4-dadf-48a6-94d1-351b6e9dfd37": {
         "name": "rizky pratama",
@@ -312,7 +361,7 @@
       "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": {
         "name": "Franko ...",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626",
-        "points": 80
+        "points": 120
       }
     }
   }
