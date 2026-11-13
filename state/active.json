@@ -11,23 +11,23 @@
     "url": "https://www.idn.app/jkt48_gracie/live/hiii-261113115224",
     "image": "https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp",
     "started_at": "2026-11-13T04:52:30.000Z",
-    "viewers": 1467,
-    "last_seen_at": "2026-11-13T05:09:54.660Z",
-    "peak_viewers": 1467,
-    "gifts": 23,
-    "gift_points": 800,
+    "viewers": 1793,
+    "last_seen_at": "2026-11-13T05:15:06.987Z",
+    "peak_viewers": 1793,
+    "gifts": 25,
+    "gift_points": 856,
     "stars": 0,
-    "comments": 337,
+    "comments": 476,
     "gift_breakdown": {
       "Kompas": 4,
       "Toa": 8,
       "Lato-Lato": 1,
       "Water": 2,
       "SSETAAAN": 2,
-      "Puding": 1,
+      "Puding": 2,
       "GRACIE": 1,
       "Angklung": 2,
-      "Pumpkin": 1,
+      "Pumpkin": 2,
       "Lightstick": 1
     },
     "gifters": {
@@ -123,10 +123,34 @@
       [
         17,
         1436
+      ],
+      [
+        18,
+        1506
+      ],
+      [
+        19,
+        1581
+      ],
+      [
+        20,
+        1614
+      ],
+      [
+        21,
+        1666
+      ],
+      [
+        22,
+        1733
+      ],
+      [
+        23,
+        1793
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "gift_gold": 200,
+    "gift_gold": 214,
     "idn_gifters": {
       "52b95f5c-ab59-4e36-982b-97d78932927a": {
         "name": "EchiiInii .",
@@ -146,7 +170,7 @@
       "933678df-78f5-47d2-a7ae-a34ba49ad313": {
         "name": "Ghina S",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ce21aa71926a0607d552927ee1a7415.webp?v=1765767824",
-        "points": 40
+        "points": 56
       },
       "ea652666-7a33-40d0-85da-f9d75169da08": {
         "name": "Albert Camus",
@@ -186,7 +210,7 @@
       "fbeb07de-5ae4-44e2-ab5c-f0ae1275a0e6": {
         "name": "Heggyss Septian",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/28036b579674116f70da81484450a53a.webp?v=1793711683",
-        "points": 20
+        "points": 60
       },
       "6a915f7f-1d54-4014-859b-f43c0bedc09c": {
         "name": "Luqman gzn",
@@ -219,5 +243,39 @@
         "points": 20
       }
     }
+  },
+  "idn:ayo-ngobrol-bareng-261113121352": {
+    "id": "idn:ayo-ngobrol-bareng-261113121352",
+    "platform": "idn",
+    "member": {
+      "name": "Jemima",
+      "username": "jkt48_jemima",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/54c286f829c7ff60a713e07d607edcc2.webp?v=1743097513"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261113121352",
+    "image": "https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp",
+    "started_at": "2026-11-13T05:13:57.000Z",
+    "viewers": 77,
+    "last_seen_at": "2026-11-13T05:15:06.987Z",
+    "peak_viewers": 77,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 18,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        37
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq"
   }
 }
