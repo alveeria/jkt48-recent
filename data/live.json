@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:31:32.470Z",
+  "updated_at": "2026-11-13T22:36:54.264Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114051705",
@@ -13,50 +13,47 @@
       "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
       "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
       "started_at": "2026-11-13T22:17:11.000Z",
-      "viewers": 1135,
-      "last_seen_at": "2026-11-13T22:31:01.622Z",
-      "peak_viewers": 1135,
-      "gifts": 12,
-      "gift_points": 1036,
+      "viewers": 1365,
+      "last_seen_at": "2026-11-13T22:36:53.249Z",
+      "peak_viewers": 1365,
+      "gifts": 13,
+      "gift_points": 1520,
       "stars": 0,
-      "comments": 1060,
+      "comments": 1130,
       "gift_breakdown": {
-        "Emas Batang": 1,
-        "Cold Water": 1,
+        "Emas Batang": 2,
+        "Cold Water": 2,
         "Angklung": 1,
         "Toa": 1,
-        "JKT48 Show": 1,
+        "JKT48 Show": 2,
         "Buket Mawar": 1,
-        "Semangat kak": 1,
-        "MIKAELA": 1,
-        "Kompas": 2,
-        "HAHAHA": 1,
-        "Pumpkin": 1
+        "Semangat kak": 2,
+        "Kompas": 2
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "Alfan Ma’arif",
+          "points": 516,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a701006ef70132668e0029b0d470714c.webp?v=1789565671"
+        },
+        {
+          "rank": 2,
           "name": "Izii .",
           "points": 400,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "iSocial Bae",
-          "points": 220,
+          "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
         },
         {
-          "rank": 3,
-          "name": "ZYYKAEL RMX (arya_dwi025)",
-          "points": 120,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4b9edbb6c45f08601732cacce9d7b5d0.webp?v=1793724393"
-        },
-        {
           "rank": 4,
-          "name": "Alfan Ma’arif",
-          "points": 116,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a701006ef70132668e0029b0d470714c.webp?v=1789565671"
+          "name": "Franko ...",
+          "points": 196,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
         },
         {
           "rank": 5,
@@ -67,7 +64,7 @@
         {
           "rank": 6,
           "name": "Reii Wijaya",
-          "points": 28,
+          "points": 56,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414"
         },
         {
@@ -78,9 +75,9 @@
         },
         {
           "rank": 8,
-          "name": "izalcul 👾",
+          "name": "Ricko Zulfa",
           "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a3d105c02fefad79e991e9049f7c6a5.webp?v=1793252652"
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e1847b1bd709c5262fbf592cb39fa818.webp?v=1731940647"
         },
         {
           "rank": 9,
@@ -137,28 +134,32 @@
           905
         ],
         [
-          10,
-          961
+          15,
+          1178
         ],
         [
-          11,
-          1004
+          16,
+          1219
         ],
         [
-          12,
-          1050
+          17,
+          1256
         ],
         [
-          13,
-          1092
+          18,
+          1289
         ],
         [
-          14,
-          1135
+          19,
+          1326
+        ],
+        [
+          20,
+          1365
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-      "gift_gold": 259
+      "gift_gold": 380
     }
   ]
 }

@@ -11,25 +11,22 @@
     "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
     "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
     "started_at": "2026-11-13T22:17:11.000Z",
-    "viewers": 1135,
-    "last_seen_at": "2026-11-13T22:31:01.622Z",
-    "peak_viewers": 1135,
-    "gifts": 12,
-    "gift_points": 1036,
+    "viewers": 1365,
+    "last_seen_at": "2026-11-13T22:36:53.249Z",
+    "peak_viewers": 1365,
+    "gifts": 13,
+    "gift_points": 1520,
     "stars": 0,
-    "comments": 1060,
+    "comments": 1130,
     "gift_breakdown": {
-      "Emas Batang": 1,
-      "Cold Water": 1,
+      "Emas Batang": 2,
+      "Cold Water": 2,
       "Angklung": 1,
       "Toa": 1,
-      "JKT48 Show": 1,
+      "JKT48 Show": 2,
       "Buket Mawar": 1,
-      "Semangat kak": 1,
-      "MIKAELA": 1,
-      "Kompas": 2,
-      "HAHAHA": 1,
-      "Pumpkin": 1
+      "Semangat kak": 2,
+      "Kompas": 2
     },
     "gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": "iSocial Bae",
@@ -39,8 +36,9 @@
       "35681bdc-0ca1-4f3d-8de8-ecf529be9584": "Izii .",
       "c8e511bf-6ff9-4b07-bd6e-d81d101fc544": "Annisa Nurul",
       "38ec9711-56f7-4ea2-9339-4461e2d1b8a8": "Reii Wijaya",
-      "0f505aef-60ce-4b8c-be53-dbc7e1b08fbd": "ZYYKAEL RMX (arya_dwi025)",
-      "1fed656d-366f-43e7-802e-61235b412868": "izalcul 👾",
+      "68488ddb-4b3f-4179-a64c-bf5ecb6b1a44": "ㅤ ㅤ",
+      "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": "Franko ...",
+      "11a934d4-620f-480e-b4c4-4758e2a0143d": "Ricko Zulfa",
       "d0b2bb72-1cfd-4200-a301-defba4a04d13": "Ameeek ."
     },
     "top_gifters": [],
@@ -86,33 +84,37 @@
         905
       ],
       [
-        10,
-        961
+        15,
+        1178
       ],
       [
-        11,
-        1004
+        16,
+        1219
       ],
       [
-        12,
-        1050
+        17,
+        1256
       ],
       [
-        13,
-        1092
+        18,
+        1289
       ],
       [
-        14,
-        1135
+        19,
+        1326
+      ],
+      [
+        20,
+        1365
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-    "gift_gold": 259,
+    "gift_gold": 380,
     "idn_gifters": {
       "4c152d65-21be-485e-9d42-f567d74af8b3": {
         "name": "iSocial Bae",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664",
-        "points": 220
+        "points": 196
       },
       "2d58c906-b130-4e42-90b8-4225395b36d8": {
         "name": "Rafy Rapyra",
@@ -122,7 +124,7 @@
       "905814b1-7709-4f23-90eb-ea55643a1cbf": {
         "name": "Alfan Ma’arif",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a701006ef70132668e0029b0d470714c.webp?v=1789565671",
-        "points": 116
+        "points": 516
       },
       "e4b9c367-ecea-408b-8518-0da7a89dc1a2": {
         "name": "Dias Mahardika",
@@ -142,16 +144,21 @@
       "38ec9711-56f7-4ea2-9339-4461e2d1b8a8": {
         "name": "Reii Wijaya",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414",
-        "points": 28
+        "points": 56
       },
-      "0f505aef-60ce-4b8c-be53-dbc7e1b08fbd": {
-        "name": "ZYYKAEL RMX (arya_dwi025)",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4b9edbb6c45f08601732cacce9d7b5d0.webp?v=1793724393",
-        "points": 120
+      "68488ddb-4b3f-4179-a64c-bf5ecb6b1a44": {
+        "name": "ㅤ ㅤ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/93740188af89cc51b18e960d2c42e943.webp?v=1791458472",
+        "points": 4
       },
-      "1fed656d-366f-43e7-802e-61235b412868": {
-        "name": "izalcul 👾",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a3d105c02fefad79e991e9049f7c6a5.webp?v=1793252652",
+      "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": {
+        "name": "Franko ...",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626",
+        "points": 196
+      },
+      "11a934d4-620f-480e-b4c4-4758e2a0143d": {
+        "name": "Ricko Zulfa",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e1847b1bd709c5262fbf592cb39fa818.webp?v=1731940647",
         "points": 20
       },
       "d0b2bb72-1cfd-4200-a301-defba4a04d13": {
