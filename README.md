@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 20.34 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 20.39 WIB.
 
 ## Pakai datanya
 
@@ -28,13 +28,14 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 328 |
-| Elin | IDN Live | Hai | 13 Nov 2026, 19.33 | 4.718 |
-| Nayla | IDN Live | Manadooo | 13 Nov 2026, 19.35 | 5.523 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 19.36 | 5.334 |
-| Aralie | IDN Live | hi | 13 Nov 2026, 19.35 | 10.800 |
-| Gita | IDN Live | Gits | 13 Nov 2026, 20.23 | 1.361 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.24 | 1.043 |
+| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 338 |
+| Elin | IDN Live | Hai | 13 Nov 2026, 19.33 | 5.075 |
+| Nayla | IDN Live | Manadooo | 13 Nov 2026, 19.35 | 6.147 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 19.36 | 5.814 |
+| Aralie | IDN Live | hi | 13 Nov 2026, 19.35 | 11.686 |
+| Gita | IDN Live | Gits | 13 Nov 2026, 20.23 | 1.984 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.24 | 1.598 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 20.35 | 328 |
 
 ## Live terakhir — Nov 2026
 
