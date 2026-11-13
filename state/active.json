@@ -11,20 +11,20 @@
     "url": "https://www.idn.app/jkt48_erine/live/diroriiiii-261113223844",
     "image": "https://cdn.idn.app/livestream/c1c2e6d8a517f2ab4fc6c8f2435db3f8.webp",
     "started_at": "2026-11-13T15:38:50.000Z",
-    "viewers": 13409,
-    "last_seen_at": "2026-11-13T16:44:11.214Z",
-    "peak_viewers": 13409,
-    "gifts": 84,
-    "gift_points": 5736,
+    "viewers": 13946,
+    "last_seen_at": "2026-11-13T16:49:16.788Z",
+    "peak_viewers": 13946,
+    "gifts": 96,
+    "gift_points": 8316,
     "stars": 0,
-    "comments": 9170,
+    "comments": 9731,
     "gift_breakdown": {
       "Jari Hati": 1,
-      "Matcha": 12,
-      "Kompas": 13,
+      "Matcha": 14,
+      "Kompas": 15,
       "Toa": 13,
       "Angklung": 10,
-      "Emas Batang": 5,
+      "Emas Batang": 7,
       "Martabak": 1,
       "ERINE": 5,
       "Lemon Tea": 3,
@@ -39,11 +39,16 @@
       "Team Chill": 1,
       "Mawar": 4,
       "ARALIE": 1,
-      "Tulip Flower": 1,
+      "Tulip Flower": 2,
       "NACHIA": 1,
       "Combat": 1,
       "Cold Water": 1,
-      "Cendrawasih": 1
+      "Cendrawasih": 1,
+      "Puding": 1,
+      "REGIE": 1,
+      "Jet Pribadi": 1,
+      "Orange Syrup": 1,
+      "JKT48 Stage": 1
     },
     "gifters": {
       "cb604bcb-c481-4145-8310-837c0bb565de": "Pianbee",
@@ -81,7 +86,10 @@
       "01ec3b05-6b20-460b-884b-5fffc436b7f0": "Silooo",
       "4e0bf61e-2b35-4489-8056-f9746768c182": "Idham ",
       "79a19a96-c5c3-4166-91d1-d210a53530f6": "Berry Dengah",
-      "17a61ea8-d6a1-48b3-bd15-52d159fed7e4": ". EFHA"
+      "17a61ea8-d6a1-48b3-bd15-52d159fed7e4": ". EFHA",
+      "82fc15ac-1425-4247-b14c-ade28eaf03fd": "Jane jane",
+      "cd03449e-ec5e-4e8f-b1bb-c43da5564611": "Rafa Firman",
+      "5ef8fc93-11e4-49e1-94e1-13d9d0421ed7": "Miyacos"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -348,10 +356,30 @@
       [
         65,
         13362
+      ],
+      [
+        66,
+        13468
+      ],
+      [
+        67,
+        13590
+      ],
+      [
+        68,
+        13693
+      ],
+      [
+        69,
+        13798
+      ],
+      [
+        70,
+        13894
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/6hjihgZ20wwR",
-    "gift_gold": 1434,
+    "gift_gold": 2079,
     "idn_gifters": {
       "cb604bcb-c481-4145-8310-837c0bb565de": {
         "name": "Pianbee",
@@ -361,7 +389,7 @@
       "7a774239-6a11-4c37-a876-c4a9c951c569": {
         "name": "Maro9933 .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/367f7891bebe5071edf09e44d71eae2f.webp?v=1783153946",
-        "points": 316
+        "points": 532
       },
       "bed91de3-d360-457a-8dd0-233bc3c6d6e8": {
         "name": "R F Dorable .",
@@ -456,12 +484,12 @@
       "b76946e4-de5a-43be-8c93-fd182833f3f8": {
         "name": "Nada🦄 ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9f7d0667a3e2de79e7885923e2a2f37f.webp?v=1743262038",
-        "points": 228
+        "points": 424
       },
       "60d7d307-3de8-48e0-8ba9-2e19bad26755": {
         "name": "ΛKMΛᄂ GΉIFΛЯI",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d998b1bf4bd3f285f7381f360cf75a79.webp?v=1731189807",
-        "points": 160
+        "points": 280
       },
       "78133b6d-1184-4c0b-8e82-b0c8e0ed7839": {
         "name": "Meysia Aulia",
@@ -501,7 +529,7 @@
       "4e191767-d7c4-4d67-96a6-616bb2eadf85": {
         "name": "hai tem 💫 #TheSTARS",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3541d84c6d298c36f1f3ca1a7dc67f01.webp?v=1793986344",
-        "points": 232
+        "points": 312
       },
       "ec8d5a63-bf1d-4e44-9ddd-3659a272fdba": {
         "name": "ADE 🍿",
@@ -521,7 +549,7 @@
       "4e0bf61e-2b35-4489-8056-f9746768c182": {
         "name": "Idham ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417",
-        "points": 392
+        "points": 1988
       },
       "79a19a96-c5c3-4166-91d1-d210a53530f6": {
         "name": "Berry Dengah",
@@ -531,7 +559,22 @@
       "17a61ea8-d6a1-48b3-bd15-52d159fed7e4": {
         "name": ". EFHA",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/54fe5e5a549672d5f625908c57b1d03d.webp?v=1788796025",
-        "points": 476
+        "points": 764
+      },
+      "82fc15ac-1425-4247-b14c-ade28eaf03fd": {
+        "name": "Jane jane",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe57e813e48e75e739c27056d6f939fc.webp?v=1785147223",
+        "points": 24
+      },
+      "cd03449e-ec5e-4e8f-b1bb-c43da5564611": {
+        "name": "Rafa Firman",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/15b80e43ad10dd9b5b615baffffe3da8.webp?v=1730818543",
+        "points": 20
+      },
+      "5ef8fc93-11e4-49e1-94e1-13d9d0421ed7": {
+        "name": "Miyacos",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4916bab331d87a3439fd5a9aca21427b.webp?v=1793947794",
+        "points": 40
       }
     }
   }
