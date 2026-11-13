@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 15.21 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 15.26 WIB.
 
 ## Pakai datanya
 
@@ -28,20 +28,19 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 9.665 |
-| Sona | IDN Live | sm ica | 13 Nov 2026, 14.25 | 4.071 |
-| Carissa | IDN Live | Hello helloo 😚 | 13 Nov 2026, 14.26 | 3.458 |
-| Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 3.219 |
-| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 3.412 |
-| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 3.818 |
-| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 4.582 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 760 |
+| Sona | IDN Live | sm ica | 13 Nov 2026, 14.25 | 4.372 |
+| Carissa | IDN Live | Hello helloo 😚 | 13 Nov 2026, 14.26 | 3.738 |
+| Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 3.462 |
+| Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 3.834 |
+| Bella | IDN Live | Hellooo | 13 Nov 2026, 14.33 | 4.199 |
+| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 5.099 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 956 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
-| Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 7m | 1.079 | 2 | 8 | — | 379 |
+| Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 77m | 9.665 | 57 | 726 | — | 6.748 |
 | Ribka | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 13.26 | 65m | 7.543 | 30 | 653 | — | 930 |
 | Indah | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 13.26 | 65m | 8.081 | 104 | 1.685 | — | 2.174 |
 | Rilly | IDN Live | Hellooo | 13 Nov 2026, 12.29 | 66m | 2.466 | 23 | 241 | — | 1.045 |
