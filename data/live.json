@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:17:45.316Z",
+  "updated_at": "2026-11-13T12:22:52.836Z",
   "lives": [
     {
       "id": "idn:p-261113183240",
@@ -13,19 +13,19 @@
       "url": "https://www.idn.app/jkt48_giaa/live/p-261113183240",
       "image": "https://cdn.idn.app/livestream/00a2ba90bd186cad7cc63495465a76ac.webp",
       "started_at": "2026-11-13T11:32:45.000Z",
-      "viewers": 1928,
-      "last_seen_at": "2026-11-13T12:17:44.790Z",
-      "peak_viewers": 1928,
-      "gifts": 19,
-      "gift_points": 824,
+      "viewers": 2114,
+      "last_seen_at": "2026-11-13T12:22:51.921Z",
+      "peak_viewers": 2114,
+      "gifts": 20,
+      "gift_points": 864,
       "stars": 0,
-      "comments": 643,
+      "comments": 710,
       "gift_breakdown": {
         "Pumpkin": 3,
         "Toa": 4,
         "Emas Batang": 1,
         "Combat": 1,
-        "Matcha": 3,
+        "Matcha": 4,
         "Kompas": 1,
         "Lemonade": 1,
         "Tulip Flower": 1,
@@ -73,27 +73,27 @@
         },
         {
           "rank": 7,
+          "name": "Ren Rakuen",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/06067d58908a4cbc752242a1e09b5eeb.webp?v=1761585765"
+        },
+        {
+          "rank": 8,
           "name": "YannKai Langganan #8",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cf4d02a7ec404243265d4a96c8571194.webp?v=1794141448"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Divaa ❤️‍🩹",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/16cef96ceb739b6f788710028edcd82b.webp?v=1794486845"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "izalcul 👾",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a3d105c02fefad79e991e9049f7c6a5.webp?v=1793252652"
-        },
-        {
-          "rank": 10,
-          "name": "Fasya Pranata",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b2b01a1f0a57dfc6a064bc9b03082d78.webp?v=1793894395"
         }
       ],
       "viewer_series": [
@@ -280,10 +280,30 @@
         [
           45,
           1928
+        ],
+        [
+          46,
+          1942
+        ],
+        [
+          47,
+          1962
+        ],
+        [
+          48,
+          1987
+        ],
+        [
+          49,
+          2016
+        ],
+        [
+          50,
+          2061
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
-      "gift_gold": 206
+      "gift_gold": 216
     },
     {
       "id": "idn:hai-261113184616",
@@ -297,21 +317,22 @@
       "url": "https://www.idn.app/jkt48_lana/live/hai-261113184616",
       "image": "https://cdn.idn.app/livestream/fa15d2c6657dd8d0eee847762907a172.webp",
       "started_at": "2026-11-13T11:46:22.000Z",
-      "viewers": 3232,
-      "last_seen_at": "2026-11-13T12:17:44.790Z",
-      "peak_viewers": 3232,
-      "gifts": 12,
-      "gift_points": 1840,
+      "viewers": 3718,
+      "last_seen_at": "2026-11-13T12:22:51.921Z",
+      "peak_viewers": 3718,
+      "gifts": 14,
+      "gift_points": 2040,
       "stars": 0,
-      "comments": 1201,
+      "comments": 1368,
       "gift_breakdown": {
-        "Emas Batang": 6,
+        "Emas Batang": 7,
         "Lemon Tea": 1,
         "Angklung": 1,
         "Lato-Lato": 1,
         "Cendrawasih": 1,
         "Orange Syrup": 1,
-        "Nasi Goreng": 1
+        "Nasi Goreng": 1,
+        "Cold Water": 1
       },
       "top_gifters": [
         {
@@ -358,21 +379,21 @@
         },
         {
           "rank": 8,
+          "name": "eM .",
+          "points": 196,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
+        },
+        {
+          "rank": 9,
           "name": "Yuda_ 💤🌙",
           "points": 116,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa1bd45bacc14a835bbf2b32a1a50c59.webp?v=1793797657"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Ade Wahyudin",
           "points": 36,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-        },
-        {
-          "rank": 10,
-          "name": "Andree ",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b178e9b681b64fbf6b412d14900770ce.webp?v=1786895903"
         }
       ],
       "viewer_series": [
@@ -503,10 +524,30 @@
         [
           31,
           3191
+        ],
+        [
+          32,
+          3266
+        ],
+        [
+          33,
+          3314
+        ],
+        [
+          34,
+          3368
+        ],
+        [
+          35,
+          3427
+        ],
+        [
+          36,
+          3587
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
-      "gift_gold": 460
+      "gift_gold": 510
     },
     {
       "id": "idn:pajama-drive-2026-11-13-261105215553",
@@ -520,13 +561,13 @@
       "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
       "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
       "started_at": "2026-11-13T11:46:04.000Z",
-      "viewers": 162,
-      "last_seen_at": "2026-11-13T12:17:44.790Z",
-      "peak_viewers": 162,
+      "viewers": 173,
+      "last_seen_at": "2026-11-13T12:22:51.921Z",
+      "peak_viewers": 173,
       "gifts": 3,
       "gift_points": 316,
       "stars": 0,
-      "comments": 93,
+      "comments": 113,
       "gift_breakdown": {
         "Angklung": 1,
         "Happy B-Day!": 1,
@@ -672,6 +713,26 @@
         [
           32,
           162
+        ],
+        [
+          33,
+          163
+        ],
+        [
+          34,
+          165
+        ],
+        [
+          35,
+          166
+        ],
+        [
+          36,
+          169
+        ],
+        [
+          37,
+          173
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
