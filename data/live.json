@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T17:17:16.460Z",
+  "updated_at": "2026-11-13T17:22:27.227Z",
   "lives": [
     {
       "id": "idn:diroriiiii-261113223844",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_erine/live/diroriiiii-261113223844",
       "image": "https://cdn.idn.app/livestream/c1c2e6d8a517f2ab4fc6c8f2435db3f8.webp",
       "started_at": "2026-11-13T15:38:50.000Z",
-      "viewers": 15947,
-      "last_seen_at": "2026-11-13T17:17:15.387Z",
-      "peak_viewers": 15947,
+      "viewers": 16430,
+      "last_seen_at": "2026-11-13T17:22:26.257Z",
+      "peak_viewers": 16430,
       "gifts": 43,
       "gift_points": 2428,
       "stars": 0,
-      "comments": 6788,
+      "comments": 7380,
       "gift_breakdown": {
         "Jari Hati": 1,
         "Matcha": 8,
@@ -323,6 +323,30 @@
         [
           98,
           15927
+        ],
+        [
+          99,
+          15980
+        ],
+        [
+          100,
+          16011
+        ],
+        [
+          101,
+          16066
+        ],
+        [
+          102,
+          16117
+        ],
+        [
+          103,
+          16169
+        ],
+        [
+          104,
+          16430
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/6hjihgZ20wwR",
