@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:27:16.079Z",
+  "updated_at": "2026-11-13T06:32:25.711Z",
   "lives": [
     {
       "id": "idn:hellooo-261113122949",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_rilly/live/hellooo-261113122949",
       "image": "https://cdn.idn.app/livestream/d6e636faa497a7aecd3eae5ae402773a.webp",
       "started_at": "2026-11-13T05:29:54.000Z",
-      "viewers": 2116,
-      "last_seen_at": "2026-11-13T06:27:15.058Z",
-      "peak_viewers": 2116,
+      "viewers": 2315,
+      "last_seen_at": "2026-11-13T06:32:24.657Z",
+      "peak_viewers": 2315,
       "gifts": 22,
       "gift_points": 848,
       "stars": 0,
-      "comments": 932,
+      "comments": 999,
       "gift_breakdown": {
         "Team Hype": 3,
         "Combat": 2,
@@ -322,6 +322,30 @@
         [
           57,
           2103
+        ],
+        [
+          58,
+          2128
+        ],
+        [
+          59,
+          2172
+        ],
+        [
+          60,
+          2220
+        ],
+        [
+          61,
+          2249
+        ],
+        [
+          62,
+          2288
+        ],
+        [
+          63,
+          2315
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
@@ -339,15 +363,16 @@
       "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261113132606",
       "image": "https://cdn.idn.app/livestream/b26395fa8695182a5371382645230d0a.webp",
       "started_at": "2026-11-13T06:26:12.000Z",
-      "viewers": 95,
-      "last_seen_at": "2026-11-13T06:27:15.058Z",
-      "peak_viewers": 95,
-      "gifts": 1,
-      "gift_points": 116,
+      "viewers": 929,
+      "last_seen_at": "2026-11-13T06:32:24.657Z",
+      "peak_viewers": 929,
+      "gifts": 2,
+      "gift_points": 232,
       "stars": 0,
-      "comments": 6,
+      "comments": 115,
       "gift_breakdown": {
-        "Padang": 1
+        "Padang": 1,
+        "Angklung": 1
       },
       "top_gifters": [
         {
@@ -355,6 +380,12 @@
           "name": "Tommy '(",
           "points": 116,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec61c7b81e86b713c14d0ca12d1d8174.webp?v=1794325969"
+        },
+        {
+          "rank": 2,
+          "name": "rererizkYYYY ((((",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a25191c14afcb537c69128b2a5fc1569.webp?v=1794032903"
         }
       ],
       "viewer_series": [
@@ -365,10 +396,30 @@
         [
           1,
           95
+        ],
+        [
+          2,
+          190
+        ],
+        [
+          3,
+          327
+        ],
+        [
+          4,
+          483
+        ],
+        [
+          5,
+          633
+        ],
+        [
+          6,
+          829
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
-      "gift_gold": 29
+      "gift_gold": 58
     },
     {
       "id": "idn:ayo-ngobrol-bareng-261113132622",
@@ -382,15 +433,30 @@
       "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261113132622",
       "image": "https://cdn.idn.app/livestream/a057bf98dc019e9e76f602497b66c2c8.webp",
       "started_at": "2026-11-13T06:26:29.000Z",
-      "viewers": 44,
-      "last_seen_at": "2026-11-13T06:27:15.058Z",
-      "peak_viewers": 44,
-      "gifts": 0,
-      "gift_points": 0,
+      "viewers": 883,
+      "last_seen_at": "2026-11-13T06:32:24.657Z",
+      "peak_viewers": 883,
+      "gifts": 3,
+      "gift_points": 588,
       "stars": 0,
-      "comments": 3,
-      "gift_breakdown": {},
-      "top_gifters": [],
+      "comments": 61,
+      "gift_breakdown": {
+        "Emas Batang": 3
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "rizky pratama",
+          "points": 392,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92e2dd223b08aea025baa84b635766df.webp?v=1794387195"
+        },
+        {
+          "rank": 2,
+          "name": "Arya Sutanto",
+          "points": 196,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/576c634c83a0f5a040f0f760c42e7362.webp?v=1758817060"
+        }
+      ],
       "viewer_series": [
         [
           0,
@@ -399,9 +465,30 @@
         [
           1,
           44
+        ],
+        [
+          2,
+          156
+        ],
+        [
+          3,
+          297
+        ],
+        [
+          4,
+          428
+        ],
+        [
+          5,
+          600
+        ],
+        [
+          6,
+          883
         ]
       ],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB"
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
+      "gift_gold": 147
     }
   ]
 }
