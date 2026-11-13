@@ -11,20 +11,20 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 3579,
-    "last_seen_at": "2026-11-13T04:28:31.956Z",
-    "peak_viewers": 3579,
-    "gifts": 67,
-    "gift_points": 8764,
+    "viewers": 3855,
+    "last_seen_at": "2026-11-13T04:33:43.376Z",
+    "peak_viewers": 3855,
+    "gifts": 68,
+    "gift_points": 8844,
     "stars": 0,
-    "comments": 2677,
+    "comments": 2856,
     "gift_breakdown": {
       "Toa": 10,
       "Cold Water": 4,
       "Kompas": 11,
       "SSETAAAN": 3,
       "Rempeyek": 1,
-      "INTAN": 2,
+      "INTAN": 3,
       "Lemon Tea": 1,
       "Matcha": 4,
       "Makan ya kak": 1,
@@ -81,7 +81,8 @@
       "7de794ad-c74c-4fbe-a710-630cfaac5889": "nopale carloz",
       "fa6a89b6-522f-4ab5-8feb-92fcf15a1233": "Khoirul Muminin",
       "ddbc917b-caf6-436c-adb7-299cc084986d": "im ",
-      "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad"
+      "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad",
+      "ab0946d6-a6d6-4408-bfaf-4c0c3b1846a3": "Dimas Saepul anwar"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -252,10 +253,30 @@
       [
         41,
         3579
+      ],
+      [
+        42,
+        3648
+      ],
+      [
+        43,
+        3709
+      ],
+      [
+        44,
+        3757
+      ],
+      [
+        45,
+        3807
+      ],
+      [
+        46,
+        3855
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 2191,
+    "gift_gold": 2211,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -431,6 +452,11 @@
         "name": "Azrie Ahmad",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787",
         "points": 20
+      },
+      "ab0946d6-a6d6-4408-bfaf-4c0c3b1846a3": {
+        "name": "Dimas Saepul anwar",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 80
       }
     }
   },
@@ -446,16 +472,16 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 1968,
-    "last_seen_at": "2026-11-13T04:28:31.956Z",
-    "peak_viewers": 1968,
-    "gifts": 17,
-    "gift_points": 1832,
+    "viewers": 2200,
+    "last_seen_at": "2026-11-13T04:33:43.376Z",
+    "peak_viewers": 2200,
+    "gifts": 18,
+    "gift_points": 1948,
     "stars": 0,
-    "comments": 468,
+    "comments": 513,
     "gift_breakdown": {
       "SSETAAAN": 1,
-      "Angklung": 1,
+      "Angklung": 2,
       "MUTHE": 1,
       "Lightstick": 1,
       "Emas Batang": 3,
@@ -478,7 +504,8 @@
       "5ec91552-2903-4329-844d-b966a78e5dc0": "Muhammad Mawardi",
       "c8e49185-fff3-4cc5-ab41-42915bde4a5e": "TASHA .",
       "cc3e6ff4-94ec-4d81-95d4-17961a154ca4": "yusuf ucup marucup",
-      "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": "Agus Priyogo"
+      "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": "Agus Priyogo",
+      "5270a6ba-13ad-4433-9d2b-7fb4a5f429a7": "Zen Zen ."
     },
     "top_gifters": [],
     "viewer_series": [
@@ -601,10 +628,30 @@
       [
         29,
         1934
+      ],
+      [
+        30,
+        1995
+      ],
+      [
+        31,
+        2042
+      ],
+      [
+        32,
+        2081
+      ],
+      [
+        33,
+        2132
+      ],
+      [
+        34,
+        2171
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 458,
+    "gift_gold": 487,
     "idn_gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": {
         "name": "Faiz Darmawan",
@@ -660,6 +707,11 @@
         "name": "Agus Priyogo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f9e63b89addb4ef8f4f0d28be83bcb5a.webp?v=1774429080",
         "points": 40
+      },
+      "5270a6ba-13ad-4433-9d2b-7fb4a5f429a7": {
+        "name": "Zen Zen .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f62a4c98940411f9cbcd8296f8e9b48d.webp?v=1789056984",
+        "points": 116
       }
     }
   }

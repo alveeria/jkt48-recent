@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T04:28:33.002Z",
+  "updated_at": "2026-11-13T04:33:44.523Z",
   "lives": [
     {
       "id": "idn:tmnin-mammm-261113104745",
@@ -13,20 +13,20 @@
       "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
       "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
       "started_at": "2026-11-13T03:47:49.000Z",
-      "viewers": 3579,
-      "last_seen_at": "2026-11-13T04:28:31.956Z",
-      "peak_viewers": 3579,
-      "gifts": 67,
-      "gift_points": 8764,
+      "viewers": 3855,
+      "last_seen_at": "2026-11-13T04:33:43.376Z",
+      "peak_viewers": 3855,
+      "gifts": 68,
+      "gift_points": 8844,
       "stars": 0,
-      "comments": 2677,
+      "comments": 2856,
       "gift_breakdown": {
         "Toa": 10,
         "Cold Water": 4,
         "Kompas": 11,
         "SSETAAAN": 3,
         "Rempeyek": 1,
-        "INTAN": 2,
+        "INTAN": 3,
         "Lemon Tea": 1,
         "Matcha": 4,
         "Makan ya kak": 1,
@@ -99,15 +99,15 @@
         },
         {
           "rank": 9,
-          "name": "Pasukan Bebek kwek kwek",
-          "points": 68,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4db3910cee223618b5449838d696af27.webp?v=1787739085"
+          "name": "Dimas Saepul anwar",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
           "rank": 10,
-          "name": "im ",
-          "points": 64,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/52724c9689b59c0d9342094ce379b0c2.webp?v=1794500916"
+          "name": "Pasukan Bebek kwek kwek",
+          "points": 68,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4db3910cee223618b5449838d696af27.webp?v=1787739085"
         }
       ],
       "viewer_series": [
@@ -278,10 +278,30 @@
         [
           41,
           3579
+        ],
+        [
+          42,
+          3648
+        ],
+        [
+          43,
+          3709
+        ],
+        [
+          44,
+          3757
+        ],
+        [
+          45,
+          3807
+        ],
+        [
+          46,
+          3855
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-      "gift_gold": 2191
+      "gift_gold": 2211
     },
     {
       "id": "idn:hi-261113105919",
@@ -295,16 +315,16 @@
       "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
       "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
       "started_at": "2026-11-13T03:59:27.000Z",
-      "viewers": 1968,
-      "last_seen_at": "2026-11-13T04:28:31.956Z",
-      "peak_viewers": 1968,
-      "gifts": 17,
-      "gift_points": 1832,
+      "viewers": 2200,
+      "last_seen_at": "2026-11-13T04:33:43.376Z",
+      "peak_viewers": 2200,
+      "gifts": 18,
+      "gift_points": 1948,
       "stars": 0,
-      "comments": 468,
+      "comments": 513,
       "gift_breakdown": {
         "SSETAAAN": 1,
-        "Angklung": 1,
+        "Angklung": 2,
         "MUTHE": 1,
         "Lightstick": 1,
         "Emas Batang": 3,
@@ -343,39 +363,39 @@
         },
         {
           "rank": 5,
+          "name": "Zen Zen .",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f62a4c98940411f9cbcd8296f8e9b48d.webp?v=1789056984"
+        },
+        {
+          "rank": 6,
           "name": "eM .",
           "points": 100,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Muhammad Mawardi",
           "points": 60,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/88a36ca197fe59d2766e27469e66fd4e.webp?v=1780572574"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Agus Priyogo",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f9e63b89addb4ef8f4f0d28be83bcb5a.webp?v=1774429080"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Faiz Darmawan",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ece60897ba5a1882ea03024267aaa3f3.webp?v=1759623571"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Akbar ruh Pambudi ",
           "points": 8,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9c95217ef796619bf8543f39b815012b.webp?v=1746444076"
-        },
-        {
-          "rank": 10,
-          "name": "Nazip NakMakan",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/537b23e6592de355ec26c195abf72b25.webp?v=1793950700"
         }
       ],
       "viewer_series": [
@@ -498,10 +518,30 @@
         [
           29,
           1934
+        ],
+        [
+          30,
+          1995
+        ],
+        [
+          31,
+          2042
+        ],
+        [
+          32,
+          2081
+        ],
+        [
+          33,
+          2132
+        ],
+        [
+          34,
+          2171
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-      "gift_gold": 458
+      "gift_gold": 487
     }
   ]
 }
