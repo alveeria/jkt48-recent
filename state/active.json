@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
     "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
     "started_at": "2026-11-13T03:47:49.000Z",
-    "viewers": 4064,
-    "last_seen_at": "2026-11-13T04:38:53.575Z",
-    "peak_viewers": 4064,
-    "gifts": 69,
-    "gift_points": 8924,
+    "viewers": 4296,
+    "last_seen_at": "2026-11-13T04:44:02.934Z",
+    "peak_viewers": 4296,
+    "gifts": 71,
+    "gift_points": 8948,
     "stars": 0,
-    "comments": 3063,
+    "comments": 3329,
     "gift_breakdown": {
       "Toa": 10,
       "Cold Water": 4,
@@ -31,7 +31,7 @@
       "Buket Mawar": 1,
       "Motor Sport": 1,
       "Lightstick": 2,
-      "Mawar": 2,
+      "Mawar": 4,
       "Puding": 1,
       "Emas Batang": 2,
       "Kucing": 1,
@@ -294,10 +294,30 @@
       [
         51,
         4051
+      ],
+      [
+        52,
+        4089
+      ],
+      [
+        53,
+        4143
+      ],
+      [
+        54,
+        4194
+      ],
+      [
+        55,
+        4238
+      ],
+      [
+        56,
+        4280
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 2231,
+    "gift_gold": 2237,
     "idn_gifters": {
       "8a85d92e-ff84-48f2-b48a-68af18853c87": {
         "name": "Ajipangestu Erianto Prakoso",
@@ -402,7 +422,7 @@
       "5af4704a-cee0-4060-a64c-4672b488167b": {
         "name": "Lutpii pacar intan",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/370cdedfa074c0d3151da9b9768cff9c.webp?v=1794383923",
-        "points": 376
+        "points": 400
       },
       "fe4e2027-4e43-4616-99d1-75c9d8b07d50": {
         "name": "Pasukan Bebek kwek kwek",
@@ -498,28 +518,31 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
     "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
     "started_at": "2026-11-13T03:59:27.000Z",
-    "viewers": 2389,
-    "last_seen_at": "2026-11-13T04:38:53.575Z",
-    "peak_viewers": 2389,
-    "gifts": 24,
-    "gift_points": 2452,
+    "viewers": 2577,
+    "last_seen_at": "2026-11-13T04:44:02.934Z",
+    "peak_viewers": 2577,
+    "gifts": 30,
+    "gift_points": 2632,
     "stars": 0,
-    "comments": 552,
+    "comments": 617,
     "gift_breakdown": {
       "SSETAAAN": 1,
-      "Angklung": 2,
+      "Angklung": 3,
       "MUTHE": 2,
       "Lightstick": 1,
       "Emas Batang": 4,
       "Cold Water": 5,
       "Water": 2,
       "Semangat kak": 1,
-      "Lemon Tea": 1,
+      "Lemon Tea": 3,
       "Rendang": 1,
       "Konfeti": 1,
       "Matcha": 1,
       "Panjat": 1,
-      "Nasi Goreng": 1
+      "Nasi Goreng": 1,
+      "Boba Tea": 1,
+      "Lemonade": 1,
+      "Ikan Bakar": 1
     },
     "gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": "Faiz Darmawan",
@@ -533,7 +556,8 @@
       "c8e49185-fff3-4cc5-ab41-42915bde4a5e": "TASHA .",
       "cc3e6ff4-94ec-4d81-95d4-17961a154ca4": "yusuf ucup marucup",
       "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": "Agus Priyogo",
-      "5270a6ba-13ad-4433-9d2b-7fb4a5f429a7": "Zen Zen ."
+      "5270a6ba-13ad-4433-9d2b-7fb4a5f429a7": "Zen Zen .",
+      "84236cf2-c1d6-448f-b511-9a49ffe0823c": "Lenny Octaviani"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -696,10 +720,34 @@
       [
         39,
         2375
+      ],
+      [
+        40,
+        2414
+      ],
+      [
+        41,
+        2434
+      ],
+      [
+        42,
+        2472
+      ],
+      [
+        43,
+        2502
+      ],
+      [
+        44,
+        2550
+      ],
+      [
+        45,
+        2577
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 613,
+    "gift_gold": 658,
     "idn_gifters": {
       "5777e06f-a7ff-4255-82bc-c77876c5a57c": {
         "name": "Faiz Darmawan",
@@ -724,7 +772,7 @@
       "cb002747-b551-4db3-b200-d9e307c0310d": {
         "name": "miko ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bd7a114a2349a8f0b8453f57a1c2e9f8.webp?v=1793391611",
-        "points": 400
+        "points": 440
       },
       "d86689a3-3c12-4de3-ab05-ee5f767b23e5": {
         "name": "Akbar ruh Pambudi ",
@@ -749,7 +797,7 @@
       "cc3e6ff4-94ec-4d81-95d4-17961a154ca4": {
         "name": "yusuf ucup marucup",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4dad5f71fff7c9e4298291b0e81c73e.webp?v=1793198010",
-        "points": 796
+        "points": 820
       },
       "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": {
         "name": "Agus Priyogo",
@@ -760,6 +808,11 @@
         "name": "Zen Zen .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f62a4c98940411f9cbcd8296f8e9b48d.webp?v=1789056984",
         "points": 400
+      },
+      "84236cf2-c1d6-448f-b511-9a49ffe0823c": {
+        "name": "Lenny Octaviani",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/35e80d7338bebdac2cf4e4b9823e07e4.webp?v=1745162359",
+        "points": 116
       }
     }
   }
