@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_giaa/live/p-261113183240",
     "image": "https://cdn.idn.app/livestream/00a2ba90bd186cad7cc63495465a76ac.webp",
     "started_at": "2026-11-13T11:32:45.000Z",
-    "viewers": 1358,
-    "last_seen_at": "2026-11-13T12:02:20.412Z",
-    "peak_viewers": 1358,
-    "gifts": 13,
-    "gift_points": 592,
+    "viewers": 1561,
+    "last_seen_at": "2026-11-13T12:07:29.311Z",
+    "peak_viewers": 1561,
+    "gifts": 15,
+    "gift_points": 736,
     "stars": 0,
-    "comments": 485,
+    "comments": 550,
     "gift_breakdown": {
       "Pumpkin": 2,
       "Toa": 3,
@@ -26,7 +26,9 @@
       "Matcha": 3,
       "Kompas": 1,
       "Lemonade": 1,
-      "Tulip Flower": 1
+      "Tulip Flower": 1,
+      "Angklung": 1,
+      "Yuk bisa yuk": 1
     },
     "gifters": {
       "8c3c1a24-c6c6-4354-a110-5118998d9795": "Dimas .",
@@ -163,10 +165,30 @@
       [
         30,
         1358
+      ],
+      [
+        31,
+        1393
+      ],
+      [
+        32,
+        1441
+      ],
+      [
+        33,
+        1485
+      ],
+      [
+        34,
+        1521
+      ],
+      [
+        35,
+        1561
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
-    "gift_gold": 148,
+    "gift_gold": 184,
     "idn_gifters": {
       "8c3c1a24-c6c6-4354-a110-5118998d9795": {
         "name": "Dimas .",
@@ -206,7 +228,7 @@
       "bc6c34e8-7bcd-479f-934e-17c092f030d6": {
         "name": "Mr Ju",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eac09a36662baf36a3c4e68db349389f.webp?v=1769345522",
-        "points": 12
+        "points": 156
       }
     }
   },
@@ -222,13 +244,13 @@
     "url": "https://www.idn.app/jkt48_lana/live/hai-261113184616",
     "image": "https://cdn.idn.app/livestream/fa15d2c6657dd8d0eee847762907a172.webp",
     "started_at": "2026-11-13T11:46:22.000Z",
-    "viewers": 2015,
-    "last_seen_at": "2026-11-13T12:02:20.412Z",
-    "peak_viewers": 2015,
+    "viewers": 2482,
+    "last_seen_at": "2026-11-13T12:07:29.311Z",
+    "peak_viewers": 2482,
     "gifts": 5,
     "gift_points": 712,
     "stars": 0,
-    "comments": 598,
+    "comments": 811,
     "gift_breakdown": {
       "Emas Batang": 3,
       "Lemon Tea": 1,
@@ -310,6 +332,26 @@
       [
         16,
         2015
+      ],
+      [
+        17,
+        2063
+      ],
+      [
+        18,
+        2152
+      ],
+      [
+        19,
+        2251
+      ],
+      [
+        20,
+        2352
+      ],
+      [
+        21,
+        2437
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
@@ -354,13 +396,13 @@
     "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
     "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
     "started_at": "2026-11-13T11:46:04.000Z",
-    "viewers": 109,
-    "last_seen_at": "2026-11-13T12:02:20.412Z",
-    "peak_viewers": 109,
+    "viewers": 128,
+    "last_seen_at": "2026-11-13T12:07:29.311Z",
+    "peak_viewers": 128,
     "gifts": 3,
     "gift_points": 316,
     "stars": 0,
-    "comments": 25,
+    "comments": 48,
     "gift_breakdown": {
       "Angklung": 1,
       "Happy B-Day!": 1,
@@ -438,6 +480,26 @@
       [
         16,
         108
+      ],
+      [
+        17,
+        110
+      ],
+      [
+        18,
+        115
+      ],
+      [
+        19,
+        120
+      ],
+      [
+        20,
+        121
+      ],
+      [
+        21,
+        125
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
