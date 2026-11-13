@@ -1,5 +1,54 @@
 [
   {
+    "id": "idn:alveeria-2840",
+    "platform": "idn",
+    "member": {
+      "name": "Raisha",
+      "username": "jkt48_raisha",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7646a44d606dc17fedf5f425a8df2c96.webp?v=1778755793"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_raisha/live/ayo-ngobrol-bareng-261113213637",
+    "image": "https://cdn.idn.app/livestream/47c23f35f4ce468a40f307ce62d8243a.webp",
+    "started_at": "2026-11-13T14:36:44.000Z",
+    "last_seen_at": "2026-11-13T14:40:21.451Z",
+    "peak_viewers": 330,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 66,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        50
+      ],
+      [
+        2,
+        157
+      ],
+      [
+        3,
+        237
+      ],
+      [
+        4,
+        330
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/OL2DbmrJcGdi",
+    "ended_at": "2026-11-13T14:40:21.451Z",
+    "duration_minutes": 4,
+    "last_viewers": 330,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261113213637"
+  },
+  {
     "id": "idn:alveeria-2839",
     "platform": "idn",
     "member": {
