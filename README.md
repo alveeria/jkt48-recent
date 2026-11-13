@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 23.28 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 23.33 WIB.
 
 ## Pakai datanya
 
@@ -28,15 +28,15 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Nala | IDN Live | HELO | 13 Nov 2026, 22.25 | 11.042 |
-| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 10.262 |
-| Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 11.285 |
+| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 10.904 |
+| Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 12.199 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 9m | 1.822 | 2 | 6 | — | 349 |
+| Nala | IDN Live | HELO | 13 Nov 2026, 22.25 | 62m | 11.042 | 45 | 926 | — | 2.862 |
 | Lily | IDN Live | Buka paket | 13 Nov 2026, 22.18 | 66m | 9.217 | 46 | 1.888 | — | 3.185 |
 | Greesel | IDN Live | hi | 13 Nov 2026, 22.11 | 65m | 7.833 | 90 | 1.569 | — | 1.912 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.41 | 64m | 4.097 | 25 | 543 | — | 1.200 |
@@ -75,7 +75,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Fritzy | IDN Live | storytimee | 12 Nov 2026, 22.48 | 44m | 4.461 | 34 | 1.035 | — | 1.448 |
 | Michie | IDN Live | wow | 12 Nov 2026, 22.41 | 61m | 9.005 | 83 | 1.370 | — | 4.613 |
 | Eli | IDN Live | KaraokELI | 12 Nov 2026, 22.41 | 128m | 4.690 | 21 | 107 | — | 869 |
-| Nachia | IDN Live | hi | 12 Nov 2026, 22.04 | 72m | 11.013 | 75 | 1.517 | — | 1.442 |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
