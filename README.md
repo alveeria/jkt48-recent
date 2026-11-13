@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 23.33 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 23.39 WIB.
 
 ## Pakai datanya
 
@@ -28,14 +28,13 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 10.904 |
-| Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 12.199 |
+| Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 12.910 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
-| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 9m | 1.822 | 2 | 6 | — | 349 |
+| Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 67m | 10.904 | 52 | 1.027 | — | 1.990 |
 | Nala | IDN Live | HELO | 13 Nov 2026, 22.25 | 62m | 11.042 | 45 | 926 | — | 2.862 |
 | Lily | IDN Live | Buka paket | 13 Nov 2026, 22.18 | 66m | 9.217 | 46 | 1.888 | — | 3.185 |
 | Greesel | IDN Live | hi | 13 Nov 2026, 22.11 | 65m | 7.833 | 90 | 1.569 | — | 1.912 |
