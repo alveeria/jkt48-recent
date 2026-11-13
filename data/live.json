@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T04:23:22.979Z",
+  "updated_at": "2026-11-13T04:28:33.002Z",
   "lives": [
     {
       "id": "idn:tmnin-mammm-261113104745",
@@ -13,22 +13,22 @@
       "url": "https://www.idn.app/jkt48_intan/live/tmnin-mammm-261113104745",
       "image": "https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp",
       "started_at": "2026-11-13T03:47:49.000Z",
-      "viewers": 3220,
-      "last_seen_at": "2026-11-13T04:23:22.025Z",
-      "peak_viewers": 3220,
-      "gifts": 63,
-      "gift_points": 8600,
+      "viewers": 3579,
+      "last_seen_at": "2026-11-13T04:28:31.956Z",
+      "peak_viewers": 3579,
+      "gifts": 67,
+      "gift_points": 8764,
       "stars": 0,
-      "comments": 2496,
+      "comments": 2677,
       "gift_breakdown": {
-        "Toa": 9,
+        "Toa": 10,
         "Cold Water": 4,
         "Kompas": 11,
         "SSETAAAN": 3,
         "Rempeyek": 1,
         "INTAN": 2,
         "Lemon Tea": 1,
-        "Matcha": 2,
+        "Matcha": 4,
         "Makan ya kak": 1,
         "Buket Mawar": 1,
         "Motor Sport": 1,
@@ -38,7 +38,7 @@
         "Emas Batang": 2,
         "Kucing": 1,
         "Surabaya": 1,
-        "Jari Hati": 1,
+        "Jari Hati": 2,
         "Angklung": 3,
         "JKT48 Show": 7,
         "Kembang Api": 1,
@@ -64,7 +64,7 @@
         {
           "rank": 3,
           "name": "Rizkum .",
-          "points": 1580,
+          "points": 1620,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343"
         },
         {
@@ -105,9 +105,9 @@
         },
         {
           "rank": 10,
-          "name": "shirou .",
-          "points": 44,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/df7a4081696bafea4e420ba025da9312.webp?v=1791298352"
+          "name": "im ",
+          "points": 64,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/52724c9689b59c0d9342094ce379b0c2.webp?v=1794500916"
         }
       ],
       "viewer_series": [
@@ -258,10 +258,30 @@
         [
           36,
           3220
+        ],
+        [
+          37,
+          3303
+        ],
+        [
+          38,
+          3365
+        ],
+        [
+          39,
+          3433
+        ],
+        [
+          40,
+          3505
+        ],
+        [
+          41,
+          3579
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-      "gift_gold": 2150
+      "gift_gold": 2191
     },
     {
       "id": "idn:hi-261113105919",
@@ -275,25 +295,26 @@
       "url": "https://www.idn.app/jkt48_muthe/live/hi-261113105919",
       "image": "https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp",
       "started_at": "2026-11-13T03:59:27.000Z",
-      "viewers": 1697,
-      "last_seen_at": "2026-11-13T04:23:22.025Z",
-      "peak_viewers": 1697,
-      "gifts": 15,
-      "gift_points": 1788,
+      "viewers": 1968,
+      "last_seen_at": "2026-11-13T04:28:31.956Z",
+      "peak_viewers": 1968,
+      "gifts": 17,
+      "gift_points": 1832,
       "stars": 0,
-      "comments": 426,
+      "comments": 468,
       "gift_breakdown": {
         "SSETAAAN": 1,
         "Angklung": 1,
         "MUTHE": 1,
         "Lightstick": 1,
         "Emas Batang": 3,
-        "Cold Water": 2,
+        "Cold Water": 3,
         "Water": 2,
         "Semangat kak": 1,
         "Lemon Tea": 1,
         "Rendang": 1,
-        "Konfeti": 1
+        "Konfeti": 1,
+        "Matcha": 1
       },
       "top_gifters": [
         {
@@ -334,27 +355,27 @@
         },
         {
           "rank": 7,
+          "name": "Agus Priyogo",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f9e63b89addb4ef8f4f0d28be83bcb5a.webp?v=1774429080"
+        },
+        {
+          "rank": 8,
           "name": "Faiz Darmawan",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ece60897ba5a1882ea03024267aaa3f3.webp?v=1759623571"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Akbar ruh Pambudi ",
-          "points": 4,
+          "points": 8,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9c95217ef796619bf8543f39b815012b.webp?v=1746444076"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Nazip NakMakan",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/537b23e6592de355ec26c195abf72b25.webp?v=1793950700"
-        },
-        {
-          "rank": 10,
-          "name": "TASHA .",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f6662c3671c16ce18db8eb36c374ccfa.webp?v=1743953817"
         }
       ],
       "viewer_series": [
@@ -457,10 +478,30 @@
         [
           24,
           1697
+        ],
+        [
+          25,
+          1758
+        ],
+        [
+          26,
+          1801
+        ],
+        [
+          27,
+          1827
+        ],
+        [
+          28,
+          1868
+        ],
+        [
+          29,
+          1934
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-      "gift_gold": 447
+      "gift_gold": 458
     }
   ]
 }
