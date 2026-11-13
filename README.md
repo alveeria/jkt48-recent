@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 07.10 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 13 Nov 2026, 07.15 WIB.
 
 ## Pakai datanya
 
