@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 00.14 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 00.20 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Erine | IDN Live | diroriiiii | 14 Nov 2026, 22.15 | 21.647 |
-| Nala | IDN Live | HELO | 14 Nov 2026, 23.34 | 3.764 |
-| Gracie | IDN Live | hiii | 14 Nov 2026, 23.04 | 6.591 |
+| Nala | IDN Live | HELO | 14 Nov 2026, 23.34 | 4.404 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Gracie | IDN Live | hiii | 14 Nov 2026, 23.04 | 72m | 6.784 | 29 | 430 | — | 615 |
 | Christy | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 22.26 | 28m | 8.492 | 42 | 1.040 | — | 1.214 |
 | Michie | IDN Live | live  aja | 14 Nov 2026, 22.26 | 29m | 7.354 | 35 | 406 | — | 2.039 |
 | Kathrina | IDN Live | wazzap | 14 Nov 2026, 22.25 | 29m | 6.738 | 40 | 402 | — | 891 |
 | Cynthia | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 22.17 | 38m | 5.913 | 40 | 449 | — | 1.717 |
+| Erine | IDN Live | diroriiiii | 14 Nov 2026, 22.15 | 118m | 21.647 | 60 | 1.355 | — | 7.157 |
 | Lana | IDN Live | Hai | 14 Nov 2026, 21.55 | 60m | 8.098 | 40 | 1.449 | — | 3.076 |
 | Gita | IDN Live | Gits | 14 Nov 2026, 21.43 | 63m | 8.242 | 49 | 978 | — | 1.275 |
 | Delynn | IDN Live | Malming kuy | 14 Nov 2026, 21.21 | 80m | 15.964 | 99 | 2.210 | — | 3.580 |
@@ -92,8 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 05.17 | 71m | 2.962 | 54 | 1.147 | — | 4.146 |
 | Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 111m | 17.110 | 47 | 799 | — | 8.176 |
 | Nachia | IDN Live | hi | 13 Nov 2026, 22.26 | 42m | 6.708 | 17 | 130 | — | 1.103 |
-| Nala | IDN Live | HELO | 13 Nov 2026, 22.25 | 43m | 7.976 | 27 | 549 | — | 2.110 |
-| Lily | IDN Live | Buka paket | 13 Nov 2026, 22.18 | 50m | 7.154 | 43 | 1.835 | — | 2.370 |
 
 ## Lisensi
 
