@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 16.15 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 16.20 WIB.
 
 ## Pakai datanya
 
@@ -28,16 +28,16 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Virgi | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 14.57 | 4.183 |
-| Maira | IDN Live | Let’s go!!! | 14 Nov 2026, 14.57 | 3.690 |
-| Carissa | IDN Live | Sini temenin akuu ✨ | 14 Nov 2026, 15.05 | 2.919 |
-| Fahira | IDN Live | ada apa??? | 14 Nov 2026, 15.35 | 1.711 |
-| Muthe | IDN Live | Hi | 14 Nov 2026, 16.06 | 607 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 14.57 | 4.515 |
+| Maira | IDN Live | Let’s go!!! | 14 Nov 2026, 14.57 | 4.030 |
+| Fahira | IDN Live | ada apa??? | 14 Nov 2026, 15.35 | 2.057 |
+| Muthe | IDN Live | Hi | 14 Nov 2026, 16.06 | 1.241 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Carissa | IDN Live | Sini temenin akuu ✨ | 14 Nov 2026, 15.05 | 70m | 2.919 | 30 | 493 | — | 2.498 |
 | Lily | IDN Live | Haii | 14 Nov 2026, 14.34 | 35m | 3.727 | 37 | 906 | — | 1.935 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 13.42 | 64m | 1.927 | 45 | 524 | — | 370 |
 | Rara | IDN Live | 💗💗 | 14 Nov 2026, 11.50 | 68m | 1.498 | 35 | 689 | — | 1.415 |
@@ -77,7 +77,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Indah | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 13.26 | 65m | 8.081 | 104 | 1.685 | — | 2.174 |
 | Rilly | IDN Live | Hellooo | 13 Nov 2026, 12.29 | 66m | 2.466 | 23 | 241 | — | 1.045 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 12.13 | 65m | 3.836 | 22 | 570 | — | 1.011 |
-| Gracie | IDN Live | hiii | 13 Nov 2026, 11.52 | 65m | 4.332 | 41 | 476 | — | 976 |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
