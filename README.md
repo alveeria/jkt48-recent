@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 17.35 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 17.40 WIB.
 
 ## Interval pembaruan
 
@@ -36,18 +36,18 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Ekin | IDN Live | hai | 14 Nov 2026, 16.31 | 6.808 |
-| Anindya | IDN Live | HALO!! | 14 Nov 2026, 16.31 | 4.642 |
-| Fera | IDN Live | Ayo masuk | 14 Nov 2026, 17.14 | 1.086 |
-| Ralyne | IDN Live | HAIII | 14 Nov 2026, 17.14 | 1.324 |
-| Bella | IDN Live | Hellooo | 14 Nov 2026, 17.14 | 1.793 |
-| Sona | IDN Live | mam | 14 Nov 2026, 17.14 | 1.571 |
-| Jessi | IDN Live | hi | 14 Nov 2026, 17.34 | 16 |
+| Fera | IDN Live | Ayo masuk | 14 Nov 2026, 17.14 | 1.294 |
+| Ralyne | IDN Live | HAIII | 14 Nov 2026, 17.14 | 1.631 |
+| Bella | IDN Live | Hellooo | 14 Nov 2026, 17.14 | 2.253 |
+| Sona | IDN Live | mam | 14 Nov 2026, 17.14 | 1.923 |
+| Jessi | IDN Live | hi | 14 Nov 2026, 17.34 | 407 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Anindya | IDN Live | HALO!! | 14 Nov 2026, 16.31 | 65m | 4.755 | 25 | 1.365 | — | 865 |
+| Ekin | IDN Live | hai | 14 Nov 2026, 16.31 | 68m | 7.108 | 101 | 3.735 | — | 6.961 |
 | Muthe | IDN Live | Hi | 14 Nov 2026, 16.06 | 46m | 3.342 | 17 | 347 | — | 1.182 |
 | Fahira | IDN Live | ada apa??? | 14 Nov 2026, 15.35 | 77m | 3.430 | 44 | 1.089 | — | 2.075 |
 | Carissa | IDN Live | Sini temenin akuu ✨ | 14 Nov 2026, 15.05 | 70m | 2.919 | 30 | 493 | — | 2.498 |
@@ -86,8 +86,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Fera | IDN Live | Ayo masuk | 13 Nov 2026, 14.33 | 17m | 806 | 8 | 358 | — | 193 |
 | Jazzy | IDN Live | semangatin pajama drive nyaaa sini | 13 Nov 2026, 14.29 | 20m | 1.404 | 12 | 192 | — | 474 |
 | Carissa | IDN Live | Hello helloo 😚 | 13 Nov 2026, 14.26 | 23m | 1.666 | 17 | 398 | — | 327 |
-| Sona | IDN Live | sm ica | 13 Nov 2026, 14.25 | 25m | 2.019 | 8 | 173 | — | 276 |
-| Michie | IDN Live | MICHZELLE pt 1 | 13 Nov 2026, 14.03 | 47m | 6.846 | 9 | 76 | — | 2.910 |
 
 ## Lisensi
 
