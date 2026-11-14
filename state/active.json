@@ -11,29 +11,32 @@
     "url": "https://www.idn.app/jkt48_lily/live/haii-261114143358",
     "image": "https://cdn.idn.app/livestream/aa461fea02adc817d09a9d2734697459.webp",
     "started_at": "2026-11-14T07:34:05.000Z",
-    "viewers": 3207,
-    "last_seen_at": "2026-11-14T08:03:16.411Z",
-    "peak_viewers": 3207,
-    "gifts": 26,
-    "gift_points": 2228,
+    "viewers": 3672,
+    "last_seen_at": "2026-11-14T08:08:24.953Z",
+    "peak_viewers": 3672,
+    "gifts": 37,
+    "gift_points": 3624,
     "stars": 0,
-    "comments": 1685,
+    "comments": 1905,
     "gift_breakdown": {
       "Cold Water": 1,
       "Kompas": 6,
       "SSETAAAN": 1,
       "HADIIIRRR!!": 1,
-      "Water": 1,
-      "Angklung": 2,
+      "Water": 2,
+      "Angklung": 3,
       "Lightstick": 1,
       "Kembang Api": 1,
       "JESSI": 1,
       "Toa": 6,
       "HAHAHA": 1,
-      "LILY": 1,
+      "LILY": 2,
       "Semangat kak": 1,
-      "Pumpkin": 1,
-      "Yuk bisa yuk": 1
+      "Pumpkin": 5,
+      "Yuk bisa yuk": 1,
+      "Matcha": 1,
+      "JKT48 Show": 2,
+      "Emas Batang": 1
     },
     "gifters": {
       "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": "Naga Harp",
@@ -48,7 +51,10 @@
       "63e55b44-34e5-4c80-9db0-27374a4b3bd0": "Fadil Karim",
       "fc6b6051-630f-4d1b-9afa-51269bb85232": "Siwa Kertiyawarman",
       "56603238-650d-41a8-95ad-01dc9e3dcda3": "Ami .",
-      "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": "Ahza"
+      "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": "Ahza",
+      "1d8414d4-0903-4842-b02c-087d86d9108a": "Ghoziii ✨",
+      "df8d4991-c07b-491a-9b7b-078f48d4a823": "Agus Budi Pratomo",
+      "ce712347-41a5-4b92-a1df-ab6028aa949e": "BIMOOOOO ."
     },
     "top_gifters": [],
     "viewer_series": [
@@ -171,10 +177,30 @@
       [
         29,
         3157
+      ],
+      [
+        30,
+        3262
+      ],
+      [
+        31,
+        3343
+      ],
+      [
+        32,
+        3439
+      ],
+      [
+        33,
+        3545
+      ],
+      [
+        34,
+        3632
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/ERh0u6azjSIB",
-    "gift_gold": 557,
+    "gift_gold": 906,
     "idn_gifters": {
       "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": {
         "name": "Naga Harp",
@@ -189,7 +215,7 @@
       "5630f960-08d9-4bb8-8a00-9150ea73848c": {
         "name": "JM Tiger Roar",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9780f38b9db2a328449eff63fb0cbaf7.webp?v=1785864738",
-        "points": 24
+        "points": 64
       },
       "eb27a483-19dd-4b40-9e39-7aab8bd4e5e4": {
         "name": "~y ~",
@@ -204,7 +230,7 @@
       "317d6e07-9fbf-47b1-b74c-11a058cca260": {
         "name": "ikii _",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc562369d218f61e85fee30e6fa8150c.webp?v=1793811399",
-        "points": 140
+        "points": 540
       },
       "1a72c65f-74d0-4e4a-b9d9-992a4e3a23fe": {
         "name": "Ibrachim _FS",
@@ -219,7 +245,7 @@
       "435ff57b-1f7e-4de8-bc0f-04f2890869dd": {
         "name": "Bang Alex Yo!",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a7da3ec351ab69c1cea93eccf2307d59.webp?v=1779715042",
-        "points": 120
+        "points": 680
       },
       "63e55b44-34e5-4c80-9db0-27374a4b3bd0": {
         "name": "Fadil Karim",
@@ -240,6 +266,21 @@
         "name": "Ahza",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f1ed38dc694b97672053f2b3cc9c510c.webp?v=1794308945",
         "points": 20
+      },
+      "1d8414d4-0903-4842-b02c-087d86d9108a": {
+        "name": "Ghoziii ✨",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/71c98e6ba3bdaf94303bc2dca3f26be9.webp?v=1794153069",
+        "points": 120
+      },
+      "df8d4991-c07b-491a-9b7b-078f48d4a823": {
+        "name": "Agus Budi Pratomo",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53de6a4aacd11959b3b3f5fc8a6b0e43.webp?v=1794312046",
+        "points": 80
+      },
+      "ce712347-41a5-4b92-a1df-ab6028aa949e": {
+        "name": "BIMOOOOO .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9db2db4eb4f44fca08f3d2fd68fcde69.webp?v=1781448125",
+        "points": 196
       }
     }
   },
@@ -255,21 +296,28 @@
     "url": "https://www.idn.app/jkt48_virgi/live/ayo-ngobrol-bareng-261114145742",
     "image": "https://cdn.idn.app/livestream/9653d45e60014ef392686a8265b867d4.webp",
     "started_at": "2026-11-14T07:57:48.000Z",
-    "viewers": 506,
-    "last_seen_at": "2026-11-14T08:03:16.411Z",
-    "peak_viewers": 506,
-    "gifts": 3,
-    "gift_points": 80,
+    "viewers": 972,
+    "last_seen_at": "2026-11-14T08:08:24.953Z",
+    "peak_viewers": 972,
+    "gifts": 9,
+    "gift_points": 308,
     "stars": 0,
-    "comments": 106,
+    "comments": 212,
     "gift_breakdown": {
       "Toa": 2,
-      "Matcha": 1
+      "Matcha": 1,
+      "Kompas": 1,
+      "VIRGI": 1,
+      "Water": 3,
+      "Angklung": 1
     },
     "gifters": {
       "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": "Ahza",
       "6b5ce774-1223-4a01-8969-db3c84dc47d4": "jihan aj",
-      "08fad0d2-a7dc-4e42-bd2f-550512f1dbcf": "Yohanes 😎"
+      "08fad0d2-a7dc-4e42-bd2f-550512f1dbcf": "Yohanes 😎",
+      "53c2841e-46d3-4b25-b9bc-1496893f4fdf": "(Dek) Arifah Aja",
+      "c45e24db-268b-45e7-aabf-65e5bd8be03d": "Shinbé Kiyawara",
+      "d5d7c643-c85b-461a-988c-d48d174dbd3a": "Kayla Virli"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -296,15 +344,39 @@
       [
         5,
         460
+      ],
+      [
+        6,
+        554
+      ],
+      [
+        7,
+        607
+      ],
+      [
+        8,
+        712
+      ],
+      [
+        9,
+        811
+      ],
+      [
+        10,
+        888
+      ],
+      [
+        11,
+        972
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/5g2pK94iTLKW",
-    "gift_gold": 20,
+    "gift_gold": 77,
     "idn_gifters": {
       "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": {
         "name": "Ahza",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f1ed38dc694b97672053f2b3cc9c510c.webp?v=1794308945",
-        "points": 20
+        "points": 28
       },
       "6b5ce774-1223-4a01-8969-db3c84dc47d4": {
         "name": "jihan aj",
@@ -315,6 +387,21 @@
         "name": "Yohanes 😎",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d2aceb3945ba22031e545c2d770140c.webp?v=1794136503",
         "points": 40
+      },
+      "53c2841e-46d3-4b25-b9bc-1496893f4fdf": {
+        "name": "(Dek) Arifah Aja",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/122c2b65097f430a489711b4ab540d9c.webp?v=1794550506",
+        "points": 24
+      },
+      "c45e24db-268b-45e7-aabf-65e5bd8be03d": {
+        "name": "Shinbé Kiyawara",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705",
+        "points": 80
+      },
+      "d5d7c643-c85b-461a-988c-d48d174dbd3a": {
+        "name": "Kayla Virli",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/07bed086a7c8ff8d25765bd022b7c9be.webp?v=1791805280",
+        "points": 116
       }
     }
   },
@@ -330,18 +417,21 @@
     "url": "https://www.idn.app/jkt48_maira/live/lets-go-261114145746",
     "image": "https://cdn.idn.app/livestream/34e6d0bab31ca1f64f3c0185a67597b8.webp",
     "started_at": "2026-11-14T07:57:50.000Z",
-    "viewers": 389,
-    "last_seen_at": "2026-11-14T08:03:16.411Z",
-    "peak_viewers": 389,
-    "gifts": 1,
-    "gift_points": 80,
+    "viewers": 750,
+    "last_seen_at": "2026-11-14T08:08:24.953Z",
+    "peak_viewers": 750,
+    "gifts": 3,
+    "gift_points": 136,
     "stars": 0,
-    "comments": 59,
+    "comments": 89,
     "gift_breakdown": {
-      "OLINE": 1
+      "OLINE": 1,
+      "HADIIIRRR!!": 1,
+      "Semangat kak": 1
     },
     "gifters": {
-      "060002c8-3634-4120-b0e4-8412fd48f1ac": "Kuncoro Wibowo"
+      "060002c8-3634-4120-b0e4-8412fd48f1ac": "Kuncoro Wibowo",
+      "6570772d-ad0a-4010-afba-4115ad78c829": "BangCu 🕺"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -368,15 +458,123 @@
       [
         5,
         354
+      ],
+      [
+        6,
+        431
+      ],
+      [
+        7,
+        506
+      ],
+      [
+        8,
+        548
+      ],
+      [
+        9,
+        630
+      ],
+      [
+        10,
+        693
+      ],
+      [
+        11,
+        750
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E3NDetuVTDVI",
-    "gift_gold": 20,
+    "gift_gold": 34,
     "idn_gifters": {
       "060002c8-3634-4120-b0e4-8412fd48f1ac": {
         "name": "Kuncoro Wibowo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cff3df5e7afb0cd15fc5836b591672a0.webp?v=1784571507",
         "points": 80
+      },
+      "6570772d-ad0a-4010-afba-4115ad78c829": {
+        "name": "BangCu 🕺",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b0c00aabe99f07e656d3dfd4185bbc93.webp?v=1779573661",
+        "points": 56
+      }
+    }
+  },
+  "idn:sini-temenin-akuu-261114150505": {
+    "id": "idn:sini-temenin-akuu-261114150505",
+    "platform": "idn",
+    "member": {
+      "name": "Carissa",
+      "username": "jkt48_carissa",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/be7df69330e6c87a93d6b484dad4620c.webp?v=1779706174"
+    },
+    "title": "Sini temenin akuu ✨",
+    "url": "https://www.idn.app/jkt48_carissa/live/sini-temenin-akuu-261114150505",
+    "image": "https://cdn.idn.app/livestream/a90f7cb81f9ad7ccf7b215a2430d57a3.webp",
+    "started_at": "2026-11-14T08:05:11.000Z",
+    "viewers": 247,
+    "last_seen_at": "2026-11-14T08:08:24.953Z",
+    "peak_viewers": 247,
+    "gifts": 5,
+    "gift_points": 116,
+    "stars": 0,
+    "comments": 93,
+    "gift_breakdown": {
+      "Toa": 3,
+      "HADIIIRRR!!": 2
+    },
+    "gifters": {
+      "3fc522e7-322a-4d33-8ec4-00c11f46d482": "WISNU CARISSA ONLY🦖🦖🦖 AJA",
+      "a216ea2f-0f7e-4460-bdf1-2ecaa0efe6a9": "KimTaeSar .",
+      "d2166d8c-524e-47cc-8f82-fe4dfd7846d3": "Aqsa",
+      "cf9d54cd-3670-4c99-ad83-c3105d6fb8aa": "Fawwaz udh 2s ica",
+      "6fd6eec2-ae66-49ea-8799-07a7cc7045e1": "Hugo Javaa #ungger"
+    },
+    "top_gifters": [],
+    "viewer_series": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        44
+      ],
+      [
+        2,
+        165
+      ],
+      [
+        3,
+        228
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/uFfgGxueaWlO",
+    "gift_gold": 29,
+    "idn_gifters": {
+      "3fc522e7-322a-4d33-8ec4-00c11f46d482": {
+        "name": "WISNU CARISSA ONLY🦖🦖🦖 AJA",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d2697f8719892a602f109b7f7e008511.webp?v=1794631461",
+        "points": 20
+      },
+      "a216ea2f-0f7e-4460-bdf1-2ecaa0efe6a9": {
+        "name": "KimTaeSar .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fb8ce0527ae931ae156db6ca49959ec9.webp?v=1793981560",
+        "points": 20
+      },
+      "d2166d8c-524e-47cc-8f82-fe4dfd7846d3": {
+        "name": "Aqsa",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c19abc5819f8671ccabf5c168e31a46.webp?v=1793976208",
+        "points": 20
+      },
+      "cf9d54cd-3670-4c99-ad83-c3105d6fb8aa": {
+        "name": "Fawwaz udh 2s ica",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4054aea15aa233b10c0c0dc1c4ed0835.webp?v=1793542351",
+        "points": 28
+      },
+      "6fd6eec2-ae66-49ea-8799-07a7cc7045e1": {
+        "name": "Hugo Javaa #ungger",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/409c76a5140c8a172f79541b7d354aad.webp?v=1794050923",
+        "points": 28
       }
     }
   }
