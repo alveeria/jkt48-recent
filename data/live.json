@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T05:34:26.812Z",
+  "updated_at": "2026-11-14T05:39:34.760Z",
   "lives": [
     {
       "id": "idn:261114115022",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_rara/live/261114115022",
       "image": "https://cdn.idn.app/livestream/e95951c06cf502a3bf561ae2c8fe6995.webp",
       "started_at": "2026-11-14T04:50:27.000Z",
-      "viewers": 1104,
-      "last_seen_at": "2026-11-14T05:34:26.226Z",
-      "peak_viewers": 1104,
-      "gifts": 20,
-      "gift_points": 1088,
+      "viewers": 1203,
+      "last_seen_at": "2026-11-14T05:39:33.689Z",
+      "peak_viewers": 1203,
+      "gifts": 25,
+      "gift_points": 1548,
       "stars": 0,
-      "comments": 987,
+      "comments": 1096,
       "gift_breakdown": {
         "Water": 1,
         "HADIIIRRR!!": 2,
@@ -31,44 +31,47 @@
         "Angklung": 3,
         "Kupu-Kupu": 1,
         "Matcha": 1,
-        "Kucing": 1
+        "Kucing": 3,
+        "HAHAHA": 1,
+        "JKT48 Stage": 1,
+        "Lemonade": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "Messi Salsabila",
+          "points": 356,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcc2974e7779795609140c08720f2874.webp?v=1794581867"
+        },
+        {
+          "rank": 2,
+          "name": "~y ~",
+          "points": 280,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
+        },
+        {
+          "rank": 3,
           "name": "Laila Akrima -",
           "points": 276,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe7e70fb7573985d9341453ceb3363bb.webp?v=1782291575"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "name": "Nils Ferrel🦉",
           "points": 232,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0632c64493211edbb006204f0c1e3c1c.webp?v=1794565576"
         },
         {
-          "rank": 3,
-          "name": "~y ~",
-          "points": 144,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "name": "MESSI MAULANA",
-          "points": 92,
+          "points": 116,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38156c0ef9192aa6a614f5ee2e8efc11.webp?v=1794581837"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Lisa. Only",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b628470f21d990c0c7a16879929b9264.webp?v=1793957977"
-        },
-        {
-          "rank": 6,
-          "name": "Messi Salsabila",
-          "points": 68,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcc2974e7779795609140c08720f2874.webp?v=1794581867"
         },
         {
           "rank": 7,
@@ -84,15 +87,15 @@
         },
         {
           "rank": 9,
-          "name": "Paujian Gilang",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b258cdfc297a205a0362ab37b35ee17b.webp?v=1782217039"
+          "name": "Pauuuu .",
+          "points": 32,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3165e2a3db2405893cedc50996372e94.webp?v=1789566421"
         },
         {
           "rank": 10,
-          "name": "Messi Sutopo",
-          "points": 24,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/75b1842e23105778795c2288f32c1ef9.webp?v=1794581824"
+          "name": "Paujian Gilang",
+          "points": 28,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b258cdfc297a205a0362ab37b35ee17b.webp?v=1782217039"
         }
       ],
       "viewer_series": [
@@ -275,10 +278,30 @@
         [
           44,
           1104
+        ],
+        [
+          45,
+          1116
+        ],
+        [
+          46,
+          1131
+        ],
+        [
+          47,
+          1146
+        ],
+        [
+          48,
+          1164
+        ],
+        [
+          49,
+          1187
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-      "gift_gold": 272
+      "gift_gold": 387
     }
   ]
 }
