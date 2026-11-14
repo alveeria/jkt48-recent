@@ -11,28 +11,30 @@
     "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261114134242",
     "image": "https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp",
     "started_at": "2026-11-14T06:42:47.000Z",
-    "viewers": 705,
-    "last_seen_at": "2026-11-14T07:01:41.986Z",
-    "peak_viewers": 705,
-    "gifts": 9,
-    "gift_points": 292,
+    "viewers": 819,
+    "last_seen_at": "2026-11-14T07:06:49.438Z",
+    "peak_viewers": 819,
+    "gifts": 11,
+    "gift_points": 324,
     "stars": 0,
-    "comments": 116,
+    "comments": 146,
     "gift_breakdown": {
       "Pumpkin": 2,
       "Water": 1,
-      "Toa": 2,
+      "Toa": 3,
       "Surabaya": 1,
       "HADIIIRRR!!": 1,
       "Kompas": 1,
-      "Cold Water": 1
+      "Cold Water": 1,
+      "Mawar": 1
     },
     "gifters": {
       "ae31af4b-213f-4186-9d31-34ea294dca89": "Ayu Cahya ",
       "76377853-8893-480e-8487-cfc53e46a1a9": "Nazip NakMakan",
       "9f6da2cd-3185-4e51-a110-be70bcf5e79a": "Salma Maharani",
       "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": "Franko ...",
-      "4459b80f-9343-46a5-bdc3-b94d5e8edf93": "Tefie-nya Lyn"
+      "4459b80f-9343-46a5-bdc3-b94d5e8edf93": "Tefie-nya Lyn",
+      "9330ef40-f0ab-438e-a9b6-405baf412f5e": "ASDI ."
     },
     "top_gifters": [],
     "viewer_series": [
@@ -115,10 +117,30 @@
       [
         19,
         705
+      ],
+      [
+        20,
+        723
+      ],
+      [
+        21,
+        747
+      ],
+      [
+        22,
+        775
+      ],
+      [
+        23,
+        790
+      ],
+      [
+        24,
+        808
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
-    "gift_gold": 73,
+    "gift_gold": 81,
     "idn_gifters": {
       "ae31af4b-213f-4186-9d31-34ea294dca89": {
         "name": "Ayu Cahya ",
@@ -133,7 +155,7 @@
       "9f6da2cd-3185-4e51-a110-be70bcf5e79a": {
         "name": "Salma Maharani",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cce6beb85a6dfce666fea569c476040c.webp?v=1731934192",
-        "points": 20
+        "points": 32
       },
       "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": {
         "name": "Franko ...",
@@ -144,6 +166,11 @@
         "name": "Tefie-nya Lyn",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/10a737ba4c70fdb0163af6051747baa3.webp?v=1793719004",
         "points": 28
+      },
+      "9330ef40-f0ab-438e-a9b6-405baf412f5e": {
+        "name": "ASDI .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c03c4b7a836db9b95de6776f48f4cb67.webp?v=1794061270",
+        "points": 20
       }
     }
   }
