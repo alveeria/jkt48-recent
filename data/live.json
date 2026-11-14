@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T07:47:51.725Z",
+  "updated_at": "2026-11-14T07:52:59.318Z",
   "lives": [
     {
       "id": "idn:haii-261114143358",
@@ -13,47 +13,68 @@
       "url": "https://www.idn.app/jkt48_lily/live/haii-261114143358",
       "image": "https://cdn.idn.app/livestream/aa461fea02adc817d09a9d2734697459.webp",
       "started_at": "2026-11-14T07:34:05.000Z",
-      "viewers": 1857,
-      "last_seen_at": "2026-11-14T07:47:50.685Z",
-      "peak_viewers": 1857,
-      "gifts": 5,
-      "gift_points": 80,
+      "viewers": 2305,
+      "last_seen_at": "2026-11-14T07:52:58.674Z",
+      "peak_viewers": 2305,
+      "gifts": 9,
+      "gift_points": 1632,
       "stars": 0,
-      "comments": 686,
+      "comments": 999,
       "gift_breakdown": {
         "Cold Water": 1,
-        "Kompas": 1,
+        "Kompas": 2,
         "SSETAAAN": 1,
         "HADIIIRRR!!": 1,
-        "Water": 1
+        "Water": 1,
+        "Angklung": 1,
+        "Lightstick": 1,
+        "Kembang Api": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "~y ~",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
+          "name": "Idham ",
+          "points": 1316,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
         },
         {
           "rank": 2,
+          "name": "~y ~",
+          "points": 144,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
+        },
+        {
+          "rank": 3,
+          "name": "ikii _",
+          "points": 100,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc562369d218f61e85fee30e6fa8150c.webp?v=1793811399"
+        },
+        {
+          "rank": 4,
           "name": "JM Tiger Roar",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9780f38b9db2a328449eff63fb0cbaf7.webp?v=1785864738"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "name": "Bli Putu Dicky MP",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9659f3252457548f57cbdcda34f1ad4.webp?v=1792135196"
         },
         {
-          "rank": 4,
+          "rank": 6,
+          "name": "Ibrachim _FS",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d4ca552fc10004c327fa28dc87267508.webp?v=1769428059"
+        },
+        {
+          "rank": 7,
           "name": "Naga Harp",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/85f04b1670d3e118a4f686445106e548.webp?v=1790092303"
         },
         {
-          "rank": 5,
+          "rank": 8,
           "name": "Yoel ❤️‍🔥",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fc485378aca28afd8b0b47b8668f98dc.webp?v=1784990826"
@@ -119,10 +140,30 @@
         [
           14,
           1857
+        ],
+        [
+          15,
+          1962
+        ],
+        [
+          16,
+          2068
+        ],
+        [
+          17,
+          2140
+        ],
+        [
+          18,
+          2219
+        ],
+        [
+          19,
+          2305
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/ERh0u6azjSIB",
-      "gift_gold": 20
+      "gift_gold": 408
     }
   ]
 }
