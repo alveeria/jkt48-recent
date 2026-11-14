@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:53:28.668Z",
+  "updated_at": "2026-11-14T04:58:34.240Z",
   "lives": [
     {
       "id": "idn:261114115022",
@@ -13,19 +13,46 @@
       "url": "https://www.idn.app/jkt48_rara/live/261114115022",
       "image": "https://cdn.idn.app/livestream/e95951c06cf502a3bf561ae2c8fe6995.webp",
       "started_at": "2026-11-14T04:50:27.000Z",
-      "viewers": 179,
-      "last_seen_at": "2026-11-14T04:53:27.740Z",
-      "peak_viewers": 179,
-      "gifts": 1,
-      "gift_points": 4,
+      "viewers": 322,
+      "last_seen_at": "2026-11-14T04:58:33.668Z",
+      "peak_viewers": 322,
+      "gifts": 5,
+      "gift_points": 192,
       "stars": 0,
-      "comments": 67,
+      "comments": 188,
       "gift_breakdown": {
-        "Water": 1
+        "Water": 1,
+        "HADIIIRRR!!": 1,
+        "Pumpkin": 2,
+        "EKIN": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "Laila Akrima -",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe7e70fb7573985d9341453ceb3363bb.webp?v=1782291575"
+        },
+        {
+          "rank": 2,
+          "name": "Rizki barokah",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/72754e492d6684bb579c7b2cbe6816ac.webp?v=1782402523"
+        },
+        {
+          "rank": 3,
+          "name": "Lisa. Only",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b628470f21d990c0c7a16879929b9264.webp?v=1793957977"
+        },
+        {
+          "rank": 4,
+          "name": "~y ~",
+          "points": 28,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
+        },
+        {
+          "rank": 5,
           "name": "hann",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5b3c12775da8653dfa0809a2d0f5d324.webp?v=1792144055"
@@ -47,10 +74,30 @@
         [
           3,
           179
+        ],
+        [
+          4,
+          195
+        ],
+        [
+          5,
+          243
+        ],
+        [
+          6,
+          269
+        ],
+        [
+          7,
+          298
+        ],
+        [
+          8,
+          314
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-      "gift_gold": 1
+      "gift_gold": 48
     }
   ]
 }
