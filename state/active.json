@@ -11,16 +11,16 @@
     "url": "https://www.idn.app/jkt48_greesel/live/hi-261114211453",
     "image": "https://cdn.idn.app/livestream/1dd0ae1a3ddca4063921714693f949e7.webp",
     "started_at": "2026-11-14T14:14:59.000Z",
-    "viewers": 8315,
-    "last_seen_at": "2026-11-14T15:02:19.052Z",
-    "peak_viewers": 8315,
-    "gifts": 60,
-    "gift_points": 8676,
+    "viewers": 9235,
+    "last_seen_at": "2026-11-14T15:07:29.208Z",
+    "peak_viewers": 9235,
+    "gifts": 65,
+    "gift_points": 10084,
     "stars": 0,
-    "comments": 1881,
+    "comments": 2161,
     "gift_breakdown": {
       "Mawar": 2,
-      "Matcha": 6,
+      "Matcha": 7,
       "Pumpkin": 4,
       "GREESEL": 3,
       "Semangat kak": 4,
@@ -36,14 +36,16 @@
       "Arcade Game": 1,
       "Makan ya kak": 1,
       "Bubble Gun": 1,
-      "Puding": 1,
+      "Puding": 2,
       "Water": 1,
       "MELUNCUR!!": 1,
       "JKT48 Show": 1,
       "GGWP!": 1,
-      "Panjat": 1,
+      "Panjat": 2,
       "Jet Pribadi": 1,
-      "Lemon Tea": 1
+      "Lemon Tea": 1,
+      "Balon Pesta": 1,
+      "Kotak Pensil": 1
     },
     "gifters": {
       "156e1618-a0a9-416a-b679-b182b4542960": "Shela Rodeva",
@@ -68,7 +70,9 @@
       "b8bbb79e-d6d0-4163-b045-187019b00068": "Awan Satriawan",
       "d25f36bf-d31e-4697-be3e-350436fdf363": "VIAN (Girl)",
       "a4a10e8a-1de3-429a-809e-3606118399a2": "siska alviana",
-      "8fcba2e6-4068-4469-8705-ab8b98d09119": "Veritas _"
+      "8fcba2e6-4068-4469-8705-ab8b98d09119": "Veritas _",
+      "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": "Agus Priyogo",
+      "519ba120-5850-44bd-9009-137abe7ba42d": "Andreas Yoelanda"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -263,10 +267,34 @@
       [
         47,
         8216
+      ],
+      [
+        48,
+        8427
+      ],
+      [
+        49,
+        8680
+      ],
+      [
+        50,
+        8845
+      ],
+      [
+        51,
+        9009
+      ],
+      [
+        52,
+        9145
+      ],
+      [
+        53,
+        9235
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/N7Y0Yn2baCsg",
-    "gift_gold": 2169,
+    "gift_gold": 2521,
     "idn_gifters": {
       "156e1618-a0a9-416a-b679-b182b4542960": {
         "name": "Shela Rodeva",
@@ -286,7 +314,7 @@
       "ca3c05c8-30dc-4705-b7f1-bb3063d90312": {
         "name": "Kaka Mila Hehe",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ac8a8cd4edaba9efac4afc131150fe31.webp?v=1781600229",
-        "points": 1400
+        "points": 1600
       },
       "f9405acf-10a5-4c20-8f25-14da6aa9116a": {
         "name": "Ariel Luzardi",
@@ -361,12 +389,12 @@
       "c110e66e-9a05-4a8c-b477-26be88ab663b": {
         "name": "haruka .-.",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/22a343eee27b510fee68671178891b61.webp?v=1781609768",
-        "points": 356
+        "points": 1472
       },
       "b8bbb79e-d6d0-4163-b045-187019b00068": {
         "name": "Awan Satriawan",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3979a497778b4740c4303b0f8750aef0.webp?v=1744128349",
-        "points": 100
+        "points": 136
       },
       "d25f36bf-d31e-4697-be3e-350436fdf363": {
         "name": "VIAN (Girl)",
@@ -382,6 +410,16 @@
         "name": "Veritas _",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b9c9b7af0c67522c5725a219317dfd3e.webp?v=1772290481",
         "points": 4000
+      },
+      "71b36a1d-c1e3-4e3f-a9a6-a45fe9e277ea": {
+        "name": "Agus Priyogo",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f9e63b89addb4ef8f4f0d28be83bcb5a.webp?v=1774429080",
+        "points": 40
+      },
+      "519ba120-5850-44bd-9009-137abe7ba42d": {
+        "name": "Andreas Yoelanda",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1ff087ce3fa129f41a3cff5579d1303c.webp?v=1767790093",
+        "points": 16
       }
     }
   },
@@ -397,19 +435,19 @@
     "url": "https://www.idn.app/jkt48_delynn/live/malming-kuy-261114212111",
     "image": "https://cdn.idn.app/livestream/8a0f42e262b29a8f82440b56babc2d10.webp",
     "started_at": "2026-11-14T14:21:16.000Z",
-    "viewers": 9173,
-    "last_seen_at": "2026-11-14T15:02:19.052Z",
-    "peak_viewers": 9173,
-    "gifts": 63,
-    "gift_points": 4692,
+    "viewers": 10153,
+    "last_seen_at": "2026-11-14T15:07:29.208Z",
+    "peak_viewers": 10153,
+    "gifts": 69,
+    "gift_points": 4972,
     "stars": 0,
-    "comments": 2178,
+    "comments": 2377,
     "gift_breakdown": {
-      "Toa": 5,
-      "Matcha": 16,
+      "Toa": 6,
+      "Matcha": 17,
       "Jari Hati": 1,
-      "DELYNN": 10,
-      "Kompas": 18,
+      "DELYNN": 11,
+      "Kompas": 19,
       "Kupu-Kupu": 1,
       "Emas Batang": 3,
       "Buket Mawar": 1,
@@ -419,7 +457,9 @@
       "Kucing": 1,
       "ERINE": 1,
       "Jet Pribadi": 1,
-      "GITA": 1
+      "GITA": 1,
+      "Cold Water": 1,
+      "Angklung": 1
     },
     "gifters": {
       "808b035f-9960-4869-8363-25f3ae1df176": "Radit Vn",
@@ -449,7 +489,8 @@
       "56603238-650d-41a8-95ad-01dc9e3dcda3": "Ami .",
       "619b2ade-891f-4190-8e02-3e89c32808a6": "prayoo CH",
       "8f7f3b65-58f5-406d-b0ab-cb301eaa4ae8": "Ray anak baik",
-      "e14d59d3-14d5-4709-aef9-978e1791503a": "Orang baek )"
+      "e14d59d3-14d5-4709-aef9-978e1791503a": "Orang baek )",
+      "fa35031d-bea4-4209-9346-102c61434969": "Bbonyo Kim"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -620,10 +661,30 @@
       [
         41,
         9062
+      ],
+      [
+        42,
+        9288
+      ],
+      [
+        43,
+        9529
+      ],
+      [
+        44,
+        9698
+      ],
+      [
+        45,
+        9899
+      ],
+      [
+        46,
+        10074
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/mnMORuLVJAeJ",
-    "gift_gold": 1173,
+    "gift_gold": 1243,
     "idn_gifters": {
       "808b035f-9960-4869-8363-25f3ae1df176": {
         "name": "Radit Vn",
@@ -633,7 +694,7 @@
       "1b64799d-0961-4abb-805c-f7f5891f7105": {
         "name": "Bayou ❤️‍🔥ADJ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6390294d49dc9eb6574f98e2a723f601.webp?v=1794465857",
-        "points": 800
+        "points": 840
       },
       "4b50f4dc-5f23-4ebe-99ac-8a694938f8d3": {
         "name": "Michinaga Azuma",
@@ -653,7 +714,7 @@
       "bce93a04-646c-4ccb-948f-5a09bd024b0e": {
         "name": "Cecep egy Aditiya fawzy",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5069376b5c1b6fe24cd899d7980976d7.webp?v=1794405898",
-        "points": 480
+        "points": 600
       },
       "2ef1dfe8-086d-4bcc-8d9f-1990ff925ca7": {
         "name": "Novi (doday06)",
@@ -663,7 +724,7 @@
       "ab25f713-65ce-4b0c-b402-d9c59b9d24d7": {
         "name": "👾 AW. RIZKY 👾",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7ee1e5b7ce7fd57a17de950c0c2bd778.webp?v=1793593836",
-        "points": 668
+        "points": 748
       },
       "8b8515e5-3a34-4711-b962-a957cbeb65fa": {
         "name": "keyaaa",
@@ -764,6 +825,11 @@
         "name": "Orang baek )",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/275904286ec64ea2146811f00a1b5948.webp?v=1794316409",
         "points": 20
+      },
+      "fa35031d-bea4-4209-9346-102c61434969": {
+        "name": "Bbonyo Kim",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ccf1a607fc7a50d307f532c59c00683f.webp?v=1794662671",
+        "points": 40
       }
     }
   },
@@ -779,22 +845,23 @@
     "url": "https://www.idn.app/jkt48_gita/live/gits-261114214258",
     "image": "https://cdn.idn.app/livestream/765a48817086fe5c58dfed04db1f22d8.webp",
     "started_at": "2026-11-14T14:43:05.000Z",
-    "viewers": 1836,
-    "last_seen_at": "2026-11-14T15:02:19.052Z",
-    "peak_viewers": 1836,
-    "gifts": 13,
-    "gift_points": 492,
+    "viewers": 2481,
+    "last_seen_at": "2026-11-14T15:07:29.208Z",
+    "peak_viewers": 2481,
+    "gifts": 20,
+    "gift_points": 904,
     "stars": 0,
-    "comments": 351,
+    "comments": 497,
     "gift_breakdown": {
-      "Matcha": 2,
+      "Matcha": 3,
       "Makan ya kak": 1,
-      "Toa": 2,
-      "Kompas": 3,
+      "Toa": 3,
+      "Kompas": 5,
       "Water": 1,
       "HADIIIRRR!!": 1,
-      "GITA": 2,
-      "DELYNN": 1
+      "GITA": 3,
+      "DELYNN": 1,
+      "Angklung": 2
     },
     "gifters": {
       "98081730-b928-468a-a946-fedab7f790a6": "Kruaa aja.",
@@ -806,7 +873,11 @@
       "5eb2d8a8-79b6-45c1-96c0-85d6570a03e9": "Zulpa UmariaLovers",
       "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": "Bli Putu Dicky MP",
       "6265d39d-0556-4e04-b19b-3769e299eeeb": "Takashi Kida",
-      "bce93a04-646c-4ccb-948f-5a09bd024b0e": "Cecep egy Aditiya fawzy"
+      "bce93a04-646c-4ccb-948f-5a09bd024b0e": "Cecep egy Aditiya fawzy",
+      "886436bf-a771-4d2d-8408-56674f279b5b": "Dityaaaa Asli Depok",
+      "c4034990-5ad7-4c4c-9485-57064f26ea4f": "Indri. In77(kangen oniel)",
+      "bd7d1960-fec1-42aa-9d26-19ea01770446": "Bams",
+      "c8725123-a196-4ce3-8ab9-131c8f5568fb": "DELYNESSENCE #Yōuyǎ"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -889,10 +960,30 @@
       [
         19,
         1753
+      ],
+      [
+        20,
+        1903
+      ],
+      [
+        21,
+        2052
+      ],
+      [
+        22,
+        2173
+      ],
+      [
+        23,
+        2291
+      ],
+      [
+        24,
+        2411
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-    "gift_gold": 123,
+    "gift_gold": 226,
     "idn_gifters": {
       "98081730-b928-468a-a946-fedab7f790a6": {
         "name": "Kruaa aja.",
@@ -902,12 +993,12 @@
       "398147fc-3cfc-418e-a6d9-8b0dbb09a7ff": {
         "name": "firdan ɐzʞɐ ƃıɟɟɐɹı",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7088f627bd570a6f65b79bdb63ab9e84.webp?v=1792053775",
-        "points": 40
+        "points": 120
       },
       "e34f472c-1b8f-4f7d-9242-7bbca7a20a8c": {
         "name": "Tasteless Servant",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5afc36f42bd0bb8fca7f86b413737e55.webp?v=1733913076",
-        "points": 120
+        "points": 236
       },
       "2e9d7016-38af-4809-9f61-dfc7edf8fec1": {
         "name": "Septiii ",
@@ -937,12 +1028,32 @@
       "6265d39d-0556-4e04-b19b-3769e299eeeb": {
         "name": "Takashi Kida",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
-        "points": 80
+        "points": 196
       },
       "bce93a04-646c-4ccb-948f-5a09bd024b0e": {
         "name": "Cecep egy Aditiya fawzy",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5069376b5c1b6fe24cd899d7980976d7.webp?v=1794405898",
         "points": 80
+      },
+      "886436bf-a771-4d2d-8408-56674f279b5b": {
+        "name": "Dityaaaa Asli Depok",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c2383c09946303e942d54f38af9326a9.webp?v=1787243480",
+        "points": 40
+      },
+      "c4034990-5ad7-4c4c-9485-57064f26ea4f": {
+        "name": "Indri. In77(kangen oniel)",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/633fe1f7a3ccd97ceae2b1143af1b7c5.webp?v=1794662377",
+        "points": 20
+      },
+      "bd7d1960-fec1-42aa-9d26-19ea01770446": {
+        "name": "Bams",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b106b3f3a8233156516c4862fc0fb810.webp?v=1731524905",
+        "points": 20
+      },
+      "c8725123-a196-4ce3-8ab9-131c8f5568fb": {
+        "name": "DELYNESSENCE #Yōuyǎ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/aac8f41b92f8885976104bd01367153c.webp?v=1794138993",
+        "points": 20
       }
     }
   },
@@ -958,22 +1069,26 @@
     "url": "https://www.idn.app/jkt48_lana/live/hai-261114215456",
     "image": "https://cdn.idn.app/livestream/3ba20598d290e8e1f0c1a945b1ad6e97.webp",
     "started_at": "2026-11-14T14:55:02.000Z",
-    "viewers": 990,
-    "last_seen_at": "2026-11-14T15:02:19.052Z",
-    "peak_viewers": 990,
-    "gifts": 3,
-    "gift_points": 240,
+    "viewers": 1710,
+    "last_seen_at": "2026-11-14T15:07:29.208Z",
+    "peak_viewers": 1710,
+    "gifts": 6,
+    "gift_points": 452,
     "stars": 0,
-    "comments": 323,
+    "comments": 642,
     "gift_breakdown": {
-      "Emas Batang": 1,
+      "Emas Batang": 2,
       "Rendang": 1,
-      "Es Kelapa": 1
+      "Es Kelapa": 1,
+      "Cold Water": 1,
+      "Mawar": 1
     },
     "gifters": {
       "5b833d5a-1872-4a12-9dbf-d490fded8f1f": "Ahmed, L.",
       "90f4f240-6c20-48bb-aa5e-1977fd48e005": "Muhamad Surya_Mipa_4",
-      "edbfdbfc-ec9c-4333-9565-55fe91971adf": "33 yulio adityan"
+      "edbfdbfc-ec9c-4333-9565-55fe91971adf": "33 yulio adityan",
+      "758426aa-584e-41c6-b9f2-baccdf5db1f9": "Samael",
+      "c1a4f76a-673f-46be-9c72-62c849094ff0": "nur intan Revi CHIKO SUBIANTO"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -1008,10 +1123,30 @@
       [
         7,
         917
+      ],
+      [
+        8,
+        1055
+      ],
+      [
+        9,
+        1233
+      ],
+      [
+        10,
+        1349
+      ],
+      [
+        11,
+        1510
+      ],
+      [
+        12,
+        1645
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
-    "gift_gold": 60,
+    "gift_gold": 113,
     "idn_gifters": {
       "5b833d5a-1872-4a12-9dbf-d490fded8f1f": {
         "name": "Ahmed, L.",
@@ -1021,12 +1156,22 @@
       "90f4f240-6c20-48bb-aa5e-1977fd48e005": {
         "name": "Muhamad Surya_Mipa_4",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bb64183f10da737f47a51e4428b47523.webp?v=1785681869",
-        "points": 32
+        "points": 36
       },
       "edbfdbfc-ec9c-4333-9565-55fe91971adf": {
         "name": "33 yulio adityan",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 12
+      },
+      "758426aa-584e-41c6-b9f2-baccdf5db1f9": {
+        "name": "Samael",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec67a275a3e70361cadb34fe4eeb6380.webp?v=1794659396",
+        "points": 12
+      },
+      "c1a4f76a-673f-46be-9c72-62c849094ff0": {
+        "name": "nur intan Revi CHIKO SUBIANTO",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1986490d843cd41447e49bbe149c2beb.webp?v=1794651869",
+        "points": 196
       }
     }
   }
