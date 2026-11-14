@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 22.43 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 22.48 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Gita | IDN Live | Gits | 14 Nov 2026, 21.43 | 7.910 |
-| Lana | IDN Live | Hai | 14 Nov 2026, 21.55 | 6.546 |
-| Erine | IDN Live | diroriiiii | 14 Nov 2026, 22.15 | 9.000 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 22.17 | 4.466 |
-| Kathrina | IDN Live | wazzap | 14 Nov 2026, 22.25 | 4.654 |
-| Michie | IDN Live | live  aja | 14 Nov 2026, 22.26 | 4.752 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 22.26 | 5.581 |
+| Lana | IDN Live | Hai | 14 Nov 2026, 21.55 | 7.270 |
+| Erine | IDN Live | diroriiiii | 14 Nov 2026, 22.15 | 10.091 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 22.17 | 5.121 |
+| Kathrina | IDN Live | wazzap | 14 Nov 2026, 22.25 | 5.654 |
+| Michie | IDN Live | live  aja | 14 Nov 2026, 22.26 | 5.990 |
+| Christy | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 22.26 | 6.988 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Gita | IDN Live | Gits | 14 Nov 2026, 21.43 | 63m | 8.242 | 49 | 978 | — | 1.275 |
 | Delynn | IDN Live | Malming kuy | 14 Nov 2026, 21.21 | 80m | 15.964 | 99 | 2.210 | — | 3.580 |
 | Lily | IDN Live | Hai | 14 Nov 2026, 21.15 | 34m | 6.580 | 42 | 1.523 | — | 2.114 |
 | Greesel | IDN Live | hi | 14 Nov 2026, 21.14 | 69m | 11.695 | 86 | 3.079 | — | 2.967 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.36 | 4m | 330 | 0 | — | — | 66 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 21.28 | 7m | 504 | 1 | 3 | — | 80 |
 | Fritzy | IDN Live | hai | 13 Nov 2026, 21.01 | 65m | 5.295 | 45 | 720 | — | 2.923 |
-| Delynn | IDN Live | WHATSAPPP | 13 Nov 2026, 20.48 | 84m | 12.838 | 112 | 1.681 | — | 3.489 |
 
 ## Lisensi
 
