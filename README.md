@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 20.09 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 20.14 WIB.
 
 ## Interval pembaruan
 
@@ -46,11 +46,12 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Elin | IDN Live | Hai | 14 Nov 2026, 19.56 | 1.063 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 20.00 | 1.624 |
-| Nayla | IDN Live | Manadooo | 14 Nov 2026, 20.00 | 1.287 |
-| Aralie | IDN Live | hi | 14 Nov 2026, 20.00 | 2.984 |
-| Oniel | IDN Live | saya kembali | 14 Nov 2026, 20.02 | 1.620 |
+| Elin | IDN Live | Hai | 14 Nov 2026, 19.56 | 1.820 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 20.00 | 3.122 |
+| Nayla | IDN Live | Manadooo | 14 Nov 2026, 20.00 | 2.296 |
+| Aralie | IDN Live | hi | 14 Nov 2026, 20.00 | 5.338 |
+| Oniel | IDN Live | saya kembali | 14 Nov 2026, 20.02 | 3.904 |
+| Marsha | IDN Live | Plisss | 14 Nov 2026, 20.14 | 12 |
 
 ## Live terakhir — Nov 2026
 
