@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 20.29 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 20.35 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Elin | IDN Live | Hai | 14 Nov 2026, 19.56 | 4.051 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 20.00 | 6.734 |
-| Nayla | IDN Live | Manadooo | 14 Nov 2026, 20.00 | 4.884 |
-| Aralie | IDN Live | hi | 14 Nov 2026, 20.00 | 11.319 |
-| Oniel | IDN Live | saya kembali | 14 Nov 2026, 20.02 | 9.324 |
-| Marsha | IDN Live | Plisss | 14 Nov 2026, 20.14 | 4.883 |
+| Oniel | IDN Live | saya kembali | 14 Nov 2026, 20.02 | 10.864 |
+| Marsha | IDN Live | Plisss | 14 Nov 2026, 20.14 | 6.808 |
+| Fritzy | IDN Live | hellooo | 14 Nov 2026, 20.33 | 342 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Aralie | IDN Live | hi | 14 Nov 2026, 20.00 | 31m | 11.766 | 19 | 876 | — | 3.208 |
+| Nayla | IDN Live | Manadooo | 14 Nov 2026, 20.00 | 31m | 5.149 | 11 | 218 | — | 446 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 20.00 | 30m | 6.734 | 13 | 193 | — | 639 |
+| Elin | IDN Live | Hai | 14 Nov 2026, 19.56 | 35m | 4.182 | 13 | 203 | — | 534 |
 | Rilly | IDN Live | Yukkk | 14 Nov 2026, 18.17 | 42m | 1.837 | 34 | 505 | — | 360 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 17.52 | 66m | 5.813 | 31 | 1.157 | — | 1.236 |
 | Intan | IDN Live | yu idn | 14 Nov 2026, 17.52 | 69m | 6.818 | 59 | 1.711 | — | 1.811 |
@@ -93,10 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Lia | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 19.36 | 69m | 6.092 | 4 | 14 | — | 30 |
 | Aralie | IDN Live | hi | 13 Nov 2026, 19.35 | 71m | 12.788 | 42 | 796 | — | 4.699 |
 | Nayla | IDN Live | Manadooo | 13 Nov 2026, 19.35 | 71m | 7.152 | 33 | 593 | — | 875 |
-| Elin | IDN Live | Hai | 13 Nov 2026, 19.33 | 72m | 5.541 | 24 | 251 | — | 908 |
-| Lana | IDN Live | Hai | 13 Nov 2026, 18.46 | 74m | 7.131 | 45 | 1.098 | — | 2.738 |
-| JKT48 | IDN Live | Pajama Drive - 2026/11/13 | 13 Nov 2026, 18.46 | 138m | 380 | 4 | 104 | — | 528 |
-| Giaa | IDN Live | p | 13 Nov 2026, 18.32 | 63m | 2.680 | 30 | 369 | — | 865 |
 
 ## Lisensi
 
