@@ -11,22 +11,22 @@
     "url": "https://www.idn.app/jkt48_rara/live/261114115022",
     "image": "https://cdn.idn.app/livestream/e95951c06cf502a3bf561ae2c8fe6995.webp",
     "started_at": "2026-11-14T04:50:27.000Z",
-    "viewers": 657,
-    "last_seen_at": "2026-11-14T05:13:57.861Z",
-    "peak_viewers": 657,
-    "gifts": 14,
-    "gift_points": 796,
+    "viewers": 781,
+    "last_seen_at": "2026-11-14T05:19:04.630Z",
+    "peak_viewers": 781,
+    "gifts": 16,
+    "gift_points": 932,
     "stars": 0,
-    "comments": 469,
+    "comments": 571,
     "gift_breakdown": {
       "Water": 1,
       "HADIIIRRR!!": 1,
       "Pumpkin": 2,
       "EKIN": 1,
       "Combat": 1,
-      "Toa": 4,
+      "Toa": 5,
       "Emas Batang": 1,
-      "Angklung": 2,
+      "Angklung": 3,
       "Kupu-Kupu": 1
     },
     "gifters": {
@@ -142,10 +142,30 @@
       [
         24,
         657
+      ],
+      [
+        25,
+        690
+      ],
+      [
+        26,
+        707
+      ],
+      [
+        27,
+        734
+      ],
+      [
+        28,
+        757
+      ],
+      [
+        29,
+        781
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "gift_gold": 199,
+    "gift_gold": 233,
     "idn_gifters": {
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": {
         "name": "hann",
@@ -165,7 +185,7 @@
       "0064acbb-f89f-4349-9e08-993788acb86f": {
         "name": "Lisa. Only",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b628470f21d990c0c7a16879929b9264.webp?v=1793957977",
-        "points": 60
+        "points": 80
       },
       "c9f98986-e967-4e5e-82d9-43d370839dc6": {
         "name": "Laila Akrima -",
@@ -195,7 +215,7 @@
       "661d6f0d-b3d0-484c-92f8-251524785599": {
         "name": "Nils Ferrel🦉",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0632c64493211edbb006204f0c1e3c1c.webp?v=1794565576",
-        "points": 116
+        "points": 232
       }
     }
   }
