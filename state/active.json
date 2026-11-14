@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261114203255",
     "image": "https://cdn.idn.app/livestream/98bc7153c6354a1741ffb668e405f4ea.webp",
     "started_at": "2026-11-14T13:33:03.000Z",
-    "viewers": 4716,
-    "last_seen_at": "2026-11-14T14:10:58.534Z",
-    "peak_viewers": 4716,
-    "gifts": 21,
-    "gift_points": 1104,
+    "viewers": 5089,
+    "last_seen_at": "2026-11-14T14:16:09.797Z",
+    "peak_viewers": 5089,
+    "gifts": 24,
+    "gift_points": 1172,
     "stars": 0,
-    "comments": 1918,
+    "comments": 2163,
     "gift_breakdown": {
       "Angklung": 2,
       "Cendrawasih": 1,
@@ -27,11 +27,13 @@
       "FRITZY": 2,
       "Mawar": 1,
       "Lemon Tea": 2,
-      "Toa": 3,
+      "Toa": 4,
       "Semangat kak": 1,
       "Rempeyek": 1,
       "Cold Water": 1,
-      "Nasi Goreng": 1
+      "Nasi Goreng": 1,
+      "Paling Ramah": 1,
+      "Boba Tea": 1
     },
     "gifters": {
       "3efb8582-8f5a-47ba-9f9c-0e25fcabf628": "Mervin .",
@@ -46,7 +48,9 @@
       "7c6796ac-2846-42f5-be47-a370a3866773": "Yudha Aditya",
       "2dad6fe0-39e0-46b1-aaaf-f8b57d113c4a": "Jeremy Christian",
       "89dd7fd7-a34a-42e2-a4aa-494e4c1f7b99": "TiTiara",
-      "61b08e61-a8c6-48bf-8d85-365e4fdbfefe": "Rafa x Evodie"
+      "61b08e61-a8c6-48bf-8d85-365e4fdbfefe": "Rafa x Evodie",
+      "dcc36fcc-ba52-4749-89cc-7ea3597e23f2": "Yoel ❤️‍🔥",
+      "9978428d-efb5-47a2-826c-6d597fdfd919": "Denza Lian"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -205,10 +209,30 @@
       [
         38,
         4716
+      ],
+      [
+        39,
+        4806
+      ],
+      [
+        40,
+        4874
+      ],
+      [
+        41,
+        4956
+      ],
+      [
+        42,
+        4988
+      ],
+      [
+        43,
+        5061
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 276,
+    "gift_gold": 293,
     "idn_gifters": {
       "3efb8582-8f5a-47ba-9f9c-0e25fcabf628": {
         "name": "Mervin .",
@@ -258,7 +282,7 @@
       "7c6796ac-2846-42f5-be47-a370a3866773": {
         "name": "Yudha Aditya",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/12b397099f393bdbc63051519e604fa5.webp?v=1793632141",
-        "points": 36
+        "points": 48
       },
       "2dad6fe0-39e0-46b1-aaaf-f8b57d113c4a": {
         "name": "Jeremy Christian",
@@ -274,7 +298,85 @@
         "name": "Rafa x Evodie",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9790bd7d0fc910121c76852b7d817612.webp?v=1793806003",
         "points": 80
+      },
+      "dcc36fcc-ba52-4749-89cc-7ea3597e23f2": {
+        "name": "Yoel ❤️‍🔥",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fc485378aca28afd8b0b47b8668f98dc.webp?v=1784990826",
+        "points": 20
+      },
+      "9978428d-efb5-47a2-826c-6d597fdfd919": {
+        "name": "Denza Lian",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc2e9989edecc20ff0e5d795a4ae6bb8.webp?v=1787304156",
+        "points": 36
       }
     }
+  },
+  "idn:hi-261114211453": {
+    "id": "idn:hi-261114211453",
+    "platform": "idn",
+    "member": {
+      "name": "Greesel",
+      "username": "jkt48_greesel",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/44057259b756c4d190b2283ebfb952b6.webp?v=1778756088"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_greesel/live/hi-261114211453",
+    "image": "https://cdn.idn.app/livestream/1dd0ae1a3ddca4063921714693f949e7.webp",
+    "started_at": "2026-11-14T14:14:59.000Z",
+    "viewers": 203,
+    "last_seen_at": "2026-11-14T14:16:09.797Z",
+    "peak_viewers": 203,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 37,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        79
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/N7Y0Yn2baCsg"
+  },
+  "idn:hai-261114211502": {
+    "id": "idn:hai-261114211502",
+    "platform": "idn",
+    "member": {
+      "name": "Lily",
+      "username": "jkt48_lily",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82c594a3ba1e3ef986d941a4ec936fa9.webp?v=1778761669"
+    },
+    "title": "Hai",
+    "url": "https://www.idn.app/jkt48_lily/live/hai-261114211502",
+    "image": "https://cdn.idn.app/livestream/5052019cf4ae60657cfe2a35296ba7bf.webp",
+    "started_at": "2026-11-14T14:15:07.000Z",
+    "viewers": 110,
+    "last_seen_at": "2026-11-14T14:16:09.797Z",
+    "peak_viewers": 110,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 12,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [
+      [
+        0,
+        15
+      ],
+      [
+        1,
+        110
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/ERh0u6azjSIB"
   }
 }
