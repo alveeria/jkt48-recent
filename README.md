@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 18.11 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 18.16 WIB.
 
 ## Interval pembaruan
 
@@ -46,14 +46,14 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fera | IDN Live | Ayo masuk | 14 Nov 2026, 17.14 | 2.553 |
-| Ralyne | IDN Live | HAIII | 14 Nov 2026, 17.14 | 3.170 |
-| Bella | IDN Live | Hellooo | 14 Nov 2026, 17.14 | 3.850 |
-| Sona | IDN Live | mam | 14 Nov 2026, 17.14 | 3.598 |
-| Jessi | IDN Live | hi | 14 Nov 2026, 17.34 | 2.512 |
-| Giaa | IDN Live | p | 14 Nov 2026, 17.52 | 1.019 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 17.52 | 2.260 |
-| Intan | IDN Live | yu idn | 14 Nov 2026, 17.52 | 2.610 |
+| Fera | IDN Live | Ayo masuk | 14 Nov 2026, 17.14 | 2.807 |
+| Ralyne | IDN Live | HAIII | 14 Nov 2026, 17.14 | 3.395 |
+| Bella | IDN Live | Hellooo | 14 Nov 2026, 17.14 | 4.074 |
+| Sona | IDN Live | mam | 14 Nov 2026, 17.14 | 3.836 |
+| Jessi | IDN Live | hi | 14 Nov 2026, 17.34 | 2.814 |
+| Giaa | IDN Live | p | 14 Nov 2026, 17.52 | 1.243 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 17.52 | 2.736 |
+| Intan | IDN Live | yu idn | 14 Nov 2026, 17.52 | 3.151 |
 
 ## Live terakhir — Nov 2026
 
