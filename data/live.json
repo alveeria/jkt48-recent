@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:51:25.980Z",
+  "updated_at": "2026-11-14T06:56:33.975Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114134242",
@@ -13,15 +13,31 @@
       "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261114134242",
       "image": "https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp",
       "started_at": "2026-11-14T06:42:47.000Z",
-      "viewers": 355,
-      "last_seen_at": "2026-11-14T06:51:24.803Z",
-      "peak_viewers": 355,
-      "gifts": 0,
-      "gift_points": 0,
+      "viewers": 553,
+      "last_seen_at": "2026-11-14T06:56:33.444Z",
+      "peak_viewers": 553,
+      "gifts": 2,
+      "gift_points": 44,
       "stars": 0,
-      "comments": 44,
-      "gift_breakdown": {},
-      "top_gifters": [],
+      "comments": 75,
+      "gift_breakdown": {
+        "Pumpkin": 1,
+        "Water": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "Ayu Cahya ",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ccc1c7265003a3a69b9dd0aff657a23.webp?v=1772859436"
+        },
+        {
+          "rank": 2,
+          "name": "Nazip NakMakan",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/537b23e6592de355ec26c195abf72b25.webp?v=1793950700"
+        }
+      ],
       "viewer_series": [
         [
           0,
@@ -62,9 +78,30 @@
         [
           9,
           355
+        ],
+        [
+          10,
+          413
+        ],
+        [
+          11,
+          457
+        ],
+        [
+          12,
+          496
+        ],
+        [
+          13,
+          520
+        ],
+        [
+          14,
+          553
         ]
       ],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt"
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
+      "gift_gold": 11
     }
   ]
 }
