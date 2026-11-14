@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T17:30:21.620Z",
+  "updated_at": "2026-11-14T17:35:27.837Z",
   "lives": [
     {
       "id": "idn:helo-261114233408",
@@ -13,48 +13,48 @@
       "url": "https://www.idn.app/jkt48_nala/live/helo-261114233408",
       "image": "https://cdn.idn.app/livestream/b86534010ae3da88b13c8a71d090e0d0.webp",
       "started_at": "2026-11-14T16:34:13.000Z",
-      "viewers": 5125,
-      "last_seen_at": "2026-11-14T17:30:20.596Z",
-      "peak_viewers": 5125,
-      "gifts": 37,
-      "gift_points": 2536,
+      "viewers": 5395,
+      "last_seen_at": "2026-11-14T17:35:27.233Z",
+      "peak_viewers": 5395,
+      "gifts": 50,
+      "gift_points": 3960,
       "stars": 0,
-      "comments": 1901,
+      "comments": 2359,
       "gift_breakdown": {
         "Cold Water": 3,
         "Matcha": 1,
         "SSETAAAN": 1,
-        "Lemon Tea": 2,
+        "Lemon Tea": 3,
         "Es Kelapa": 1,
         "Pumpkin": 3,
         "Nasi Goreng": 3,
-        "Emas Batang": 7,
-        "Water": 2,
-        "Motor Sport": 1,
+        "Emas Batang": 12,
+        "Water": 5,
+        "Motor Sport": 2,
         "NALA": 1,
-        "Sop Buntut": 9,
+        "Sop Buntut": 11,
         "HADIIIRRR!!": 1,
-        "Orange Syrup": 1,
+        "Orange Syrup": 2,
         "Angklung": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "Kemal",
-          "points": 640,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c7c59c30fb7e347df53897f63cdb74f.webp?v=1703955232"
+          "name": "FS .",
+          "points": 1104,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b2c53240e8f19001f22769fa770486d2.webp?v=1787846642"
         },
         {
           "rank": 2,
-          "name": ". ite",
-          "points": 524,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d43c194e3bb62d3c9cdf14e6537d1203.webp?v=1793624980"
+          "name": "Kemal",
+          "points": 1056,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c7c59c30fb7e347df53897f63cdb74f.webp?v=1703955232"
         },
         {
           "rank": 3,
-          "name": "FS .",
-          "points": 500,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b2c53240e8f19001f22769fa770486d2.webp?v=1787846642"
+          "name": ". ite",
+          "points": 924,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d43c194e3bb62d3c9cdf14e6537d1203.webp?v=1793624980"
         },
         {
           "rank": 4,
@@ -71,7 +71,7 @@
         {
           "rank": 6,
           "name": "Biyan Farhansyah",
-          "points": 116,
+          "points": 120,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c6ac8e7fe1a9e57d5fb328827bee220e.webp?v=1793636847"
         },
         {
@@ -99,10 +99,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cb533527e551ff596424db8f5f2c1b44.webp?v=1794415442"
         }
       ],
-      "viewer_series": [[25, 2440], [26, 2487], [27, 2552], [28, 2629], [29, 2691], [30, 2767], [31, 2843], [32, 2911], [33, 2989], [34, 3029], [35, 3105], [36, 3170], [37, 3221], [38, 3335], [39, 3436], [40, 3540], [41, 3764], [42, 3910], [43, 4022], [44, 4220], [45, 4310], [46, 4404], [47, 4491], [48, 4576], [49, 4653], [50, 4725], [51, 4795], [52, 4838], [53, 4916], [54, 4976], [55, 5034], [56, 5098]],
+      "viewer_series": [[25, 2440], [26, 2487], [27, 2552], [28, 2629], [29, 2691], [30, 2767], [31, 2843], [32, 2911], [33, 2989], [34, 3029], [35, 3105], [36, 3170], [37, 3221], [38, 3335], [39, 3436], [40, 3540], [41, 3764], [42, 3910], [43, 4022], [44, 4220], [45, 4310], [46, 4404], [47, 4491], [48, 4576], [49, 4653], [50, 4725], [51, 4795], [52, 4838], [53, 4916], [54, 4976], [55, 5034], [56, 5098], [57, 5152], [58, 5201], [59, 5267], [60, 5304], [61, 5364]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/Pqb57KR18YXr",
-      "gift_gold": 634,
-      "estimated_gift_value_idr": 1585000,
+      "gift_gold": 990,
+      "estimated_gift_value_idr": 2475000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
