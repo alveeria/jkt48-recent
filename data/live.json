@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T07:32:27.976Z",
+  "updated_at": "2026-11-14T07:37:36.478Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114134242",
@@ -13,17 +13,17 @@
       "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261114134242",
       "image": "https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp",
       "started_at": "2026-11-14T06:42:47.000Z",
-      "viewers": 1492,
-      "last_seen_at": "2026-11-14T07:32:27.262Z",
-      "peak_viewers": 1492,
-      "gifts": 34,
-      "gift_points": 1100,
+      "viewers": 1617,
+      "last_seen_at": "2026-11-14T07:37:35.891Z",
+      "peak_viewers": 1617,
+      "gifts": 35,
+      "gift_points": 1120,
       "stars": 0,
-      "comments": 297,
+      "comments": 319,
       "gift_breakdown": {
         "Pumpkin": 2,
         "Water": 11,
-        "Toa": 3,
+        "Toa": 4,
         "Surabaya": 1,
         "HADIIIRRR!!": 1,
         "Kompas": 2,
@@ -40,15 +40,15 @@
       "top_gifters": [
         {
           "rank": 1,
-          "name": "Franko ...",
-          "points": 300,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+          "name": "OqYn (☞ ಠ_ಠ)☞",
+          "points": 308,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5f672faa1bd49462248fab8e02118b87.webp?v=1789780680"
         },
         {
           "rank": 2,
-          "name": "OqYn (☞ ಠ_ಠ)☞",
-          "points": 288,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5f672faa1bd49462248fab8e02118b87.webp?v=1789780680"
+          "name": "Franko ...",
+          "points": 300,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
         },
         {
           "rank": 3,
@@ -303,10 +303,85 @@
         [
           50,
           1492
+        ],
+        [
+          51,
+          1510
+        ],
+        [
+          52,
+          1529
+        ],
+        [
+          53,
+          1557
+        ],
+        [
+          54,
+          1596
+        ],
+        [
+          55,
+          1617
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
-      "gift_gold": 275
+      "gift_gold": 280
+    },
+    {
+      "id": "idn:haii-261114143358",
+      "platform": "idn",
+      "member": {
+        "name": "Lily",
+        "username": "jkt48_lily",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82c594a3ba1e3ef986d941a4ec936fa9.webp?v=1778761669"
+      },
+      "title": "Haii",
+      "url": "https://www.idn.app/jkt48_lily/live/haii-261114143358",
+      "image": "https://cdn.idn.app/livestream/aa461fea02adc817d09a9d2734697459.webp",
+      "started_at": "2026-11-14T07:34:05.000Z",
+      "viewers": 316,
+      "last_seen_at": "2026-11-14T07:37:35.891Z",
+      "peak_viewers": 316,
+      "gifts": 1,
+      "gift_points": 4,
+      "stars": 0,
+      "comments": 116,
+      "gift_breakdown": {
+        "Cold Water": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "Naga Harp",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/85f04b1670d3e118a4f686445106e548.webp?v=1790092303"
+        }
+      ],
+      "viewer_series": [
+        [
+          0,
+          9
+        ],
+        [
+          1,
+          46
+        ],
+        [
+          2,
+          148
+        ],
+        [
+          3,
+          255
+        ],
+        [
+          4,
+          316
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/ERh0u6azjSIB",
+      "gift_gold": 1
     }
   ]
 }
