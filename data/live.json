@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:46:17.152Z",
+  "updated_at": "2026-11-14T06:51:25.980Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114134242",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261114134242",
       "image": "https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp",
       "started_at": "2026-11-14T06:42:47.000Z",
-      "viewers": 118,
-      "last_seen_at": "2026-11-14T06:46:16.542Z",
-      "peak_viewers": 118,
+      "viewers": 355,
+      "last_seen_at": "2026-11-14T06:51:24.803Z",
+      "peak_viewers": 355,
       "gifts": 0,
       "gift_points": 0,
       "stars": 0,
-      "comments": 19,
+      "comments": 44,
       "gift_breakdown": {},
       "top_gifters": [],
       "viewer_series": [
@@ -38,6 +38,30 @@
         [
           3,
           103
+        ],
+        [
+          4,
+          136
+        ],
+        [
+          5,
+          148
+        ],
+        [
+          6,
+          178
+        ],
+        [
+          7,
+          218
+        ],
+        [
+          8,
+          305
+        ],
+        [
+          9,
+          355
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt"
