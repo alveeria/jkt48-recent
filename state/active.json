@@ -11,25 +11,33 @@
     "url": "https://www.idn.app/jkt48_rara/live/261114115022",
     "image": "https://cdn.idn.app/livestream/e95951c06cf502a3bf561ae2c8fe6995.webp",
     "started_at": "2026-11-14T04:50:27.000Z",
-    "viewers": 322,
-    "last_seen_at": "2026-11-14T04:58:33.668Z",
-    "peak_viewers": 322,
-    "gifts": 5,
-    "gift_points": 192,
+    "viewers": 446,
+    "last_seen_at": "2026-11-14T05:03:41.446Z",
+    "peak_viewers": 446,
+    "gifts": 12,
+    "gift_points": 608,
     "stars": 0,
-    "comments": 188,
+    "comments": 274,
     "gift_breakdown": {
       "Water": 1,
       "HADIIIRRR!!": 1,
       "Pumpkin": 2,
-      "EKIN": 1
+      "EKIN": 1,
+      "Combat": 1,
+      "Toa": 4,
+      "Emas Batang": 1,
+      "Angklung": 1
     },
     "gifters": {
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": "hann",
       "eb27a483-19dd-4b40-9e39-7aab8bd4e5e4": "~y ~",
       "ef65f093-4eff-40ab-9cbc-804d7a2dae2f": "Rizki barokah",
       "0064acbb-f89f-4349-9e08-993788acb86f": "Lisa. Only",
-      "c9f98986-e967-4e5e-82d9-43d370839dc6": "Laila Akrima -"
+      "c9f98986-e967-4e5e-82d9-43d370839dc6": "Laila Akrima -",
+      "3da26dac-10d2-459f-9677-04d70d2808de": "Messi Sutopo",
+      "55187f2d-9d67-417b-9c75-07f815a9f9e1": "ale dagangseblak ",
+      "b45f8f89-ea7a-43ea-8b88-cadadeea93af": "Pauuuu .",
+      "24e8df76-15fa-4a7d-84c8-5c462b834e0b": "MESSI MAULANA"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -68,10 +76,30 @@
       [
         8,
         314
+      ],
+      [
+        9,
+        333
+      ],
+      [
+        10,
+        350
+      ],
+      [
+        11,
+        387
+      ],
+      [
+        12,
+        413
+      ],
+      [
+        13,
+        437
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "gift_gold": 48,
+    "gift_gold": 152,
     "idn_gifters": {
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": {
         "name": "hann",
@@ -81,7 +109,7 @@
       "eb27a483-19dd-4b40-9e39-7aab8bd4e5e4": {
         "name": "~y ~",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127",
-        "points": 28
+        "points": 144
       },
       "ef65f093-4eff-40ab-9cbc-804d7a2dae2f": {
         "name": "Rizki barokah",
@@ -91,12 +119,32 @@
       "0064acbb-f89f-4349-9e08-993788acb86f": {
         "name": "Lisa. Only",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b628470f21d990c0c7a16879929b9264.webp?v=1793957977",
-        "points": 40
+        "points": 60
       },
       "c9f98986-e967-4e5e-82d9-43d370839dc6": {
         "name": "Laila Akrima -",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe7e70fb7573985d9341453ceb3363bb.webp?v=1782291575",
-        "points": 80
+        "points": 276
+      },
+      "3da26dac-10d2-459f-9677-04d70d2808de": {
+        "name": "Messi Sutopo",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/75b1842e23105778795c2288f32c1ef9.webp?v=1794581824",
+        "points": 24
+      },
+      "55187f2d-9d67-417b-9c75-07f815a9f9e1": {
+        "name": "ale dagangseblak ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/aefb9383946570670db3e44a8182c05c.webp?v=1761905673",
+        "points": 20
+      },
+      "b45f8f89-ea7a-43ea-8b88-cadadeea93af": {
+        "name": "Pauuuu .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3165e2a3db2405893cedc50996372e94.webp?v=1789566421",
+        "points": 20
+      },
+      "24e8df76-15fa-4a7d-84c8-5c462b834e0b": {
+        "name": "MESSI MAULANA",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38156c0ef9192aa6a614f5ee2e8efc11.webp?v=1794581837",
+        "points": 20
       }
     }
   }
