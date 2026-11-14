@@ -11,20 +11,20 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261114203255",
     "image": "https://cdn.idn.app/livestream/98bc7153c6354a1741ffb668e405f4ea.webp",
     "started_at": "2026-11-14T13:33:03.000Z",
-    "viewers": 3934,
-    "last_seen_at": "2026-11-14T14:00:40.454Z",
-    "peak_viewers": 3934,
-    "gifts": 19,
-    "gift_points": 1004,
+    "viewers": 4315,
+    "last_seen_at": "2026-11-14T14:05:47.904Z",
+    "peak_viewers": 4315,
+    "gifts": 21,
+    "gift_points": 1104,
     "stars": 0,
-    "comments": 1406,
+    "comments": 1635,
     "gift_breakdown": {
       "Angklung": 2,
       "Cendrawasih": 1,
       "Water": 3,
-      "Kompas": 1,
+      "Kompas": 2,
       "Gift Card": 1,
-      "FRITZY": 1,
+      "FRITZY": 2,
       "Mawar": 1,
       "Lemon Tea": 2,
       "Toa": 3,
@@ -45,7 +45,8 @@
       "46c7d5b2-e17a-4f88-bd92-d734c024fb1c": "iqlimakasmir putriyasmin",
       "7c6796ac-2846-42f5-be47-a370a3866773": "Yudha Aditya",
       "2dad6fe0-39e0-46b1-aaaf-f8b57d113c4a": "Jeremy Christian",
-      "89dd7fd7-a34a-42e2-a4aa-494e4c1f7b99": "TiTiara"
+      "89dd7fd7-a34a-42e2-a4aa-494e4c1f7b99": "TiTiara",
+      "61b08e61-a8c6-48bf-8d85-365e4fdbfefe": "Rafa x Evodie"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -164,10 +165,30 @@
       [
         28,
         3934
+      ],
+      [
+        29,
+        4010
+      ],
+      [
+        30,
+        4100
+      ],
+      [
+        31,
+        4186
+      ],
+      [
+        32,
+        4253
+      ],
+      [
+        33,
+        4315
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 251,
+    "gift_gold": 276,
     "idn_gifters": {
       "3efb8582-8f5a-47ba-9f9c-0e25fcabf628": {
         "name": "Mervin .",
@@ -207,7 +228,7 @@
       "28f6f053-7ee1-4533-b985-d0aedd6b9511": {
         "name": "Indra 🐹",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036",
-        "points": 24
+        "points": 44
       },
       "46c7d5b2-e17a-4f88-bd92-d734c024fb1c": {
         "name": "iqlimakasmir putriyasmin",
@@ -228,6 +249,11 @@
         "name": "TiTiara",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 20
+      },
+      "61b08e61-a8c6-48bf-8d85-365e4fdbfefe": {
+        "name": "Rafa x Evodie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9790bd7d0fc910121c76852b7d817612.webp?v=1793806003",
+        "points": 80
       }
     }
   }
