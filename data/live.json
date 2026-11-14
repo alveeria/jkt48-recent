@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:40:09.333Z",
+  "updated_at": "2026-11-14T13:45:16.965Z",
   "lives": [
     {
       "id": "idn:hellooo-261114203255",
@@ -13,17 +13,18 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261114203255",
       "image": "https://cdn.idn.app/livestream/98bc7153c6354a1741ffb668e405f4ea.webp",
       "started_at": "2026-11-14T13:33:03.000Z",
-      "viewers": 1687,
-      "last_seen_at": "2026-11-14T13:40:08.735Z",
-      "peak_viewers": 1687,
-      "gifts": 4,
-      "gift_points": 712,
+      "viewers": 2422,
+      "last_seen_at": "2026-11-14T13:45:16.348Z",
+      "peak_viewers": 2422,
+      "gifts": 6,
+      "gift_points": 736,
       "stars": 0,
-      "comments": 405,
+      "comments": 718,
       "gift_breakdown": {
         "Angklung": 2,
         "Cendrawasih": 1,
-        "Water": 1
+        "Water": 2,
+        "Kompas": 1
       },
       "top_gifters": [
         {
@@ -40,9 +41,21 @@
         },
         {
           "rank": 3,
+          "name": "paijaaa gsuka mtk",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2f52a9d72bc02d2c21d02ff569c899f1.webp?v=1788079400"
+        },
+        {
+          "rank": 4,
           "name": "Cikss Utass smp",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/13e649d41ff54c9dacd7ec138f391c56.webp?v=1794486587"
+        },
+        {
+          "rank": 5,
+          "name": "Fresaaaaa ✰.",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/77055241a5187ea277dcb4931a9570d4.webp?v=1794416114"
         }
       ],
       "viewer_series": [
@@ -77,10 +90,30 @@
         [
           7,
           1539
+        ],
+        [
+          8,
+          1779
+        ],
+        [
+          9,
+          1955
+        ],
+        [
+          10,
+          2108
+        ],
+        [
+          11,
+          2239
+        ],
+        [
+          12,
+          2367
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-      "gift_gold": 178
+      "gift_gold": 184
     }
   ]
 }
