@@ -1,4 +1,63 @@
 {
-  "updated_at": "2026-11-14T12:53:44.061Z",
-  "lives": []
+  "updated_at": "2026-11-14T12:58:50.809Z",
+  "lives": [
+    {
+      "id": "idn:hai-261114195606",
+      "platform": "idn",
+      "member": {
+        "name": "Elin",
+        "username": "jkt48_elin",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0fb5a0de260626f7c1319567ce5e7f39.webp?v=1778761360"
+      },
+      "title": "Hai",
+      "url": "https://www.idn.app/jkt48_elin/live/hai-261114195606",
+      "image": "https://cdn.idn.app/livestream/fdf2d5fa22e1ed9a9d44ce999c813334.webp",
+      "started_at": "2026-11-14T12:56:12.000Z",
+      "viewers": 164,
+      "last_seen_at": "2026-11-14T12:58:50.301Z",
+      "peak_viewers": 164,
+      "gifts": 2,
+      "gift_points": 560,
+      "stars": 0,
+      "comments": 51,
+      "gift_breakdown": {
+        "Cold Water": 1,
+        "Graffiti": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "dagdigdugdeerr .",
+          "points": 556,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a265d8588c4b140a34250ca9937442ea.webp?v=1792413558"
+        },
+        {
+          "rank": 2,
+          "name": "vnomdln .",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b578dbb24a6d5ee9d00bfd18d8018657.webp?v=1793870708"
+        }
+      ],
+      "viewer_series": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          19
+        ],
+        [
+          2,
+          92
+        ],
+        [
+          3,
+          164
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBuGTLoLJOCV",
+      "gift_gold": 140
+    }
+  ]
 }
