@@ -86,6 +86,16 @@ Khusus IDN Live (dari chat live): \`comments\`, \`gifts\`, \`gift_gold\`, \`gift
 \`top_gifters\` (dihitung dari gift yang terdengar selama live).
 Semua live: \`viewer_series\` (\`[menit sejak mulai, penonton]\`, satu sampel per menit).
 
+### Estimasi nilai gift
+
+Jika statistik tersedia, \`estimated_gift_value_idr\` berisi estimasi nilai gift dalam rupiah, \`gift_rate_idr\` rate per unit, dan \`gift_value_basis\` adalah \`gold\` (IDN) atau \`paid_points\` (SHOWROOM).
+
+- IDN: \`gift_gold × 2500\` (bukan \`gift_points\`).
+- SHOWROOM: \`gift_points × 114.26\`, hanya gift berbayar; gift gratis/star tidak dikonversi.
+- Rate ini asumsi referensi dari [contoh IDN](https://48live.my.id/recent/125470651794648686) dan [contoh SHOWROOM](https://48live.my.id/recent/1794067713510064), bukan harga resmi atau kurs terkini. Rate aktual bisa berbeda antar sesi/paket pembelian.
+- Ini **bukan pendapatan bersih member**. Hanya menghitung gift yang berhasil dicatat bot, yang bisa tidak lengkap. Data historis tanpa statistik tidak dianggap nol.
+- Rate bisa diatur lewat environment \`IDN_GOLD_RATE_IDR\` dan \`SHOWROOM_POINT_RATE_IDR\`; rate tersimpan pada arsip agar asumsi hitungnya jelas.
+
 
 ## Sedang live
 

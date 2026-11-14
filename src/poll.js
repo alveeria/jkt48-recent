@@ -17,6 +17,7 @@ import { fileURLToPath } from "node:url";
 import { IdnChat } from "./idn-chat.js";
 import { fetchWithBackoff } from "./http.js";
 import { stringifyJson } from "./json.js";
+import { giftValue } from "./gift-value.js";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const POLL_SECONDS = Number(process.env.POLL_SECONDS || 30);
@@ -255,8 +256,11 @@ function idnTop(session) {
     .map((g, i) => ({ rank: i + 1, name: g.name, points: g.points, avatar: g.avatar }));
 }
 
-const publicView = ({ _seen, gifters, idn_gifters, ...s }) =>
-  s.platform === "idn" && idn_gifters ? { ...s, top_gifters: idnTop({ idn_gifters }) } : s;
+const publicView = ({ _seen, gifters, idn_gifters, ...s }) => ({
+  ...s,
+  ...giftValue(s),
+  ...(s.platform === "idn" && idn_gifters ? { top_gifters: idnTop({ idn_gifters }) } : {}),
+});
 
 function close(session) {
   // publicView drops the gifter maps, so count them from the session itself.
@@ -323,7 +327,9 @@ async function writeSnapshot(active, now = new Date().toISOString()) {
     updated_at: now,
     lives: Object.values(active).map(publicView),
   });
-  await writeJson("state/active.json", active);
+  await writeJson("state/active.json", Object.fromEntries(
+    Object.entries(active).map(([id, session]) => [id, { ...session, ...giftValue(session) }]),
+  ));
 }
 
 let chat = null; // IdnChat, when IDN_REFRESH_TOKEN is set
