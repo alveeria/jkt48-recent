@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T12:58:50.809Z",
+  "updated_at": "2026-11-14T13:04:02.373Z",
   "lives": [
     {
       "id": "idn:hai-261114195606",
@@ -13,16 +13,17 @@
       "url": "https://www.idn.app/jkt48_elin/live/hai-261114195606",
       "image": "https://cdn.idn.app/livestream/fdf2d5fa22e1ed9a9d44ce999c813334.webp",
       "started_at": "2026-11-14T12:56:12.000Z",
-      "viewers": 164,
-      "last_seen_at": "2026-11-14T12:58:50.301Z",
-      "peak_viewers": 164,
-      "gifts": 2,
-      "gift_points": 560,
+      "viewers": 440,
+      "last_seen_at": "2026-11-14T13:04:01.687Z",
+      "peak_viewers": 440,
+      "gifts": 3,
+      "gift_points": 632,
       "stars": 0,
-      "comments": 51,
+      "comments": 138,
       "gift_breakdown": {
         "Cold Water": 1,
-        "Graffiti": 1
+        "Graffiti": 1,
+        "Kupu-Kupu": 1
       },
       "top_gifters": [
         {
@@ -33,6 +34,12 @@
         },
         {
           "rank": 2,
+          "name": "Yosua",
+          "points": 72,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c158de5e62c4b462b4d60d096a709ee8.webp?v=1742378030"
+        },
+        {
+          "rank": 3,
           "name": "vnomdln .",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b578dbb24a6d5ee9d00bfd18d8018657.webp?v=1793870708"
@@ -54,10 +61,198 @@
         [
           3,
           164
+        ],
+        [
+          4,
+          234
+        ],
+        [
+          5,
+          281
+        ],
+        [
+          6,
+          343
+        ],
+        [
+          7,
+          400
+        ],
+        [
+          8,
+          440
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBuGTLoLJOCV",
-      "gift_gold": 140
+      "gift_gold": 158
+    },
+    {
+      "id": "idn:ayo-ngobrol-bareng-261114195956",
+      "platform": "idn",
+      "member": {
+        "name": "Lia",
+        "username": "jkt48_lia",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/774813dd4e183c97cb589eecb765b034.webp?v=1778761632"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261114195956",
+      "image": "https://cdn.idn.app/livestream/8b4752f6fd8c562aed3277e457ded50a.webp",
+      "started_at": "2026-11-14T13:00:02.000Z",
+      "viewers": 376,
+      "last_seen_at": "2026-11-14T13:04:01.687Z",
+      "peak_viewers": 376,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 59,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [
+        [
+          0,
+          7
+        ],
+        [
+          1,
+          55
+        ],
+        [
+          2,
+          160
+        ],
+        [
+          3,
+          287
+        ],
+        [
+          4,
+          376
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9"
+    },
+    {
+      "id": "idn:manadooo-261114200006",
+      "platform": "idn",
+      "member": {
+        "name": "Nayla",
+        "username": "jkt48_nayla",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/910f26252548bf370c7492e9ec668250.webp?v=1778761743"
+      },
+      "title": "Manadooo",
+      "url": "https://www.idn.app/jkt48_nayla/live/manadooo-261114200006",
+      "image": "https://cdn.idn.app/livestream/e2b664c8c6a4fa95b2d0f53059340628.webp",
+      "started_at": "2026-11-14T13:00:12.000Z",
+      "viewers": 307,
+      "last_seen_at": "2026-11-14T13:04:01.687Z",
+      "peak_viewers": 307,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 18,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          19
+        ],
+        [
+          2,
+          102
+        ],
+        [
+          3,
+          219
+        ],
+        [
+          4,
+          307
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp"
+    },
+    {
+      "id": "idn:hi-261114200031",
+      "platform": "idn",
+      "member": {
+        "name": "Aralie",
+        "username": "jkt48_aralie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/71e9df185dcc84e99ddf1dc97cc37467.webp?v=1778755244"
+      },
+      "title": "hi",
+      "url": "https://www.idn.app/jkt48_aralie/live/hi-261114200031",
+      "image": "https://cdn.idn.app/livestream/bb4b3c26ec887b89b28aa748a4b2456d.webp",
+      "started_at": "2026-11-14T13:00:37.000Z",
+      "viewers": 612,
+      "last_seen_at": "2026-11-14T13:04:01.687Z",
+      "peak_viewers": 612,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 58,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [
+        [
+          0,
+          9
+        ],
+        [
+          1,
+          90
+        ],
+        [
+          2,
+          287
+        ],
+        [
+          3,
+          509
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E0I7e29Eqkw6"
+    },
+    {
+      "id": "idn:saya-kembali-261114200156",
+      "platform": "idn",
+      "member": {
+        "name": "Oniel",
+        "username": "jkt48_oniel",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b00afb482407c122800161b0bab0d04b.webp?v=1778755673"
+      },
+      "title": "saya kembali",
+      "url": "https://www.idn.app/jkt48_oniel/live/saya-kembali-261114200156",
+      "image": "https://cdn.idn.app/livestream/861acf8a671a532a7802fe5049b640c1.webp",
+      "started_at": "2026-11-14T13:02:04.000Z",
+      "viewers": 240,
+      "last_seen_at": "2026-11-14T13:04:01.687Z",
+      "peak_viewers": 240,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 14,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [
+        [
+          0,
+          13
+        ],
+        [
+          1,
+          74
+        ],
+        [
+          2,
+          240
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBL7dppkk6VQ"
     }
   ]
 }
