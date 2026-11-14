@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_rara/live/261114115022",
     "image": "https://cdn.idn.app/livestream/e95951c06cf502a3bf561ae2c8fe6995.webp",
     "started_at": "2026-11-14T04:50:27.000Z",
-    "viewers": 557,
-    "last_seen_at": "2026-11-14T05:08:48.816Z",
-    "peak_viewers": 557,
-    "gifts": 12,
-    "gift_points": 608,
+    "viewers": 657,
+    "last_seen_at": "2026-11-14T05:13:57.861Z",
+    "peak_viewers": 657,
+    "gifts": 14,
+    "gift_points": 796,
     "stars": 0,
-    "comments": 355,
+    "comments": 469,
     "gift_breakdown": {
       "Water": 1,
       "HADIIIRRR!!": 1,
@@ -26,7 +26,8 @@
       "Combat": 1,
       "Toa": 4,
       "Emas Batang": 1,
-      "Angklung": 1
+      "Angklung": 2,
+      "Kupu-Kupu": 1
     },
     "gifters": {
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": "hann",
@@ -37,7 +38,8 @@
       "3da26dac-10d2-459f-9677-04d70d2808de": "Messi Sutopo",
       "55187f2d-9d67-417b-9c75-07f815a9f9e1": "ale dagangseblak ",
       "b45f8f89-ea7a-43ea-8b88-cadadeea93af": "Pauuuu .",
-      "24e8df76-15fa-4a7d-84c8-5c462b834e0b": "MESSI MAULANA"
+      "24e8df76-15fa-4a7d-84c8-5c462b834e0b": "MESSI MAULANA",
+      "661d6f0d-b3d0-484c-92f8-251524785599": "Nils Ferrel🦉"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -116,10 +118,34 @@
       [
         18,
         541
+      ],
+      [
+        19,
+        563
+      ],
+      [
+        20,
+        582
+      ],
+      [
+        21,
+        602
+      ],
+      [
+        22,
+        624
+      ],
+      [
+        23,
+        642
+      ],
+      [
+        24,
+        657
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "gift_gold": 152,
+    "gift_gold": 199,
     "idn_gifters": {
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": {
         "name": "hann",
@@ -164,7 +190,12 @@
       "24e8df76-15fa-4a7d-84c8-5c462b834e0b": {
         "name": "MESSI MAULANA",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38156c0ef9192aa6a614f5ee2e8efc11.webp?v=1794581837",
-        "points": 20
+        "points": 92
+      },
+      "661d6f0d-b3d0-484c-92f8-251524785599": {
+        "name": "Nils Ferrel🦉",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0632c64493211edbb006204f0c1e3c1c.webp?v=1794565576",
+        "points": 116
       }
     }
   }
