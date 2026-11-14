@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T05:49:47.785Z",
+  "updated_at": "2026-11-14T05:54:57.226Z",
   "lives": [
     {
       "id": "idn:261114115022",
@@ -13,17 +13,17 @@
       "url": "https://www.idn.app/jkt48_rara/live/261114115022",
       "image": "https://cdn.idn.app/livestream/e95951c06cf502a3bf561ae2c8fe6995.webp",
       "started_at": "2026-11-14T04:50:27.000Z",
-      "viewers": 1383,
-      "last_seen_at": "2026-11-14T05:49:47.285Z",
-      "peak_viewers": 1383,
-      "gifts": 34,
-      "gift_points": 2716,
+      "viewers": 1455,
+      "last_seen_at": "2026-11-14T05:54:56.155Z",
+      "peak_viewers": 1455,
+      "gifts": 35,
+      "gift_points": 2756,
       "stars": 0,
-      "comments": 1292,
+      "comments": 1350,
       "gift_breakdown": {
         "Water": 1,
         "HADIIIRRR!!": 2,
-        "Pumpkin": 2,
+        "Pumpkin": 3,
         "EKIN": 2,
         "Combat": 1,
         "Toa": 6,
@@ -42,15 +42,15 @@
       "top_gifters": [
         {
           "rank": 1,
-          "name": "MESSI MAULANA",
-          "points": 544,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38156c0ef9192aa6a614f5ee2e8efc11.webp?v=1794581837"
+          "name": "~y ~",
+          "points": 552,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
         },
         {
           "rank": 2,
-          "name": "~y ~",
-          "points": 512,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
+          "name": "MESSI MAULANA",
+          "points": 544,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38156c0ef9192aa6a614f5ee2e8efc11.webp?v=1794581837"
         },
         {
           "rank": 3,
@@ -341,10 +341,30 @@
         [
           59,
           1375
+        ],
+        [
+          60,
+          1390
+        ],
+        [
+          61,
+          1408
+        ],
+        [
+          62,
+          1420
+        ],
+        [
+          63,
+          1433
+        ],
+        [
+          64,
+          1448
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-      "gift_gold": 679
+      "gift_gold": 689
     }
   ]
 }
