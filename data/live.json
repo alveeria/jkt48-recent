@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:05:48.509Z",
+  "updated_at": "2026-11-14T14:10:59.485Z",
   "lives": [
     {
       "id": "idn:hellooo-261114203255",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261114203255",
       "image": "https://cdn.idn.app/livestream/98bc7153c6354a1741ffb668e405f4ea.webp",
       "started_at": "2026-11-14T13:33:03.000Z",
-      "viewers": 4315,
-      "last_seen_at": "2026-11-14T14:05:47.904Z",
-      "peak_viewers": 4315,
+      "viewers": 4716,
+      "last_seen_at": "2026-11-14T14:10:58.534Z",
+      "peak_viewers": 4716,
       "gifts": 21,
       "gift_points": 1104,
       "stars": 0,
-      "comments": 1635,
+      "comments": 1918,
       "gift_breakdown": {
         "Angklung": 2,
         "Cendrawasih": 1,
@@ -233,6 +233,26 @@
         [
           33,
           4315
+        ],
+        [
+          34,
+          4423
+        ],
+        [
+          35,
+          4503
+        ],
+        [
+          36,
+          4571
+        ],
+        [
+          37,
+          4646
+        ],
+        [
+          38,
+          4716
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
