@@ -91,6 +91,10 @@ ${recentTitle}
 |---|---|---|---|---|---|---|---|---|---|
 ${recentRows || "| _Belum ada data_ | | | | | | | | | |"}
 
+## Lisensi
+
+Kode proyek ini menggunakan [MIT License](LICENSE). Lisensi ini tidak memberikan hak atas konten pihak ketiga, termasuk foto, video, merek, dan konten dari platform sumber.
+
 ---
 Sumber: endpoint publik \`api.idn.app/graphql\` dan \`showroom-live.com/api\`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
 `;

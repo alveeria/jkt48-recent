@@ -1,6 +1,7 @@
 {
   "name": "jkt48-recent",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Auto-recorded JKT48 lives from IDN Live and SHOWROOM",
   "engines": { "node": ">=22" },
