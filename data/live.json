@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T07:22:14.224Z",
+  "updated_at": "2026-11-14T07:27:20.021Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261114134242",
@@ -13,66 +13,90 @@
       "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261114134242",
       "image": "https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp",
       "started_at": "2026-11-14T06:42:47.000Z",
-      "viewers": 1235,
-      "last_seen_at": "2026-11-14T07:22:13.248Z",
-      "peak_viewers": 1235,
-      "gifts": 12,
-      "gift_points": 364,
+      "viewers": 1374,
+      "last_seen_at": "2026-11-14T07:27:19.445Z",
+      "peak_viewers": 1374,
+      "gifts": 28,
+      "gift_points": 1076,
       "stars": 0,
-      "comments": 255,
+      "comments": 271,
       "gift_breakdown": {
         "Pumpkin": 2,
-        "Water": 1,
+        "Water": 6,
         "Toa": 3,
         "Surabaya": 1,
         "HADIIIRRR!!": 1,
-        "Kompas": 1,
-        "Cold Water": 1,
+        "Kompas": 2,
+        "Cold Water": 5,
         "Mawar": 1,
-        "Matcha": 1
+        "Matcha": 1,
+        "Angklung": 1,
+        "Orange Syrup": 1,
+        "JKT48 Stage": 1,
+        "Champion!!!": 1,
+        "Jari Hati": 1,
+        "Goaaaaal!!": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "Ayu Cahya ",
-          "points": 120,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ccc1c7265003a3a69b9dd0aff657a23.webp?v=1772859436"
-        },
-        {
-          "rank": 2,
           "name": "Franko ...",
-          "points": 120,
+          "points": 300,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
         },
         {
+          "rank": 2,
+          "name": "OqYn (☞ ಠ_ಠ)☞",
+          "points": 288,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5f672faa1bd49462248fab8e02118b87.webp?v=1789780680"
+        },
+        {
           "rank": 3,
+          "name": "Zaky Pradikto",
+          "points": 156,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/84a7ff3aef2930cd86a7f7af5efc41c4.webp?v=1785689385"
+        },
+        {
+          "rank": 4,
+          "name": "Ayu Cahya ",
+          "points": 140,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ccc1c7265003a3a69b9dd0aff657a23.webp?v=1772859436"
+        },
+        {
+          "rank": 5,
+          "name": "Tefie-nya Lyn",
+          "points": 92,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/10a737ba4c70fdb0163af6051747baa3.webp?v=1793719004"
+        },
+        {
+          "rank": 6,
           "name": "Mudara 13",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c00f2c61ac7896dc179bf950256ba87a.webp?v=1784821562"
         },
         {
-          "rank": 4,
+          "rank": 7,
           "name": "Salma Maharani",
           "points": 32,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cce6beb85a6dfce666fea569c476040c.webp?v=1731934192"
         },
         {
-          "rank": 5,
-          "name": "Tefie-nya Lyn",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/10a737ba4c70fdb0163af6051747baa3.webp?v=1793719004"
-        },
-        {
-          "rank": 6,
+          "rank": 8,
           "name": "ASDI .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c03c4b7a836db9b95de6776f48f4cb67.webp?v=1794061270"
         },
         {
-          "rank": 7,
+          "rank": 9,
           "name": "Nazip NakMakan",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/537b23e6592de355ec26c195abf72b25.webp?v=1793950700"
+        },
+        {
+          "rank": 10,
+          "name": "Naruto _48",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4179c54697e5a77fd8879626d8a1bbb0.webp?v=1761747008"
         }
       ],
       "viewer_series": [
@@ -235,10 +259,34 @@
         [
           39,
           1217
+        ],
+        [
+          40,
+          1248
+        ],
+        [
+          41,
+          1273
+        ],
+        [
+          42,
+          1286
+        ],
+        [
+          43,
+          1309
+        ],
+        [
+          44,
+          1340
+        ],
+        [
+          45,
+          1374
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
-      "gift_gold": 91
+      "gift_gold": 269
     }
   ]
 }
