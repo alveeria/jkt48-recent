@@ -1,5 +1,114 @@
 [
   {
+    "id": "idn:alveeria-2889",
+    "platform": "idn",
+    "member": {
+      "name": "Nala",
+      "username": "jkt48_nala",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/23ec81c50947a98e513e2371ccd140e5.webp?v=1778756416"
+    },
+    "title": "HELO",
+    "url": "https://www.idn.app/jkt48_nala/live/helo-261114233408",
+    "image": "https://cdn.idn.app/livestream/b86534010ae3da88b13c8a71d090e0d0.webp",
+    "started_at": "2026-11-14T16:34:13.000Z",
+    "last_seen_at": "2026-11-14T17:41:06.043Z",
+    "peak_viewers": 5670,
+    "gifts": 55,
+    "gift_points": 4368,
+    "stars": 0,
+    "comments": 2819,
+    "gift_breakdown": {
+      "Cold Water": 3,
+      "Matcha": 1,
+      "SSETAAAN": 1,
+      "Lemon Tea": 3,
+      "Es Kelapa": 1,
+      "Pumpkin": 3,
+      "Nasi Goreng": 3,
+      "Emas Batang": 13,
+      "Water": 5,
+      "Motor Sport": 2,
+      "NALA": 1,
+      "Sop Buntut": 14,
+      "HADIIIRRR!!": 1,
+      "Orange Syrup": 2,
+      "Angklung": 2
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Kemal",
+        "points": 1152,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c7c59c30fb7e347df53897f63cdb74f.webp?v=1703955232"
+      },
+      {
+        "rank": 2,
+        "name": ". ite",
+        "points": 1120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d43c194e3bb62d3c9cdf14e6537d1203.webp?v=1793624980"
+      },
+      {
+        "rank": 3,
+        "name": "FS .",
+        "points": 1104,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b2c53240e8f19001f22769fa770486d2.webp?v=1787846642"
+      },
+      {
+        "rank": 4,
+        "name": "Pijar Mirza Pahlevi ",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81b6eb1414ebebb6866556b6aa2bd45e.webp?v=1786727002"
+      },
+      {
+        "rank": 5,
+        "name": "PanduMardhika 🔵⚫️",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/feab60041b0ce743cc5d0f366ef1cf5f.webp?v=1793870417"
+      },
+      {
+        "rank": 6,
+        "name": "Biyan Farhansyah",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c6ac8e7fe1a9e57d5fb328827bee220e.webp?v=1793636847"
+      },
+      {
+        "rank": 7,
+        "name": "ilham .",
+        "points": 116,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d6d8482b6a16caf1118b9fb4773e1f63.webp?v=1785411558"
+      },
+      {
+        "rank": 8,
+        "name": "dea (deyy) 🦁🐻🚀",
+        "points": 84,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7351a659cc51a1cedf108209569379aa.webp?v=1793871745"
+      },
+      {
+        "rank": 9,
+        "name": "ara panegar",
+        "points": 56,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/67f988a5223f6487ba39547660aa0339.webp?v=1788688635"
+      },
+      {
+        "rank": 10,
+        "name": "Raidzzzz .",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a2abe85d484eb89aa055d980f79d3330.webp?v=1781710915"
+      }
+    ],
+    "viewer_series": [[25, 2440], [26, 2487], [27, 2552], [28, 2629], [29, 2691], [30, 2767], [31, 2843], [32, 2911], [33, 2989], [34, 3029], [35, 3105], [36, 3170], [37, 3221], [38, 3335], [39, 3436], [40, 3540], [41, 3764], [42, 3910], [43, 4022], [44, 4220], [45, 4310], [46, 4404], [47, 4491], [48, 4576], [49, 4653], [50, 4725], [51, 4795], [52, 4838], [53, 4916], [54, 4976], [55, 5034], [56, 5098], [57, 5152], [58, 5201], [59, 5267], [60, 5304], [61, 5364], [62, 5418], [63, 5466], [64, 5514], [65, 5562], [66, 5616], [67, 5670]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/Pqb57KR18YXr",
+    "gift_gold": 1092,
+    "estimated_gift_value_idr": 2730000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-14T17:41:06.043Z",
+    "duration_minutes": 67,
+    "last_viewers": 5670,
+    "unique_gifters": 12,
+    "source_id": "idn:helo-261114233408"
+  },
+  {
     "id": "idn:alveeria-2888",
     "platform": "idn",
     "member": {
@@ -11302,24 +11411,6 @@
     "url": "https://www.idn.app/jkt48_intan",
     "image": "https://cdn.idn.app/livestream/f3d49af0ca03d4eee4478c9379383a9e.webp",
     "started_at": "2026-09-26T13:43:08.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2689",
-    "platform": "idn",
-    "member": {
-      "name": "Michie",
-      "username": "jkt48_michie",
-      "avatar": null
-    },
-    "title": "hi",
-    "url": "https://www.idn.app/jkt48_michie",
-    "image": "https://cdn.idn.app/livestream/4a1771b6c452ceca4f886fc5e014f3d9.webp",
-    "started_at": "2026-09-26T13:36:56.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
