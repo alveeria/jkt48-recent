@@ -1,5 +1,735 @@
 [
   {
+    "id": "idn:alveeria-2862",
+    "platform": "idn",
+    "member": {
+      "name": "Bella",
+      "username": "jkt48_bella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7dba9f66e9e74856ced7c5d6b674b2.webp?v=1779088114"
+    },
+    "title": "Hellooo",
+    "url": "https://www.idn.app/jkt48_bella/live/hellooo-261114171426",
+    "image": "https://cdn.idn.app/livestream/471b9d38583aa4c34413d4bf6658ba6a.webp",
+    "started_at": "2026-11-14T10:14:32.000Z",
+    "last_seen_at": "2026-11-14T11:16:58.818Z",
+    "peak_viewers": 4102,
+    "gifts": 35,
+    "gift_points": 2048,
+    "stars": 0,
+    "comments": 611,
+    "gift_breakdown": {
+      "Cupid": 4,
+      "Toa": 6,
+      "Kompas": 7,
+      "Matcha": 6,
+      "Pumpkin": 3,
+      "Puding": 1,
+      "KIMMY": 1,
+      "Combat": 1,
+      "Angklung": 2,
+      "Cold Water": 1,
+      "JKT48 Show": 1,
+      "MICHIE": 1,
+      "JKT48 Stage": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Dekdoni 20",
+        "points": 424,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c0ea50db16c13257afed26f7b3f52719.webp?v=1793935490"
+      },
+      {
+        "rank": 2,
+        "name": "Khoirul Iman #BellaOnly",
+        "points": 404,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f789d466b87f7090aff25599d5c87ea.webp?v=1794652681"
+      },
+      {
+        "rank": 3,
+        "name": "Misbah El-Fikriee",
+        "points": 368,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b30cb9cb181011d72c2d5d587787445f.webp?v=1794476712"
+      },
+      {
+        "rank": 4,
+        "name": "Vigo.",
+        "points": 240,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b2fff832cb43ffacca03b43929e395bf.webp?v=1793693535"
+      },
+      {
+        "rank": 5,
+        "name": "Dazzle 7",
+        "points": 216,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/98fee36a4ef40ad3f765aa98d53e0a01.webp?v=1789386879"
+      },
+      {
+        "rank": 6,
+        "name": "naufaldr",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d01112ec88236f00eb0005bf4247a911.webp?v=1733747630"
+      },
+      {
+        "rank": 7,
+        "name": "Arzi😼 😼",
+        "points": 60,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a1f08176e316e687aad7fc186213d213.webp?v=1794558986"
+      },
+      {
+        "rank": 8,
+        "name": "Ibnu pembaik",
+        "points": 60,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/84232894db78961dd9a3c6d6960b2137.webp?v=1793630102"
+      },
+      {
+        "rank": 9,
+        "name": "Jabez Emmanuel",
+        "points": 56,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ab8d032ce3b5ee94b3b4519f8c6b38b3.webp?v=1791094999"
+      },
+      {
+        "rank": 10,
+        "name": "elsa MinionSon's",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b8ab17f8f4d1f83ffa77994fd0721d1b.webp?v=1794028253"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        46
+      ],
+      [
+        2,
+        222
+      ],
+      [
+        3,
+        333
+      ],
+      [
+        4,
+        429
+      ],
+      [
+        5,
+        519
+      ],
+      [
+        6,
+        628
+      ],
+      [
+        7,
+        671
+      ],
+      [
+        8,
+        746
+      ],
+      [
+        9,
+        845
+      ],
+      [
+        10,
+        947
+      ],
+      [
+        11,
+        1023
+      ],
+      [
+        12,
+        1105
+      ],
+      [
+        13,
+        1182
+      ],
+      [
+        14,
+        1260
+      ],
+      [
+        15,
+        1332
+      ],
+      [
+        16,
+        1416
+      ],
+      [
+        17,
+        1500
+      ],
+      [
+        18,
+        1564
+      ],
+      [
+        19,
+        1644
+      ],
+      [
+        20,
+        1717
+      ],
+      [
+        21,
+        1793
+      ],
+      [
+        22,
+        1873
+      ],
+      [
+        23,
+        1938
+      ],
+      [
+        24,
+        2027
+      ],
+      [
+        25,
+        2095
+      ],
+      [
+        26,
+        2253
+      ],
+      [
+        27,
+        2296
+      ],
+      [
+        28,
+        2360
+      ],
+      [
+        29,
+        2418
+      ],
+      [
+        30,
+        2470
+      ],
+      [
+        31,
+        2533
+      ],
+      [
+        32,
+        2587
+      ],
+      [
+        33,
+        2634
+      ],
+      [
+        34,
+        2677
+      ],
+      [
+        35,
+        2729
+      ],
+      [
+        36,
+        2774
+      ],
+      [
+        37,
+        2817
+      ],
+      [
+        38,
+        2869
+      ],
+      [
+        39,
+        2924
+      ],
+      [
+        40,
+        2993
+      ],
+      [
+        41,
+        3056
+      ],
+      [
+        42,
+        3119
+      ],
+      [
+        43,
+        3193
+      ],
+      [
+        44,
+        3251
+      ],
+      [
+        45,
+        3316
+      ],
+      [
+        46,
+        3342
+      ],
+      [
+        47,
+        3393
+      ],
+      [
+        48,
+        3460
+      ],
+      [
+        49,
+        3510
+      ],
+      [
+        50,
+        3556
+      ],
+      [
+        51,
+        3605
+      ],
+      [
+        52,
+        3642
+      ],
+      [
+        53,
+        3679
+      ],
+      [
+        54,
+        3720
+      ],
+      [
+        55,
+        3765
+      ],
+      [
+        56,
+        3809
+      ],
+      [
+        57,
+        3850
+      ],
+      [
+        58,
+        3888
+      ],
+      [
+        59,
+        3923
+      ],
+      [
+        60,
+        3970
+      ],
+      [
+        61,
+        4023
+      ],
+      [
+        62,
+        4074
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/z9BVDVnpFbGq",
+    "gift_gold": 512,
+    "ended_at": "2026-11-14T11:16:58.818Z",
+    "duration_minutes": 62,
+    "last_viewers": 4102,
+    "unique_gifters": 12,
+    "source_id": "idn:hellooo-261114171426"
+  },
+  {
+    "id": "idn:alveeria-2863",
+    "platform": "idn",
+    "member": {
+      "name": "Ralyne",
+      "username": "jkt48_ralyne",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4a911f3ce532f8b58de31d544fde50f9.webp?v=1779088304"
+    },
+    "title": "HAIII",
+    "url": "https://www.idn.app/jkt48_ralyne/live/haiii-261114171421",
+    "image": "https://cdn.idn.app/livestream/3ccf2cb1f7defcd3e3f287dcc9107716.webp",
+    "started_at": "2026-11-14T10:14:27.000Z",
+    "last_seen_at": "2026-11-14T11:20:02.467Z",
+    "peak_viewers": 3583,
+    "gifts": 21,
+    "gift_points": 1640,
+    "stars": 0,
+    "comments": 392,
+    "gift_breakdown": {
+      "Toa": 6,
+      "Nasi Goreng": 1,
+      "Matcha": 3,
+      "Pumpkin": 1,
+      "Emas Batang": 1,
+      "Combat": 2,
+      "GGWP!": 1,
+      "Paling Ramah": 1,
+      "JKT48 Show": 1,
+      "Mawar": 1,
+      "Cendrawasih": 1,
+      "SSETAAAN": 1,
+      "Angklung": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "SH1F4 🌛",
+        "points": 516,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e518ef629a2bf9742f432a02cff0e277.webp?v=1787236884"
+      },
+      {
+        "rank": 2,
+        "name": "Fikriii 😼",
+        "points": 500,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d4a82d58367e4bcf9b72ad01021b1fa.webp?v=1793365650"
+      },
+      {
+        "rank": 3,
+        "name": "Laila Akrima -",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe7e70fb7573985d9341453ceb3363bb.webp?v=1782291575"
+      },
+      {
+        "rank": 4,
+        "name": "Felix Gary",
+        "points": 112,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3566b6c0b1c1a9724cceb456eb9c4f16.webp?v=1753362807"
+      },
+      {
+        "rank": 5,
+        "name": "Deo Immanuel",
+        "points": 56,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fda78ede2044369859d9f57c96fee97f.webp?v=1792589815"
+      },
+      {
+        "rank": 6,
+        "name": "ARDA 🪽",
+        "points": 48,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/98bea56a6f36cd7bd6a63850cc52e712.webp?v=1794412087"
+      },
+      {
+        "rank": 7,
+        "name": "elsa MinionSon's",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b8ab17f8f4d1f83ffa77994fd0721d1b.webp?v=1794028253"
+      },
+      {
+        "rank": 8,
+        "name": "Apann 、",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/399310ed7e57930f70b178815d4df4d9.webp?v=1784988793"
+      },
+      {
+        "rank": 9,
+        "name": "evaljuni",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a1bac51db321819db6f2c7024f92c37c.webp?v=1789651948"
+      },
+      {
+        "rank": 10,
+        "name": "Sachi Siapa",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/10518333e2786e9589e32b9aa89b1bec.webp?v=1783690607"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        35
+      ],
+      [
+        2,
+        112
+      ],
+      [
+        3,
+        190
+      ],
+      [
+        4,
+        286
+      ],
+      [
+        5,
+        349
+      ],
+      [
+        6,
+        428
+      ],
+      [
+        7,
+        494
+      ],
+      [
+        8,
+        561
+      ],
+      [
+        9,
+        620
+      ],
+      [
+        10,
+        696
+      ],
+      [
+        11,
+        768
+      ],
+      [
+        12,
+        841
+      ],
+      [
+        13,
+        898
+      ],
+      [
+        14,
+        940
+      ],
+      [
+        15,
+        1000
+      ],
+      [
+        16,
+        1063
+      ],
+      [
+        17,
+        1123
+      ],
+      [
+        18,
+        1168
+      ],
+      [
+        19,
+        1220
+      ],
+      [
+        20,
+        1264
+      ],
+      [
+        21,
+        1324
+      ],
+      [
+        22,
+        1379
+      ],
+      [
+        23,
+        1442
+      ],
+      [
+        24,
+        1464
+      ],
+      [
+        25,
+        1512
+      ],
+      [
+        26,
+        1596
+      ],
+      [
+        27,
+        1658
+      ],
+      [
+        28,
+        1724
+      ],
+      [
+        29,
+        1783
+      ],
+      [
+        30,
+        1842
+      ],
+      [
+        31,
+        1902
+      ],
+      [
+        32,
+        1959
+      ],
+      [
+        33,
+        2004
+      ],
+      [
+        34,
+        2063
+      ],
+      [
+        35,
+        2106
+      ],
+      [
+        36,
+        2146
+      ],
+      [
+        37,
+        2193
+      ],
+      [
+        38,
+        2243
+      ],
+      [
+        39,
+        2293
+      ],
+      [
+        40,
+        2361
+      ],
+      [
+        41,
+        2431
+      ],
+      [
+        42,
+        2500
+      ],
+      [
+        43,
+        2530
+      ],
+      [
+        44,
+        2584
+      ],
+      [
+        45,
+        2630
+      ],
+      [
+        46,
+        2689
+      ],
+      [
+        47,
+        2745
+      ],
+      [
+        48,
+        2785
+      ],
+      [
+        49,
+        2834
+      ],
+      [
+        50,
+        2885
+      ],
+      [
+        51,
+        2919
+      ],
+      [
+        52,
+        2960
+      ],
+      [
+        53,
+        3002
+      ],
+      [
+        54,
+        3041
+      ],
+      [
+        55,
+        3078
+      ],
+      [
+        56,
+        3119
+      ],
+      [
+        57,
+        3170
+      ],
+      [
+        58,
+        3221
+      ],
+      [
+        59,
+        3250
+      ],
+      [
+        60,
+        3312
+      ],
+      [
+        61,
+        3345
+      ],
+      [
+        62,
+        3395
+      ],
+      [
+        63,
+        3412
+      ],
+      [
+        64,
+        3457
+      ],
+      [
+        65,
+        3533
+      ],
+      [
+        66,
+        3583
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/IkkRMUVBqeCM",
+    "gift_gold": 410,
+    "ended_at": "2026-11-14T11:20:02.467Z",
+    "duration_minutes": 66,
+    "last_viewers": 3583,
+    "unique_gifters": 14,
+    "source_id": "idn:haiii-261114171421"
+  },
+  {
     "id": "idn:alveeria-2860",
     "platform": "idn",
     "member": {
@@ -19521,42 +20251,6 @@
     "url": "https://www.idn.app/jkt48_danella",
     "image": "https://cdn.idn.app/livestream/179013c067961b4e0184e2e0d923bafb.webp",
     "started_at": "2026-09-16T15:26:36.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2663",
-    "platform": "idn",
-    "member": {
-      "name": "Mikaela",
-      "username": "jkt48_mikaela",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_mikaela",
-    "image": "https://cdn.idn.app/livestream/093b0ec082bd40a01b1460a7384cec00.webp",
-    "started_at": "2026-09-16T15:10:26.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2662",
-    "platform": "idn",
-    "member": {
-      "name": "Oniel",
-      "username": "jkt48_oniel",
-      "avatar": null
-    },
-    "title": "saya kembali",
-    "url": "https://www.idn.app/jkt48_oniel",
-    "image": "https://cdn.idn.app/livestream/c20c2ffa3fda778975efa1a8fe4ef8cb.webp",
-    "started_at": "2026-09-16T15:03:42.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
