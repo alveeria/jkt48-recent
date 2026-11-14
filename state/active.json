@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_lily/live/haii-261114143358",
     "image": "https://cdn.idn.app/livestream/aa461fea02adc817d09a9d2734697459.webp",
     "started_at": "2026-11-14T07:34:05.000Z",
-    "viewers": 2687,
-    "last_seen_at": "2026-11-14T07:58:06.989Z",
-    "peak_viewers": 2687,
-    "gifts": 22,
-    "gift_points": 2112,
+    "viewers": 3207,
+    "last_seen_at": "2026-11-14T08:03:16.411Z",
+    "peak_viewers": 3207,
+    "gifts": 26,
+    "gift_points": 2228,
     "stars": 0,
-    "comments": 1336,
+    "comments": 1685,
     "gift_breakdown": {
       "Cold Water": 1,
       "Kompas": 6,
@@ -28,9 +28,12 @@
       "Lightstick": 1,
       "Kembang Api": 1,
       "JESSI": 1,
-      "Toa": 5,
+      "Toa": 6,
       "HAHAHA": 1,
-      "LILY": 1
+      "LILY": 1,
+      "Semangat kak": 1,
+      "Pumpkin": 1,
+      "Yuk bisa yuk": 1
     },
     "gifters": {
       "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": "Naga Harp",
@@ -44,7 +47,8 @@
       "435ff57b-1f7e-4de8-bc0f-04f2890869dd": "Bang Alex Yo!",
       "63e55b44-34e5-4c80-9db0-27374a4b3bd0": "Fadil Karim",
       "fc6b6051-630f-4d1b-9afa-51269bb85232": "Siwa Kertiyawarman",
-      "56603238-650d-41a8-95ad-01dc9e3dcda3": "Ami ."
+      "56603238-650d-41a8-95ad-01dc9e3dcda3": "Ami .",
+      "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": "Ahza"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -147,10 +151,30 @@
       [
         24,
         2655
+      ],
+      [
+        25,
+        2727
+      ],
+      [
+        26,
+        2844
+      ],
+      [
+        27,
+        2956
+      ],
+      [
+        28,
+        3061
+      ],
+      [
+        29,
+        3157
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/ERh0u6azjSIB",
-    "gift_gold": 528,
+    "gift_gold": 557,
     "idn_gifters": {
       "8cb4f15c-4a4f-48ff-a494-2b414be57b0e": {
         "name": "Naga Harp",
@@ -180,7 +204,7 @@
       "317d6e07-9fbf-47b1-b74c-11a058cca260": {
         "name": "ikii _",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc562369d218f61e85fee30e6fa8150c.webp?v=1793811399",
-        "points": 100
+        "points": 140
       },
       "1a72c65f-74d0-4e4a-b9d9-992a4e3a23fe": {
         "name": "Ibrachim _FS",
@@ -200,7 +224,7 @@
       "63e55b44-34e5-4c80-9db0-27374a4b3bd0": {
         "name": "Fadil Karim",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4e6c35db1ac33d3898983d1ef47ac800.webp?v=1793791797",
-        "points": 24
+        "points": 80
       },
       "fc6b6051-630f-4d1b-9afa-51269bb85232": {
         "name": "Siwa Kertiyawarman",
@@ -211,6 +235,11 @@
         "name": "Ami .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/657f14ef5cb775d8587c347caf049960.webp?v=1794488838",
         "points": 80
+      },
+      "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": {
+        "name": "Ahza",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f1ed38dc694b97672053f2b3cc9c510c.webp?v=1794308945",
+        "points": 20
       }
     }
   },
@@ -226,23 +255,68 @@
     "url": "https://www.idn.app/jkt48_virgi/live/ayo-ngobrol-bareng-261114145742",
     "image": "https://cdn.idn.app/livestream/9653d45e60014ef392686a8265b867d4.webp",
     "started_at": "2026-11-14T07:57:48.000Z",
-    "viewers": 7,
-    "last_seen_at": "2026-11-14T07:58:06.989Z",
-    "peak_viewers": 7,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 506,
+    "last_seen_at": "2026-11-14T08:03:16.411Z",
+    "peak_viewers": 506,
+    "gifts": 3,
+    "gift_points": 80,
     "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 106,
+    "gift_breakdown": {
+      "Toa": 2,
+      "Matcha": 1
+    },
+    "gifters": {
+      "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": "Ahza",
+      "6b5ce774-1223-4a01-8969-db3c84dc47d4": "jihan aj",
+      "08fad0d2-a7dc-4e42-bd2f-550512f1dbcf": "Yohanes 😎"
+    },
     "top_gifters": [],
     "viewer_series": [
       [
         0,
         7
+      ],
+      [
+        1,
+        47
+      ],
+      [
+        2,
+        167
+      ],
+      [
+        3,
+        280
+      ],
+      [
+        4,
+        355
+      ],
+      [
+        5,
+        460
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/5g2pK94iTLKW"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/5g2pK94iTLKW",
+    "gift_gold": 20,
+    "idn_gifters": {
+      "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": {
+        "name": "Ahza",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f1ed38dc694b97672053f2b3cc9c510c.webp?v=1794308945",
+        "points": 20
+      },
+      "6b5ce774-1223-4a01-8969-db3c84dc47d4": {
+        "name": "jihan aj",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/572608c011931b52db100d6ea68a5352.webp?v=1794486707",
+        "points": 20
+      },
+      "08fad0d2-a7dc-4e42-bd2f-550512f1dbcf": {
+        "name": "Yohanes 😎",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d2aceb3945ba22031e545c2d770140c.webp?v=1794136503",
+        "points": 40
+      }
+    }
   },
   "idn:lets-go-261114145746": {
     "id": "idn:lets-go-261114145746",
@@ -256,22 +330,54 @@
     "url": "https://www.idn.app/jkt48_maira/live/lets-go-261114145746",
     "image": "https://cdn.idn.app/livestream/34e6d0bab31ca1f64f3c0185a67597b8.webp",
     "started_at": "2026-11-14T07:57:50.000Z",
-    "viewers": 5,
-    "last_seen_at": "2026-11-14T07:58:06.989Z",
-    "peak_viewers": 5,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 389,
+    "last_seen_at": "2026-11-14T08:03:16.411Z",
+    "peak_viewers": 389,
+    "gifts": 1,
+    "gift_points": 80,
     "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 59,
+    "gift_breakdown": {
+      "OLINE": 1
+    },
+    "gifters": {
+      "060002c8-3634-4120-b0e4-8412fd48f1ac": "Kuncoro Wibowo"
+    },
     "top_gifters": [],
     "viewer_series": [
       [
         0,
         5
+      ],
+      [
+        1,
+        25
+      ],
+      [
+        2,
+        130
+      ],
+      [
+        3,
+        218
+      ],
+      [
+        4,
+        274
+      ],
+      [
+        5,
+        354
       ]
     ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E3NDetuVTDVI"
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E3NDetuVTDVI",
+    "gift_gold": 20,
+    "idn_gifters": {
+      "060002c8-3634-4120-b0e4-8412fd48f1ac": {
+        "name": "Kuncoro Wibowo",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cff3df5e7afb0cd15fc5836b591672a0.webp?v=1784571507",
+        "points": 80
+      }
+    }
   }
 }
