@@ -11,23 +11,24 @@
     "url": "https://www.idn.app/jkt48_rara/live/261114115022",
     "image": "https://cdn.idn.app/livestream/e95951c06cf502a3bf561ae2c8fe6995.webp",
     "started_at": "2026-11-14T04:50:27.000Z",
-    "viewers": 781,
-    "last_seen_at": "2026-11-14T05:19:04.630Z",
-    "peak_viewers": 781,
-    "gifts": 16,
-    "gift_points": 932,
+    "viewers": 896,
+    "last_seen_at": "2026-11-14T05:24:12.882Z",
+    "peak_viewers": 896,
+    "gifts": 18,
+    "gift_points": 1000,
     "stars": 0,
-    "comments": 571,
+    "comments": 710,
     "gift_breakdown": {
       "Water": 1,
-      "HADIIIRRR!!": 1,
+      "HADIIIRRR!!": 2,
       "Pumpkin": 2,
       "EKIN": 1,
       "Combat": 1,
       "Toa": 5,
       "Emas Batang": 1,
       "Angklung": 3,
-      "Kupu-Kupu": 1
+      "Kupu-Kupu": 1,
+      "Matcha": 1
     },
     "gifters": {
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": "hann",
@@ -39,7 +40,8 @@
       "55187f2d-9d67-417b-9c75-07f815a9f9e1": "ale dagangseblak ",
       "b45f8f89-ea7a-43ea-8b88-cadadeea93af": "Pauuuu .",
       "24e8df76-15fa-4a7d-84c8-5c462b834e0b": "MESSI MAULANA",
-      "661d6f0d-b3d0-484c-92f8-251524785599": "Nils Ferrel🦉"
+      "661d6f0d-b3d0-484c-92f8-251524785599": "Nils Ferrel🦉",
+      "3e0d257c-849a-4e61-b269-1823608be698": "Paujian Gilang"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -162,10 +164,30 @@
       [
         29,
         781
+      ],
+      [
+        30,
+        807
+      ],
+      [
+        31,
+        830
+      ],
+      [
+        32,
+        850
+      ],
+      [
+        33,
+        875
+      ],
+      [
+        34,
+        896
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "gift_gold": 233,
+    "gift_gold": 250,
     "idn_gifters": {
       "29df01b1-595d-495f-8fd1-e34fb7d7bf43": {
         "name": "hann",
@@ -200,7 +222,7 @@
       "55187f2d-9d67-417b-9c75-07f815a9f9e1": {
         "name": "ale dagangseblak ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/aefb9383946570670db3e44a8182c05c.webp?v=1761905673",
-        "points": 20
+        "points": 60
       },
       "b45f8f89-ea7a-43ea-8b88-cadadeea93af": {
         "name": "Pauuuu .",
@@ -216,6 +238,11 @@
         "name": "Nils Ferrel🦉",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0632c64493211edbb006204f0c1e3c1c.webp?v=1794565576",
         "points": 232
+      },
+      "3e0d257c-849a-4e61-b269-1823608be698": {
+        "name": "Paujian Gilang",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b258cdfc297a205a0362ab37b35ee17b.webp?v=1782217039",
+        "points": 28
       }
     }
   }
