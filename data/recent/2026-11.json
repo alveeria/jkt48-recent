@@ -1,5 +1,370 @@
 [
   {
+    "id": "idn:alveeria-2877",
+    "platform": "idn",
+    "member": {
+      "name": "Fritzy",
+      "username": "jkt48_fritzy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4d25811b1b50effd560fb480cac8ba0.webp?v=1778761438"
+    },
+    "title": "hellooo",
+    "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261114203255",
+    "image": "https://cdn.idn.app/livestream/98bc7153c6354a1741ffb668e405f4ea.webp",
+    "started_at": "2026-11-14T13:33:03.000Z",
+    "last_seen_at": "2026-11-14T14:36:07.721Z",
+    "peak_viewers": 7151,
+    "gifts": 40,
+    "gift_points": 3632,
+    "stars": 0,
+    "comments": 3180,
+    "gift_breakdown": {
+      "Angklung": 2,
+      "Cendrawasih": 2,
+      "Water": 5,
+      "Kompas": 5,
+      "Gift Card": 1,
+      "FRITZY": 3,
+      "Mawar": 1,
+      "Lemon Tea": 3,
+      "Toa": 6,
+      "Semangat kak": 1,
+      "Rempeyek": 1,
+      "Cold Water": 1,
+      "Nasi Goreng": 1,
+      "Paling Ramah": 1,
+      "Boba Tea": 1,
+      "Emas Batang": 3,
+      "JKT48 Show": 3
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Idham ",
+        "points": 952,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
+      },
+      {
+        "rank": 2,
+        "name": "Steven Kelvin Anggara",
+        "points": 800,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f860a4a28fc039574a85601975597c23.webp?v=1794384627"
+      },
+      {
+        "rank": 3,
+        "name": "Naufal Rabbany",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 4,
+        "name": "Rizkum .",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343"
+      },
+      {
+        "rank": 5,
+        "name": "Felix Gary",
+        "points": 276,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3566b6c0b1c1a9724cceb456eb9c4f16.webp?v=1753362807"
+      },
+      {
+        "rank": 6,
+        "name": "Mervin .",
+        "points": 272,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/51121d0498fa714c550930c81fb1614f.webp?v=1790694823"
+      },
+      {
+        "rank": 7,
+        "name": "Rafa x Evodie",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9790bd7d0fc910121c76852b7d817612.webp?v=1793806003"
+      },
+      {
+        "rank": 8,
+        "name": "Kezia Novellika",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b7fc02ca3b7b5ac7a5b2a7a95c2f64f8.webp?v=1789909020"
+      },
+      {
+        "rank": 9,
+        "name": "Indra 🐹",
+        "points": 52,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036"
+      },
+      {
+        "rank": 10,
+        "name": "Yudha Aditya",
+        "points": 48,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/12b397099f393bdbc63051519e604fa5.webp?v=1793632141"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        33
+      ],
+      [
+        1,
+        124
+      ],
+      [
+        2,
+        342
+      ],
+      [
+        3,
+        535
+      ],
+      [
+        4,
+        611
+      ],
+      [
+        5,
+        779
+      ],
+      [
+        6,
+        1006
+      ],
+      [
+        7,
+        1539
+      ],
+      [
+        8,
+        1779
+      ],
+      [
+        9,
+        1955
+      ],
+      [
+        10,
+        2108
+      ],
+      [
+        11,
+        2239
+      ],
+      [
+        12,
+        2367
+      ],
+      [
+        13,
+        2488
+      ],
+      [
+        14,
+        2605
+      ],
+      [
+        15,
+        2707
+      ],
+      [
+        16,
+        2821
+      ],
+      [
+        17,
+        2940
+      ],
+      [
+        18,
+        3031
+      ],
+      [
+        19,
+        3135
+      ],
+      [
+        20,
+        3224
+      ],
+      [
+        21,
+        3303
+      ],
+      [
+        22,
+        3386
+      ],
+      [
+        23,
+        3458
+      ],
+      [
+        24,
+        3580
+      ],
+      [
+        25,
+        3673
+      ],
+      [
+        26,
+        3772
+      ],
+      [
+        27,
+        3858
+      ],
+      [
+        28,
+        3934
+      ],
+      [
+        29,
+        4010
+      ],
+      [
+        30,
+        4100
+      ],
+      [
+        31,
+        4186
+      ],
+      [
+        32,
+        4253
+      ],
+      [
+        33,
+        4315
+      ],
+      [
+        34,
+        4423
+      ],
+      [
+        35,
+        4503
+      ],
+      [
+        36,
+        4571
+      ],
+      [
+        37,
+        4646
+      ],
+      [
+        38,
+        4716
+      ],
+      [
+        39,
+        4806
+      ],
+      [
+        40,
+        4874
+      ],
+      [
+        41,
+        4956
+      ],
+      [
+        42,
+        4988
+      ],
+      [
+        43,
+        5061
+      ],
+      [
+        44,
+        5144
+      ],
+      [
+        45,
+        5256
+      ],
+      [
+        46,
+        5346
+      ],
+      [
+        47,
+        5450
+      ],
+      [
+        48,
+        5569
+      ],
+      [
+        49,
+        5687
+      ],
+      [
+        50,
+        5808
+      ],
+      [
+        51,
+        5934
+      ],
+      [
+        52,
+        6047
+      ],
+      [
+        53,
+        6147
+      ],
+      [
+        54,
+        6258
+      ],
+      [
+        55,
+        6390
+      ],
+      [
+        56,
+        6499
+      ],
+      [
+        57,
+        6615
+      ],
+      [
+        58,
+        6702
+      ],
+      [
+        59,
+        6795
+      ],
+      [
+        60,
+        6832
+      ],
+      [
+        61,
+        6931
+      ],
+      [
+        62,
+        7035
+      ],
+      [
+        63,
+        7110
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
+    "gift_gold": 908,
+    "ended_at": "2026-11-14T14:36:07.721Z",
+    "duration_minutes": 63,
+    "last_viewers": 7151,
+    "unique_gifters": 20,
+    "source_id": "idn:hellooo-261114203255"
+  },
+  {
     "id": "idn:alveeria-2875",
     "platform": "idn",
     "member": {
