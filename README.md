@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 15.08 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 15.13 WIB.
 
 ## Pakai datanya
 
@@ -28,15 +28,15 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lily | IDN Live | Haii | 14 Nov 2026, 14.34 | 3.672 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 14.57 | 972 |
-| Maira | IDN Live | Let’s go!!! | 14 Nov 2026, 14.57 | 750 |
-| Carissa | IDN Live | Sini temenin akuu ✨ | 14 Nov 2026, 15.05 | 247 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 14.57 | 1.472 |
+| Maira | IDN Live | Let’s go!!! | 14 Nov 2026, 14.57 | 1.142 |
+| Carissa | IDN Live | Sini temenin akuu ✨ | 14 Nov 2026, 15.05 | 593 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lily | IDN Live | Haii | 14 Nov 2026, 14.34 | 35m | 3.727 | 37 | 906 | — | 1.935 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 13.42 | 64m | 1.927 | 45 | 524 | — | 370 |
 | Rara | IDN Live | 💗💗 | 14 Nov 2026, 11.50 | 68m | 1.498 | 35 | 689 | — | 1.415 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 05.17 | 71m | 2.962 | 54 | 1.147 | — | 4.146 |
@@ -76,7 +76,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Rilly | IDN Live | Hellooo | 13 Nov 2026, 12.29 | 66m | 2.466 | 23 | 241 | — | 1.045 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 12.13 | 65m | 3.836 | 22 | 570 | — | 1.011 |
 | Gracie | IDN Live | hiii | 13 Nov 2026, 11.52 | 65m | 4.332 | 41 | 476 | — | 976 |
-| Muthe | IDN Live | Hi | 13 Nov 2026, 10.59 | 64m | 3.565 | 35 | 689 | — | 805 |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.
