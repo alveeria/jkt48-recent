@@ -1,4 +1,46 @@
 {
-  "updated_at": "2026-11-14T06:41:08.678Z",
-  "lives": []
+  "updated_at": "2026-11-14T06:46:17.152Z",
+  "lives": [
+    {
+      "id": "idn:ayo-ngobrol-bareng-261114134242",
+      "platform": "idn",
+      "member": {
+        "name": "Lyn",
+        "username": "jkt48_lyn",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ee2e0cc39430cd350beff149bf93ee6d.webp?v=1778756223"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261114134242",
+      "image": "https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp",
+      "started_at": "2026-11-14T06:42:47.000Z",
+      "viewers": 118,
+      "last_seen_at": "2026-11-14T06:46:16.542Z",
+      "peak_viewers": 118,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 19,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          28
+        ],
+        [
+          2,
+          72
+        ],
+        [
+          3,
+          103
+        ]
+      ],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt"
+    }
+  ]
 }
