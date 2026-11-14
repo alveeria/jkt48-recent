@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dicatat oleh GitHub Actions tiap 30 detik.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 14.42 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 14.47 WIB.
 
 ## Pakai datanya
 
@@ -28,13 +28,13 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lyn | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 13.42 | 1.804 |
-| Lily | IDN Live | Haii | 14 Nov 2026, 14.34 | 1.242 |
+| Lily | IDN Live | Haii | 14 Nov 2026, 14.34 | 1.857 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lyn | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 13.42 | 64m | 1.927 | 45 | 524 | — | 370 |
 | Rara | IDN Live | 💗💗 | 14 Nov 2026, 11.50 | 68m | 1.498 | 35 | 689 | — | 1.415 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 05.17 | 71m | 2.962 | 54 | 1.147 | — | 4.146 |
 | Erine | IDN Live | diroriiiii | 13 Nov 2026, 22.38 | 111m | 17.110 | 47 | 799 | — | 8.176 |
@@ -74,7 +74,6 @@ Semua live: `viewer_series` (`[menit sejak mulai, penonton]`, satu sampel per me
 | Jemima | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 12.13 | 65m | 3.836 | 22 | 570 | — | 1.011 |
 | Gracie | IDN Live | hiii | 13 Nov 2026, 11.52 | 65m | 4.332 | 41 | 476 | — | 976 |
 | Muthe | IDN Live | Hi | 13 Nov 2026, 10.59 | 64m | 3.565 | 35 | 689 | — | 805 |
-| Intan | IDN Live | tmnin mammm | 13 Nov 2026, 10.47 | 70m | 4.835 | 80 | 3.378 | — | 3.680 |
 
 ---
 Sumber: endpoint publik `api.idn.app/graphql` dan `showroom-live.com/api`. Proyek fans, tidak berafiliasi dengan JKT48, IDN, atau SHOWROOM.

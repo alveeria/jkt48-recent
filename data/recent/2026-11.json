@@ -1,5 +1,374 @@
 [
   {
+    "id": "idn:alveeria-2853",
+    "platform": "idn",
+    "member": {
+      "name": "Lyn",
+      "username": "jkt48_lyn",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ee2e0cc39430cd350beff149bf93ee6d.webp?v=1778756223"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261114134242",
+    "image": "https://cdn.idn.app/livestream/3fac7778ac1c538654bef6bbad551754.webp",
+    "started_at": "2026-11-14T06:42:47.000Z",
+    "last_seen_at": "2026-11-14T07:46:19.136Z",
+    "peak_viewers": 1927,
+    "gifts": 45,
+    "gift_points": 2096,
+    "stars": 0,
+    "comments": 370,
+    "gift_breakdown": {
+      "Pumpkin": 2,
+      "Water": 11,
+      "Toa": 4,
+      "Surabaya": 1,
+      "HADIIIRRR!!": 1,
+      "Kompas": 2,
+      "Cold Water": 7,
+      "Mawar": 1,
+      "Matcha": 1,
+      "Angklung": 8,
+      "Orange Syrup": 1,
+      "JKT48 Stage": 1,
+      "Champion!!!": 1,
+      "Jari Hati": 1,
+      "Goaaaaal!!": 1,
+      "AMANDA": 1,
+      "Team Chill": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Zaky Pradikto",
+        "points": 760,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/84a7ff3aef2930cd86a7f7af5efc41c4.webp?v=1785689385"
+      },
+      {
+        "rank": 2,
+        "name": "Franko ...",
+        "points": 692,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+      },
+      {
+        "rank": 3,
+        "name": "OqYn (☞ ಠ_ಠ)☞",
+        "points": 308,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5f672faa1bd49462248fab8e02118b87.webp?v=1789780680"
+      },
+      {
+        "rank": 4,
+        "name": "Ayu Cahya ",
+        "points": 140,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ccc1c7265003a3a69b9dd0aff657a23.webp?v=1772859436"
+      },
+      {
+        "rank": 5,
+        "name": "Tefie-nya Lyn",
+        "points": 92,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/10a737ba4c70fdb0163af6051747baa3.webp?v=1793719004"
+      },
+      {
+        "rank": 6,
+        "name": "Mudara 13",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c00f2c61ac7896dc179bf950256ba87a.webp?v=1784821562"
+      },
+      {
+        "rank": 7,
+        "name": "Salma Maharani",
+        "points": 32,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cce6beb85a6dfce666fea569c476040c.webp?v=1731934192"
+      },
+      {
+        "rank": 8,
+        "name": "ASDI .",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c03c4b7a836db9b95de6776f48f4cb67.webp?v=1794061270"
+      },
+      {
+        "rank": 9,
+        "name": "Nazip NakMakan",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/537b23e6592de355ec26c195abf72b25.webp?v=1793950700"
+      },
+      {
+        "rank": 10,
+        "name": "Naruto _48",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4179c54697e5a77fd8879626d8a1bbb0.webp?v=1761747008"
+      }
+    ],
+    "viewer_series": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        28
+      ],
+      [
+        2,
+        72
+      ],
+      [
+        3,
+        103
+      ],
+      [
+        4,
+        136
+      ],
+      [
+        5,
+        148
+      ],
+      [
+        6,
+        178
+      ],
+      [
+        7,
+        218
+      ],
+      [
+        8,
+        305
+      ],
+      [
+        9,
+        355
+      ],
+      [
+        10,
+        413
+      ],
+      [
+        11,
+        457
+      ],
+      [
+        12,
+        496
+      ],
+      [
+        13,
+        520
+      ],
+      [
+        14,
+        553
+      ],
+      [
+        15,
+        578
+      ],
+      [
+        16,
+        609
+      ],
+      [
+        17,
+        643
+      ],
+      [
+        18,
+        680
+      ],
+      [
+        19,
+        705
+      ],
+      [
+        20,
+        723
+      ],
+      [
+        21,
+        747
+      ],
+      [
+        22,
+        775
+      ],
+      [
+        23,
+        790
+      ],
+      [
+        24,
+        808
+      ],
+      [
+        25,
+        828
+      ],
+      [
+        26,
+        841
+      ],
+      [
+        27,
+        878
+      ],
+      [
+        28,
+        902
+      ],
+      [
+        29,
+        931
+      ],
+      [
+        30,
+        961
+      ],
+      [
+        31,
+        994
+      ],
+      [
+        32,
+        1026
+      ],
+      [
+        33,
+        1069
+      ],
+      [
+        34,
+        1093
+      ],
+      [
+        35,
+        1118
+      ],
+      [
+        36,
+        1145
+      ],
+      [
+        37,
+        1166
+      ],
+      [
+        38,
+        1193
+      ],
+      [
+        39,
+        1217
+      ],
+      [
+        40,
+        1248
+      ],
+      [
+        41,
+        1273
+      ],
+      [
+        42,
+        1286
+      ],
+      [
+        43,
+        1309
+      ],
+      [
+        44,
+        1340
+      ],
+      [
+        45,
+        1374
+      ],
+      [
+        46,
+        1410
+      ],
+      [
+        47,
+        1428
+      ],
+      [
+        48,
+        1444
+      ],
+      [
+        49,
+        1467
+      ],
+      [
+        50,
+        1492
+      ],
+      [
+        51,
+        1510
+      ],
+      [
+        52,
+        1529
+      ],
+      [
+        53,
+        1557
+      ],
+      [
+        54,
+        1596
+      ],
+      [
+        55,
+        1617
+      ],
+      [
+        56,
+        1644
+      ],
+      [
+        57,
+        1678
+      ],
+      [
+        58,
+        1723
+      ],
+      [
+        59,
+        1766
+      ],
+      [
+        60,
+        1804
+      ],
+      [
+        61,
+        1846
+      ],
+      [
+        62,
+        1861
+      ],
+      [
+        63,
+        1893
+      ],
+      [
+        64,
+        1927
+      ]
+    ],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
+    "gift_gold": 524,
+    "ended_at": "2026-11-14T07:46:19.136Z",
+    "duration_minutes": 64,
+    "last_viewers": 1927,
+    "unique_gifters": 11,
+    "source_id": "idn:ayo-ngobrol-bareng-261114134242"
+  },
+  {
     "id": "idn:alveeria-2852",
     "platform": "idn",
     "member": {
