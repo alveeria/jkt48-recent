@@ -16,6 +16,7 @@ import { execFileSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import { IdnChat } from "./idn-chat.js";
 import { fetchWithBackoff } from "./http.js";
+import { stringifyJson } from "./json.js";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const POLL_SECONDS = Number(process.env.POLL_SECONDS || 30);
@@ -53,7 +54,7 @@ async function readJson(file, fallback) {
 async function writeJson(file, value) {
   const full = path.join(ROOT, file);
   await fs.mkdir(path.dirname(full), { recursive: true });
-  await fs.writeFile(full, `${JSON.stringify(value, null, 2)}\n`);
+  await fs.writeFile(full, stringifyJson(value));
 }
 
 const iso = (v) => {
