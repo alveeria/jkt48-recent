@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 18.36 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 14 Nov 2026, 18.42 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jessi | IDN Live | hi | 14 Nov 2026, 17.34 | 3.951 |
-| Giaa | IDN Live | p | 14 Nov 2026, 17.52 | 2.089 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 17.52 | 4.352 |
-| Intan | IDN Live | yu idn | 14 Nov 2026, 17.52 | 5.028 |
-| Rilly | IDN Live | Yukkk | 14 Nov 2026, 18.17 | 923 |
+| Giaa | IDN Live | p | 14 Nov 2026, 17.52 | 2.321 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 17.52 | 4.727 |
+| Intan | IDN Live | yu idn | 14 Nov 2026, 17.52 | 5.429 |
+| Rilly | IDN Live | Yukkk | 14 Nov 2026, 18.17 | 1.143 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Jessi | IDN Live | hi | 14 Nov 2026, 17.34 | 63m | 3.978 | 34 | 286 | — | 956 |
 | Bella | IDN Live | Hellooo | 14 Nov 2026, 17.14 | 62m | 4.102 | 35 | 512 | — | 611 |
 | Ralyne | IDN Live | HAIII | 14 Nov 2026, 17.14 | 66m | 3.583 | 21 | 410 | — | 392 |
 | Sona | IDN Live | mam | 14 Nov 2026, 17.14 | 72m | 4.318 | 47 | 783 | — | 720 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Ralyne | IDN Live | HAIII | 13 Nov 2026, 15.41 | 41m | 2.957 | 23 | 1.162 | — | 455 |
 | Rara | IDN Live | 💗💗 | 13 Nov 2026, 15.38 | 47m | 1.969 | 12 | 250 | — | 354 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 13 Nov 2026, 15.02 | 64m | 2.299 | 24 | 523 | — | 275 |
-| Kathrina | IDN Live | wazzap | 13 Nov 2026, 14.47 | 2m | 274 | 0 | — | — | 42 |
 
 ## Lisensi
 
