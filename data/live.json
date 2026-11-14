@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:50:27.750Z",
+  "updated_at": "2026-11-14T13:55:34.160Z",
   "lives": [
     {
       "id": "idn:hellooo-261114203255",
@@ -13,20 +13,27 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261114203255",
       "image": "https://cdn.idn.app/livestream/98bc7153c6354a1741ffb668e405f4ea.webp",
       "started_at": "2026-11-14T13:33:03.000Z",
-      "viewers": 2985,
-      "last_seen_at": "2026-11-14T13:50:26.657Z",
-      "peak_viewers": 2985,
-      "gifts": 9,
-      "gift_points": 836,
+      "viewers": 3458,
+      "last_seen_at": "2026-11-14T13:55:33.673Z",
+      "peak_viewers": 3458,
+      "gifts": 18,
+      "gift_points": 984,
       "stars": 0,
-      "comments": 923,
+      "comments": 1116,
       "gift_breakdown": {
         "Angklung": 2,
         "Cendrawasih": 1,
         "Water": 3,
         "Kompas": 1,
         "Gift Card": 1,
-        "FRITZY": 1
+        "FRITZY": 1,
+        "Mawar": 1,
+        "Lemon Tea": 2,
+        "Toa": 2,
+        "Semangat kak": 1,
+        "Rempeyek": 1,
+        "Cold Water": 1,
+        "Nasi Goreng": 1
       },
       "top_gifters": [
         {
@@ -49,33 +56,45 @@
         },
         {
           "rank": 4,
+          "name": "Fresaaaaa ✰.",
+          "points": 44,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/77055241a5187ea277dcb4931a9570d4.webp?v=1794416114"
+        },
+        {
+          "rank": 5,
+          "name": "Yudha Aditya",
+          "points": 36,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/12b397099f393bdbc63051519e604fa5.webp?v=1793632141"
+        },
+        {
+          "rank": 6,
+          "name": "Jeremy Christian",
+          "points": 28,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c1652feac717d52ba4758ffafac41f13.webp?v=1790522319"
+        },
+        {
+          "rank": 7,
+          "name": "Indra 🐹",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036"
+        },
+        {
+          "rank": 8,
           "name": "paijaaa gsuka mtk",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2f52a9d72bc02d2c21d02ff569c899f1.webp?v=1788079400"
         },
         {
-          "rank": 5,
+          "rank": 9,
+          "name": "iqlimakasmir putriyasmin",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+        },
+        {
+          "rank": 10,
           "name": "Samael",
           "points": 16,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec67a275a3e70361cadb34fe4eeb6380.webp?v=1794659396"
-        },
-        {
-          "rank": 6,
-          "name": "Cikss Utass smp",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/13e649d41ff54c9dacd7ec138f391c56.webp?v=1794486587"
-        },
-        {
-          "rank": 7,
-          "name": "Fresaaaaa ✰.",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/77055241a5187ea277dcb4931a9570d4.webp?v=1794416114"
-        },
-        {
-          "rank": 8,
-          "name": "Indra 🐹",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036"
         }
       ],
       "viewer_series": [
@@ -150,10 +169,34 @@
         [
           17,
           2940
+        ],
+        [
+          18,
+          3031
+        ],
+        [
+          19,
+          3135
+        ],
+        [
+          20,
+          3224
+        ],
+        [
+          21,
+          3303
+        ],
+        [
+          22,
+          3386
+        ],
+        [
+          23,
+          3458
         ]
       ],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-      "gift_gold": 209
+      "gift_gold": 246
     }
   ]
 }
