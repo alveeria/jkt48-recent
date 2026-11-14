@@ -11,25 +11,30 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261114203255",
     "image": "https://cdn.idn.app/livestream/98bc7153c6354a1741ffb668e405f4ea.webp",
     "started_at": "2026-11-14T13:33:03.000Z",
-    "viewers": 2422,
-    "last_seen_at": "2026-11-14T13:45:16.348Z",
-    "peak_viewers": 2422,
-    "gifts": 6,
-    "gift_points": 736,
+    "viewers": 2985,
+    "last_seen_at": "2026-11-14T13:50:26.657Z",
+    "peak_viewers": 2985,
+    "gifts": 9,
+    "gift_points": 836,
     "stars": 0,
-    "comments": 718,
+    "comments": 923,
     "gift_breakdown": {
       "Angklung": 2,
       "Cendrawasih": 1,
-      "Water": 2,
-      "Kompas": 1
+      "Water": 3,
+      "Kompas": 1,
+      "Gift Card": 1,
+      "FRITZY": 1
     },
     "gifters": {
       "3efb8582-8f5a-47ba-9f9c-0e25fcabf628": "Mervin .",
       "4e0bf61e-2b35-4489-8056-f9746768c182": "Idham ",
       "996663a5-e564-45f9-85c8-7bc8ab7081d2": "Cikss Utass smp",
       "c812902b-c32d-4206-b92f-c53363d41c7e": "Fresaaaaa ✰.",
-      "f60647bd-e7d5-40d1-a395-37b4e82d7dd3": "paijaaa gsuka mtk"
+      "f60647bd-e7d5-40d1-a395-37b4e82d7dd3": "paijaaa gsuka mtk",
+      "758426aa-584e-41c6-b9f2-baccdf5db1f9": "Samael",
+      "409b34ed-716e-4063-9dbf-3c99b55e7db9": "Kezia Novellika",
+      "28f6f053-7ee1-4533-b985-d0aedd6b9511": "Indra 🐹"
     },
     "top_gifters": [],
     "viewer_series": [
@@ -84,10 +89,30 @@
       [
         12,
         2367
+      ],
+      [
+        13,
+        2488
+      ],
+      [
+        14,
+        2605
+      ],
+      [
+        15,
+        2707
+      ],
+      [
+        16,
+        2821
+      ],
+      [
+        17,
+        2940
       ]
     ],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 184,
+    "gift_gold": 209,
     "idn_gifters": {
       "3efb8582-8f5a-47ba-9f9c-0e25fcabf628": {
         "name": "Mervin .",
@@ -113,6 +138,21 @@
         "name": "paijaaa gsuka mtk",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2f52a9d72bc02d2c21d02ff569c899f1.webp?v=1788079400",
         "points": 20
+      },
+      "758426aa-584e-41c6-b9f2-baccdf5db1f9": {
+        "name": "Samael",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec67a275a3e70361cadb34fe4eeb6380.webp?v=1794659396",
+        "points": 16
+      },
+      "409b34ed-716e-4063-9dbf-3c99b55e7db9": {
+        "name": "Kezia Novellika",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b7fc02ca3b7b5ac7a5b2a7a95c2f64f8.webp?v=1789909020",
+        "points": 80
+      },
+      "28f6f053-7ee1-4533-b985-d0aedd6b9511": {
+        "name": "Indra 🐹",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036",
+        "points": 4
       }
     }
   }
