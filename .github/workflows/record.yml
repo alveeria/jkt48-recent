@@ -27,6 +27,9 @@ jobs:
         with:
           node-version: 22 # global WebSocket for the IDN chat listener
 
+      - name: Test polling HTTP backoff
+        run: npm test
+
       - name: Poll IDN Live and SHOWROOM
         env:
           POLL_SECONDS: "30"

@@ -15,6 +15,7 @@ import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import { IdnChat } from "./idn-chat.js";
+import { fetchWithBackoff } from "./http.js";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const POLL_SECONDS = Number(process.env.POLL_SECONDS || 30);
@@ -32,7 +33,7 @@ const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function getJson(url, init = {}) {
-  const res = await fetch(url, {
+  const res = await fetchWithBackoff(url, {
     ...init,
     headers: { "user-agent": UA, accept: "application/json", ...init.headers },
     signal: AbortSignal.timeout(10_000),
@@ -99,7 +100,7 @@ async function idnLives() {
 
 /** The IRC channel of an IDN live is only published in the live page's HTML. */
 async function idnChatRoom(url) {
-  const res = await fetch(url, { headers: { "user-agent": UA }, signal: AbortSignal.timeout(10_000) });
+  const res = await fetchWithBackoff(url, { headers: { "user-agent": UA }, signal: AbortSignal.timeout(10_000) });
   if (!res.ok) throw new Error(`IDN page HTTP ${res.status}`);
   return /"chat_room_id":"([^"]+)"/.exec(await res.text())?.[1] || null;
 }
@@ -153,12 +154,17 @@ async function showroomLives() {
 /** Adds gifts, stars, comments and top gifters seen since the last poll. */
 async function showroomExtras(session) {
   const roomId = session.room_id;
-  await loadGiftCatalog(roomId).catch(() => undefined);
+  await loadGiftCatalog(roomId).catch((e) => log("gift catalog:", e.message));
   const [gifts, comments, stage] = await Promise.allSettled([
     getJson(`${SR}/live/gift_log?room_id=${roomId}`),
     getJson(`${SR}/live/comment_log?room_id=${roomId}`),
     getJson(`${SR}/live/stage_user_list?room_id=${roomId}`),
   ]);
+  for (const [index, result] of [gifts, comments, stage].entries()) {
+    if (result.status === "rejected") {
+      log(`SHOWROOM ${roomId} ${["gifts", "comments", "stage"][index]}:`, result.reason?.message);
+    }
+  }
   const x = session._seen || (session._seen = { gifts: [], comments: [] });
   const giftSeen = new Set(x.gifts);
   const commentSeen = new Set(x.comments);

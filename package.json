@@ -6,6 +6,7 @@
   "description": "Auto-recorded JKT48 lives from IDN Live and SHOWROOM",
   "engines": { "node": ">=22" },
   "scripts": {
+    "test": "node --test",
     "once": "node src/poll.js",
     "readme": "node src/readme.js"
   }
