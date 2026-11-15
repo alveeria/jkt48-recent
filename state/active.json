@@ -11,25 +11,28 @@
     "url": "https://www.idn.app/jkt48_michie/live/live-aja-261115134316",
     "image": "https://cdn.idn.app/livestream/140989f6ef48d318b8a4ba78ddb66895.webp",
     "started_at": "2026-11-15T06:43:23.000Z",
-    "viewers": 5350,
-    "last_seen_at": "2026-11-15T07:19:30.047Z",
-    "peak_viewers": 5350,
-    "gifts": 27,
-    "gift_points": 1120,
+    "viewers": 5823,
+    "last_seen_at": "2026-11-15T07:24:36.507Z",
+    "peak_viewers": 5823,
+    "gifts": 37,
+    "gift_points": 1464,
     "stars": 0,
-    "comments": 4241,
+    "comments": 5003,
     "gift_breakdown": {
       "NALA": 1,
       "Mawar": 3,
-      "Kompas": 6,
+      "Kompas": 9,
       "Cold Water": 1,
-      "Toa": 7,
-      "MICHIE": 4,
+      "Toa": 9,
+      "MICHIE": 5,
       "Jailangkung": 1,
       "Orange Syrup": 1,
       "Matcha": 1,
       "Angklung": 1,
-      "Lightstick": 1
+      "Lightstick": 2,
+      "HAHAHA": 1,
+      "Water": 1,
+      "Paling Ramah": 1
     },
     "gifters": {
       "c1e65cdd-1ce9-4bf9-b2a6-2c7ab5e6d26a": "Adrian Utomo",
@@ -46,12 +49,15 @@
       "8dd9a6a1-8e63-4f7f-bd66-236cb7d711c1": "Rikiii .",
       "656caafa-497f-4a1b-b547-e3fa3d2556f1": "Michael Evannalindra",
       "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": "Ahza",
-      "22d79b60-a334-43f9-adac-6666218d61a0": "Alvi"
+      "22d79b60-a334-43f9-adac-6666218d61a0": "Alvi",
+      "e79182b6-dceb-4795-840a-0e51d430536e": "Omoji ",
+      "2c5722b7-503c-4747-b430-54bf2f3f79b0": "Adinda Cahayati",
+      "9c4cbbd0-ea55-404f-a314-ee6003f7b7fb": "azis ap"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623], [22, 3751], [23, 3863], [24, 3991], [25, 4098], [26, 4218], [27, 4332], [28, 4422], [29, 4529], [30, 4652], [31, 4788], [32, 4872], [33, 4970], [34, 5061], [35, 5182], [36, 5296]],
+    "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623], [22, 3751], [23, 3863], [24, 3991], [25, 4098], [26, 4218], [27, 4332], [28, 4422], [29, 4529], [30, 4652], [31, 4788], [32, 4872], [33, 4970], [34, 5061], [35, 5182], [36, 5296], [37, 5404], [38, 5496], [39, 5587], [40, 5682], [41, 5773]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 280,
+    "gift_gold": 366,
     "idn_gifters": {
       "c1e65cdd-1ce9-4bf9-b2a6-2c7ab5e6d26a": {
         "name": "Adrian Utomo",
@@ -96,7 +102,7 @@
       "9461ce15-5d90-4414-8e6a-a34312fe62e8": {
         "name": "iya ojan",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656",
-        "points": 200
+        "points": 244
       },
       "d88b65ae-bbea-484d-b4e2-e3e735da0336": {
         "name": "diki .",
@@ -111,7 +117,7 @@
       "8dd9a6a1-8e63-4f7f-bd66-236cb7d711c1": {
         "name": "Rikiii .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0352511822b234964a53b5fd1df22208.webp?v=1781517730",
-        "points": 80
+        "points": 160
       },
       "656caafa-497f-4a1b-b547-e3fa3d2556f1": {
         "name": "Michael Evannalindra",
@@ -126,10 +132,25 @@
       "22d79b60-a334-43f9-adac-6666218d61a0": {
         "name": "Alvi",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/32b218e267c23af709c02ddfcec52b5f.webp?v=1794725599",
+        "points": 84
+      },
+      "e79182b6-dceb-4795-840a-0e51d430536e": {
+        "name": "Omoji ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/51bd7cefdf3751400b45e12fd7e60cf2.webp?v=1757499538",
+        "points": 100
+      },
+      "2c5722b7-503c-4747-b430-54bf2f3f79b0": {
+        "name": "Adinda Cahayati",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 20
+      },
+      "9c4cbbd0-ea55-404f-a314-ee6003f7b7fb": {
+        "name": "azis ap",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/24ddc72e3b3f5d682371e19c09ff403c.webp?v=1790525667",
+        "points": 36
       }
     },
-    "estimated_gift_value_idr": 700000,
+    "estimated_gift_value_idr": 915000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
