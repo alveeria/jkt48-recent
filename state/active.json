@@ -11,28 +11,31 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261115090332",
     "image": "https://cdn.idn.app/livestream/40678ac431ffe7fbecf0a60df54d9a20.webp",
     "started_at": "2026-11-15T02:03:40.000Z",
-    "viewers": 2040,
-    "last_seen_at": "2026-11-15T02:26:19.159Z",
-    "peak_viewers": 2040,
-    "gifts": 5,
-    "gift_points": 972,
+    "viewers": 2293,
+    "last_seen_at": "2026-11-15T02:31:27.920Z",
+    "peak_viewers": 2293,
+    "gifts": 7,
+    "gift_points": 1004,
     "stars": 0,
-    "comments": 1356,
+    "comments": 1693,
     "gift_breakdown": {
       "Kastil Hantu": 1,
       "Toa": 3,
-      "Angklung": 1
+      "Angklung": 1,
+      "Martabak": 1,
+      "Cold Water": 1
     },
     "gifters": {
       "4e0bf61e-2b35-4489-8056-f9746768c182": "Idham ",
       "1aea6cd3-7828-4742-a51a-2fb941890e62": "hayKalzii f",
       "9c4cbbd0-ea55-404f-a314-ee6003f7b7fb": "azis ap",
-      "5847f449-18a9-4501-ab61-09576ed6cab3": "Doel Beh"
+      "5847f449-18a9-4501-ab61-09576ed6cab3": "Doel Beh",
+      "b79a1bb5-0c9d-49f4-9c77-922c2b2378f4": "Misbah El-Fikriee"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 33], [2, 160], [3, 245], [4, 317], [5, 421], [6, 582], [7, 848], [8, 994], [9, 1104], [10, 1188], [11, 1273], [12, 1343], [13, 1421], [14, 1509], [15, 1588], [16, 1652], [17, 1731], [18, 1812], [19, 1847], [20, 1905], [21, 1952], [22, 2001], [23, 2040]],
+    "viewer_series": [[0, 0], [1, 33], [2, 160], [3, 245], [4, 317], [5, 421], [6, 582], [7, 848], [8, 994], [9, 1104], [10, 1188], [11, 1273], [12, 1343], [13, 1421], [14, 1509], [15, 1588], [16, 1652], [17, 1731], [18, 1812], [19, 1847], [20, 1905], [21, 1952], [22, 2001], [23, 2040], [24, 2086], [25, 2142], [26, 2187], [27, 2244], [28, 2293]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 243,
+    "gift_gold": 251,
     "idn_gifters": {
       "4e0bf61e-2b35-4489-8056-f9746768c182": {
         "name": "Idham ",
@@ -53,9 +56,14 @@
         "name": "Doel Beh",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1063e49c1ad5668eb1cbb00544194264.webp?v=1751355043",
         "points": 40
+      },
+      "b79a1bb5-0c9d-49f4-9c77-922c2b2378f4": {
+        "name": "Misbah El-Fikriee",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b30cb9cb181011d72c2d5d587787445f.webp?v=1794476712",
+        "points": 32
       }
     },
-    "estimated_gift_value_idr": 607500,
+    "estimated_gift_value_idr": 627500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
