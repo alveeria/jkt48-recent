@@ -11,21 +11,23 @@
     "url": "https://www.idn.app/jkt48_michie/live/live-aja-261115134316",
     "image": "https://cdn.idn.app/livestream/140989f6ef48d318b8a4ba78ddb66895.webp",
     "started_at": "2026-11-15T06:43:23.000Z",
-    "viewers": 3623,
-    "last_seen_at": "2026-11-15T07:04:07.190Z",
-    "peak_viewers": 3623,
-    "gifts": 12,
-    "gift_points": 532,
+    "viewers": 4218,
+    "last_seen_at": "2026-11-15T07:09:14.150Z",
+    "peak_viewers": 4218,
+    "gifts": 21,
+    "gift_points": 764,
     "stars": 0,
-    "comments": 1863,
+    "comments": 2303,
     "gift_breakdown": {
       "NALA": 1,
-      "Mawar": 1,
-      "Kompas": 2,
+      "Mawar": 3,
+      "Kompas": 5,
       "Cold Water": 1,
-      "Toa": 4,
-      "MICHIE": 2,
-      "Jailangkung": 1
+      "Toa": 5,
+      "MICHIE": 3,
+      "Jailangkung": 1,
+      "Orange Syrup": 1,
+      "Matcha": 1
     },
     "gifters": {
       "c1e65cdd-1ce9-4bf9-b2a6-2c7ab5e6d26a": "Adrian Utomo",
@@ -36,17 +38,20 @@
       "eae42c26-e475-43c4-a788-4654bde7cc4c": "Trisna",
       "f4bc48f9-9d39-4496-84a5-f33e011846a5": "ibam oshi nya semua member",
       "20a6546d-9457-49e3-a998-d0074b17abdd": "Taufik D!",
-      "9461ce15-5d90-4414-8e6a-a34312fe62e8": "iya ojan"
+      "9461ce15-5d90-4414-8e6a-a34312fe62e8": "iya ojan",
+      "d88b65ae-bbea-484d-b4e2-e3e735da0336": "diki .",
+      "f60647bd-e7d5-40d1-a395-37b4e82d7dd3": "paijaaa gsuka mtk",
+      "8dd9a6a1-8e63-4f7f-bd66-236cb7d711c1": "Rikiii ."
     },
     "top_gifters": [],
-    "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623]],
+    "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623], [22, 3751], [23, 3863], [24, 3991], [25, 4098], [26, 4218]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 133,
+    "gift_gold": 191,
     "idn_gifters": {
       "c1e65cdd-1ce9-4bf9-b2a6-2c7ab5e6d26a": {
         "name": "Adrian Utomo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/995a46b313b141bcb483f408286abc81.webp?v=1794323648",
-        "points": 236
+        "points": 244
       },
       "60d90f7c-f6e7-4b94-b09a-3ee5be655b57": {
         "name": "Ce la",
@@ -81,15 +86,30 @@
       "20a6546d-9457-49e3-a998-d0074b17abdd": {
         "name": "Taufik D!",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e8b3296114f19e10eb6f1c46ab1d70b3.webp?v=1794559693",
-        "points": 80
+        "points": 120
       },
       "9461ce15-5d90-4414-8e6a-a34312fe62e8": {
         "name": "iya ojan",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656",
+        "points": 84
+      },
+      "d88b65ae-bbea-484d-b4e2-e3e735da0336": {
+        "name": "diki .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1066a5a44f30d37ed55239affd2cad93.webp?v=1782225174",
         "points": 20
+      },
+      "f60647bd-e7d5-40d1-a395-37b4e82d7dd3": {
+        "name": "paijaaa gsuka mtk",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2f52a9d72bc02d2c21d02ff569c899f1.webp?v=1788079400",
+        "points": 20
+      },
+      "8dd9a6a1-8e63-4f7f-bd66-236cb7d711c1": {
+        "name": "Rikiii .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0352511822b234964a53b5fd1df22208.webp?v=1781517730",
+        "points": 80
       }
     },
-    "estimated_gift_value_idr": 332500,
+    "estimated_gift_value_idr": 477500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
