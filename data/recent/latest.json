@@ -1,5 +1,112 @@
 [
   {
+    "id": "idn:alveeria-2909",
+    "platform": "idn",
+    "member": {
+      "name": "Olla",
+      "username": "jkt48_olla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/76a2fcff460e27571b5abe640d269819.webp?v=1778755935"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261115175902",
+    "image": "https://cdn.idn.app/livestream/77e48d0fb10fc9dd9a2c7dc545b1ab5a.webp",
+    "started_at": "2026-11-15T10:59:11.000Z",
+    "last_seen_at": "2026-11-15T11:28:07.765Z",
+    "peak_viewers": 3535,
+    "gifts": 34,
+    "gift_points": 1656,
+    "stars": 0,
+    "comments": 537,
+    "gift_breakdown": {
+      "Graffiti": 1,
+      "Cold Water": 10,
+      "Semangat kak": 1,
+      "Lemon Tea": 1,
+      "Toa": 3,
+      "Angklung": 7,
+      "Water": 5,
+      "Puding": 1,
+      "Makan ya kak": 1,
+      "Mawar": 1,
+      "Gift Card": 1,
+      "Pumpkin": 1,
+      "Orange Syrup": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Indah Kirana",
+        "points": 564,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8ee596d4d244ecc7fd132ede8cb4a19a.webp?v=1784202700"
+      },
+      {
+        "rank": 2,
+        "name": "dagdigdugdeerr .",
+        "points": 556,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a265d8588c4b140a34250ca9937442ea.webp?v=1792413558"
+      },
+      {
+        "rank": 3,
+        "name": "mamal gg",
+        "points": 348,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/479ddce1b555c8283b9bbd7002c98e97.webp?v=1794101214"
+      },
+      {
+        "rank": 4,
+        "name": "Samuel (jun)",
+        "points": 36,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9c56453b666c3e8a000bb96c5348af3.webp?v=1787998859"
+      },
+      {
+        "rank": 5,
+        "name": "Vaaaaa #Akuu masih SD",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1a770c3f9e2e66696604f0427f662903.webp?v=1794649977"
+      },
+      {
+        "rank": 6,
+        "name": "Janelle A",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1d864908eacecb1f0cdf3ffc827a883c.webp?v=1794054627"
+      },
+      {
+        "rank": 7,
+        "name": "EsBatuCair Kangen",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0db3d038c73df83eab4abc3e3ae34bea.webp?v=1794302570"
+      },
+      {
+        "rank": 8,
+        "name": "MUM3T (SURENGGANA)",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d5cb3088b7a584344c8a59454e71fa0.webp?v=1784892538"
+      },
+      {
+        "rank": 9,
+        "name": "FIRYA 🐣",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d2bc44864bd14e015cc89000bafcf2d5.webp?v=1794054232"
+      },
+      {
+        "rank": 10,
+        "name": "Iqbal JGooba",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/15244f840111120f54b072345ce45c71.webp?v=1793884837"
+      }
+    ],
+    "viewer_series": [[0, 1], [1, 25], [2, 118], [3, 220], [4, 371], [5, 468], [6, 592], [7, 683], [8, 790], [9, 938], [10, 1187], [11, 1313], [12, 1503], [13, 1654], [14, 1800], [15, 1957], [16, 2070], [17, 2186], [18, 2309], [19, 2399], [20, 2509], [21, 2638], [22, 2798], [23, 2925], [24, 3031], [25, 3161], [26, 3284], [27, 3376], [28, 3439], [29, 3535]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL",
+    "gift_gold": 414,
+    "estimated_gift_value_idr": 1035000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-15T11:28:07.765Z",
+    "duration_minutes": 29,
+    "last_viewers": 3535,
+    "unique_gifters": 20,
+    "source_id": "idn:ayo-ngobrol-bareng-261115175902"
+  },
+  {
     "id": "idn:alveeria-2904",
     "platform": "idn",
     "member": {
@@ -13076,24 +13183,6 @@
     "url": "https://www.idn.app/jkt48_lia",
     "image": "https://cdn.idn.app/livestream/c05c258f536f41a96c9e965615ce1ac1.webp",
     "started_at": "2026-10-04T14:35:22.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2709",
-    "platform": "idn",
-    "member": {
-      "name": "Jemima",
-      "username": "jkt48_jemima",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_jemima",
-    "image": "https://cdn.idn.app/livestream/92f71a33459bf58eb08dc53d1f884af7.webp",
-    "started_at": "2026-10-04T14:01:32.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
