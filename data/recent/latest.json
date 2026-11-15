@@ -1,5 +1,109 @@
 [
   {
+    "id": "idn:alveeria-2922",
+    "platform": "idn",
+    "member": {
+      "name": "Eli",
+      "username": "jkt48_eli",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0f4369fe4c881fe2dc077df5d1c6bba2.webp?v=1778756126"
+    },
+    "title": "KaraokELI",
+    "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261115205232",
+    "image": "https://cdn.idn.app/livestream/7b4815f86d8ddb5354ab7cf4857bfa72.webp",
+    "started_at": "2026-11-15T13:52:38.000Z",
+    "last_seen_at": "2026-11-15T14:55:00.028Z",
+    "peak_viewers": 3635,
+    "gifts": 24,
+    "gift_points": 596,
+    "stars": 0,
+    "comments": 645,
+    "gift_breakdown": {
+      "Water": 8,
+      "Cold Water": 2,
+      "Toa": 6,
+      "Matcha": 1,
+      "Pumpkin": 1,
+      "Boba Tea": 1,
+      "Lemon Tea": 1,
+      "ELI": 2,
+      "KO!": 1,
+      "Lightstick": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Ghora Adik siapa kek 😒",
+        "points": 280,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/42d0f569e573311204bf986e5c7cb2a6.webp?v=1772139669"
+      },
+      {
+        "rank": 2,
+        "name": "naufaldr",
+        "points": 140,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d01112ec88236f00eb0005bf4247a911.webp?v=1733747630"
+      },
+      {
+        "rank": 3,
+        "name": "ILBRAM AKBAR",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d673faa0464df37dad6dc0591bc4eda5.webp?v=1790259439"
+      },
+      {
+        "rank": 4,
+        "name": "bulan cahaya warna",
+        "points": 16,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d69638cdc64e550270653604cb679a3.webp?v=1794667099"
+      },
+      {
+        "rank": 5,
+        "name": "ashkeyy 😼🌟(ga pake kak)",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b438a801afaf825560249f63e139c938.webp?v=1794032951"
+      },
+      {
+        "rank": 6,
+        "name": "Ariestya Christi",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ad8c868125fe87f4e4d7859e800f701a.webp?v=1794671732"
+      },
+      {
+        "rank": 7,
+        "name": "Malvin Evano",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8905fe068ccbd8540c4d3033309cde2d.webp?v=1786545380"
+      },
+      {
+        "rank": 8,
+        "name": "Irul ",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c3d2aa9bf635478ecf2b4ec7afb7d8a7.webp?v=1767021871"
+      },
+      {
+        "rank": 9,
+        "name": "alfyn 🧙‍♀️",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c92e2f67390816e1866431389cbd83f7.webp?v=1788792938"
+      },
+      {
+        "rank": 10,
+        "name": "©️ Mas Aneh (FERDI MAULANA)",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cad81df68c8af957e68d224f6a123cdc.webp?v=1774669942"
+      }
+    ],
+    "viewer_series": [[0, 3], [1, 27], [2, 71], [3, 132], [4, 194], [5, 251], [6, 295], [7, 322], [8, 386], [9, 499], [10, 577], [11, 639], [12, 702], [13, 743], [14, 812], [15, 852], [16, 892], [17, 929], [18, 976], [19, 1017], [20, 1095], [21, 1166], [22, 1223], [23, 1283], [24, 1318], [25, 1363], [26, 1435], [27, 1529], [28, 1630], [29, 1659], [30, 1714], [31, 1788], [32, 1842], [33, 1891], [34, 1938], [35, 1989], [36, 2047], [37, 2095], [38, 2140], [39, 2199], [40, 2267], [41, 2399], [42, 2517], [43, 2589], [44, 2629], [45, 2678], [46, 2733], [47, 2781], [48, 2828], [49, 2864], [50, 2919], [51, 2975], [52, 3042], [53, 3131], [54, 3181], [55, 3227], [56, 3293], [57, 3336], [58, 3398], [59, 3472], [60, 3510], [61, 3547], [62, 3611]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
+    "gift_gold": 149,
+    "estimated_gift_value_idr": 372500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-15T14:55:00.028Z",
+    "duration_minutes": 62,
+    "last_viewers": 3635,
+    "unique_gifters": 10,
+    "source_id": "idn:karaokeli-261115205232"
+  },
+  {
     "id": "idn:alveeria-2921",
     "platform": "idn",
     "member": {
@@ -14243,24 +14347,6 @@
     "url": "https://www.idn.app/jkt48_ekin",
     "image": "https://cdn.idn.app/livestream/c1eb75638caa5a5e1386d6a787992f86.webp",
     "started_at": "2026-10-13T14:39:15.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2722",
-    "platform": "idn",
-    "member": {
-      "name": "Nachia",
-      "username": "jkt48_nachia",
-      "avatar": null
-    },
-    "title": "hi",
-    "url": "https://www.idn.app/jkt48_nachia",
-    "image": "https://cdn.idn.app/livestream/f33dca573a9e512af9afe23d3a4e2bfc.webp",
-    "started_at": "2026-10-13T14:23:12.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,

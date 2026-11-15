@@ -1,106 +1,6 @@
 {
-  "updated_at": "2026-11-15T14:53:26.710Z",
+  "updated_at": "2026-11-15T14:58:33.268Z",
   "lives": [
-    {
-      "id": "idn:karaokeli-261115205232",
-      "platform": "idn",
-      "member": {
-        "name": "Eli",
-        "username": "jkt48_eli",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0f4369fe4c881fe2dc077df5d1c6bba2.webp?v=1778756126"
-      },
-      "title": "KaraokELI",
-      "url": "https://www.idn.app/jkt48_eli/live/karaokeli-261115205232",
-      "image": "https://cdn.idn.app/livestream/7b4815f86d8ddb5354ab7cf4857bfa72.webp",
-      "started_at": "2026-11-15T13:52:38.000Z",
-      "viewers": 3547,
-      "last_seen_at": "2026-11-15T14:53:26.035Z",
-      "peak_viewers": 3547,
-      "gifts": 24,
-      "gift_points": 596,
-      "stars": 0,
-      "comments": 628,
-      "gift_breakdown": {
-        "Water": 8,
-        "Cold Water": 2,
-        "Toa": 6,
-        "Matcha": 1,
-        "Pumpkin": 1,
-        "Boba Tea": 1,
-        "Lemon Tea": 1,
-        "ELI": 2,
-        "KO!": 1,
-        "Lightstick": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "Ghora Adik siapa kek 😒",
-          "points": 280,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/42d0f569e573311204bf986e5c7cb2a6.webp?v=1772139669"
-        },
-        {
-          "rank": 2,
-          "name": "naufaldr",
-          "points": 140,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d01112ec88236f00eb0005bf4247a911.webp?v=1733747630"
-        },
-        {
-          "rank": 3,
-          "name": "ILBRAM AKBAR",
-          "points": 120,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d673faa0464df37dad6dc0591bc4eda5.webp?v=1790259439"
-        },
-        {
-          "rank": 4,
-          "name": "bulan cahaya warna",
-          "points": 16,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d69638cdc64e550270653604cb679a3.webp?v=1794667099"
-        },
-        {
-          "rank": 5,
-          "name": "ashkeyy 😼🌟(ga pake kak)",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b438a801afaf825560249f63e139c938.webp?v=1794032951"
-        },
-        {
-          "rank": 6,
-          "name": "Ariestya Christi",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ad8c868125fe87f4e4d7859e800f701a.webp?v=1794671732"
-        },
-        {
-          "rank": 7,
-          "name": "Malvin Evano",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8905fe068ccbd8540c4d3033309cde2d.webp?v=1786545380"
-        },
-        {
-          "rank": 8,
-          "name": "Irul ",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c3d2aa9bf635478ecf2b4ec7afb7d8a7.webp?v=1767021871"
-        },
-        {
-          "rank": 9,
-          "name": "alfyn 🧙‍♀️",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c92e2f67390816e1866431389cbd83f7.webp?v=1788792938"
-        },
-        {
-          "rank": 10,
-          "name": "©️ Mas Aneh (FERDI MAULANA)",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cad81df68c8af957e68d224f6a123cdc.webp?v=1774669942"
-        }
-      ],
-      "viewer_series": [[0, 3], [1, 27], [2, 71], [3, 132], [4, 194], [5, 251], [6, 295], [7, 322], [8, 386], [9, 499], [10, 577], [11, 639], [12, 702], [13, 743], [14, 812], [15, 852], [16, 892], [17, 929], [18, 976], [19, 1017], [20, 1095], [21, 1166], [22, 1223], [23, 1283], [24, 1318], [25, 1363], [26, 1435], [27, 1529], [28, 1630], [29, 1659], [30, 1714], [31, 1788], [32, 1842], [33, 1891], [34, 1938], [35, 1989], [36, 2047], [37, 2095], [38, 2140], [39, 2199], [40, 2267], [41, 2399], [42, 2517], [43, 2589], [44, 2629], [45, 2678], [46, 2733], [47, 2781], [48, 2828], [49, 2864], [50, 2919], [51, 2975], [52, 3042], [53, 3131], [54, 3181], [55, 3227], [56, 3293], [57, 3336], [58, 3398], [59, 3472], [60, 3510], [61, 3547]],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
-      "gift_gold": 149,
-      "estimated_gift_value_idr": 372500,
-      "gift_rate_idr": 2500,
-      "gift_value_basis": "gold"
-    },
     {
       "id": "idn:malamin-261115214453",
       "platform": "idn",
@@ -113,27 +13,29 @@
       "url": "https://www.idn.app/jkt48_nala/live/malamin-261115214453",
       "image": "https://cdn.idn.app/livestream/7a60153a3cf16792481196557fbd935e.webp",
       "started_at": "2026-11-15T14:44:58.000Z",
-      "viewers": 2116,
-      "last_seen_at": "2026-11-15T14:53:26.035Z",
-      "peak_viewers": 2116,
-      "gifts": 11,
-      "gift_points": 644,
+      "viewers": 3099,
+      "last_seen_at": "2026-11-15T14:58:32.710Z",
+      "peak_viewers": 3099,
+      "gifts": 17,
+      "gift_points": 1112,
       "stars": 0,
-      "comments": 768,
+      "comments": 1197,
       "gift_breakdown": {
-        "Emas Batang": 2,
+        "Emas Batang": 3,
         "Nasi Goreng": 1,
         "Rawon": 1,
-        "Cold Water": 1,
+        "Cold Water": 2,
         "Water": 1,
         "Toa": 4,
-        "Angklung": 1
+        "Angklung": 3,
+        "Puding": 1,
+        "Kompas": 1
       },
       "top_gifters": [
         {
           "rank": 1,
           "name": "hus naa",
-          "points": 196,
+          "points": 312,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/95d0ba3a8efbdfa8c254d7e6f09e01b0.webp?v=1731103949"
         },
         {
@@ -144,51 +46,57 @@
         },
         {
           "rank": 3,
+          "name": "cokelatmaniisss .",
+          "points": 196,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5e50f4f23248b3dc636da37d6513864d.webp?v=1794231941"
+        },
+        {
+          "rank": 4,
           "name": "Andi Farhan .",
           "points": 116,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfe82c7d9599bb729f3d412c4dc06786.webp?v=1794741865"
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "name": "dea (deyy) 🦁🐻🚀",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7351a659cc51a1cedf108209569379aa.webp?v=1793871745"
+        },
+        {
+          "rank": 6,
           "name": "ara panegar",
           "points": 48,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/67f988a5223f6487ba39547660aa0339.webp?v=1788688635"
         },
         {
-          "rank": 5,
+          "rank": 7,
           "name": "Valll_DK",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/021a6959f7a9b50a4d75f1cde308380d.webp?v=1732861931"
         },
         {
-          "rank": 6,
+          "rank": 8,
           "name": "Antari R",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3f435180d65dd5916af4755e38aae3a3.webp?v=1791428896"
         },
         {
-          "rank": 7,
+          "rank": 9,
           "name": "ismaaa 🧚‍♀️",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2575536191bd0999f439a0c809210735.webp?v=1794106380"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "name": "Adhi Endol",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38945b589996db9885eb859176d506a0.webp?v=1793550226"
-        },
-        {
-          "rank": 9,
-          "name": "bulan cahaya warna",
-          "points": 8,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d69638cdc64e550270653604cb679a3.webp?v=1794667099"
         }
       ],
-      "viewer_series": [[0, 23], [1, 155], [2, 350], [3, 525], [4, 744], [5, 954], [6, 1503], [7, 1772], [8, 2019]],
+      "viewer_series": [[0, 23], [1, 155], [2, 350], [3, 525], [4, 744], [5, 954], [6, 1503], [7, 1772], [8, 2019], [9, 2232], [10, 2330], [11, 2548], [12, 2732], [13, 2880], [14, 3099]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/Pqb57KR18YXr",
-      "gift_gold": 161,
-      "estimated_gift_value_idr": 402500,
+      "gift_gold": 278,
+      "estimated_gift_value_idr": 695000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
