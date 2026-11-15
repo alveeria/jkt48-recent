@@ -11,20 +11,20 @@
     "url": "https://www.idn.app/jkt48_michie/live/live-aja-261115134316",
     "image": "https://cdn.idn.app/livestream/140989f6ef48d318b8a4ba78ddb66895.webp",
     "started_at": "2026-11-15T06:43:23.000Z",
-    "viewers": 4218,
-    "last_seen_at": "2026-11-15T07:09:14.150Z",
-    "peak_viewers": 4218,
-    "gifts": 21,
-    "gift_points": 764,
+    "viewers": 4788,
+    "last_seen_at": "2026-11-15T07:14:22.550Z",
+    "peak_viewers": 4788,
+    "gifts": 23,
+    "gift_points": 864,
     "stars": 0,
-    "comments": 2303,
+    "comments": 3290,
     "gift_breakdown": {
       "NALA": 1,
       "Mawar": 3,
       "Kompas": 5,
       "Cold Water": 1,
-      "Toa": 5,
-      "MICHIE": 3,
+      "Toa": 6,
+      "MICHIE": 4,
       "Jailangkung": 1,
       "Orange Syrup": 1,
       "Matcha": 1
@@ -41,12 +41,14 @@
       "9461ce15-5d90-4414-8e6a-a34312fe62e8": "iya ojan",
       "d88b65ae-bbea-484d-b4e2-e3e735da0336": "diki .",
       "f60647bd-e7d5-40d1-a395-37b4e82d7dd3": "paijaaa gsuka mtk",
-      "8dd9a6a1-8e63-4f7f-bd66-236cb7d711c1": "Rikiii ."
+      "8dd9a6a1-8e63-4f7f-bd66-236cb7d711c1": "Rikiii .",
+      "656caafa-497f-4a1b-b547-e3fa3d2556f1": "Michael Evannalindra",
+      "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": "Ahza"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623], [22, 3751], [23, 3863], [24, 3991], [25, 4098], [26, 4218]],
+    "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623], [22, 3751], [23, 3863], [24, 3991], [25, 4098], [26, 4218], [27, 4332], [28, 4422], [29, 4529], [30, 4652], [31, 4788]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 191,
+    "gift_gold": 216,
     "idn_gifters": {
       "c1e65cdd-1ce9-4bf9-b2a6-2c7ab5e6d26a": {
         "name": "Adrian Utomo",
@@ -107,9 +109,19 @@
         "name": "Rikiii .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0352511822b234964a53b5fd1df22208.webp?v=1781517730",
         "points": 80
+      },
+      "656caafa-497f-4a1b-b547-e3fa3d2556f1": {
+        "name": "Michael Evannalindra",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6cd392bcba0b16dd7fc13c72b1f5c771.webp?v=1792198871",
+        "points": 80
+      },
+      "9c9c0dd9-e48c-411e-97f0-90a5beea68ad": {
+        "name": "Ahza",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f1ed38dc694b97672053f2b3cc9c510c.webp?v=1794308945",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 477500,
+    "estimated_gift_value_idr": 540000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
