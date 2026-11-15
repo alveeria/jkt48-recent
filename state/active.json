@@ -11,21 +11,61 @@
     "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261115152128",
     "image": "https://cdn.idn.app/livestream/075f7c9aefd60bac8ff049f85c64d29f.webp",
     "started_at": "2026-11-15T08:21:33.000Z",
-    "viewers": 596,
-    "last_seen_at": "2026-11-15T08:26:07.811Z",
-    "peak_viewers": 596,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 987,
+    "last_seen_at": "2026-11-15T08:31:16.508Z",
+    "peak_viewers": 987,
+    "gifts": 6,
+    "gift_points": 396,
     "stars": 0,
-    "comments": 252,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 470,
+    "gift_breakdown": {
+      "Angklung": 1,
+      "MIKAELA": 1,
+      "Kompas": 1,
+      "Toa": 1,
+      "GIAA": 2
+    },
+    "gifters": {
+      "905814b1-7709-4f23-90eb-ea55643a1cbf": "Alfan Ma’arif",
+      "f58577e5-35fd-4f98-a412-e85b77b04470": "Ryan Nova nya mikaela ",
+      "ad09ccc8-9637-4eda-bcc8-9ff39382c6ae": "Wes Rafly Wes",
+      "d3984f36-77a5-4e64-b56a-1c5e925ad2eb": "Syawal Rahis 🥳🥳🥳",
+      "2290ac26-5fc7-452d-a0ed-aee46774516a": "Divaa ❤️‍🩹"
+    },
     "top_gifters": [],
-    "viewer_series": [[0, 23], [1, 105], [2, 209], [3, 382], [4, 477], [5, 596]],
+    "viewer_series": [[0, 23], [1, 105], [2, 209], [3, 382], [4, 477], [5, 596], [6, 682], [7, 750], [8, 813], [9, 900], [10, 987]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null
+    "gift_gold": 99,
+    "idn_gifters": {
+      "905814b1-7709-4f23-90eb-ea55643a1cbf": {
+        "name": "Alfan Ma’arif",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a701006ef70132668e0029b0d470714c.webp?v=1789565671",
+        "points": 196
+      },
+      "f58577e5-35fd-4f98-a412-e85b77b04470": {
+        "name": "Ryan Nova nya mikaela ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe917b96751f1e19ba443fc56aa8de81.webp?v=1780205616",
+        "points": 20
+      },
+      "ad09ccc8-9637-4eda-bcc8-9ff39382c6ae": {
+        "name": "Wes Rafly Wes",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a91a5a82ffa34dc64e33c7bfe073e2d7.webp?v=1794042019",
+        "points": 20
+      },
+      "d3984f36-77a5-4e64-b56a-1c5e925ad2eb": {
+        "name": "Syawal Rahis 🥳🥳🥳",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a15a84f99bc7dbc73b41357cd2e8d495.webp?v=1793018109",
+        "points": 80
+      },
+      "2290ac26-5fc7-452d-a0ed-aee46774516a": {
+        "name": "Divaa ❤️‍🩹",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/16cef96ceb739b6f788710028edcd82b.webp?v=1794486845",
+        "points": 80
+      }
+    },
+    "estimated_gift_value_idr": 247500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
   },
   "idn:p-261115152128": {
     "id": "idn:p-261115152128",
@@ -39,32 +79,67 @@
     "url": "https://www.idn.app/jkt48_giaa/live/p-261115152128",
     "image": "https://cdn.idn.app/livestream/034ab842f7afd82fa02569618eb01308.webp",
     "started_at": "2026-11-15T08:21:33.000Z",
-    "viewers": 242,
-    "last_seen_at": "2026-11-15T08:26:07.811Z",
-    "peak_viewers": 242,
-    "gifts": 1,
-    "gift_points": 40,
+    "viewers": 509,
+    "last_seen_at": "2026-11-15T08:31:16.508Z",
+    "peak_viewers": 509,
+    "gifts": 2,
+    "gift_points": 68,
     "stars": 0,
-    "comments": 56,
+    "comments": 93,
     "gift_breakdown": {
-      "Matcha": 1
+      "Matcha": 1,
+      "Semangat kak": 1
     },
     "gifters": {
-      "ba03a056-6c90-407a-907c-04d0ce9f2d23": "Charis_v.h"
+      "ba03a056-6c90-407a-907c-04d0ce9f2d23": "Charis_v.h",
+      "38ec9711-56f7-4ea2-9339-4461e2d1b8a8": "Reii Wijaya"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 4], [1, 25], [2, 71], [3, 146], [4, 195], [5, 242]],
+    "viewer_series": [[0, 4], [1, 25], [2, 71], [3, 146], [4, 195], [5, 242], [6, 297], [7, 337], [8, 377], [9, 447], [10, 509]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
-    "gift_gold": 10,
+    "gift_gold": 17,
     "idn_gifters": {
       "ba03a056-6c90-407a-907c-04d0ce9f2d23": {
         "name": "Charis_v.h",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d78b7910111634c5af2d5d7d205e4d0.webp?v=1780248025",
         "points": 40
+      },
+      "38ec9711-56f7-4ea2-9339-4461e2d1b8a8": {
+        "name": "Reii Wijaya",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414",
+        "points": 28
       }
     },
-    "estimated_gift_value_idr": 25000,
+    "estimated_gift_value_idr": 42500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
+  },
+  "idn:haaaiiii-261115153023": {
+    "id": "idn:haaaiiii-261115153023",
+    "platform": "idn",
+    "member": {
+      "name": "Maxine",
+      "username": "jkt48_maxine",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2047774f0cf81a814865c9e0923b4709.webp?v=1779088248"
+    },
+    "title": "haaaiiii",
+    "url": "https://www.idn.app/jkt48_maxine/live/haaaiiii-261115153023",
+    "image": "https://cdn.idn.app/livestream/e2d05048d8cc8cbd0501f621a7dd463c.webp",
+    "started_at": "2026-11-15T08:30:28.000Z",
+    "viewers": 64,
+    "last_seen_at": "2026-11-15T08:31:16.508Z",
+    "peak_viewers": 64,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 17,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 9], [1, 64]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/h82ZXdIi3f7Q",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
   }
 }
