@@ -11,32 +11,81 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261115121752",
     "image": "https://cdn.idn.app/livestream/d95ffc788d848b39b62ddf410d1e045a.webp",
     "started_at": "2026-11-15T05:17:57.000Z",
-    "viewers": 551,
-    "last_seen_at": "2026-11-15T05:26:46.468Z",
-    "peak_viewers": 551,
-    "gifts": 1,
-    "gift_points": 116,
+    "viewers": 1040,
+    "last_seen_at": "2026-11-15T05:31:55.452Z",
+    "peak_viewers": 1040,
+    "gifts": 4,
+    "gift_points": 504,
     "stars": 0,
-    "comments": 115,
+    "comments": 268,
     "gift_breakdown": {
-      "Angklung": 1
+      "Angklung": 1,
+      "Toa": 1,
+      "MUTHE": 1,
+      "JKT48 Stage": 1
     },
     "gifters": {
-      "9461ce15-5d90-4414-8e6a-a34312fe62e8": "iya ojan"
+      "9461ce15-5d90-4414-8e6a-a34312fe62e8": "iya ojan",
+      "c8e49185-fff3-4cc5-ab41-42915bde4a5e": "TASHA .",
+      "b979cecd-8f5e-4956-985c-f88eb0ccd970": "Rifqi リフキ 🦦",
+      "fa5f6395-6ba5-4d45-9e04-822453cc6976": "maulana kanigara"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 1], [1, 40], [2, 131], [3, 179], [4, 227], [5, 265], [6, 326], [7, 384], [8, 442], [9, 551]],
+    "viewer_series": [[0, 1], [1, 40], [2, 131], [3, 179], [4, 227], [5, 265], [6, 326], [7, 384], [8, 442], [9, 551], [10, 729], [11, 828], [12, 904], [13, 980], [14, 1040]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 29,
+    "gift_gold": 126,
     "idn_gifters": {
       "9461ce15-5d90-4414-8e6a-a34312fe62e8": {
         "name": "iya ojan",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656",
         "points": 116
+      },
+      "c8e49185-fff3-4cc5-ab41-42915bde4a5e": {
+        "name": "TASHA .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f6662c3671c16ce18db8eb36c374ccfa.webp?v=1743953817",
+        "points": 20
+      },
+      "b979cecd-8f5e-4956-985c-f88eb0ccd970": {
+        "name": "Rifqi リフキ 🦦",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/878ed9217704684598956b2ef83ec635.webp?v=1762005070",
+        "points": 80
+      },
+      "fa5f6395-6ba5-4d45-9e04-822453cc6976": {
+        "name": "maulana kanigara",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c3e38e49ed4211860129165081e0437f.webp?v=1781526188",
+        "points": 288
       }
     },
-    "estimated_gift_value_idr": 72500,
+    "estimated_gift_value_idr": 315000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
+  },
+  "idn:when-ya-261115123114": {
+    "id": "idn:when-ya-261115123114",
+    "platform": "idn",
+    "member": {
+      "name": "Jazzy",
+      "username": "jkt48_jazzy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3295fea28675bc331f3a2138013693d5.webp?v=1786712915"
+    },
+    "title": "when ya",
+    "url": "https://www.idn.app/jkt48_jazzy/live/when-ya-261115123114",
+    "image": "https://cdn.idn.app/livestream/ee30f3c63c345ab0c7ec76069b50161e.webp",
+    "started_at": "2026-11-15T05:31:20.000Z",
+    "viewers": 25,
+    "last_seen_at": "2026-11-15T05:31:55.452Z",
+    "peak_viewers": 25,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 6,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 25]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/AxffR6zxB39X",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
   }
 }
