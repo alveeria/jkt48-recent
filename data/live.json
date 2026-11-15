@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T15:13:59.372Z",
+  "updated_at": "2026-11-15T15:19:06.484Z",
   "lives": [
     {
       "id": "idn:malamin-261115214453",
@@ -13,21 +13,21 @@
       "url": "https://www.idn.app/jkt48_nala/live/malamin-261115214453",
       "image": "https://cdn.idn.app/livestream/7a60153a3cf16792481196557fbd935e.webp",
       "started_at": "2026-11-15T14:44:58.000Z",
-      "viewers": 6717,
-      "last_seen_at": "2026-11-15T15:13:58.363Z",
-      "peak_viewers": 6717,
-      "gifts": 50,
-      "gift_points": 2836,
+      "viewers": 7449,
+      "last_seen_at": "2026-11-15T15:19:05.851Z",
+      "peak_viewers": 7449,
+      "gifts": 66,
+      "gift_points": 3944,
       "stars": 0,
-      "comments": 3332,
+      "comments": 3975,
       "gift_breakdown": {
-        "Emas Batang": 6,
+        "Emas Batang": 9,
         "Nasi Goreng": 2,
         "Rawon": 1,
-        "Cold Water": 5,
-        "Water": 5,
-        "Toa": 7,
-        "Angklung": 6,
+        "Cold Water": 7,
+        "Water": 7,
+        "Toa": 9,
+        "Angklung": 9,
         "Puding": 1,
         "Kompas": 2,
         "Cupid": 1,
@@ -38,45 +38,48 @@
         "Mawar": 2,
         "Lato-Lato": 1,
         "SSETAAAN": 1,
-        "Boba Tea": 1,
-        "Jari Hati": 1
+        "Boba Tea": 2,
+        "Jari Hati": 1,
+        "Ngeri Banget": 1,
+        "Matcha": 1,
+        "Hii Takut": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "hus naa",
-          "points": 428,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/95d0ba3a8efbdfa8c254d7e6f09e01b0.webp?v=1731103949"
-        },
-        {
-          "rank": 2,
           "name": "Andi Farhan .",
-          "points": 316,
+          "points": 708,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfe82c7d9599bb729f3d412c4dc06786.webp?v=1794741865"
         },
         {
+          "rank": 2,
+          "name": "hus naa",
+          "points": 664,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/95d0ba3a8efbdfa8c254d7e6f09e01b0.webp?v=1731103949"
+        },
+        {
           "rank": 3,
+          "name": "Rhafa",
+          "points": 412,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8a29696a531415006cdf972de1a5d42.webp?v=1794412348"
+        },
+        {
+          "rank": 4,
+          "name": "Anom .",
+          "points": 404,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6057da8781bed31f27a0693fd81152a4.webp?v=1762167271"
+        },
+        {
+          "rank": 5,
           "name": "Zayyan Mumtaz",
           "points": 316,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4b6ee8215eac68bc068a38d8b63dba2a.webp?v=1794584019"
         },
         {
-          "rank": 4,
-          "name": "Anom .",
-          "points": 288,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6057da8781bed31f27a0693fd81152a4.webp?v=1762167271"
-        },
-        {
-          "rank": 5,
-          "name": "Rafmul ‎",
-          "points": 264,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2ca725cb5d594137cf987468815dc8cc.webp?v=1751292560"
-        },
-        {
           "rank": 6,
-          "name": "Rhafa",
-          "points": 208,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8a29696a531415006cdf972de1a5d42.webp?v=1794412348"
+          "name": "Rafmul ‎",
+          "points": 300,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2ca725cb5d594137cf987468815dc8cc.webp?v=1751292560"
         },
         {
           "rank": 7,
@@ -98,17 +101,44 @@
         },
         {
           "rank": 10,
-          "name": "ismaaa 🧚‍♀️",
-          "points": 100,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2575536191bd0999f439a0c809210735.webp?v=1794106380"
+          "name": "Adawiyah",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         }
       ],
-      "viewer_series": [[0, 23], [1, 155], [2, 350], [3, 525], [4, 744], [5, 954], [6, 1503], [7, 1772], [8, 2019], [9, 2232], [10, 2330], [11, 2548], [12, 2732], [13, 2880], [14, 3099], [15, 3718], [16, 3998], [17, 4204], [18, 4390], [19, 4551], [20, 4733], [21, 4886], [22, 5369], [23, 5627], [24, 5865], [25, 6056], [26, 6241], [27, 6425], [28, 6572], [29, 6717]],
+      "viewer_series": [[0, 23], [1, 155], [2, 350], [3, 525], [4, 744], [5, 954], [6, 1503], [7, 1772], [8, 2019], [9, 2232], [10, 2330], [11, 2548], [12, 2732], [13, 2880], [14, 3099], [15, 3718], [16, 3998], [17, 4204], [18, 4390], [19, 4551], [20, 4733], [21, 4886], [22, 5369], [23, 5627], [24, 5865], [25, 6056], [26, 6241], [27, 6425], [28, 6572], [29, 6717], [30, 6792], [31, 6963], [32, 7122], [33, 7256], [34, 7379]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/Pqb57KR18YXr",
-      "gift_gold": 709,
-      "estimated_gift_value_idr": 1772500,
+      "gift_gold": 986,
+      "estimated_gift_value_idr": 2465000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
+    },
+    {
+      "id": "idn:ayo-ngobrol-bareng-261115221717",
+      "platform": "idn",
+      "member": {
+        "name": "Lia",
+        "username": "jkt48_lia",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/774813dd4e183c97cb589eecb765b034.webp?v=1778761632"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261115221717",
+      "image": "https://cdn.idn.app/livestream/a04d15182891da5ecf561503e197da52.webp",
+      "started_at": "2026-11-15T15:17:24.000Z",
+      "viewers": 158,
+      "last_seen_at": "2026-11-15T15:19:05.851Z",
+      "peak_viewers": 158,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 30,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 3], [1, 45], [2, 158]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
     }
   ]
 }
