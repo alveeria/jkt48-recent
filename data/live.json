@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:14:23.524Z",
+  "updated_at": "2026-11-15T07:19:30.670Z",
   "lives": [
     {
       "id": "idn:live-aja-261115134316",
@@ -13,23 +13,25 @@
       "url": "https://www.idn.app/jkt48_michie/live/live-aja-261115134316",
       "image": "https://cdn.idn.app/livestream/140989f6ef48d318b8a4ba78ddb66895.webp",
       "started_at": "2026-11-15T06:43:23.000Z",
-      "viewers": 4788,
-      "last_seen_at": "2026-11-15T07:14:22.550Z",
-      "peak_viewers": 4788,
-      "gifts": 23,
-      "gift_points": 864,
+      "viewers": 5350,
+      "last_seen_at": "2026-11-15T07:19:30.047Z",
+      "peak_viewers": 5350,
+      "gifts": 27,
+      "gift_points": 1120,
       "stars": 0,
-      "comments": 3290,
+      "comments": 4241,
       "gift_breakdown": {
         "NALA": 1,
         "Mawar": 3,
-        "Kompas": 5,
+        "Kompas": 6,
         "Cold Water": 1,
-        "Toa": 6,
+        "Toa": 7,
         "MICHIE": 4,
         "Jailangkung": 1,
         "Orange Syrup": 1,
-        "Matcha": 1
+        "Matcha": 1,
+        "Angklung": 1,
+        "Lightstick": 1
       },
       "top_gifters": [
         {
@@ -41,20 +43,20 @@
         {
           "rank": 2,
           "name": "Taufik D!",
-          "points": 120,
+          "points": 220,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e8b3296114f19e10eb6f1c46ab1d70b3.webp?v=1794559693"
         },
         {
           "rank": 3,
-          "name": "ibam oshi nya semua member",
-          "points": 100,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2a53cc19cea4573c0c853beaf45794b2.webp?v=1794702787"
+          "name": "iya ojan",
+          "points": 200,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656"
         },
         {
           "rank": 4,
-          "name": "iya ojan",
-          "points": 84,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656"
+          "name": "ibam oshi nya semua member",
+          "points": 100,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2a53cc19cea4573c0c853beaf45794b2.webp?v=1794702787"
         },
         {
           "rank": 5,
@@ -76,27 +78,27 @@
         },
         {
           "rank": 8,
+          "name": "diki .",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1066a5a44f30d37ed55239affd2cad93.webp?v=1782225174"
+        },
+        {
+          "rank": 9,
           "name": "NazarKingggg 👑 .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5b8ba76c53d8ca651bf1787adf17016c.webp?v=1794235574"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Trisna",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20022709ef16119524c4d8591563f1d8.webp?v=1793775578"
-        },
-        {
-          "rank": 10,
-          "name": "diki .",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1066a5a44f30d37ed55239affd2cad93.webp?v=1782225174"
         }
       ],
-      "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623], [22, 3751], [23, 3863], [24, 3991], [25, 4098], [26, 4218], [27, 4332], [28, 4422], [29, 4529], [30, 4652], [31, 4788]],
+      "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623], [22, 3751], [23, 3863], [24, 3991], [25, 4098], [26, 4218], [27, 4332], [28, 4422], [29, 4529], [30, 4652], [31, 4788], [32, 4872], [33, 4970], [34, 5061], [35, 5182], [36, 5296]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-      "gift_gold": 216,
-      "estimated_gift_value_idr": 540000,
+      "gift_gold": 280,
+      "estimated_gift_value_idr": 700000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
