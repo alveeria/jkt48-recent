@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 18.33 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 18.38 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,12 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Intan | IDN Live | Gantian device ama  rilly😄🙏🏽 | 15 Nov 2026, 17.51 | 5.701 |
-| Rilly | IDN Live | mau ngobs sm ka nuys | 15 Nov 2026, 17.51 | 3.113 |
-| Jessi | IDN Live | hi lg main | 15 Nov 2026, 18.00 | 3.900 |
-| Nachia | IDN Live | hi | 15 Nov 2026, 18.13 | 2.651 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 18.28 | 524 |
-| Ribka | IDN Live | nagu mania | 15 Nov 2026, 18.32 | 86 |
+| Intan | IDN Live | Gantian device ama  rilly😄🙏🏽 | 15 Nov 2026, 17.51 | 6.308 |
+| Rilly | IDN Live | mau ngobs sm ka nuys | 15 Nov 2026, 17.51 | 3.433 |
+| Jessi | IDN Live | hi lg main | 15 Nov 2026, 18.00 | 4.447 |
+| Nachia | IDN Live | hi | 15 Nov 2026, 18.13 | 3.324 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 18.28 | 1.109 |
+| Ribka | IDN Live | nagu mania | 15 Nov 2026, 18.32 | 903 |
 
 ## Live terakhir — Nov 2026
 
