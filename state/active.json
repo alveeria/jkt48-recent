@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261115121752",
     "image": "https://cdn.idn.app/livestream/d95ffc788d848b39b62ddf410d1e045a.webp",
     "started_at": "2026-11-15T05:17:57.000Z",
-    "viewers": 3207,
-    "last_seen_at": "2026-11-15T06:12:48.893Z",
-    "peak_viewers": 3207,
-    "gifts": 12,
-    "gift_points": 852,
+    "viewers": 3393,
+    "last_seen_at": "2026-11-15T06:17:57.195Z",
+    "peak_viewers": 3393,
+    "gifts": 14,
+    "gift_points": 876,
     "stars": 0,
-    "comments": 861,
+    "comments": 901,
     "gift_breakdown": {
       "Angklung": 2,
       "Toa": 1,
@@ -28,7 +28,8 @@
       "Pumpkin": 1,
       "Mawar": 2,
       "Kupu-Kupu": 1,
-      "Lemonade": 1
+      "Lemonade": 2,
+      "Boba Tea": 1
     },
     "gifters": {
       "9461ce15-5d90-4414-8e6a-a34312fe62e8": "iya ojan",
@@ -37,12 +38,14 @@
       "fa5f6395-6ba5-4d45-9e04-822453cc6976": "maulana kanigara",
       "76377853-8893-480e-8487-cfc53e46a1a9": "Nazip NakMakan",
       "7eccbb77-40c4-4182-ae92-2c5dafb6f935": "Dwi Rahmadani",
-      "cb002747-b551-4db3-b200-d9e307c0310d": "miko "
+      "cb002747-b551-4db3-b200-d9e307c0310d": "miko ",
+      "d4c6aec0-f1b7-457e-97cd-b47d86afee33": "Afriza Z",
+      "e882bb33-dd65-4290-9392-db1cc5ab2703": "ovit48"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 1], [1, 40], [2, 131], [3, 179], [4, 227], [5, 265], [6, 326], [7, 384], [8, 442], [9, 551], [10, 729], [11, 828], [12, 904], [13, 980], [14, 1040], [15, 1090], [16, 1162], [17, 1218], [18, 1302], [19, 1374], [20, 1435], [21, 1496], [22, 1537], [23, 1600], [24, 1642], [25, 1699], [26, 1766], [27, 1808], [28, 1874], [29, 1961], [30, 2041], [31, 2111], [32, 2199], [33, 2259], [34, 2317], [35, 2367], [36, 2417], [37, 2453], [38, 2477], [39, 2532], [40, 2575], [41, 2613], [42, 2653], [43, 2705], [44, 2743], [45, 2781], [46, 2820], [47, 2863], [48, 2923], [49, 2974], [50, 3021], [51, 3075], [52, 3115], [53, 3145], [54, 3171], [55, 3207]],
+    "viewer_series": [[0, 1], [1, 40], [2, 131], [3, 179], [4, 227], [5, 265], [6, 326], [7, 384], [8, 442], [9, 551], [10, 729], [11, 828], [12, 904], [13, 980], [14, 1040], [15, 1090], [16, 1162], [17, 1218], [18, 1302], [19, 1374], [20, 1435], [21, 1496], [22, 1537], [23, 1600], [24, 1642], [25, 1699], [26, 1766], [27, 1808], [28, 1874], [29, 1961], [30, 2041], [31, 2111], [32, 2199], [33, 2259], [34, 2317], [35, 2367], [36, 2417], [37, 2453], [38, 2477], [39, 2532], [40, 2575], [41, 2613], [42, 2653], [43, 2705], [44, 2743], [45, 2781], [46, 2820], [47, 2863], [48, 2923], [49, 2974], [50, 3021], [51, 3075], [52, 3115], [53, 3145], [54, 3171], [55, 3207], [56, 3238], [57, 3290], [58, 3328], [59, 3366], [60, 3393]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 213,
+    "gift_gold": 219,
     "idn_gifters": {
       "9461ce15-5d90-4414-8e6a-a34312fe62e8": {
         "name": "iya ojan",
@@ -78,9 +81,19 @@
         "name": "miko ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bd7a114a2349a8f0b8453f57a1c2e9f8.webp?v=1793391611",
         "points": 200
+      },
+      "d4c6aec0-f1b7-457e-97cd-b47d86afee33": {
+        "name": "Afriza Z",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/06e714ccc23933076d811745606c2884.webp?v=1747744244",
+        "points": 12
+      },
+      "e882bb33-dd65-4290-9392-db1cc5ab2703": {
+        "name": "ovit48",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 12
       }
     },
-    "estimated_gift_value_idr": 532500,
+    "estimated_gift_value_idr": 547500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   },
@@ -96,13 +109,13 @@
     "url": "https://www.idn.app/jkt48_jazzy/live/when-ya-261115123114",
     "image": "https://cdn.idn.app/livestream/ee30f3c63c345ab0c7ec76069b50161e.webp",
     "started_at": "2026-11-15T05:31:20.000Z",
-    "viewers": 2365,
-    "last_seen_at": "2026-11-15T06:12:48.893Z",
-    "peak_viewers": 2365,
+    "viewers": 2578,
+    "last_seen_at": "2026-11-15T06:17:57.195Z",
+    "peak_viewers": 2578,
     "gifts": 35,
     "gift_points": 1808,
     "stars": 0,
-    "comments": 3325,
+    "comments": 3768,
     "gift_breakdown": {
       "Graffiti": 1,
       "Kompas": 5,
@@ -135,7 +148,7 @@
       "16bb4533-e964-40cd-a346-cc6eadd97908": "Arrayyy "
     },
     "top_gifters": [],
-    "viewer_series": [[0, 1], [1, 25], [2, 200], [3, 292], [4, 374], [5, 463], [6, 536], [7, 600], [8, 653], [9, 705], [10, 764], [11, 805], [12, 869], [13, 916], [14, 967], [15, 1036], [16, 1106], [17, 1192], [18, 1256], [19, 1330], [20, 1368], [21, 1419], [22, 1472], [23, 1535], [24, 1582], [25, 1620], [26, 1682], [27, 1727], [28, 1773], [29, 1795], [30, 1834], [31, 1878], [32, 1920], [33, 1964], [34, 2006], [35, 2059], [36, 2125], [37, 2172], [38, 2230], [39, 2270], [40, 2303], [41, 2346]],
+    "viewer_series": [[0, 1], [1, 25], [2, 200], [3, 292], [4, 374], [5, 463], [6, 536], [7, 600], [8, 653], [9, 705], [10, 764], [11, 805], [12, 869], [13, 916], [14, 967], [15, 1036], [16, 1106], [17, 1192], [18, 1256], [19, 1330], [20, 1368], [21, 1419], [22, 1472], [23, 1535], [24, 1582], [25, 1620], [26, 1682], [27, 1727], [28, 1773], [29, 1795], [30, 1834], [31, 1878], [32, 1920], [33, 1964], [34, 2006], [35, 2059], [36, 2125], [37, 2172], [38, 2230], [39, 2270], [40, 2303], [41, 2346], [42, 2384], [43, 2411], [44, 2452], [45, 2503], [46, 2542], [47, 2578]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/AxffR6zxB39X",
     "gift_gold": 452,
     "idn_gifters": {
@@ -221,25 +234,26 @@
     "url": "https://www.idn.app/jkt48_rara/live/temeninnn-261115124449",
     "image": "https://cdn.idn.app/livestream/ab0270943e5fbb2fefcd525d3fef07bf.webp",
     "started_at": "2026-11-15T05:44:55.000Z",
-    "viewers": 975,
-    "last_seen_at": "2026-11-15T06:12:48.893Z",
-    "peak_viewers": 975,
-    "gifts": 15,
-    "gift_points": 588,
+    "viewers": 1136,
+    "last_seen_at": "2026-11-15T06:17:57.195Z",
+    "peak_viewers": 1136,
+    "gifts": 18,
+    "gift_points": 752,
     "stars": 0,
-    "comments": 496,
+    "comments": 629,
     "gift_breakdown": {
       "Cold Water": 2,
       "Water": 1,
-      "Angklung": 2,
+      "Angklung": 3,
       "Makan ya kak": 1,
       "Kompas": 2,
       "HAHAHA": 1,
       "Paling Ramah": 1,
       "Pumpkin": 1,
       "Buket Mawar": 1,
-      "Toa": 2,
-      "Lato-Lato": 1
+      "Toa": 3,
+      "Lato-Lato": 1,
+      "Yuk bisa yuk": 1
     },
     "gifters": {
       "66b06343-ab9f-4bea-ac05-0c40d1455ff8": "Mar",
@@ -251,12 +265,13 @@
       "7d483f9f-c436-406a-be26-bb3cbf5e0639": "MRSHLL ㅤ",
       "24e8df76-15fa-4a7d-84c8-5c462b834e0b": "MESSI MAULANA",
       "a152753a-af00-451a-a7c6-8f80c592a4d6": "ruru my 🦥 kukangnim",
-      "3e0d257c-849a-4e61-b269-1823608be698": "Paujian Gilang"
+      "3e0d257c-849a-4e61-b269-1823608be698": "Paujian Gilang",
+      "c39e0720-372f-4934-a826-630056747a23": "PAITANG (Andi Faisal)"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 1], [1, 36], [2, 121], [3, 171], [4, 227], [5, 278], [6, 329], [7, 367], [8, 404], [9, 439], [10, 460], [11, 486], [12, 521], [13, 555], [14, 590], [15, 611], [16, 631], [17, 660], [18, 688], [19, 711], [20, 745], [21, 776], [22, 806], [23, 842], [24, 869], [25, 900], [26, 925], [27, 949], [28, 975]],
+    "viewer_series": [[0, 1], [1, 36], [2, 121], [3, 171], [4, 227], [5, 278], [6, 329], [7, 367], [8, 404], [9, 439], [10, 460], [11, 486], [12, 521], [13, 555], [14, 590], [15, 611], [16, 631], [17, 660], [18, 688], [19, 711], [20, 745], [21, 776], [22, 806], [23, 842], [24, 869], [25, 900], [26, 925], [27, 949], [28, 975], [29, 1013], [30, 1052], [31, 1087], [32, 1098], [33, 1127]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "gift_gold": 147,
+    "gift_gold": 188,
     "idn_gifters": {
       "66b06343-ab9f-4bea-ac05-0c40d1455ff8": {
         "name": "Mar",
@@ -271,7 +286,7 @@
       "3da26dac-10d2-459f-9677-04d70d2808de": {
         "name": "Messi Sutopo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/75b1842e23105778795c2288f32c1ef9.webp?v=1794581824",
-        "points": 60
+        "points": 176
       },
       "ce1397ef-17ab-494e-8a33-04d3805f597c": {
         "name": "Rosesa -",
@@ -301,15 +316,20 @@
       "a152753a-af00-451a-a7c6-8f80c592a4d6": {
         "name": "ruru my 🦥 kukangnim",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92eabce42ef2922cde4b56c93137368c.webp?v=1787038984",
-        "points": 116
+        "points": 144
       },
       "3e0d257c-849a-4e61-b269-1823608be698": {
         "name": "Paujian Gilang",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b258cdfc297a205a0362ab37b35ee17b.webp?v=1782217039",
         "points": 124
+      },
+      "c39e0720-372f-4934-a826-630056747a23": {
+        "name": "PAITANG (Andi Faisal)",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82753666c69decf642549dfca418fda4.webp?v=1794128874",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 367500,
+    "estimated_gift_value_idr": 470000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
