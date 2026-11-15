@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T02:16:01.451Z",
+  "updated_at": "2026-11-15T02:21:10.528Z",
   "lives": [
     {
       "id": "idn:hellooo-261115090332",
@@ -13,16 +13,16 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/hellooo-261115090332",
       "image": "https://cdn.idn.app/livestream/40678ac431ffe7fbecf0a60df54d9a20.webp",
       "started_at": "2026-11-15T02:03:40.000Z",
-      "viewers": 1380,
-      "last_seen_at": "2026-11-15T02:16:00.514Z",
-      "peak_viewers": 1380,
-      "gifts": 3,
-      "gift_points": 932,
+      "viewers": 1774,
+      "last_seen_at": "2026-11-15T02:21:09.644Z",
+      "peak_viewers": 1774,
+      "gifts": 4,
+      "gift_points": 952,
       "stars": 0,
-      "comments": 772,
+      "comments": 1141,
       "gift_breakdown": {
         "Kastil Hantu": 1,
-        "Toa": 1,
+        "Toa": 2,
         "Angklung": 1
       },
       "top_gifters": [
@@ -43,12 +43,18 @@
           "name": "hayKalzii f",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b19edba18168a24c28bcb4ae35746e8d.webp?v=1794651061"
+        },
+        {
+          "rank": 4,
+          "name": "Doel Beh",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1063e49c1ad5668eb1cbb00544194264.webp?v=1751355043"
         }
       ],
-      "viewer_series": [[0, 0], [1, 33], [2, 160], [3, 245], [4, 317], [5, 421], [6, 582], [7, 848], [8, 994], [9, 1104], [10, 1188], [11, 1273], [12, 1343]],
+      "viewer_series": [[0, 0], [1, 33], [2, 160], [3, 245], [4, 317], [5, 421], [6, 582], [7, 848], [8, 994], [9, 1104], [10, 1188], [11, 1273], [12, 1343], [13, 1421], [14, 1509], [15, 1588], [16, 1652], [17, 1731]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-      "gift_gold": 233,
-      "estimated_gift_value_idr": 582500,
+      "gift_gold": 238,
+      "estimated_gift_value_idr": 595000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
