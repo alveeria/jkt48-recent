@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T10:00:36.680Z",
+  "updated_at": "2026-11-15T10:06:00.023Z",
   "lives": [
     {
       "id": "idn:haiii-261115160714",
@@ -13,22 +13,17 @@
       "url": "https://www.idn.app/jkt48_ralyne/live/haiii-261115160714",
       "image": "https://cdn.idn.app/livestream/c30ccdc98a07c76543eef6fc72c64790.webp",
       "started_at": "2026-11-15T09:07:20.000Z",
-      "viewers": 3512,
-      "last_seen_at": "2026-11-15T10:00:06.094Z",
-      "peak_viewers": 3512,
-      "gifts": 15,
-      "gift_points": 756,
+      "viewers": 3882,
+      "last_seen_at": "2026-11-15T10:05:59.014Z",
+      "peak_viewers": 3882,
+      "gifts": 6,
+      "gift_points": 308,
       "stars": 0,
-      "comments": 485,
+      "comments": 82,
       "gift_breakdown": {
-        "Kompas": 4,
         "Emas Batang": 1,
-        "Toa": 4,
-        "Jikoshoukai": 1,
-        "Cold Water": 1,
-        "Arcade Game": 1,
-        "Jari Hati": 1,
-        "Angklung": 1,
+        "Kompas": 3,
+        "Mawar": 1,
         "Matcha": 1
       },
       "top_gifters": [
@@ -40,65 +35,35 @@
         },
         {
           "rank": 2,
-          "name": "Syall Van Irwan",
-          "points": 140,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/af9eb4a609222606c087bc3f531047ee.webp?v=1794730025"
+          "name": "Onil ㅤ",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ae65ac4f43c132b0f80d4be01a1253dc.webp?v=1792427749"
         },
         {
           "rank": 3,
           "name": "Haekal Rida",
-          "points": 116,
+          "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/daeed362de933d307deb6692c9b78d48.webp?v=1785407800"
         },
         {
           "rank": 4,
-          "name": "Shinbé Kiyawara",
-          "points": 76,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
+          "name": "Kwinra U",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/79a0be85e6b4a9b3676d0a8a09585c6c.webp?v=1780851351"
         },
         {
           "rank": 5,
-          "name": "Alif Nur Ramadhan",
-          "points": 64,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e821813db636edd442489f9d6ea1842e.webp?v=1740495801"
-        },
-        {
-          "rank": 6,
-          "name": "Apann 、",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/399310ed7e57930f70b178815d4df4d9.webp?v=1784988793"
-        },
-        {
-          "rank": 7,
-          "name": "Wes Rafly Wes",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a91a5a82ffa34dc64e33c7bfe073e2d7.webp?v=1794042019"
-        },
-        {
-          "rank": 8,
-          "name": "Indra 🐹",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036"
-        },
-        {
-          "rank": 9,
-          "name": "Rizall Sona Zall -",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a083dfe5e72746b13163da8b88a5067b.webp?v=1794596630"
-        },
-        {
-          "rank": 10,
-          "name": "Rizkum .",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343"
+          "name": "Arzi 😼 😼",
+          "points": 12,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a1f08176e316e687aad7fc186213d213.webp?v=1794724955"
         }
       ],
-      "viewer_series": [[0, 6], [1, 42], [2, 185], [3, 270], [4, 340], [5, 426], [6, 470], [7, 543], [8, 609], [9, 675], [10, 739], [11, 796], [12, 851], [13, 914], [14, 970], [15, 1018], [16, 1073], [17, 1109], [18, 1166], [19, 1209], [20, 1260], [21, 1311], [22, 1369], [23, 1433], [24, 1489], [25, 1547], [26, 1635], [27, 1683], [28, 1777], [29, 1856], [30, 1917], [31, 1974], [32, 2032], [33, 2097], [34, 2200], [35, 2317], [36, 2404], [37, 2501], [38, 2605], [39, 2666], [40, 2742], [41, 2806], [42, 2865], [43, 2925], [44, 2960], [45, 3018], [46, 3083], [47, 3151], [48, 3218], [49, 3258], [50, 3298], [51, 3358], [52, 3428], [53, 3512]],
+      "viewer_series": [[0, 6], [1, 42], [2, 185], [3, 270], [4, 340], [5, 426], [53, 3569], [54, 3612], [55, 3638], [56, 3707], [57, 3767], [58, 3828], [59, 3882]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/IkkRMUVBqeCM",
-      "gift_gold": 189,
-      "estimated_gift_value_idr": 472500,
+      "estimated_gift_value_idr": 192500,
       "gift_rate_idr": 2500,
-      "gift_value_basis": "gold"
+      "gift_value_basis": "gold",
+      "gift_gold": 77
     },
     {
       "id": "idn:rakitttttt-261115160713",
@@ -112,376 +77,62 @@
       "url": "https://www.idn.app/jkt48_sona/live/rakitttttt-261115160713",
       "image": "https://cdn.idn.app/livestream/171adcf2c4e26b39cbf999d7d12bd370.webp",
       "started_at": "2026-11-15T09:07:17.000Z",
-      "viewers": 3647,
-      "last_seen_at": "2026-11-15T10:00:06.094Z",
-      "peak_viewers": 3647,
-      "gifts": 22,
-      "gift_points": 1172,
+      "viewers": 3929,
+      "last_seen_at": "2026-11-15T10:05:59.014Z",
+      "peak_viewers": 3929,
+      "gifts": 8,
+      "gift_points": 172,
       "stars": 0,
-      "comments": 976,
+      "comments": 242,
       "gift_breakdown": {
-        "Toa": 3,
-        "Pumpkin": 2,
-        "HADIIIRRR!!": 3,
+        "Toa": 2,
+        "Pumpkin": 1,
+        "HADIIIRRR!!": 1,
         "Cold Water": 1,
-        "JKT48 Show": 1,
-        "Water": 1,
-        "Jari Hati": 1,
-        "Matcha": 1,
-        "Yuk bisa yuk": 1,
-        "Kompas": 1,
-        "Mawar": 1,
-        "Kupu-Kupu": 1,
-        "Kucing": 1,
-        "Lightstick": 1,
-        "GRACIE": 1,
-        "Semangat kak": 2
+        "Kompas": 3
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "kc ☻",
-          "points": 400,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef1489cfa2cbc7b842ae8ec29c8a7532.webp?v=1794556748"
-        },
-        {
-          "rank": 2,
           "name": "ayuyu pewta🦋",
-          "points": 240,
+          "points": 48,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e23a65b82aa698a4a7606e03fbfa9429.webp?v=1786467212"
         },
         {
-          "rank": 3,
-          "name": "Sahrulll .",
-          "points": 168,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3eb112291a01f025b13d42f30570acb2.webp?v=1794653435"
-        },
-        {
-          "rank": 4,
-          "name": "Messi Widiastuti",
-          "points": 136,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eabeebc9e5b4aae9293279fe901c9482.webp?v=1794582057"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "name": "Paujian Gilang",
-          "points": 80,
+          "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b258cdfc297a205a0362ab37b35ee17b.webp?v=1782217039"
         },
         {
-          "rank": 6,
-          "name": "Geeul .",
+          "rank": 3,
+          "name": "Onil ㅤ",
           "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/72ca8698af051ba379d1e7916fb31438.webp?v=1779361849"
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ae65ac4f43c132b0f80d4be01a1253dc.webp?v=1792427749"
         },
         {
-          "rank": 7,
-          "name": "Hayyan #terpeSONA Therowzz",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5760957acf3a2c825fa2ce9d18a386a1.webp?v=1784643513"
-        },
-        {
-          "rank": 8,
-          "name": "Rizall Sona Zall -",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a083dfe5e72746b13163da8b88a5067b.webp?v=1794596630"
-        },
-        {
-          "rank": 9,
+          "rank": 4,
           "name": "serli gusdania",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6fde10b47884038ed23e33a9caf7477a.webp?v=1793874487"
         },
         {
-          "rank": 10,
-          "name": "Kenzo min",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a8b78498804ad3bdc946071dffc207f0.webp?v=1779785614"
-        }
-      ],
-      "viewer_series": [[0, 11], [1, 80], [2, 193], [3, 230], [4, 339], [5, 430], [6, 544], [7, 634], [8, 718], [9, 808], [10, 896], [11, 971], [12, 1039], [13, 1103], [14, 1174], [15, 1247], [16, 1303], [17, 1361], [18, 1424], [19, 1466], [20, 1526], [21, 1590], [22, 1650], [23, 1723], [24, 1790], [25, 1823], [26, 1923], [27, 2016], [28, 2098], [29, 2180], [30, 2228], [31, 2289], [32, 2347], [33, 2413], [34, 2525], [35, 2633], [36, 2723], [37, 2794], [38, 2867], [39, 2923], [40, 2972], [41, 3026], [42, 3073], [43, 3095], [44, 3172], [45, 3223], [46, 3278], [47, 3329], [48, 3384], [49, 3425], [50, 3471], [51, 3528], [52, 3579], [53, 3647]],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/XTx9Djrnh3Cm",
-      "gift_gold": 293,
-      "estimated_gift_value_idr": 732500,
-      "gift_rate_idr": 2500,
-      "gift_value_basis": "gold"
-    },
-    {
-      "id": "idn:gits-261115163316",
-      "platform": "idn",
-      "member": {
-        "name": "Gita",
-        "username": "jkt48_gita",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/449dae836a829fdd6767c3268ac51d93.webp?v=1778756058"
-      },
-      "title": "Gits",
-      "url": "https://www.idn.app/jkt48_gita/live/gits-261115163316",
-      "image": "https://cdn.idn.app/livestream/b3351c9a9eec8df0623b66d85f5a0246.webp",
-      "started_at": "2026-11-15T09:33:21.000Z",
-      "viewers": 2994,
-      "last_seen_at": "2026-11-15T10:00:06.094Z",
-      "peak_viewers": 2994,
-      "gifts": 14,
-      "gift_points": 1032,
-      "stars": 0,
-      "comments": 523,
-      "gift_breakdown": {
-        "GITA": 1,
-        "Toa": 1,
-        "Semangat kak": 1,
-        "Mawar": 3,
-        "Kompas": 1,
-        "Angklung": 1,
-        "Matcha": 3,
-        "Es Kelapa": 1,
-        "Water": 1,
-        "Komodo": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "ofana .",
-          "points": 596,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4267953070725f7f7801502c02f126ca.webp?v=1769360374"
-        },
-        {
-          "rank": 2,
-          "name": "Takashi Kida",
-          "points": 196,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-        },
-        {
-          "rank": 3,
-          "name": "Alpukat Rs",
-          "points": 52,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3a70730131b2e792645857662e90f80f.webp?v=1793966830"
-        },
-        {
-          "rank": 4,
-          "name": "Septiii ",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eacb97c5b776ab935d1bcbd7b2f6871b.webp?v=1794557116"
-        },
-        {
           "rank": 5,
-          "name": "Kruaa aja.",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/767f2e148f15bbdd1433b61bc45d7b26.webp?v=1729746183"
+          "name": "Candra Kus",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/169d84f72a668cf646b684598420751a.webp?v=1759225795"
         },
         {
           "rank": 6,
-          "name": "Dwi Refa #4thDescender",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f07fd548dd8b9b98d45839e91b477d56.webp?v=1793719774"
-        },
-        {
-          "rank": 7,
-          "name": "Muhammad Irsyat J",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d46e9e09401f34640c67b472bb6a0ee.webp?v=1784039027"
-        },
-        {
-          "rank": 8,
-          "name": "Eko Wahyu",
-          "points": 16,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f1be7956476a890cc6f0c8298c525845.webp?v=1794026085"
-        },
-        {
-          "rank": 9,
-          "name": "paijaaa gsuka mtk",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2f52a9d72bc02d2c21d02ff569c899f1.webp?v=1788079400"
-        },
-        {
-          "rank": 10,
-          "name": "Bams \"",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b106b3f3a8233156516c4862fc0fb810.webp?v=1794668387"
-        }
-      ],
-      "viewer_series": [[1, 63], [2, 223], [3, 336], [4, 416], [5, 490], [6, 574], [7, 693], [8, 870], [9, 1103], [10, 1307], [11, 1481], [12, 1614], [13, 1726], [14, 1810], [15, 1916], [16, 2019], [17, 2124], [18, 2225], [19, 2276], [20, 2362], [21, 2442], [22, 2534], [23, 2627], [24, 2718], [25, 2817], [26, 2910], [27, 2994]],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-      "gift_gold": 258,
-      "estimated_gift_value_idr": 645000,
-      "gift_rate_idr": 2500,
-      "gift_value_basis": "gold"
-    },
-    {
-      "id": "idn:hellooo-261115163909",
-      "platform": "idn",
-      "member": {
-        "name": "Bella",
-        "username": "jkt48_bella",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7dba9f66e9e74856ced7c5d6b674b2.webp?v=1779088114"
-      },
-      "title": "Hellooo",
-      "url": "https://www.idn.app/jkt48_bella/live/hellooo-261115163909",
-      "image": "https://cdn.idn.app/livestream/80e785ec54f6c3a1b35aae50fe27e58d.webp",
-      "started_at": "2026-11-15T09:39:14.000Z",
-      "viewers": 2081,
-      "last_seen_at": "2026-11-15T10:00:06.094Z",
-      "peak_viewers": 2081,
-      "gifts": 16,
-      "gift_points": 496,
-      "stars": 0,
-      "comments": 341,
-      "gift_breakdown": {
-        "Kompas": 5,
-        "HADIIIRRR!!": 1,
-        "Toa": 3,
-        "Semangat kak": 1,
-        "Pumpkin": 1,
-        "Cold Water": 1,
-        "Matcha": 3,
-        "Angklung": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "Dekdoni 20",
-          "points": 144,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c0ea50db16c13257afed26f7b3f52719.webp?v=1793935490"
-        },
-        {
-          "rank": 2,
-          "name": "MTC .",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/67dc16e01a7b054078f554b64b3a0ed4.webp?v=1780131660"
-        },
-        {
-          "rank": 3,
-          "name": "Faiiizz2",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c699ff762e308fd93aec20eec14634fe.webp?v=1731372811"
-        },
-        {
-          "rank": 4,
-          "name": "ZUUNNIIIII 🦈🦈🦈",
-          "points": 60,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc927b29c58fc99ed88fcc79c62ddecf.webp?v=1770141205"
-        },
-        {
-          "rank": 5,
-          "name": "Anto .",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5703c3da2d264e0e4ade99ccf07854f2.webp?v=1785496830"
-        },
-        {
-          "rank": 6,
-          "name": "hagan .",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b6b3e43a56986b3a9598c0b6aeae77c.webp?v=1762263847"
-        },
-        {
-          "rank": 7,
-          "name": "Aurelioord .",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eda88c53193c06b72f2d9ae5c9bf9fb3.webp?v=1793539394"
-        },
-        {
-          "rank": 8,
-          "name": "Ryan Nova nya mikaela ",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe917b96751f1e19ba443fc56aa8de81.webp?v=1780205616"
-        },
-        {
-          "rank": 9,
-          "name": "Messi Widiastuti",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eabeebc9e5b4aae9293279fe901c9482.webp?v=1794582057"
-        },
-        {
-          "rank": 10,
-          "name": "adik ajay .",
+          "name": "Miftahul Ihsan ",
           "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/84e50e88e21c44e12f81211d3d01192e.webp?v=1794065774"
-        }
-      ],
-      "viewer_series": [[0, 7], [1, 75], [2, 277], [3, 446], [4, 594], [5, 729], [6, 837], [7, 932], [8, 1017], [9, 1112], [10, 1165], [11, 1250], [12, 1349], [13, 1432], [14, 1523], [15, 1608], [16, 1687], [17, 1771], [18, 1837], [19, 1917], [20, 2006], [21, 2081]],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/z9BVDVnpFbGq",
-      "gift_gold": 124,
-      "estimated_gift_value_idr": 310000,
-      "gift_rate_idr": 2500,
-      "gift_value_basis": "gold"
-    },
-    {
-      "id": "idn:wooo-261115164022",
-      "platform": "idn",
-      "member": {
-        "name": "Heidi",
-        "username": "jkt48_heidi",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d3c7e04aaf311e80759ac3cc2acf6569.webp?v=1779088220"
-      },
-      "title": "wooo",
-      "url": "https://www.idn.app/jkt48_heidi/live/wooo-261115164022",
-      "image": "https://cdn.idn.app/livestream/34154c9bdf5f455739bf863c22f697ac.webp",
-      "started_at": "2026-11-15T09:40:28.000Z",
-      "viewers": 1141,
-      "last_seen_at": "2026-11-15T10:00:06.094Z",
-      "peak_viewers": 1141,
-      "gifts": 9,
-      "gift_points": 444,
-      "stars": 0,
-      "comments": 513,
-      "gift_breakdown": {
-        "Angklung": 1,
-        "Cold Water": 1,
-        "SSETAAAN": 1,
-        "Cupid": 1,
-        "Kompas": 1,
-        "HADIIIRRR!!": 1,
-        "Toa": 1,
-        "Ngeri Banget": 1,
-        "Zombie": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "Rendi Sensei",
-          "points": 132,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5d639c392dd68acdeffc3c7630790edc.webp?v=1733238744"
-        },
-        {
-          "rank": 2,
-          "name": "Pauuuu .",
-          "points": 120,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3165e2a3db2405893cedc50996372e94.webp?v=1794635293"
-        },
-        {
-          "rank": 3,
-          "name": "Shinbé Kiyawara",
-          "points": 76,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
-        },
-        {
-          "rank": 4,
-          "name": "eLByy",
-          "points": 48,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-        },
-        {
-          "rank": 5,
-          "name": "Inas😼 .",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bd21783a1231c007de5190ba33c3c2ca.webp?v=1793013873"
-        },
-        {
-          "rank": 6,
-          "name": "Arzi 😼 😼",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a1f08176e316e687aad7fc186213d213.webp?v=1794724955"
-        },
-        {
-          "rank": 7,
-          "name": "Rosesa -",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d641fb376084f02f199c06b345a6eb9.webp?v=1785337995"
         }
       ],
-      "viewer_series": [[0, 2], [1, 46], [2, 178], [3, 278], [4, 341], [5, 402], [6, 452], [7, 508], [8, 562], [9, 619], [10, 667], [11, 717], [12, 782], [13, 825], [14, 877], [15, 931], [16, 950], [17, 985], [18, 1023], [19, 1089], [20, 1141]],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/RlEQ5n2DKXVz",
-      "gift_gold": 111,
-      "estimated_gift_value_idr": 277500,
+      "viewer_series": [[0, 11], [1, 80], [2, 193], [3, 230], [4, 339], [5, 430], [53, 3697], [54, 3728], [55, 3758], [56, 3812], [57, 3848], [58, 3885], [59, 3929]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/XTx9Djrnh3Cm",
+      "gift_gold": 43,
+      "estimated_gift_value_idr": 107500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -497,30 +148,250 @@
       "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261115165822",
       "image": "https://cdn.idn.app/livestream/9e18b01f1aa42bf85df9f37557128611.webp",
       "started_at": "2026-11-15T09:58:27.000Z",
-      "viewers": 310,
-      "last_seen_at": "2026-11-15T10:00:06.094Z",
-      "peak_viewers": 310,
-      "gifts": 1,
-      "gift_points": 556,
+      "viewers": 1111,
+      "last_seen_at": "2026-11-15T10:05:59.014Z",
+      "peak_viewers": 1111,
+      "gifts": 3,
+      "gift_points": 44,
       "stars": 0,
-      "comments": 70,
+      "comments": 188,
       "gift_breakdown": {
-        "Graffiti": 1
+        "Water": 1,
+        "Kompas": 1,
+        "Toa": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "Agazz .",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7389d2ce2d7c5bfa8db863eea6b9c40f.webp?v=1787927433"
+        },
+        {
+          "rank": 2,
+          "name": "Vinaaa DP~",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4a4d6e05a50191edf60453606a0bba21.webp?v=1794213164"
+        },
+        {
+          "rank": 3,
+          "name": "Adinda Cahayati",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+        }
+      ],
+      "viewer_series": [[2, 470], [3, 566], [4, 720], [5, 851], [6, 963], [7, 1063], [8, 1111]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
+      "gift_gold": 11,
+      "estimated_gift_value_idr": 27500,
+      "gift_rate_idr": 2500,
+      "gift_value_basis": "gold"
+    },
+    {
+      "id": "idn:gits-261115163316",
+      "platform": "idn",
+      "member": {
+        "name": "Gita",
+        "username": "jkt48_gita",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/449dae836a829fdd6767c3268ac51d93.webp?v=1778756058"
+      },
+      "title": "Gits",
+      "url": "https://www.idn.app/jkt48_gita/live/gits-261115163316",
+      "image": "https://cdn.idn.app/livestream/b3351c9a9eec8df0623b66d85f5a0246.webp",
+      "started_at": "2026-11-15T09:33:21.000Z",
+      "viewers": 3506,
+      "last_seen_at": "2026-11-15T10:05:59.014Z",
+      "peak_viewers": 3506,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 60,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[27, 3071], [28, 3139], [29, 3241], [30, 3281], [31, 3355], [32, 3432], [33, 3506]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    },
+    {
+      "id": "idn:hellooo-261115163909",
+      "platform": "idn",
+      "member": {
+        "name": "Bella",
+        "username": "jkt48_bella",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7dba9f66e9e74856ced7c5d6b674b2.webp?v=1779088114"
+      },
+      "title": "Hellooo",
+      "url": "https://www.idn.app/jkt48_bella/live/hellooo-261115163909",
+      "image": "https://cdn.idn.app/livestream/80e785ec54f6c3a1b35aae50fe27e58d.webp",
+      "started_at": "2026-11-15T09:39:14.000Z",
+      "viewers": 2549,
+      "last_seen_at": "2026-11-15T10:05:59.014Z",
+      "peak_viewers": 2549,
+      "gifts": 4,
+      "gift_points": 108,
+      "stars": 0,
+      "comments": 93,
+      "gift_breakdown": {
+        "Pumpkin": 1,
+        "Kompas": 2,
+        "HADIIIRRR!!": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "Faiiizz2",
+          "points": 88,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c699ff762e308fd93aec20eec14634fe.webp?v=1731372811"
+        },
+        {
+          "rank": 2,
+          "name": "Onil ㅤ",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ae65ac4f43c132b0f80d4be01a1253dc.webp?v=1792427749"
+        }
+      ],
+      "viewer_series": [[22, 2155], [23, 2261], [24, 2353], [25, 2419], [26, 2477], [27, 2549]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/z9BVDVnpFbGq",
+      "gift_gold": 27,
+      "estimated_gift_value_idr": 67500,
+      "gift_rate_idr": 2500,
+      "gift_value_basis": "gold"
+    },
+    {
+      "id": "idn:wooo-261115164022",
+      "platform": "idn",
+      "member": {
+        "name": "Heidi",
+        "username": "jkt48_heidi",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d3c7e04aaf311e80759ac3cc2acf6569.webp?v=1779088220"
+      },
+      "title": "wooo",
+      "url": "https://www.idn.app/jkt48_heidi/live/wooo-261115164022",
+      "image": "https://cdn.idn.app/livestream/34154c9bdf5f455739bf863c22f697ac.webp",
+      "started_at": "2026-11-15T09:40:28.000Z",
+      "viewers": 1483,
+      "last_seen_at": "2026-11-15T10:05:59.014Z",
+      "peak_viewers": 1483,
+      "gifts": 1,
+      "gift_points": 20,
+      "stars": 0,
+      "comments": 55,
+      "gift_breakdown": {
+        "Kompas": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "narel baik",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a663aba0abc0545cc3016e92b32f2ae0.webp?v=1788095622"
+        }
+      ],
+      "viewer_series": [[20, 1196], [21, 1247], [22, 1298], [23, 1352], [24, 1404], [25, 1455], [26, 1483]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/RlEQ5n2DKXVz",
+      "gift_gold": 5,
+      "estimated_gift_value_idr": 12500,
+      "gift_rate_idr": 2500,
+      "gift_value_basis": "gold"
+    },
+    {
+      "id": "idn:hai-261115170217",
+      "platform": "idn",
+      "member": {
+        "name": "Ekin",
+        "username": "jkt48_ekin",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bcd54a4ea423aed142ea0e22ea9258a8.webp?v=1743097485"
+      },
+      "title": "hai",
+      "url": "https://www.idn.app/jkt48_ekin/live/hai-261115170217",
+      "image": "https://cdn.idn.app/livestream/92f8e7e2a5b7ff78558ec4942f998340.webp",
+      "started_at": "2026-11-15T10:02:26.000Z",
+      "viewers": 544,
+      "last_seen_at": "2026-11-15T10:05:59.014Z",
+      "peak_viewers": 544,
+      "gifts": 6,
+      "gift_points": 284,
+      "stars": 0,
+      "comments": 429,
+      "gift_breakdown": {
+        "Emas Batang": 1,
+        "Toa": 3,
+        "HAHAHA": 1,
+        "Water": 1
       },
       "top_gifters": [
         {
           "rank": 1,
           "name": "dagdigdugdeerr .",
-          "points": 556,
+          "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a265d8588c4b140a34250ca9937442ea.webp?v=1792413558"
+        },
+        {
+          "rank": 2,
+          "name": "Mikimon ;",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/555ed0af2e6c8cffe9df0e02208e1f5e.webp?v=1794317665"
+        },
+        {
+          "rank": 3,
+          "name": "Ekin wong bingung Bren",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/11892a0e0ec30a6792e1503fec7757f2.webp?v=1794651800"
+        },
+        {
+          "rank": 4,
+          "name": "Azrie Ahmad",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787"
+        },
+        {
+          "rank": 5,
+          "name": "Shinbé Kiyawara",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
+        },
+        {
+          "rank": 6,
+          "name": "Adinda Cahayati",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         }
       ],
-      "viewer_series": [[0, 0], [1, 78], [2, 310]],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
-      "gift_gold": 139,
-      "estimated_gift_value_idr": 347500,
+      "viewer_series": [[0, 68], [1, 166], [2, 333], [3, 403], [4, 544]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/3GzmMqHzNnZY",
+      "gift_gold": 71,
+      "estimated_gift_value_idr": 177500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
+    },
+    {
+      "id": "idn:hai-261115170455",
+      "platform": "idn",
+      "member": {
+        "name": "Lana",
+        "username": "jkt48_lana",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a390f0bed11a773710648af657470bb8.webp?v=1778761589"
+      },
+      "title": "Hai",
+      "url": "https://www.idn.app/jkt48_lana/live/hai-261115170455",
+      "image": "https://cdn.idn.app/livestream/b70c1dc09f7d4316d556684171468dd2.webp",
+      "started_at": "2026-11-15T10:05:01.000Z",
+      "viewers": 90,
+      "last_seen_at": "2026-11-15T10:05:59.014Z",
+      "peak_viewers": 90,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 18,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 21], [1, 90]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
     }
   ]
 }

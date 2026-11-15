@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 17.00 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 17.06 WIB.
 
 ## Interval pembaruan
 
@@ -46,21 +46,23 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Ralyne | IDN Live | HAIII | 15 Nov 2026, 16.07 | 3.512 |
-| Sona | IDN Live | rakitttttt | 15 Nov 2026, 16.07 | 3.647 |
-| Gita | IDN Live | Gits | 15 Nov 2026, 16.33 | 2.994 |
-| Bella | IDN Live | Hellooo | 15 Nov 2026, 16.39 | 2.081 |
-| Heidi | IDN Live | wooo | 15 Nov 2026, 16.40 | 1.141 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 16.58 | 310 |
+| Ralyne | IDN Live | HAIII | 15 Nov 2026, 16.07 | 3.882 |
+| Sona | IDN Live | rakitttttt | 15 Nov 2026, 16.07 | 3.929 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 16.58 | 1.111 |
+| Gita | IDN Live | Gits | 15 Nov 2026, 16.33 | 3.506 |
+| Bella | IDN Live | Hellooo | 15 Nov 2026, 16.39 | 2.549 |
+| Heidi | IDN Live | wooo | 15 Nov 2026, 16.40 | 1.483 |
+| Ekin | IDN Live | hai | 15 Nov 2026, 17.02 | 544 |
+| Lana | IDN Live | Hai | 15 Nov 2026, 17.05 | 90 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Gita | IDN Live | Gits | 15 Nov 2026, 16.31 | 2m | 163 | 0 | — | — | 89 |
-| Maxine | IDN Live | haaaiiii | 15 Nov 2026, 15.30 | 70m | 3.418 | 84 | 1.015 | — | 4.007 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 15.21 | 71m | 4.735 | 51 | 734 | — | 2.564 |
-| Giaa | IDN Live | p | 15 Nov 2026, 15.21 | 73m | 3.449 | 59 | 516 | — | 713 |
+| Maxine | IDN Live | haaaiiii | 15 Nov 2026, 15.30 | 42m | 2.087 | 60 | 605 | — | 2.710 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 15.21 | 51m | 3.549 | 35 | 466 | — | 1.721 |
+| Giaa | IDN Live | p | 15 Nov 2026, 15.21 | 51m | 2.335 | 35 | 271 | — | 469 |
 | Michie | IDN Live | live  aja | 15 Nov 2026, 13.43 | 61m | 7.388 | 82 | 1.317 | — | 6.593 |
 | Rara | IDN Live | temeninnn | 15 Nov 2026, 12.44 | 71m | 2.338 | 56 | 679 | — | 1.237 |
 | Jazzy | IDN Live | when ya | 15 Nov 2026, 12.31 | 70m | 3.463 | 68 | 1.187 | — | 5.224 |
