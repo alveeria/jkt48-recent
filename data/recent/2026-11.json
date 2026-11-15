@@ -1,5 +1,80 @@
 [
   {
+    "id": "idn:alveeria-2918",
+    "platform": "idn",
+    "member": {
+      "name": "Danella",
+      "username": "jkt48_danella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/be61050d0a932e43131b95020de99eb5.webp?v=1778755347"
+    },
+    "title": "☺️",
+    "url": "https://www.idn.app/jkt48_danella/live/261115202517",
+    "image": "https://cdn.idn.app/livestream/cd36f01e1ef0eda412684acb492336cd.webp",
+    "started_at": "2026-11-15T13:25:22.000Z",
+    "last_seen_at": "2026-11-15T13:58:07.261Z",
+    "peak_viewers": 1183,
+    "gifts": 9,
+    "gift_points": 404,
+    "stars": 0,
+    "comments": 262,
+    "gift_breakdown": {
+      "Toa": 2,
+      "Emas Batang": 1,
+      "Pumpkin": 4,
+      "Water": 1,
+      "Cold Water": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "kirana a",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c2c9e96f2789de9aa2551b175b99ac8.webp?v=1784558638"
+      },
+      {
+        "rank": 2,
+        "name": "Arham Amin",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ac77983d1f6a8a3304b6533852d1938b.webp?v=1766420788"
+      },
+      {
+        "rank": 3,
+        "name": "rakha rizky",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0a08522e78c1e07f2fcaf9f500b2dcb5.webp?v=1785074831"
+      },
+      {
+        "rank": 4,
+        "name": "nasip .",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91dd07ad26442e0055a1718166a3c6bb.webp?v=1794743871"
+      },
+      {
+        "rank": 5,
+        "name": "Josua Fernando",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e065e3d661112b2090b6510c494fd506.webp?v=1765902401"
+      },
+      {
+        "rank": 6,
+        "name": "Indah Sfr ",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/22b0a316f8cc4775b5c018609dfc02bb.webp?v=1755179491"
+      }
+    ],
+    "viewer_series": [[0, 6], [1, 34], [2, 74], [3, 89], [4, 117], [5, 143], [6, 188], [7, 225], [8, 263], [9, 288], [10, 308], [11, 336], [12, 386], [13, 405], [14, 435], [15, 469], [16, 510], [17, 547], [18, 578], [19, 613], [20, 647], [21, 680], [22, 729], [23, 803], [24, 827], [25, 873], [26, 910], [27, 951], [28, 989], [29, 1033], [30, 1072], [31, 1113], [32, 1144], [33, 1183]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oVyfRQMZJsNA",
+    "gift_gold": 101,
+    "estimated_gift_value_idr": 252500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-15T13:58:07.261Z",
+    "duration_minutes": 33,
+    "last_viewers": 1183,
+    "unique_gifters": 6,
+    "source_id": "idn:261115202517"
+  },
+  {
     "id": "idn:alveeria-2917",
     "platform": "idn",
     "member": {

@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 20.57 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 21.02 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/15 | 15 Nov 2026, 18.44 | 877 |
-| Delynn | IDN Live | Hello | 15 Nov 2026, 19.56 | 13.515 |
-| Danella | IDN Live | ☺️ | 15 Nov 2026, 20.25 | 1.144 |
-| Daisy | IDN Live | Hi | 15 Nov 2026, 20.39 | 641 |
-| Eli | IDN Live | KaraokELI | 15 Nov 2026, 20.52 | 222 |
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/15 | 15 Nov 2026, 18.44 | 891 |
+| Delynn | IDN Live | Hello | 15 Nov 2026, 19.56 | 14.428 |
+| Daisy | IDN Live | Hi | 15 Nov 2026, 20.39 | 855 |
+| Eli | IDN Live | KaraokELI | 15 Nov 2026, 20.52 | 577 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Danella | IDN Live | ☺️ | 15 Nov 2026, 20.25 | 33m | 1.183 | 9 | 101 | — | 262 |
 | Aralie | IDN Live | hi | 15 Nov 2026, 19.28 | 78m | 13.910 | 87 | 1.526 | — | 7.293 |
 | Levi | IDN Live | hai | 15 Nov 2026, 18.39 | 66m | 8.264 | 52 | 1.142 | — | 2.778 |
 | Ribka | IDN Live | nagu mania | 15 Nov 2026, 18.32 | 64m | 6.674 | 19 | 360 | — | 882 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Gita | IDN Live | Gits | 14 Nov 2026, 21.43 | 63m | 8.242 | 49 | 978 | — | 1.275 |
 | Delynn | IDN Live | Malming kuy | 14 Nov 2026, 21.21 | 80m | 15.964 | 99 | 2.210 | — | 3.580 |
 | Lily | IDN Live | Hai | 14 Nov 2026, 21.15 | 34m | 6.580 | 42 | 1.523 | — | 2.114 |
-| Greesel | IDN Live | hi | 14 Nov 2026, 21.14 | 69m | 11.695 | 86 | 3.079 | — | 2.967 |
 
 ## Lisensi
 
