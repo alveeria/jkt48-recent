@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 20.46 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 20.51 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/15 | 15 Nov 2026, 18.44 | 838 |
-| Aralie | IDN Live | hi | 15 Nov 2026, 19.28 | 13.910 |
-| Delynn | IDN Live | Hello | 15 Nov 2026, 19.56 | 11.378 |
-| Danella | IDN Live | ☺️ | 15 Nov 2026, 20.25 | 699 |
-| Daisy | IDN Live | Hi | 15 Nov 2026, 20.39 | 256 |
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/15 | 15 Nov 2026, 18.44 | 862 |
+| Delynn | IDN Live | Hello | 15 Nov 2026, 19.56 | 12.602 |
+| Danella | IDN Live | ☺️ | 15 Nov 2026, 20.25 | 951 |
+| Daisy | IDN Live | Hi | 15 Nov 2026, 20.39 | 452 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Aralie | IDN Live | hi | 15 Nov 2026, 19.28 | 78m | 13.910 | 87 | 1.526 | — | 7.293 |
 | Levi | IDN Live | hai | 15 Nov 2026, 18.39 | 66m | 8.264 | 52 | 1.142 | — | 2.778 |
 | Ribka | IDN Live | nagu mania | 15 Nov 2026, 18.32 | 64m | 6.674 | 19 | 360 | — | 882 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 18.28 | 50m | 4.886 | 45 | 423 | — | 1.119 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Delynn | IDN Live | Malming kuy | 14 Nov 2026, 21.21 | 80m | 15.964 | 99 | 2.210 | — | 3.580 |
 | Lily | IDN Live | Hai | 14 Nov 2026, 21.15 | 34m | 6.580 | 42 | 1.523 | — | 2.114 |
 | Greesel | IDN Live | hi | 14 Nov 2026, 21.14 | 69m | 11.695 | 86 | 3.079 | — | 2.967 |
-| Fritzy | IDN Live | hellooo | 14 Nov 2026, 20.33 | 63m | 7.151 | 40 | 908 | — | 3.180 |
 
 ## Lisensi
 
