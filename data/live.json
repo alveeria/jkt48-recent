@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T05:37:03.112Z",
+  "updated_at": "2026-11-15T05:42:09.405Z",
   "lives": [
     {
       "id": "idn:hi-261115121752",
@@ -13,18 +13,21 @@
       "url": "https://www.idn.app/jkt48_muthe/live/hi-261115121752",
       "image": "https://cdn.idn.app/livestream/d95ffc788d848b39b62ddf410d1e045a.webp",
       "started_at": "2026-11-15T05:17:57.000Z",
-      "viewers": 1398,
-      "last_seen_at": "2026-11-15T05:37:02.492Z",
-      "peak_viewers": 1398,
-      "gifts": 4,
-      "gift_points": 504,
+      "viewers": 1668,
+      "last_seen_at": "2026-11-15T05:42:08.626Z",
+      "peak_viewers": 1668,
+      "gifts": 7,
+      "gift_points": 628,
       "stars": 0,
-      "comments": 333,
+      "comments": 431,
       "gift_breakdown": {
         "Angklung": 1,
         "Toa": 1,
         "MUTHE": 1,
-        "JKT48 Stage": 1
+        "JKT48 Stage": 1,
+        "Water": 1,
+        "Team Chill": 1,
+        "Pumpkin": 1
       },
       "top_gifters": [
         {
@@ -35,27 +38,33 @@
         },
         {
           "rank": 2,
-          "name": "iya ojan",
-          "points": 116,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656"
+          "name": "Rifqi リフキ 🦦",
+          "points": 200,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/878ed9217704684598956b2ef83ec635.webp?v=1762005070"
         },
         {
           "rank": 3,
-          "name": "Rifqi リフキ 🦦",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/878ed9217704684598956b2ef83ec635.webp?v=1762005070"
+          "name": "iya ojan",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656"
         },
         {
           "rank": 4,
           "name": "TASHA .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f6662c3671c16ce18db8eb36c374ccfa.webp?v=1743953817"
+        },
+        {
+          "rank": 5,
+          "name": "Nazip NakMakan",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/537b23e6592de355ec26c195abf72b25.webp?v=1793950700"
         }
       ],
-      "viewer_series": [[0, 1], [1, 40], [2, 131], [3, 179], [4, 227], [5, 265], [6, 326], [7, 384], [8, 442], [9, 551], [10, 729], [11, 828], [12, 904], [13, 980], [14, 1040], [15, 1090], [16, 1162], [17, 1218], [18, 1302], [19, 1374]],
+      "viewer_series": [[0, 1], [1, 40], [2, 131], [3, 179], [4, 227], [5, 265], [6, 326], [7, 384], [8, 442], [9, 551], [10, 729], [11, 828], [12, 904], [13, 980], [14, 1040], [15, 1090], [16, 1162], [17, 1218], [18, 1302], [19, 1374], [20, 1435], [21, 1496], [22, 1537], [23, 1600], [24, 1642]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-      "gift_gold": 126,
-      "estimated_gift_value_idr": 315000,
+      "gift_gold": 157,
+      "estimated_gift_value_idr": 392500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -71,19 +80,21 @@
       "url": "https://www.idn.app/jkt48_jazzy/live/when-ya-261115123114",
       "image": "https://cdn.idn.app/livestream/ee30f3c63c345ab0c7ec76069b50161e.webp",
       "started_at": "2026-11-15T05:31:20.000Z",
-      "viewers": 536,
-      "last_seen_at": "2026-11-15T05:37:02.492Z",
-      "peak_viewers": 536,
-      "gifts": 5,
-      "gift_points": 688,
+      "viewers": 805,
+      "last_seen_at": "2026-11-15T05:42:08.626Z",
+      "peak_viewers": 805,
+      "gifts": 11,
+      "gift_points": 996,
       "stars": 0,
-      "comments": 248,
+      "comments": 610,
       "gift_breakdown": {
         "Graffiti": 1,
         "Kompas": 1,
         "Ngeri Banget": 1,
-        "HAHAHA": 1,
-        "Jari Hati": 1
+        "HAHAHA": 2,
+        "Jari Hati": 3,
+        "Kucing": 2,
+        "Toa": 1
       },
       "top_gifters": [
         {
@@ -95,32 +106,32 @@
         {
           "rank": 2,
           "name": "serli gusdania",
-          "points": 64,
+          "points": 260,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6fde10b47884038ed23e33a9caf7477a.webp?v=1793874487"
         },
         {
           "rank": 3,
-          "name": "Rafly Mhuftialiee",
-          "points": 24,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8ca3fad7aafc1f2d31619ebce9edd9a8.webp?v=1793894688"
-        },
-        {
-          "rank": 4,
           "name": "Arzi😼 😼",
-          "points": 24,
+          "points": 116,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a1f08176e316e687aad7fc186213d213.webp?v=1794558986"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Kai .",
-          "points": 20,
+          "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/78a46524a6a737913b757e4f85e1f476.webp?v=1792743544"
+        },
+        {
+          "rank": 5,
+          "name": "Rafly Mhuftialiee",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8ca3fad7aafc1f2d31619ebce9edd9a8.webp?v=1793894688"
         }
       ],
-      "viewer_series": [[0, 1], [1, 25], [2, 200], [3, 292], [4, 374], [5, 463], [6, 536]],
+      "viewer_series": [[0, 1], [1, 25], [2, 200], [3, 292], [4, 374], [5, 463], [6, 536], [7, 600], [8, 653], [9, 705], [10, 764], [11, 805]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/AxffR6zxB39X",
-      "gift_gold": 172,
-      "estimated_gift_value_idr": 430000,
+      "gift_gold": 249,
+      "estimated_gift_value_idr": 622500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
