@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 19.19 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 19.24 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 18.28 | 4.886 |
-| Ribka | IDN Live | nagu mania | 15 Nov 2026, 18.32 | 5.184 |
-| Levi | IDN Live | hai | 15 Nov 2026, 18.39 | 5.213 |
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/15 | 15 Nov 2026, 18.44 | 468 |
+| Ribka | IDN Live | nagu mania | 15 Nov 2026, 18.32 | 5.578 |
+| Levi | IDN Live | hai | 15 Nov 2026, 18.39 | 5.758 |
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/15 | 15 Nov 2026, 18.44 | 487 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 18.28 | 50m | 4.886 | 45 | 423 | — | 1.119 |
 | Nachia | IDN Live | hi | 15 Nov 2026, 18.13 | 32m | 4.138 | 30 | 647 | — | 1.679 |
 | Jessi | IDN Live | hi lg main | 15 Nov 2026, 18.00 | 71m | 7.386 | 44 | 440 | — | 1.138 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 17.59 | 29m | 3.535 | 34 | 414 | — | 537 |
@@ -94,7 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Fritzy | IDN Live | hellooo | 14 Nov 2026, 20.33 | 63m | 7.151 | 40 | 908 | — | 3.180 |
 | Marsha | IDN Live | Plisss | 14 Nov 2026, 20.14 | 24m | 7.999 | 34 | 277 | — | 1.556 |
 | Oniel | IDN Live | saya kembali | 14 Nov 2026, 20.02 | 36m | 11.436 | 46 | 1.582 | — | 1.987 |
-| Aralie | IDN Live | hi | 14 Nov 2026, 20.00 | 31m | 11.766 | 19 | 876 | — | 3.208 |
 
 ## Lisensi
 
