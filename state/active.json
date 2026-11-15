@@ -11,35 +11,42 @@
     "url": "https://www.idn.app/jkt48_michie/live/live-aja-261115134316",
     "image": "https://cdn.idn.app/livestream/140989f6ef48d318b8a4ba78ddb66895.webp",
     "started_at": "2026-11-15T06:43:23.000Z",
-    "viewers": 2921,
-    "last_seen_at": "2026-11-15T06:59:00.156Z",
-    "peak_viewers": 2921,
-    "gifts": 5,
-    "gift_points": 136,
+    "viewers": 3623,
+    "last_seen_at": "2026-11-15T07:04:07.190Z",
+    "peak_viewers": 3623,
+    "gifts": 12,
+    "gift_points": 532,
     "stars": 0,
-    "comments": 1377,
+    "comments": 1863,
     "gift_breakdown": {
       "NALA": 1,
       "Mawar": 1,
       "Kompas": 2,
-      "Cold Water": 1
+      "Cold Water": 1,
+      "Toa": 4,
+      "MICHIE": 2,
+      "Jailangkung": 1
     },
     "gifters": {
       "c1e65cdd-1ce9-4bf9-b2a6-2c7ab5e6d26a": "Adrian Utomo",
       "60d90f7c-f6e7-4b94-b09a-3ee5be655b57": "Ce la",
       "e85b5541-b7f2-4618-bf6c-2d6dc755a96d": "NazarKingggg 👑 .",
       "af6334e9-ee7c-4861-bd05-74dfe5e6dd38": "Febskiyyyyyyyy ",
-      "82487de2-db53-4e31-8161-a8b8f4377bc4": "thaa Manuell"
+      "82487de2-db53-4e31-8161-a8b8f4377bc4": "thaa Manuell",
+      "eae42c26-e475-43c4-a788-4654bde7cc4c": "Trisna",
+      "f4bc48f9-9d39-4496-84a5-f33e011846a5": "ibam oshi nya semua member",
+      "20a6546d-9457-49e3-a998-d0074b17abdd": "Taufik D!",
+      "9461ce15-5d90-4414-8e6a-a34312fe62e8": "iya ojan"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921]],
+    "viewer_series": [[0, 7], [1, 105], [2, 283], [3, 452], [4, 614], [5, 765], [6, 906], [7, 1090], [8, 1269], [9, 1464], [10, 1842], [11, 2078], [12, 2172], [13, 2357], [14, 2549], [15, 2754], [16, 2921], [17, 3069], [18, 3226], [19, 3365], [20, 3503], [21, 3623]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 34,
+    "gift_gold": 133,
     "idn_gifters": {
       "c1e65cdd-1ce9-4bf9-b2a6-2c7ab5e6d26a": {
         "name": "Adrian Utomo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/995a46b313b141bcb483f408286abc81.webp?v=1794323648",
-        "points": 80
+        "points": 236
       },
       "60d90f7c-f6e7-4b94-b09a-3ee5be655b57": {
         "name": "Ce la",
@@ -59,10 +66,30 @@
       "82487de2-db53-4e31-8161-a8b8f4377bc4": {
         "name": "thaa Manuell",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5776f94beafdbe64e9b6212a7c26080a.webp?v=1789802621",
+        "points": 40
+      },
+      "eae42c26-e475-43c4-a788-4654bde7cc4c": {
+        "name": "Trisna",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20022709ef16119524c4d8591563f1d8.webp?v=1793775578",
+        "points": 20
+      },
+      "f4bc48f9-9d39-4496-84a5-f33e011846a5": {
+        "name": "ibam oshi nya semua member",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2a53cc19cea4573c0c853beaf45794b2.webp?v=1794702787",
+        "points": 100
+      },
+      "20a6546d-9457-49e3-a998-d0074b17abdd": {
+        "name": "Taufik D!",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e8b3296114f19e10eb6f1c46ab1d70b3.webp?v=1794559693",
+        "points": 80
+      },
+      "9461ce15-5d90-4414-8e6a-a34312fe62e8": {
+        "name": "iya ojan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656",
         "points": 20
       }
     },
-    "estimated_gift_value_idr": 85000,
+    "estimated_gift_value_idr": 332500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
