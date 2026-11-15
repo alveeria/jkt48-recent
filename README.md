@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 18.12 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 18.17 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,19 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lana | IDN Live | Hai | 15 Nov 2026, 17.05 | 6.727 |
-| Greesel | IDN Live | hi | 15 Nov 2026, 17.08 | 6.627 |
-| Intan | IDN Live | Gantian device ama  rilly😄🙏🏽 | 15 Nov 2026, 17.51 | 3.315 |
-| Rilly | IDN Live | mau ngobs sm ka nuys | 15 Nov 2026, 17.51 | 1.696 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 17.59 | 1.800 |
-| Jessi | IDN Live | hi lg main | 15 Nov 2026, 18.00 | 1.534 |
+| Intan | IDN Live | Gantian device ama  rilly😄🙏🏽 | 15 Nov 2026, 17.51 | 4.087 |
+| Rilly | IDN Live | mau ngobs sm ka nuys | 15 Nov 2026, 17.51 | 2.075 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 17.59 | 2.399 |
+| Jessi | IDN Live | hi lg main | 15 Nov 2026, 18.00 | 2.061 |
+| Nachia | IDN Live | hi | 15 Nov 2026, 18.13 | 482 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Nachia | IDN Live | hi | 15 Nov 2026, 17.21 | 33m | 3.773 | 57 | 1.711 | — | 2.530 |
+| Greesel | IDN Live | hi | 15 Nov 2026, 17.08 | 64m | 6.627 | 55 | 1.054 | — | 1.445 |
+| Lana | IDN Live | Hai | 15 Nov 2026, 17.05 | 71m | 7.018 | 56 | 1.146 | — | 2.394 |
 | Ekin | IDN Live | hai | 15 Nov 2026, 17.02 | 65m | 7.597 | 81 | 3.160 | — | 11.045 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 16.58 | 63m | 5.708 | 31 | 510 | — | 1.417 |
 | Heidi | IDN Live | wooo | 15 Nov 2026, 16.40 | 60m | 3.214 | 13 | 1.537 | — | 845 |
@@ -95,8 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Elin | IDN Live | Hai | 14 Nov 2026, 19.56 | 35m | 4.182 | 13 | 203 | — | 534 |
 | Rilly | IDN Live | Yukkk | 14 Nov 2026, 18.17 | 42m | 1.837 | 34 | 505 | — | 360 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 14 Nov 2026, 17.52 | 66m | 5.813 | 31 | 1.157 | — | 1.236 |
-| Intan | IDN Live | yu idn | 14 Nov 2026, 17.52 | 69m | 6.818 | 59 | 1.711 | — | 1.811 |
-| Giaa | IDN Live | p | 14 Nov 2026, 17.52 | 66m | 2.960 | 24 | 469 | — | 397 |
 
 ## Lisensi
 
