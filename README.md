@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 17.52 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 15 Nov 2026, 17.57 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jemima | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 16.58 | 4.768 |
-| Ekin | IDN Live | hai | 15 Nov 2026, 17.02 | 5.657 |
-| Lana | IDN Live | Hai | 15 Nov 2026, 17.05 | 4.530 |
-| Greesel | IDN Live | hi | 15 Nov 2026, 17.08 | 4.298 |
-| Nachia | IDN Live | hi | 15 Nov 2026, 17.21 | 3.427 |
-| Intan | IDN Live | Gantian device ama  rilly😄🙏🏽 | 15 Nov 2026, 17.51 | 136 |
-| Rilly | IDN Live | mau ngobs sm ka nuys | 15 Nov 2026, 17.51 | 29 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 16.58 | 5.300 |
+| Ekin | IDN Live | hai | 15 Nov 2026, 17.02 | 6.297 |
+| Lana | IDN Live | Hai | 15 Nov 2026, 17.05 | 5.071 |
+| Greesel | IDN Live | hi | 15 Nov 2026, 17.08 | 4.940 |
+| Intan | IDN Live | Gantian device ama  rilly😄🙏🏽 | 15 Nov 2026, 17.51 | 1.099 |
+| Rilly | IDN Live | mau ngobs sm ka nuys | 15 Nov 2026, 17.51 | 456 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Nachia | IDN Live | hi | 15 Nov 2026, 17.21 | 33m | 3.773 | 57 | 1.711 | — | 2.530 |
 | Heidi | IDN Live | wooo | 15 Nov 2026, 16.40 | 60m | 3.214 | 13 | 1.537 | — | 845 |
 | Bella | IDN Live | Hellooo | 15 Nov 2026, 16.39 | 63m | 5.135 | 27 | 327 | — | 660 |
 | Gita | IDN Live | Gits | 15 Nov 2026, 16.33 | 65m | 6.016 | 23 | 238 | — | 637 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Giaa | IDN Live | p | 14 Nov 2026, 17.52 | 66m | 2.960 | 24 | 469 | — | 397 |
 | Jessi | IDN Live | hi | 14 Nov 2026, 17.34 | 63m | 3.978 | 34 | 286 | — | 956 |
 | Bella | IDN Live | Hellooo | 14 Nov 2026, 17.14 | 62m | 4.102 | 35 | 512 | — | 611 |
-| Ralyne | IDN Live | HAIII | 14 Nov 2026, 17.14 | 66m | 3.583 | 21 | 410 | — | 392 |
 
 ## Lisensi
 
