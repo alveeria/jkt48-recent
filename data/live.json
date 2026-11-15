@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T05:21:38.065Z",
+  "updated_at": "2026-11-15T05:26:47.466Z",
   "lives": [
     {
       "id": "idn:hi-261115121752",
@@ -13,20 +13,30 @@
       "url": "https://www.idn.app/jkt48_muthe/live/hi-261115121752",
       "image": "https://cdn.idn.app/livestream/d95ffc788d848b39b62ddf410d1e045a.webp",
       "started_at": "2026-11-15T05:17:57.000Z",
-      "viewers": 227,
-      "last_seen_at": "2026-11-15T05:21:37.007Z",
-      "peak_viewers": 227,
-      "gifts": 0,
-      "gift_points": 0,
+      "viewers": 551,
+      "last_seen_at": "2026-11-15T05:26:46.468Z",
+      "peak_viewers": 551,
+      "gifts": 1,
+      "gift_points": 116,
       "stars": 0,
-      "comments": 49,
-      "gift_breakdown": {},
-      "top_gifters": [],
-      "viewer_series": [[0, 1], [1, 40], [2, 131], [3, 179], [4, 227]],
+      "comments": 115,
+      "gift_breakdown": {
+        "Angklung": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "iya ojan",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/103b511d32cf7ab3eece5f5a4059ed13.webp?v=1794673656"
+        }
+      ],
+      "viewer_series": [[0, 1], [1, 40], [2, 131], [3, 179], [4, 227], [5, 265], [6, 326], [7, 384], [8, 442], [9, 551]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-      "estimated_gift_value_idr": null,
-      "gift_rate_idr": null,
-      "gift_value_basis": null
+      "gift_gold": 29,
+      "estimated_gift_value_idr": 72500,
+      "gift_rate_idr": 2500,
+      "gift_value_basis": "gold"
     }
   ]
 }
