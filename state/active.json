@@ -11,19 +11,19 @@
     "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261116161013",
     "image": "https://cdn.idn.app/livestream/b6f95b9039ba3ac50ab03cc43615385d.webp",
     "started_at": "2026-11-16T09:10:19.000Z",
-    "viewers": 3928,
-    "last_seen_at": "2026-11-16T10:27:08.886Z",
-    "peak_viewers": 3928,
-    "gifts": 23,
-    "gift_points": 1356,
+    "viewers": 4135,
+    "last_seen_at": "2026-11-16T10:32:20.739Z",
+    "peak_viewers": 4135,
+    "gifts": 25,
+    "gift_points": 1380,
     "stars": 0,
-    "comments": 1075,
+    "comments": 1200,
     "gift_breakdown": {
       "Graffiti": 1,
       "Cold Water": 8,
       "Es Kelapa": 1,
       "Mawar": 1,
-      "Kompas": 1,
+      "Kompas": 2,
       "Boba Tea": 1,
       "Jari Hati": 1,
       "Toa": 2,
@@ -31,7 +31,7 @@
       "JKT48 Show": 1,
       "Angklung": 1,
       "Lemon Tea": 1,
-      "Water": 3
+      "Water": 4
     },
     "gifters": {
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": "dagdigdugdeerr .",
@@ -52,12 +52,13 @@
       "c4ac74d2-e970-4769-a0de-c2626f05fd99": "Janelle A",
       "e7af7aab-9315-4460-b48b-ba4332a94309": "Ajeng Najwa",
       "c290ffbf-7b5c-4953-8994-f42ae442fc56": "Nay Khan",
-      "793e1f3f-96c1-4fd6-94b1-516ad8c19201": "Maya Ya"
+      "793e1f3f-96c1-4fd6-94b1-516ad8c19201": "Maya Ya",
+      "64376781-7e69-48b7-819b-7921b37dfe89": "Risqi Vodoo ☃️"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 6], [1, 32], [2, 102], [3, 159], [4, 209], [5, 277], [6, 307], [7, 375], [8, 462], [9, 616], [10, 744], [11, 844], [12, 905], [13, 975], [14, 1026], [15, 1083], [51, 2962], [52, 3002], [53, 3037], [54, 3072], [55, 3107], [56, 3124], [57, 3181], [58, 3213], [59, 3249], [60, 3297], [61, 3341], [62, 3379], [63, 3422], [64, 3460], [65, 3488], [66, 3541], [67, 3578], [68, 3598], [69, 3644], [70, 3685], [71, 3716], [72, 3753], [73, 3782], [74, 3826], [75, 3867], [76, 3895], [77, 3928]],
+    "viewer_series": [[0, 6], [1, 32], [2, 102], [3, 159], [4, 209], [5, 277], [6, 307], [7, 375], [8, 462], [9, 616], [10, 744], [11, 844], [12, 905], [13, 975], [14, 1026], [15, 1083], [51, 2962], [52, 3002], [53, 3037], [54, 3072], [55, 3107], [56, 3124], [57, 3181], [58, 3213], [59, 3249], [60, 3297], [61, 3341], [62, 3379], [63, 3422], [64, 3460], [65, 3488], [66, 3541], [67, 3578], [68, 3598], [69, 3644], [70, 3685], [71, 3716], [72, 3753], [73, 3782], [74, 3826], [75, 3867], [76, 3895], [77, 3928], [78, 3986], [79, 4022], [80, 4059], [81, 4096], [82, 4116]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL",
-    "gift_gold": 339,
+    "gift_gold": 345,
     "idn_gifters": {
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": {
         "name": "dagdigdugdeerr .",
@@ -72,7 +73,7 @@
       "5e944eb0-2f6e-43d0-b744-c25d546652e3": {
         "name": "adik kala sayang kacila",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fc3c3d06c1dc7c4fcb8fea9271fc4364.webp?v=1794741533",
-        "points": 4
+        "points": 8
       },
       "a25591c5-72e4-4085-a610-0b5b4559545c": {
         "name": "Sofi Sofi",
@@ -153,9 +154,14 @@
         "name": "Maya Ya",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dd2c7dbd9e884ae229ce70a7b1eb7e4b.webp?v=1786788206",
         "points": 4
+      },
+      "64376781-7e69-48b7-819b-7921b37dfe89": {
+        "name": "Risqi Vodoo ☃️",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/69922b3843b5962b134ed019361fdf86.webp?v=1793718311",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 847500,
+    "estimated_gift_value_idr": 862500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
