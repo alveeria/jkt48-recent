@@ -1,5 +1,100 @@
 [
   {
+    "id": "idn:alveeria-2937",
+    "platform": "idn",
+    "member": {
+      "name": "Giaa",
+      "username": "jkt48_giaa",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1cf340bb3a2b74fb5ba8dd469fa999c3.webp?v=1743097386"
+    },
+    "title": "p",
+    "url": "https://www.idn.app/jkt48_giaa/live/p-261116153752",
+    "image": "https://cdn.idn.app/livestream/adc634618894b6834baec409fa9fbbed.webp",
+    "started_at": "2026-11-16T08:37:58.000Z",
+    "last_seen_at": "2026-11-16T09:17:23.570Z",
+    "peak_viewers": 2514,
+    "gifts": 20,
+    "gift_points": 796,
+    "stars": 0,
+    "comments": 432,
+    "gift_breakdown": {
+      "Toa": 7,
+      "Combat": 1,
+      "Masker": 1,
+      "Lightstick": 1,
+      "Kompas": 2,
+      "GIAA": 1,
+      "Angklung": 1,
+      "Semangat kak": 1,
+      "Yuk bisa yuk": 1,
+      "SSETAAAN": 1,
+      "Happy B-Day!": 1,
+      "Matcha": 1,
+      "Pumpkin": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Mikimon ;",
+        "points": 176,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/555ed0af2e6c8cffe9df0e02208e1f5e.webp?v=1794317665"
+      },
+      {
+        "rank": 2,
+        "name": "WISNU CARISSA ONLY🦖🦖🦖 AJA",
+        "points": 160,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d2697f8719892a602f109b7f7e008511.webp?v=1794631461"
+      },
+      {
+        "rank": 3,
+        "name": "Divaa ❤️‍🩹",
+        "points": 140,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/16cef96ceb739b6f788710028edcd82b.webp?v=1794731730"
+      },
+      {
+        "rank": 4,
+        "name": "Azrie Ahmad",
+        "points": 120,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787"
+      },
+      {
+        "rank": 5,
+        "name": "Ravly Only Giaa🐱 ,",
+        "points": 100,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a72ab78ef8df07122d10b2a2f098f3ff.webp?v=1783346697"
+      },
+      {
+        "rank": 6,
+        "name": "NOOR GradChia ☆",
+        "points": 60,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91ada0defa3ecfbe7ea693f8eaa4f503.webp?v=1791537739"
+      },
+      {
+        "rank": 7,
+        "name": "ᴋᴀʀʀᴇʟ._ lagi tipes",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b255793717b9ab81a2196a46acc9aeb5.webp?v=1794298249"
+      },
+      {
+        "rank": 8,
+        "name": "Enerfyx 3",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/079117b5607be543ec3a80d7da75bcbf.webp?v=1794322478"
+      }
+    ],
+    "viewer_series": [[0, 1], [1, 11], [2, 95], [3, 169], [4, 252], [5, 350], [6, 455], [7, 549], [8, 595], [9, 651], [10, 718], [11, 763], [12, 813], [13, 840], [14, 907], [15, 972], [16, 1027], [17, 1071], [18, 1095], [19, 1125], [20, 1163], [21, 1206], [22, 1241], [23, 1281], [24, 1326], [25, 1393], [26, 1448], [27, 1519], [28, 1565], [29, 1659], [30, 1734], [31, 1817], [32, 1953], [33, 2063], [34, 2119], [35, 2194], [36, 2275], [37, 2347], [38, 2421], [39, 2481]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/bvrb49s4z5Ds",
+    "gift_gold": 199,
+    "estimated_gift_value_idr": 497500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-16T09:17:23.570Z",
+    "duration_minutes": 39,
+    "last_viewers": 2514,
+    "unique_gifters": 8,
+    "source_id": "idn:p-261116153752"
+  },
+  {
     "id": "idn:alveeria-2935",
     "platform": "idn",
     "member": {
