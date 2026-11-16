@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:03:53.087Z",
+  "updated_at": "2026-11-16T06:09:03.680Z",
   "lives": [
     {
       "id": "idn:hiii-261116130251",
@@ -13,20 +13,45 @@
       "url": "https://www.idn.app/jkt48_gracie/live/hiii-261116130251",
       "image": "https://cdn.idn.app/livestream/45277c459181a1361a57a8734fc27aa2.webp",
       "started_at": "2026-11-16T06:02:55.000Z",
-      "viewers": 90,
-      "last_seen_at": "2026-11-16T06:03:52.103Z",
-      "peak_viewers": 90,
-      "gifts": 0,
-      "gift_points": 0,
+      "viewers": 461,
+      "last_seen_at": "2026-11-16T06:09:02.635Z",
+      "peak_viewers": 461,
+      "gifts": 4,
+      "gift_points": 92,
       "stars": 0,
-      "comments": 8,
-      "gift_breakdown": {},
-      "top_gifters": [],
-      "viewer_series": [[0, 26], [1, 90]],
+      "comments": 253,
+      "gift_breakdown": {
+        "Toa": 1,
+        "Kompas": 1,
+        "Pumpkin": 1,
+        "Es Kelapa": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "ikii _",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc562369d218f61e85fee30e6fa8150c.webp?v=1793811399"
+        },
+        {
+          "rank": 2,
+          "name": "Dhanduttt Nachia Only",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6322609698ce91adbfd1493e558b7419.webp?v=1794587307"
+        },
+        {
+          "rank": 3,
+          "name": "Tomo ",
+          "points": 12,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/beb9ba335e10b620adc60f06a4865c7b.webp?v=1774452402"
+        }
+      ],
+      "viewer_series": [[0, 26], [1, 90], [2, 148], [3, 239], [4, 309], [5, 365], [6, 420]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-      "estimated_gift_value_idr": null,
-      "gift_rate_idr": null,
-      "gift_value_basis": null
+      "gift_gold": 23,
+      "estimated_gift_value_idr": 57500,
+      "gift_rate_idr": 2500,
+      "gift_value_basis": "gold"
     }
   ]
 }
