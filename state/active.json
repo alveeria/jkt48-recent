@@ -11,20 +11,21 @@
     "url": "https://www.idn.app/jkt48_gita/live/gits-261116181910",
     "image": "https://cdn.idn.app/livestream/5bc548ea1b91541f299ce9cafa451d7e.webp",
     "started_at": "2026-11-16T11:19:15.000Z",
-    "viewers": 960,
-    "last_seen_at": "2026-11-16T11:29:16.771Z",
-    "peak_viewers": 960,
-    "gifts": 6,
-    "gift_points": 236,
+    "viewers": 1480,
+    "last_seen_at": "2026-11-16T11:34:32.169Z",
+    "peak_viewers": 1480,
+    "gifts": 10,
+    "gift_points": 316,
     "stars": 0,
-    "comments": 164,
+    "comments": 341,
     "gift_breakdown": {
       "GITA": 1,
       "HADIIIRRR!!": 1,
       "Pumpkin": 1,
       "Makan ya kak": 1,
-      "Semangat kak": 1,
-      "Kompas": 1
+      "Semangat kak": 2,
+      "Kompas": 3,
+      "Mawar": 1
     },
     "gifters": {
       "aca894dc-91a1-48b3-ba97-501cf345183e": "Robby Nur Hidayat",
@@ -32,12 +33,15 @@
       "2e9d7016-38af-4809-9f61-dfc7edf8fec1": "Septiii ",
       "98081730-b928-468a-a946-fedab7f790a6": "Kruaa aja.",
       "2bf92498-d613-40f3-8880-7fad40007428": "Yudistira Nugraha",
-      "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": "Bli Putu Dicky MP"
+      "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": "Bli Putu Dicky MP",
+      "394b5074-715a-4d57-91e2-530268c0df8d": "Nurits ✌️😁 ",
+      "cc78c020-6b1a-4be7-b019-78fccc09c505": "Ice Bear",
+      "2d58c906-b130-4e42-90b8-4225395b36d8": "Rafy Rapyra"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905]],
+    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905], [11, 1020], [12, 1120], [13, 1250], [14, 1357], [15, 1439]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-    "gift_gold": 59,
+    "gift_gold": 79,
     "idn_gifters": {
       "aca894dc-91a1-48b3-ba97-501cf345183e": {
         "name": "Robby Nur Hidayat",
@@ -67,10 +71,25 @@
       "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": {
         "name": "Bli Putu Dicky MP",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9659f3252457548f57cbdcda34f1ad4.webp?v=1792135196",
+        "points": 40
+      },
+      "394b5074-715a-4d57-91e2-530268c0df8d": {
+        "name": "Nurits ✌️😁 ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7d929feb2685cdd5bbc9a5e4f6926dd9.webp?v=1763828290",
+        "points": 28
+      },
+      "cc78c020-6b1a-4be7-b019-78fccc09c505": {
+        "name": "Ice Bear",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 12
+      },
+      "2d58c906-b130-4e42-90b8-4225395b36d8": {
+        "name": "Rafy Rapyra",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310",
         "points": 20
       }
     },
-    "estimated_gift_value_idr": 147500,
+    "estimated_gift_value_idr": 197500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
