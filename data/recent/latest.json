@@ -115,6 +115,116 @@
     "source_id": "idn:261116205124"
   },
   {
+    "id": "idn:alveeria-2950",
+    "platform": "idn",
+    "member": {
+      "name": "Daisy",
+      "username": "jkt48_daisy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d067c899ba88ed2f4ca8f09d384501b.webp?v=1778755316"
+    },
+    "title": "Hi",
+    "url": "https://www.idn.app/jkt48_daisy/live/hi-261116204115",
+    "image": "https://cdn.idn.app/livestream/cdb1a3a8b124066620f4171473ea8bda.webp",
+    "started_at": "2026-11-16T13:41:23.000Z",
+    "last_seen_at": "2026-11-16T14:43:41.961Z",
+    "peak_viewers": 3319,
+    "gifts": 23,
+    "gift_points": 3816,
+    "stars": 0,
+    "comments": 708,
+    "gift_breakdown": {
+      "Water": 1,
+      "Lightstick": 1,
+      "Makan ya kak": 1,
+      "Semangat kak": 2,
+      "Gift Card": 1,
+      "DAISY": 6,
+      "Bubble Gun": 1,
+      "JKT48 Show": 1,
+      "Emas Batang": 1,
+      "AMANDA": 1,
+      "Mawar": 1,
+      "Arcade Game": 1,
+      "Kembang Api": 1,
+      "Pumpkin": 2,
+      "Angklung": 1,
+      "Happy B-Day!": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "yusuf ucup marucup",
+        "points": 2096,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4dad5f71fff7c9e4298291b0e81c73e.webp?v=1794737631"
+      },
+      {
+        "rank": 2,
+        "name": "Hakimar .",
+        "points": 952,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/62d32f0d5c092c0ab699a9198ac0ddd1.webp?v=1790944207"
+      },
+      {
+        "rank": 3,
+        "name": "Munier Jaid",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/74a8dc7100862a33d2ff2b71f14d1849.webp?v=1788791939"
+      },
+      {
+        "rank": 4,
+        "name": "Noppuri #TerThiaThia",
+        "points": 100,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d60888199b7bcc61a62c08fb8a3c1f9e.webp?v=1794205086"
+      },
+      {
+        "rank": 5,
+        "name": "Ade Yoan",
+        "points": 100,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe508aff8452e5c072179a5d840b48e7.webp?v=1781157883"
+      },
+      {
+        "rank": 6,
+        "name": "Riki Pirnando",
+        "points": 84,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 7,
+        "name": "Praditya Galuh",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc0b07ced20b18363c2232565adbf2c6.webp?v=1793713527"
+      },
+      {
+        "rank": 8,
+        "name": "Yopi mencari arah",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9d495f7f1e68d19cbb20beb7d6013cd9.webp?v=1788621210"
+      },
+      {
+        "rank": 9,
+        "name": "Albertus Pantra",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 10,
+        "name": "Deky Pramulya Ananta",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1891b536cda50c7e6dbb83d33a217e42.webp?v=1790246838"
+      }
+    ],
+    "viewer_series": [[0, 0], [1, 15], [2, 78], [3, 116], [4, 177], [5, 229], [6, 314], [7, 419], [8, 490], [9, 535], [10, 577], [11, 605], [12, 651], [13, 697], [14, 739], [15, 791], [16, 851], [17, 909], [18, 961], [19, 1021], [20, 1076], [21, 1115], [22, 1159], [23, 1179], [24, 1226], [25, 1273], [26, 1354], [27, 1415], [28, 1477], [29, 1544], [30, 1588], [31, 1651], [32, 1714], [33, 1761], [34, 1825], [35, 1860], [36, 1889], [37, 1978], [38, 2062], [39, 2120], [40, 2178], [41, 2244], [42, 2336], [43, 2393], [44, 2447], [45, 2525], [46, 2574], [47, 2612], [48, 2670], [49, 2730], [50, 2775], [51, 2822], [52, 2877], [53, 2917], [54, 2953], [55, 2989], [56, 3046], [57, 3086], [58, 3112], [59, 3154], [60, 3199], [61, 3237], [62, 3280]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
+    "gift_gold": 954,
+    "estimated_gift_value_idr": 2385000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-16T14:43:41.961Z",
+    "duration_minutes": 62,
+    "last_viewers": 3319,
+    "unique_gifters": 10,
+    "source_id": "idn:hi-261116204115"
+  },
+  {
     "id": "idn:alveeria-2948",
     "platform": "idn",
     "member": {
@@ -16597,24 +16707,6 @@
     "url": "https://www.idn.app/jkt48_oniel",
     "image": "https://cdn.idn.app/livestream/7b502251fc3fd6892b14e8f822270c90.webp",
     "started_at": "2026-11-02T07:46:44.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2750",
-    "platform": "idn",
-    "member": {
-      "name": "Raisha",
-      "username": "jkt48_raisha",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_raisha",
-    "image": "https://cdn.idn.app/livestream/56a68ab84e99bc94d7282f7e611dbe1a.webp",
-    "started_at": "2026-11-01T12:55:53.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
