@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 16.46 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 16.51 WIB.
 
 ## Interval pembaruan
 
@@ -46,11 +46,10 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 3.456 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 4.698 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 5.363 |
-| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 2.093 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 2.195 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 4.961 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 5.631 |
+| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 2.289 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 2.457 |
 
 ## Live terakhir — Nov 2026
 
@@ -58,6 +57,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 |---|---|---|---|---|---|---|---|---|---|
 | Giaa | IDN Live | p | 16 Nov 2026, 15.37 | 39m | 2.514 | 20 | 199 | — | 432 |
 | Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 60m | 6.944 | 87 | 1.333 | — | 5.240 |
+| Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 82m | 3.511 | 19 | 302 | — | 898 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.21 | 63m | 3.587 | 19 | 221 | — | 393 |
 | Bella | IDN Live | Hellooo | 16 Nov 2026, 15.06 | 34m | 2.557 | 16 | 420 | — | 1.081 |
 | Bella | IDN Live | Hellooo | 16 Nov 2026, 15.02 | 3m | 389 | 0 | — | — | 81 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Heidi | IDN Live | wooo | 15 Nov 2026, 16.40 | 60m | 3.214 | 13 | 1.537 | — | 845 |
 | Bella | IDN Live | Hellooo | 15 Nov 2026, 16.39 | 63m | 5.135 | 27 | 327 | — | 660 |
 | Gita | IDN Live | Gits | 15 Nov 2026, 16.33 | 65m | 6.016 | 23 | 238 | — | 637 |
-| Gita | IDN Live | Gits | 15 Nov 2026, 16.31 | 2m | 163 | 0 | — | — | 89 |
 
 ## Lisensi
 
