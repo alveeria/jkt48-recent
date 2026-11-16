@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T04:08:29.111Z",
+  "updated_at": "2026-11-16T04:13:34.807Z",
   "lives": [
     {
       "id": "idn:p-261116105307",
@@ -13,37 +13,38 @@
       "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
       "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
       "started_at": "2026-11-16T03:53:12.000Z",
-      "viewers": 1449,
-      "last_seen_at": "2026-11-16T04:08:28.045Z",
-      "peak_viewers": 1449,
-      "gifts": 25,
-      "gift_points": 2192,
+      "viewers": 1707,
+      "last_seen_at": "2026-11-16T04:13:34.234Z",
+      "peak_viewers": 1707,
+      "gifts": 34,
+      "gift_points": 2528,
       "stars": 0,
-      "comments": 949,
+      "comments": 1156,
       "gift_breakdown": {
-        "Toa": 6,
+        "Toa": 8,
         "INTAN": 3,
         "Lightstick": 1,
         "JKT48 Show": 1,
-        "Kompas": 7,
-        "Emas Batang": 1,
-        "Puding": 1,
+        "Kompas": 11,
+        "Emas Batang": 2,
+        "Puding": 2,
         "JKT48 Stage": 2,
         "Panjat": 2,
-        "Water": 1
+        "Water": 1,
+        "Cold Water": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "yudea",
-          "points": 688,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7704e772d4689fe915db6d3d2b194dbf.webp?v=1789464823"
+          "name": "Shinbé Kiyawara",
+          "points": 860,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
         },
         {
           "rank": 2,
-          "name": "Shinbé Kiyawara",
-          "points": 664,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
+          "name": "yudea",
+          "points": 688,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7704e772d4689fe915db6d3d2b194dbf.webp?v=1789464823"
         },
         {
           "rank": 3,
@@ -71,33 +72,33 @@
         },
         {
           "rank": 7,
+          "name": "Anisafeb 🤡🤡",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/40216444e83be42acd0fa2dadcd0fabb.webp?v=1793864979"
+        },
+        {
+          "rank": 8,
           "name": "Almaida _",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Wisnu Ardi",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/947a3acdfb3ed0d41915e6e24c1bf6e3.webp?v=1790674867"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Pluto 15",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0b217924d99672383e30c60879b97d16.webp?v=1780741707"
-        },
-        {
-          "rank": 10,
-          "name": "serli gusdania",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6fde10b47884038ed23e33a9caf7477a.webp?v=1793874487"
         }
       ],
-      "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745], [6, 809], [7, 895], [8, 986], [9, 1067], [10, 1140], [11, 1200], [12, 1264], [13, 1322], [14, 1369], [15, 1421]],
+      "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745], [6, 809], [7, 895], [8, 986], [9, 1067], [10, 1140], [11, 1200], [12, 1264], [13, 1322], [14, 1369], [15, 1421], [16, 1479], [17, 1543], [18, 1593], [19, 1634], [20, 1684]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-      "gift_gold": 548,
-      "estimated_gift_value_idr": 1370000,
+      "gift_gold": 632,
+      "estimated_gift_value_idr": 1580000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
