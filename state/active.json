@@ -11,22 +11,23 @@
     "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
     "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
     "started_at": "2026-11-16T03:53:12.000Z",
-    "viewers": 2458,
-    "last_seen_at": "2026-11-16T04:31:11.562Z",
-    "peak_viewers": 2458,
-    "gifts": 12,
-    "gift_points": 848,
+    "viewers": 2627,
+    "last_seen_at": "2026-11-16T04:36:21.480Z",
+    "peak_viewers": 2627,
+    "gifts": 14,
+    "gift_points": 1268,
     "stars": 0,
-    "comments": 418,
+    "comments": 593,
     "gift_breakdown": {
-      "Kompas": 3,
+      "Kompas": 4,
       "Toa": 2,
       "Cold Water": 1,
       "Emas Batang": 1,
       "Tumpeng": 1,
       "Happy B-Day!": 2,
       "Pumpkin": 1,
-      "HADIIIRRR!!": 1
+      "HADIIIRRR!!": 1,
+      "JKT48 Show": 1
     },
     "gifters": {
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": "Arya Sutanto",
@@ -37,12 +38,13 @@
       "c45e24db-268b-45e7-aabf-65e5bd8be03d": "Shinbé Kiyawara",
       "3af40406-2fdf-4870-8179-3fa48a29a3cb": "Almaida _",
       "68f96820-48d5-4dfe-b1ad-2713a7031ae7": "Kymm ^ ◡ ^",
-      "a152753a-af00-451a-a7c6-8f80c592a4d6": "ruru my 🦥 kukangnim"
+      "a152753a-af00-451a-a7c6-8f80c592a4d6": "ruru my 🦥 kukangnim",
+      "104fd0cd-6596-48da-b0f6-d535568aa9df": "yudea"
     },
     "top_gifters": [],
-    "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458]],
+    "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458], [39, 2483], [40, 2518], [41, 2552], [42, 2582], [43, 2619]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 212,
+    "gift_gold": 317,
     "idn_gifters": {
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": {
         "name": "Arya Sutanto",
@@ -77,7 +79,7 @@
       "3af40406-2fdf-4870-8179-3fa48a29a3cb": {
         "name": "Almaida _",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546",
-        "points": 20
+        "points": 40
       },
       "68f96820-48d5-4dfe-b1ad-2713a7031ae7": {
         "name": "Kymm ^ ◡ ^",
@@ -88,9 +90,14 @@
         "name": "ruru my 🦥 kukangnim",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92eabce42ef2922cde4b56c93137368c.webp?v=1787038984",
         "points": 28
+      },
+      "104fd0cd-6596-48da-b0f6-d535568aa9df": {
+        "name": "yudea",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7704e772d4689fe915db6d3d2b194dbf.webp?v=1789464823",
+        "points": 400
       }
     },
-    "estimated_gift_value_idr": 530000,
+    "estimated_gift_value_idr": 792500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }

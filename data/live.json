@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T04:31:12.577Z",
+  "updated_at": "2026-11-16T04:36:22.491Z",
   "lives": [
     {
       "id": "idn:p-261116105307",
@@ -13,22 +13,23 @@
       "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
       "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
       "started_at": "2026-11-16T03:53:12.000Z",
-      "viewers": 2458,
-      "last_seen_at": "2026-11-16T04:31:11.562Z",
-      "peak_viewers": 2458,
-      "gifts": 12,
-      "gift_points": 848,
+      "viewers": 2627,
+      "last_seen_at": "2026-11-16T04:36:21.480Z",
+      "peak_viewers": 2627,
+      "gifts": 14,
+      "gift_points": 1268,
       "stars": 0,
-      "comments": 418,
+      "comments": 593,
       "gift_breakdown": {
-        "Kompas": 3,
+        "Kompas": 4,
         "Toa": 2,
         "Cold Water": 1,
         "Emas Batang": 1,
         "Tumpeng": 1,
         "Happy B-Day!": 2,
         "Pumpkin": 1,
-        "HADIIIRRR!!": 1
+        "HADIIIRRR!!": 1,
+        "JKT48 Show": 1
       },
       "top_gifters": [
         {
@@ -39,57 +40,63 @@
         },
         {
           "rank": 2,
+          "name": "yudea",
+          "points": 400,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7704e772d4689fe915db6d3d2b194dbf.webp?v=1789464823"
+        },
+        {
+          "rank": 3,
           "name": "Kuncoro Wibowo",
           "points": 196,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cff3df5e7afb0cd15fc5836b591672a0.webp?v=1784571507"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Shinbé Kiyawara",
           "points": 120,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Arya Sutanto",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/576c634c83a0f5a040f0f760c42e7362.webp?v=1758817060"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "name": "Almaida _",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546"
+        },
+        {
+          "rank": 7,
           "name": "ruru my 🦥 kukangnim",
           "points": 28,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92eabce42ef2922cde4b56c93137368c.webp?v=1787038984"
         },
         {
-          "rank": 6,
+          "rank": 8,
           "name": "Siti Aisyah",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
-          "rank": 7,
-          "name": "Almaida _",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546"
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "name": "Kymm ^ ◡ ^",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/07017801eb3eb6b5474e8614c4e72ac0.webp?v=1793034307"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Zain Nur Ramadhian",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fdb717bd5eb546bf0a642a990bc92d9a.webp?v=1731319645"
         }
       ],
-      "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458]],
+      "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458], [39, 2483], [40, 2518], [41, 2552], [42, 2582], [43, 2619]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-      "gift_gold": 212,
-      "estimated_gift_value_idr": 530000,
+      "gift_gold": 317,
+      "estimated_gift_value_idr": 792500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
