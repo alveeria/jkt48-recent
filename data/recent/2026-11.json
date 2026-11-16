@@ -1,5 +1,120 @@
 [
   {
+    "id": "idn:alveeria-2949",
+    "platform": "idn",
+    "member": {
+      "name": "Danella",
+      "username": "jkt48_danella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/be61050d0a932e43131b95020de99eb5.webp?v=1778755347"
+    },
+    "title": "☺️",
+    "url": "https://www.idn.app/jkt48_danella/live/261116205124",
+    "image": "https://cdn.idn.app/livestream/9eedf9fc7ca800cb2ca79ae6be2f5381.webp",
+    "started_at": "2026-11-16T13:51:30.000Z",
+    "last_seen_at": "2026-11-16T14:20:30.958Z",
+    "peak_viewers": 1827,
+    "gifts": 35,
+    "gift_points": 1852,
+    "stars": 0,
+    "comments": 491,
+    "gift_breakdown": {
+      "Cold Water": 3,
+      "Kompas": 3,
+      "Lemon Tea": 1,
+      "Toa": 2,
+      "Tumpeng": 1,
+      "Emas Batang": 1,
+      "Angklung": 1,
+      "Jari Hati": 3,
+      "Team Chill": 1,
+      "Pumpkin": 3,
+      "Team Hype": 1,
+      "Goaaaaal!!": 1,
+      "Water": 5,
+      "Jikoshoukai": 1,
+      "Panjat": 1,
+      "Martabak": 1,
+      "Push Rank!!": 1,
+      "Lemonade": 1,
+      "Shoot!": 1,
+      "Mawar": 2,
+      "Puding": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Azrie Ahmad",
+        "points": 576,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787"
+      },
+      {
+        "rank": 2,
+        "name": "Arham Amin",
+        "points": 520,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ac77983d1f6a8a3304b6533852d1938b.webp?v=1766420788"
+      },
+      {
+        "rank": 3,
+        "name": "Integral 😁😁",
+        "points": 416,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6f7ded7241c274297d00bc840626e3ae.webp?v=1793800773"
+      },
+      {
+        "rank": 4,
+        "name": "Angga 😉",
+        "points": 180,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e141ae941cb56d7837c118b6bdb1ea24.webp?v=1784216128"
+      },
+      {
+        "rank": 5,
+        "name": "Jejeek Rmmzh",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/458d5cdc4d80e78fb3c6b1eadddcf888.webp?v=1785938055"
+      },
+      {
+        "rank": 6,
+        "name": "Arijun Ramadhan",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 7,
+        "name": "Irfan",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ced80dbfcbc57223884359c2e0958441.webp?v=1784823086"
+      },
+      {
+        "rank": 8,
+        "name": "Didi Pwk",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf5e7053492f85290380921d24cb4172.webp?v=1765004684"
+      },
+      {
+        "rank": 9,
+        "name": "Kacang Lobak",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/87418b86d0458e41809b9bd4a77ee258.webp?v=1782410816"
+      },
+      {
+        "rank": 10,
+        "name": "tirrrr _",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c9772dfe0caab76f707391ae6a8ba44.webp?v=1777364593"
+      }
+    ],
+    "viewer_series": [[0, 13], [1, 47], [2, 106], [3, 135], [4, 172], [5, 229], [6, 291], [7, 360], [8, 409], [9, 443], [10, 489], [11, 524], [12, 555], [13, 590], [14, 642], [15, 724], [16, 804], [17, 918], [18, 1004], [19, 1079], [20, 1134], [21, 1193], [22, 1265], [23, 1320], [24, 1395], [25, 1477], [26, 1584], [27, 1674], [28, 1758], [29, 1784]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oVyfRQMZJsNA",
+    "gift_gold": 463,
+    "estimated_gift_value_idr": 1157500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-16T14:20:30.958Z",
+    "duration_minutes": 29,
+    "last_viewers": 1827,
+    "unique_gifters": 12,
+    "source_id": "idn:261116205124"
+  },
+  {
     "id": "idn:alveeria-2947",
     "platform": "idn",
     "member": {

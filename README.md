@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 21.16 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 21.22 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 3.992 |
-| Daisy | IDN Live | Hi | 16 Nov 2026, 20.41 | 1.889 |
-| Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 2.369 |
-| Danella | IDN Live | ☺️ | 16 Nov 2026, 20.51 | 1.525 |
-| Aralie | IDN Live | hi | 16 Nov 2026, 21.01 | 4.268 |
-| Jessi | IDN Live | hi | 16 Nov 2026, 21.05 | 1.206 |
-| Erine | IDN Live | erin boss  | 16 Nov 2026, 21.10 | 2.628 |
+| Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 4.528 |
+| Daisy | IDN Live | Hi | 16 Nov 2026, 20.41 | 2.244 |
+| Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 2.964 |
+| Aralie | IDN Live | hi | 16 Nov 2026, 21.01 | 5.279 |
+| Jessi | IDN Live | hi | 16 Nov 2026, 21.05 | 1.688 |
+| Erine | IDN Live | erin boss  | 16 Nov 2026, 21.10 | 4.484 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Danella | IDN Live | ☺️ | 16 Nov 2026, 20.51 | 29m | 1.827 | 35 | 463 | — | 491 |
 | Christy | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 19.36 | 70m | 19.734 | 114 | 3.047 | — | 5.635 |
 | Delynn | IDN Live | malms bosku | 16 Nov 2026, 19.35 | 70m | 19.108 | 77 | 3.799 | — | 3.007 |
 | Lulu | IDN Live | hi | 16 Nov 2026, 19.04 | 66m | 7.290 | 42 | 619 | — | 2.473 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Jessi | IDN Live | hi lg main | 15 Nov 2026, 18.00 | 71m | 7.386 | 44 | 440 | — | 1.138 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 17.59 | 29m | 3.535 | 34 | 414 | — | 537 |
 | Rilly | IDN Live | mau ngobs sm ka nuys | 15 Nov 2026, 17.51 | 69m | 4.771 | 62 | 1.313 | — | 548 |
-| Intan | IDN Live | Gantian device ama  rilly😄🙏🏽 | 15 Nov 2026, 17.51 | 75m | 8.863 | 81 | 2.290 | — | 2.301 |
 
 ## Lisensi
 
