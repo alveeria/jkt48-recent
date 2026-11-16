@@ -1,1 +1,30 @@
-{}
+{
+  "idn:hiii-261116130251": {
+    "id": "idn:hiii-261116130251",
+    "platform": "idn",
+    "member": {
+      "name": "Gracie",
+      "username": "jkt48_gracie",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b54dbd0f2ccde80f7fc4d40c575eed24.webp?v=1778761482"
+    },
+    "title": "hiii",
+    "url": "https://www.idn.app/jkt48_gracie/live/hiii-261116130251",
+    "image": "https://cdn.idn.app/livestream/45277c459181a1361a57a8734fc27aa2.webp",
+    "started_at": "2026-11-16T06:02:55.000Z",
+    "viewers": 90,
+    "last_seen_at": "2026-11-16T06:03:52.103Z",
+    "peak_viewers": 90,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 8,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 26], [1, 90]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
+  }
+}
