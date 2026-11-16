@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T03:58:11.506Z",
+  "updated_at": "2026-11-16T04:03:21.057Z",
   "lives": [
     {
       "id": "idn:p-261116105307",
@@ -13,42 +13,89 @@
       "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
       "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
       "started_at": "2026-11-16T03:53:12.000Z",
-      "viewers": 745,
-      "last_seen_at": "2026-11-16T03:58:10.997Z",
-      "peak_viewers": 745,
-      "gifts": 4,
-      "gift_points": 220,
+      "viewers": 1169,
+      "last_seen_at": "2026-11-16T04:03:20.500Z",
+      "peak_viewers": 1169,
+      "gifts": 14,
+      "gift_points": 1300,
       "stars": 0,
-      "comments": 341,
+      "comments": 610,
       "gift_breakdown": {
-        "Toa": 2,
-        "INTAN": 1,
-        "Lightstick": 1
+        "Toa": 3,
+        "INTAN": 2,
+        "Lightstick": 1,
+        "JKT48 Show": 1,
+        "Kompas": 4,
+        "Emas Batang": 1,
+        "Puding": 1,
+        "JKT48 Stage": 1
       },
       "top_gifters": [
         {
           "rank": 1,
-          "name": "Shinbé Kiyawara",
-          "points": 180,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
+          "name": "yudea",
+          "points": 688,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7704e772d4689fe915db6d3d2b194dbf.webp?v=1789464823"
         },
         {
           "rank": 2,
+          "name": "Shinbé Kiyawara",
+          "points": 376,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705"
+        },
+        {
+          "rank": 3,
+          "name": "aldi kebun duren",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe45c5b8593e4df9ed40cc261575b0d2.webp?v=1778857342"
+        },
+        {
+          "rank": 4,
           "name": "serli gusdania",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6fde10b47884038ed23e33a9caf7477a.webp?v=1793874487"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "name": "Azrie Ahmad",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787"
+        },
+        {
+          "rank": 6,
+          "name": "korii .",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f86c5501be8e91830064104fd09e0a23.webp?v=1770809092"
+        },
+        {
+          "rank": 7,
+          "name": "𝐡𝐪_𝐧𝐮𝐲𝐲 𝐓𝐀𝐍",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cace518b332d66d77a05257ab9bf966c.webp?v=1791290526"
+        },
+        {
+          "rank": 8,
+          "name": "ipii .",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/89bea1cf69a3296dcc2736e7825465c5.webp?v=1789116307"
+        },
+        {
+          "rank": 9,
+          "name": "Anisafeb 🤡🤡",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/40216444e83be42acd0fa2dadcd0fabb.webp?v=1793864979"
+        },
+        {
+          "rank": 10,
+          "name": "Almaida _",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546"
         }
       ],
-      "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745]],
+      "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745], [6, 809], [7, 895], [8, 986], [9, 1067], [10, 1140]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-      "gift_gold": 55,
-      "estimated_gift_value_idr": 137500,
+      "gift_gold": 325,
+      "estimated_gift_value_idr": 812500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }

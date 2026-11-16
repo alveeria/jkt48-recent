@@ -11,27 +11,40 @@
     "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
     "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
     "started_at": "2026-11-16T03:53:12.000Z",
-    "viewers": 745,
-    "last_seen_at": "2026-11-16T03:58:10.997Z",
-    "peak_viewers": 745,
-    "gifts": 4,
-    "gift_points": 220,
+    "viewers": 1169,
+    "last_seen_at": "2026-11-16T04:03:20.500Z",
+    "peak_viewers": 1169,
+    "gifts": 14,
+    "gift_points": 1300,
     "stars": 0,
-    "comments": 341,
+    "comments": 610,
     "gift_breakdown": {
-      "Toa": 2,
-      "INTAN": 1,
-      "Lightstick": 1
+      "Toa": 3,
+      "INTAN": 2,
+      "Lightstick": 1,
+      "JKT48 Show": 1,
+      "Kompas": 4,
+      "Emas Batang": 1,
+      "Puding": 1,
+      "JKT48 Stage": 1
     },
     "gifters": {
       "902cec25-44e2-428f-8876-1d7c127280ea": "serli gusdania",
       "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad",
-      "c45e24db-268b-45e7-aabf-65e5bd8be03d": "Shinbé Kiyawara"
+      "c45e24db-268b-45e7-aabf-65e5bd8be03d": "Shinbé Kiyawara",
+      "104fd0cd-6596-48da-b0f6-d535568aa9df": "yudea",
+      "da27b967-deaa-4118-9e20-ef9d15588da6": "korii .",
+      "7e0a0fb9-5b5c-4d74-b15c-1a099076e087": "𝐡𝐪_𝐧𝐮𝐲𝐲 𝐓𝐀𝐍",
+      "af511219-7533-4043-8c69-821a291c5b26": "ipii .",
+      "857fad51-5f9a-443a-8932-d8fe8fd2b2a4": "aldi kebun duren",
+      "cc55b9de-2a5d-4e1d-b23b-ec7ba97e0f8c": "Anisafeb 🤡🤡",
+      "ab6d1ea7-8eb6-49c0-9abd-a5246621252d": "Syafira Alifa",
+      "3af40406-2fdf-4870-8179-3fa48a29a3cb": "Almaida _"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745]],
+    "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745], [6, 809], [7, 895], [8, 986], [9, 1067], [10, 1140]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 55,
+    "gift_gold": 325,
     "idn_gifters": {
       "902cec25-44e2-428f-8876-1d7c127280ea": {
         "name": "serli gusdania",
@@ -46,10 +59,50 @@
       "c45e24db-268b-45e7-aabf-65e5bd8be03d": {
         "name": "Shinbé Kiyawara",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705",
-        "points": 180
+        "points": 376
+      },
+      "104fd0cd-6596-48da-b0f6-d535568aa9df": {
+        "name": "yudea",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7704e772d4689fe915db6d3d2b194dbf.webp?v=1789464823",
+        "points": 688
+      },
+      "da27b967-deaa-4118-9e20-ef9d15588da6": {
+        "name": "korii .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f86c5501be8e91830064104fd09e0a23.webp?v=1770809092",
+        "points": 20
+      },
+      "7e0a0fb9-5b5c-4d74-b15c-1a099076e087": {
+        "name": "𝐡𝐪_𝐧𝐮𝐲𝐲 𝐓𝐀𝐍",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cace518b332d66d77a05257ab9bf966c.webp?v=1791290526",
+        "points": 20
+      },
+      "af511219-7533-4043-8c69-821a291c5b26": {
+        "name": "ipii .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/89bea1cf69a3296dcc2736e7825465c5.webp?v=1789116307",
+        "points": 20
+      },
+      "857fad51-5f9a-443a-8932-d8fe8fd2b2a4": {
+        "name": "aldi kebun duren",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe45c5b8593e4df9ed40cc261575b0d2.webp?v=1778857342",
+        "points": 80
+      },
+      "cc55b9de-2a5d-4e1d-b23b-ec7ba97e0f8c": {
+        "name": "Anisafeb 🤡🤡",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/40216444e83be42acd0fa2dadcd0fabb.webp?v=1793864979",
+        "points": 20
+      },
+      "ab6d1ea7-8eb6-49c0-9abd-a5246621252d": {
+        "name": "Syafira Alifa",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/06db102fccfe42c7ab88ffee5748433f.webp?v=1792238629",
+        "points": 16
+      },
+      "3af40406-2fdf-4870-8179-3fa48a29a3cb": {
+        "name": "Almaida _",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 137500,
+    "estimated_gift_value_idr": 812500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
