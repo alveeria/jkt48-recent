@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 20.45 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 20.50 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Delynn | IDN Live | malms bosku | 16 Nov 2026, 19.35 | 18.958 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 19.36 | 19.512 |
-| Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 1.226 |
-| Daisy | IDN Live | Hi | 16 Nov 2026, 20.41 | 200 |
-| Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 106 |
+| Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 1.931 |
+| Daisy | IDN Live | Hi | 16 Nov 2026, 20.41 | 553 |
+| Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 552 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Christy | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 19.36 | 70m | 19.734 | 114 | 3.047 | — | 5.635 |
+| Delynn | IDN Live | malms bosku | 16 Nov 2026, 19.35 | 70m | 19.108 | 77 | 3.799 | — | 3.007 |
 | Lulu | IDN Live | hi | 16 Nov 2026, 19.04 | 66m | 7.290 | 42 | 619 | — | 2.473 |
 | Gita | IDN Live | Gits | 16 Nov 2026, 18.19 | 63m | 4.182 | 52 | 868 | — | 1.414 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 99m | 4.645 | 32 | 457 | — | 1.658 |
@@ -94,8 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 17.59 | 29m | 3.535 | 34 | 414 | — | 537 |
 | Rilly | IDN Live | mau ngobs sm ka nuys | 15 Nov 2026, 17.51 | 69m | 4.771 | 62 | 1.313 | — | 548 |
 | Intan | IDN Live | Gantian device ama  rilly😄🙏🏽 | 15 Nov 2026, 17.51 | 75m | 8.863 | 81 | 2.290 | — | 2.301 |
-| Nachia | IDN Live | hi | 15 Nov 2026, 17.21 | 33m | 3.773 | 57 | 1.711 | — | 2.530 |
-| Greesel | IDN Live | hi | 15 Nov 2026, 17.08 | 64m | 6.627 | 55 | 1.054 | — | 1.445 |
 
 ## Lisensi
 
