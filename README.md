@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 17.00 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 17.06 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 2.691 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 2.935 |
+| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 2.871 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 3.155 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
-| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 74m | 5.779 | 32 | 678 | — | 1.621 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 73m | 5.075 | 45 | 1.114 | — | 745 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 46m | 4.090 | 23 | 617 | — | 1.078 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 46m | 3.615 | 24 | 855 | — | 553 |
 | Giaa | IDN Live | p | 16 Nov 2026, 15.37 | 39m | 2.514 | 20 | 199 | — | 432 |
-| Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 60m | 6.944 | 87 | 1.333 | — | 5.240 |
-| Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 82m | 3.511 | 19 | 302 | — | 898 |
+| Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 57m | 6.730 | 87 | 1.333 | — | 4.951 |
+| Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 60m | 2.837 | 18 | 299 | — | 733 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.21 | 63m | 3.587 | 19 | 221 | — | 393 |
 | Bella | IDN Live | Hellooo | 16 Nov 2026, 15.06 | 34m | 2.557 | 16 | 420 | — | 1.081 |
 | Bella | IDN Live | Hellooo | 16 Nov 2026, 15.02 | 3m | 389 | 0 | — | — | 81 |
