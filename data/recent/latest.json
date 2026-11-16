@@ -1,5 +1,98 @@
 [
   {
+    "id": "idn:alveeria-2933",
+    "platform": "idn",
+    "member": {
+      "name": "Bella",
+      "username": "jkt48_bella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7dba9f66e9e74856ced7c5d6b674b2.webp?v=1779088114"
+    },
+    "title": "Hellooo",
+    "url": "https://www.idn.app/jkt48_bella/live/hellooo-261116150648",
+    "image": "https://cdn.idn.app/livestream/d3530619997c53440d49231cb4f604ba.webp",
+    "started_at": "2026-11-16T08:06:52.000Z",
+    "last_seen_at": "2026-11-16T08:40:41.739Z",
+    "peak_viewers": 2557,
+    "gifts": 16,
+    "gift_points": 1680,
+    "stars": 0,
+    "comments": 1081,
+    "gift_breakdown": {
+      "Jari Hati": 1,
+      "Combat": 1,
+      "Emas Batang": 3,
+      "Angklung": 3,
+      "Matcha": 2,
+      "Rendang": 1,
+      "Toa": 1,
+      "Gift Card": 1,
+      "HADIIIRRR!!": 1,
+      "JKT48 Show": 1,
+      "Team Hype": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Willie #OnlyBella",
+        "points": 800,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/65fe58393fb845f125c7a1603040b951.webp?v=1794128582"
+      },
+      {
+        "rank": 2,
+        "name": "Diko .",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9366724273271ad3eb005607717918ac.webp?v=1782742827"
+      },
+      {
+        "rank": 3,
+        "name": "Onil ㅤ",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ae65ac4f43c132b0f80d4be01a1253dc.webp?v=1792427749"
+      },
+      {
+        "rank": 4,
+        "name": "Dekdoni 20",
+        "points": 144,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c0ea50db16c13257afed26f7b3f52719.webp?v=1793935490"
+      },
+      {
+        "rank": 5,
+        "name": "Dazzle 7",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/98fee36a4ef40ad3f765aa98d53e0a01.webp?v=1789386879"
+      },
+      {
+        "rank": 6,
+        "name": "Satria #maxi",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c1a3e1dd4596ceeea416baae1a64f961.webp?v=1794128680"
+      },
+      {
+        "rank": 7,
+        "name": "Brán #𝐎𝐧𝐥𝐲𝐅𝐚𝐡𝐢𝐫𝐚.",
+        "points": 36,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/54a4723fb327f3627ead7c28605d261d.webp?v=1794297781"
+      },
+      {
+        "rank": 8,
+        "name": "Attar Alvitto",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/12830eeafcca9bfd18f4c5e7b374d13e.webp?v=1794573931"
+      }
+    ],
+    "viewer_series": [[0, 0], [1, 56], [2, 228], [3, 325], [4, 402], [5, 495], [6, 580], [7, 654], [8, 724], [9, 797], [10, 868], [11, 945], [12, 1011], [13, 1040], [14, 1097], [15, 1144], [16, 1197], [17, 1246], [18, 1305], [19, 1368], [20, 1440], [21, 1531], [22, 1613], [23, 1700], [24, 1786], [25, 1861], [26, 1929], [27, 1975], [28, 2127], [29, 2200], [30, 2277], [31, 2359], [32, 2418], [33, 2482], [34, 2557]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/z9BVDVnpFbGq",
+    "gift_gold": 420,
+    "estimated_gift_value_idr": 1050000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-16T08:40:41.739Z",
+    "duration_minutes": 34,
+    "last_viewers": 2557,
+    "unique_gifters": 8,
+    "source_id": "idn:hellooo-261116150648"
+  },
+  {
     "id": "idn:alveeria-2931",
     "platform": "idn",
     "member": {
@@ -15035,24 +15128,6 @@
     "url": "https://www.idn.app/jkt48_jemima",
     "image": "https://cdn.idn.app/livestream/bc3f248216087f428f9cf4595c487b73.webp",
     "started_at": "2026-10-21T14:03:52.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2733",
-    "platform": "idn",
-    "member": {
-      "name": "Maira",
-      "username": "jkt48_maira",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_maira",
-    "image": "https://cdn.idn.app/livestream/9bd10bc0796efec2cb029dbee02e9b7e.webp",
-    "started_at": "2026-10-21T13:42:35.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
