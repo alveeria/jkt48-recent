@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
     "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
     "started_at": "2026-11-16T03:53:12.000Z",
-    "viewers": 2793,
-    "last_seen_at": "2026-11-16T04:41:32.992Z",
-    "peak_viewers": 2793,
-    "gifts": 18,
-    "gift_points": 1868,
+    "viewers": 2955,
+    "last_seen_at": "2026-11-16T04:46:43.444Z",
+    "peak_viewers": 2955,
+    "gifts": 19,
+    "gift_points": 1872,
     "stars": 0,
-    "comments": 797,
+    "comments": 1020,
     "gift_breakdown": {
       "Kompas": 4,
       "Toa": 2,
@@ -29,7 +29,7 @@
       "HADIIIRRR!!": 1,
       "JKT48 Show": 1,
       "Panjat": 2,
-      "Water": 1
+      "Water": 2
     },
     "gifters": {
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": "Arya Sutanto",
@@ -41,12 +41,13 @@
       "3af40406-2fdf-4870-8179-3fa48a29a3cb": "Almaida _",
       "68f96820-48d5-4dfe-b1ad-2713a7031ae7": "Kymm ^ ◡ ^",
       "a152753a-af00-451a-a7c6-8f80c592a4d6": "ruru my 🦥 kukangnim",
-      "104fd0cd-6596-48da-b0f6-d535568aa9df": "yudea"
+      "104fd0cd-6596-48da-b0f6-d535568aa9df": "yudea",
+      "16f0c3a8-e000-4ef6-95ef-1a7e493221ec": "JAZLUNE.ID #GraceInJazz"
     },
     "top_gifters": [],
-    "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458], [39, 2483], [40, 2518], [41, 2552], [42, 2582], [43, 2619], [44, 2645], [45, 2681], [46, 2713], [47, 2749], [48, 2781]],
+    "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458], [39, 2483], [40, 2518], [41, 2552], [42, 2582], [43, 2619], [44, 2645], [45, 2681], [46, 2713], [47, 2749], [48, 2781], [49, 2807], [50, 2839], [51, 2874], [52, 2904], [53, 2942], [54, 2955]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 467,
+    "gift_gold": 468,
     "idn_gifters": {
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": {
         "name": "Arya Sutanto",
@@ -97,9 +98,14 @@
         "name": "yudea",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7704e772d4689fe915db6d3d2b194dbf.webp?v=1789464823",
         "points": 596
+      },
+      "16f0c3a8-e000-4ef6-95ef-1a7e493221ec": {
+        "name": "JAZLUNE.ID #GraceInJazz",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f05542a8c182b317b8e07f70b4031ba1.webp?v=1794738474",
+        "points": 4
       }
     },
-    "estimated_gift_value_idr": 1167500,
+    "estimated_gift_value_idr": 1170000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }

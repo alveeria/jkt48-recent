@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T04:41:34.075Z",
+  "updated_at": "2026-11-16T04:46:44.503Z",
   "lives": [
     {
       "id": "idn:p-261116105307",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
       "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
       "started_at": "2026-11-16T03:53:12.000Z",
-      "viewers": 2793,
-      "last_seen_at": "2026-11-16T04:41:32.992Z",
-      "peak_viewers": 2793,
-      "gifts": 18,
-      "gift_points": 1868,
+      "viewers": 2955,
+      "last_seen_at": "2026-11-16T04:46:43.444Z",
+      "peak_viewers": 2955,
+      "gifts": 19,
+      "gift_points": 1872,
       "stars": 0,
-      "comments": 797,
+      "comments": 1020,
       "gift_breakdown": {
         "Kompas": 4,
         "Toa": 2,
@@ -31,7 +31,7 @@
         "HADIIIRRR!!": 1,
         "JKT48 Show": 1,
         "Panjat": 2,
-        "Water": 1
+        "Water": 2
       },
       "top_gifters": [
         {
@@ -95,10 +95,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fdb717bd5eb546bf0a642a990bc92d9a.webp?v=1731319645"
         }
       ],
-      "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458], [39, 2483], [40, 2518], [41, 2552], [42, 2582], [43, 2619], [44, 2645], [45, 2681], [46, 2713], [47, 2749], [48, 2781]],
+      "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458], [39, 2483], [40, 2518], [41, 2552], [42, 2582], [43, 2619], [44, 2645], [45, 2681], [46, 2713], [47, 2749], [48, 2781], [49, 2807], [50, 2839], [51, 2874], [52, 2904], [53, 2942], [54, 2955]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-      "gift_gold": 467,
-      "estimated_gift_value_idr": 1167500,
+      "gift_gold": 468,
+      "estimated_gift_value_idr": 1170000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
