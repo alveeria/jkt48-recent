@@ -11,15 +11,15 @@
     "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
     "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
     "started_at": "2026-11-16T03:53:12.000Z",
-    "viewers": 2955,
-    "last_seen_at": "2026-11-16T04:46:43.444Z",
-    "peak_viewers": 2955,
-    "gifts": 19,
-    "gift_points": 1872,
+    "viewers": 3108,
+    "last_seen_at": "2026-11-16T04:51:52.929Z",
+    "peak_viewers": 3108,
+    "gifts": 21,
+    "gift_points": 1972,
     "stars": 0,
-    "comments": 1020,
+    "comments": 1211,
     "gift_breakdown": {
-      "Kompas": 4,
+      "Kompas": 5,
       "Toa": 2,
       "Cold Water": 1,
       "Emas Batang": 2,
@@ -29,7 +29,8 @@
       "HADIIIRRR!!": 1,
       "JKT48 Show": 1,
       "Panjat": 2,
-      "Water": 2
+      "Water": 2,
+      "FREYA": 1
     },
     "gifters": {
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": "Arya Sutanto",
@@ -42,12 +43,13 @@
       "68f96820-48d5-4dfe-b1ad-2713a7031ae7": "Kymm ^ ◡ ^",
       "a152753a-af00-451a-a7c6-8f80c592a4d6": "ruru my 🦥 kukangnim",
       "104fd0cd-6596-48da-b0f6-d535568aa9df": "yudea",
-      "16f0c3a8-e000-4ef6-95ef-1a7e493221ec": "JAZLUNE.ID #GraceInJazz"
+      "16f0c3a8-e000-4ef6-95ef-1a7e493221ec": "JAZLUNE.ID #GraceInJazz",
+      "0563b71b-2add-456c-9f2d-1812296bd25d": "Agatha Chelsea Zidane"
     },
     "top_gifters": [],
-    "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458], [39, 2483], [40, 2518], [41, 2552], [42, 2582], [43, 2619], [44, 2645], [45, 2681], [46, 2713], [47, 2749], [48, 2781], [49, 2807], [50, 2839], [51, 2874], [52, 2904], [53, 2942], [54, 2955]],
+    "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458], [39, 2483], [40, 2518], [41, 2552], [42, 2582], [43, 2619], [44, 2645], [45, 2681], [46, 2713], [47, 2749], [48, 2781], [49, 2807], [50, 2839], [51, 2874], [52, 2904], [53, 2942], [54, 2955], [55, 2989], [56, 3017], [57, 3041], [58, 3073], [59, 3108]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 468,
+    "gift_gold": 493,
     "idn_gifters": {
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": {
         "name": "Arya Sutanto",
@@ -103,9 +105,14 @@
         "name": "JAZLUNE.ID #GraceInJazz",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f05542a8c182b317b8e07f70b4031ba1.webp?v=1794738474",
         "points": 4
+      },
+      "0563b71b-2add-456c-9f2d-1812296bd25d": {
+        "name": "Agatha Chelsea Zidane",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d3af79c033849211f75bda2b5b6653b3.webp?v=1789394041",
+        "points": 100
       }
     },
-    "estimated_gift_value_idr": 1170000,
+    "estimated_gift_value_idr": 1232500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
