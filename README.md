@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 16.51 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 16.56 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 4.961 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 5.631 |
-| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 2.289 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 2.457 |
+| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 2.564 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 2.801 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 74m | 5.779 | 32 | 678 | — | 1.621 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 73m | 5.075 | 45 | 1.114 | — | 745 |
 | Giaa | IDN Live | p | 16 Nov 2026, 15.37 | 39m | 2.514 | 20 | 199 | — | 432 |
 | Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 60m | 6.944 | 87 | 1.333 | — | 5.240 |
 | Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 82m | 3.511 | 19 | 302 | — | 898 |
@@ -93,8 +93,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Ekin | IDN Live | hai | 15 Nov 2026, 17.02 | 65m | 7.597 | 81 | 3.160 | — | 11.045 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 16.58 | 63m | 5.708 | 31 | 510 | — | 1.417 |
 | Heidi | IDN Live | wooo | 15 Nov 2026, 16.40 | 60m | 3.214 | 13 | 1.537 | — | 845 |
-| Bella | IDN Live | Hellooo | 15 Nov 2026, 16.39 | 63m | 5.135 | 27 | 327 | — | 660 |
-| Gita | IDN Live | Gits | 15 Nov 2026, 16.33 | 65m | 6.016 | 23 | 238 | — | 637 |
 
 ## Lisensi
 
