@@ -11,31 +11,38 @@
     "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
     "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
     "started_at": "2026-11-16T03:53:12.000Z",
-    "viewers": 2241,
-    "last_seen_at": "2026-11-16T04:26:02.647Z",
-    "peak_viewers": 2241,
-    "gifts": 6,
-    "gift_points": 500,
+    "viewers": 2458,
+    "last_seen_at": "2026-11-16T04:31:11.562Z",
+    "peak_viewers": 2458,
+    "gifts": 12,
+    "gift_points": 848,
     "stars": 0,
-    "comments": 231,
+    "comments": 418,
     "gift_breakdown": {
-      "Kompas": 2,
-      "Toa": 1,
+      "Kompas": 3,
+      "Toa": 2,
       "Cold Water": 1,
       "Emas Batang": 1,
-      "Tumpeng": 1
+      "Tumpeng": 1,
+      "Happy B-Day!": 2,
+      "Pumpkin": 1,
+      "HADIIIRRR!!": 1
     },
     "gifters": {
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": "Arya Sutanto",
       "f1234438-bb73-4fb3-a986-2d9d8d68aa88": "Siti Aisyah",
       "fe2230a3-3c8b-4809-b185-6e22453d7271": "Zain Nur Ramadhian",
       "060002c8-3634-4120-b0e4-8412fd48f1ac": "Kuncoro Wibowo",
-      "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad"
+      "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad",
+      "c45e24db-268b-45e7-aabf-65e5bd8be03d": "Shinbé Kiyawara",
+      "3af40406-2fdf-4870-8179-3fa48a29a3cb": "Almaida _",
+      "68f96820-48d5-4dfe-b1ad-2713a7031ae7": "Kymm ^ ◡ ^",
+      "a152753a-af00-451a-a7c6-8f80c592a4d6": "ruru my 🦥 kukangnim"
     },
     "top_gifters": [],
-    "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241]],
+    "viewer_series": [[28, 2035], [29, 2086], [30, 2126], [31, 2169], [32, 2205], [33, 2241], [34, 2292], [35, 2330], [36, 2394], [37, 2424], [38, 2458]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 125,
+    "gift_gold": 212,
     "idn_gifters": {
       "a6818f9b-672c-4dd4-86c7-9768d04c312a": {
         "name": "Arya Sutanto",
@@ -60,10 +67,30 @@
       "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": {
         "name": "Azrie Ahmad",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787",
-        "points": 240
+        "points": 400
+      },
+      "c45e24db-268b-45e7-aabf-65e5bd8be03d": {
+        "name": "Shinbé Kiyawara",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705",
+        "points": 120
+      },
+      "3af40406-2fdf-4870-8179-3fa48a29a3cb": {
+        "name": "Almaida _",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546",
+        "points": 20
+      },
+      "68f96820-48d5-4dfe-b1ad-2713a7031ae7": {
+        "name": "Kymm ^ ◡ ^",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/07017801eb3eb6b5474e8614c4e72ac0.webp?v=1793034307",
+        "points": 20
+      },
+      "a152753a-af00-451a-a7c6-8f80c592a4d6": {
+        "name": "ruru my 🦥 kukangnim",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92eabce42ef2922cde4b56c93137368c.webp?v=1787038984",
+        "points": 28
       }
     },
-    "estimated_gift_value_idr": 312500,
+    "estimated_gift_value_idr": 530000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
