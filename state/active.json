@@ -11,16 +11,16 @@
     "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261116161013",
     "image": "https://cdn.idn.app/livestream/b6f95b9039ba3ac50ab03cc43615385d.webp",
     "started_at": "2026-11-16T09:10:19.000Z",
-    "viewers": 4135,
-    "last_seen_at": "2026-11-16T10:32:20.739Z",
-    "peak_viewers": 4135,
-    "gifts": 25,
-    "gift_points": 1380,
+    "viewers": 4312,
+    "last_seen_at": "2026-11-16T10:37:31.130Z",
+    "peak_viewers": 4312,
+    "gifts": 27,
+    "gift_points": 1388,
     "stars": 0,
-    "comments": 1200,
+    "comments": 1349,
     "gift_breakdown": {
       "Graffiti": 1,
-      "Cold Water": 8,
+      "Cold Water": 9,
       "Es Kelapa": 1,
       "Mawar": 1,
       "Kompas": 2,
@@ -31,7 +31,7 @@
       "JKT48 Show": 1,
       "Angklung": 1,
       "Lemon Tea": 1,
-      "Water": 4
+      "Water": 5
     },
     "gifters": {
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": "dagdigdugdeerr .",
@@ -53,12 +53,14 @@
       "e7af7aab-9315-4460-b48b-ba4332a94309": "Ajeng Najwa",
       "c290ffbf-7b5c-4953-8994-f42ae442fc56": "Nay Khan",
       "793e1f3f-96c1-4fd6-94b1-516ad8c19201": "Maya Ya",
-      "64376781-7e69-48b7-819b-7921b37dfe89": "Risqi Vodoo ☃️"
+      "64376781-7e69-48b7-819b-7921b37dfe89": "Risqi Vodoo ☃️",
+      "70e3233b-6f29-4df9-8ce0-e1faf6cab065": "Rara sya",
+      "c4034990-5ad7-4c4c-9485-57064f26ea4f": "Indri. In77"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 6], [1, 32], [2, 102], [3, 159], [4, 209], [5, 277], [6, 307], [7, 375], [8, 462], [9, 616], [10, 744], [11, 844], [12, 905], [13, 975], [14, 1026], [15, 1083], [51, 2962], [52, 3002], [53, 3037], [54, 3072], [55, 3107], [56, 3124], [57, 3181], [58, 3213], [59, 3249], [60, 3297], [61, 3341], [62, 3379], [63, 3422], [64, 3460], [65, 3488], [66, 3541], [67, 3578], [68, 3598], [69, 3644], [70, 3685], [71, 3716], [72, 3753], [73, 3782], [74, 3826], [75, 3867], [76, 3895], [77, 3928], [78, 3986], [79, 4022], [80, 4059], [81, 4096], [82, 4116]],
+    "viewer_series": [[0, 6], [1, 32], [2, 102], [3, 159], [4, 209], [5, 277], [6, 307], [7, 375], [8, 462], [9, 616], [10, 744], [11, 844], [12, 905], [13, 975], [14, 1026], [15, 1083], [51, 2962], [52, 3002], [53, 3037], [54, 3072], [55, 3107], [56, 3124], [57, 3181], [58, 3213], [59, 3249], [60, 3297], [61, 3341], [62, 3379], [63, 3422], [64, 3460], [65, 3488], [66, 3541], [67, 3578], [68, 3598], [69, 3644], [70, 3685], [71, 3716], [72, 3753], [73, 3782], [74, 3826], [75, 3867], [76, 3895], [77, 3928], [78, 3986], [79, 4022], [80, 4059], [81, 4096], [82, 4116], [83, 4160], [84, 4189], [85, 4228], [86, 4258], [87, 4297]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL",
-    "gift_gold": 345,
+    "gift_gold": 347,
     "idn_gifters": {
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": {
         "name": "dagdigdugdeerr .",
@@ -159,9 +161,19 @@
         "name": "Risqi Vodoo ☃️",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/69922b3843b5962b134ed019361fdf86.webp?v=1793718311",
         "points": 20
+      },
+      "70e3233b-6f29-4df9-8ce0-e1faf6cab065": {
+        "name": "Rara sya",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfa68fcd94c67f93eb2b7814b07bdf5f.webp?v=1793876550",
+        "points": 4
+      },
+      "c4034990-5ad7-4c4c-9485-57064f26ea4f": {
+        "name": "Indri. In77",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/633fe1f7a3ccd97ceae2b1143af1b7c5.webp?v=1794740524",
+        "points": 4
       }
     },
-    "estimated_gift_value_idr": 862500,
+    "estimated_gift_value_idr": 867500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
