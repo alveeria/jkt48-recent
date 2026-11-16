@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 22.03 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 22.09 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 8.065 |
-| Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 5.558 |
-| Aralie | IDN Live | hi | 16 Nov 2026, 21.01 | 11.301 |
-| Jessi | IDN Live | hi | 16 Nov 2026, 21.05 | 4.330 |
-| Erine | IDN Live | erin boss  | 16 Nov 2026, 21.10 | 12.532 |
-| Danella | IDN Live | ☺️ | 16 Nov 2026, 20.51 | 3.721 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 21.28 | 2.279 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 21.35 | 2.447 |
-| Lana | IDN Live | Hai | 16 Nov 2026, 21.35 | 2.947 |
-| Greesel | IDN Live | hi | 16 Nov 2026, 21.43 | 2.230 |
+| Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 8.423 |
+| Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 5.852 |
+| Aralie | IDN Live | hi | 16 Nov 2026, 21.01 | 12.075 |
+| Jessi | IDN Live | hi | 16 Nov 2026, 21.05 | 4.632 |
+| Erine | IDN Live | erin boss  | 16 Nov 2026, 21.10 | 13.329 |
+| Danella | IDN Live | ☺️ | 16 Nov 2026, 20.51 | 3.926 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 21.28 | 2.571 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 21.35 | 2.834 |
+| Lana | IDN Live | Hai | 16 Nov 2026, 21.35 | 3.372 |
+| Greesel | IDN Live | hi | 16 Nov 2026, 21.43 | 2.696 |
+| Trisha | IDN Live | haai | 16 Nov 2026, 22.08 | 69 |
+| Lily | IDN Live | Hai | 16 Nov 2026, 22.09 | 1 |
 
 ## Live terakhir — Nov 2026
 
