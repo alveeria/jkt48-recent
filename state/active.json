@@ -11,28 +11,36 @@
     "url": "https://www.idn.app/jkt48_gracie/live/hiii-261116130251",
     "image": "https://cdn.idn.app/livestream/45277c459181a1361a57a8734fc27aa2.webp",
     "started_at": "2026-11-16T06:02:55.000Z",
-    "viewers": 461,
-    "last_seen_at": "2026-11-16T06:09:02.635Z",
-    "peak_viewers": 461,
-    "gifts": 4,
-    "gift_points": 92,
+    "viewers": 938,
+    "last_seen_at": "2026-11-16T06:14:11.299Z",
+    "peak_viewers": 938,
+    "gifts": 9,
+    "gift_points": 392,
     "stars": 0,
-    "comments": 253,
+    "comments": 425,
     "gift_breakdown": {
       "Toa": 1,
       "Kompas": 1,
-      "Pumpkin": 1,
-      "Es Kelapa": 1
+      "Pumpkin": 2,
+      "Es Kelapa": 1,
+      "Makan ya kak": 1,
+      "Siomay": 1,
+      "Happy B-Day!": 1,
+      "GRACIE": 1
     },
     "gifters": {
       "317d6e07-9fbf-47b1-b74c-11a058cca260": "ikii _",
       "a00429b6-92d9-4cc6-bc4c-cf301220e2d5": "Dhanduttt Nachia Only",
-      "0a71657b-6b98-4500-b71c-597928b9d9c6": "Tomo "
+      "0a71657b-6b98-4500-b71c-597928b9d9c6": "Tomo ",
+      "a68e46c2-a108-4154-91b0-341c4d40d619": "Wijie .",
+      "9d7f3569-36e4-49a3-89fe-016cf0f95285": "Huda Mahendra",
+      "d77cbec9-4660-4788-83eb-f8c925f2fa43": "Felii .",
+      "b5730203-2bbc-4ef7-aa47-d89386618bbc": "ogreg maxxing"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 26], [1, 90], [2, 148], [3, 239], [4, 309], [5, 365], [6, 420]],
+    "viewer_series": [[0, 26], [1, 90], [2, 148], [3, 239], [4, 309], [5, 365], [6, 420], [7, 517], [8, 656], [9, 746], [10, 834], [11, 908]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "gift_gold": 23,
+    "gift_gold": 98,
     "idn_gifters": {
       "317d6e07-9fbf-47b1-b74c-11a058cca260": {
         "name": "ikii _",
@@ -48,9 +56,29 @@
         "name": "Tomo ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/beb9ba335e10b620adc60f06a4865c7b.webp?v=1774452402",
         "points": 12
+      },
+      "a68e46c2-a108-4154-91b0-341c4d40d619": {
+        "name": "Wijie .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2b837605d96dc4207a8e7816883934ed.webp?v=1767095653",
+        "points": 160
+      },
+      "9d7f3569-36e4-49a3-89fe-016cf0f95285": {
+        "name": "Huda Mahendra",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8a5c509587f4fd50cd330b639c8035ad.webp?v=1786714837",
+        "points": 20
+      },
+      "d77cbec9-4660-4788-83eb-f8c925f2fa43": {
+        "name": "Felii .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8a86ea979a8e6f410ae6e7c781d3437.webp?v=1784599697",
+        "points": 40
+      },
+      "b5730203-2bbc-4ef7-aa47-d89386618bbc": {
+        "name": "ogreg maxxing",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d3d18fb48d5992cbc9d3f87a09e616a6.webp?v=1779200619",
+        "points": 80
       }
     },
-    "estimated_gift_value_idr": 57500,
+    "estimated_gift_value_idr": 245000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
