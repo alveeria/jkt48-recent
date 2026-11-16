@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 15.28 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 15.33 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Rilly | IDN Live | GEREEEMMM | 16 Nov 2026, 14.41 | 2.391 |
-| Ekin | IDN Live | hai | 16 Nov 2026, 14.43 | 5.063 |
-| Muthe | IDN Live | Hi | 16 Nov 2026, 15.01 | 2.294 |
-| Bella | IDN Live | Hellooo | 16 Nov 2026, 15.06 | 1.613 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.21 | 347 |
-| Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 153 |
-| Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 3 |
+| Rilly | IDN Live | GEREEEMMM | 16 Nov 2026, 14.41 | 2.692 |
+| Ekin | IDN Live | hai | 16 Nov 2026, 14.43 | 5.580 |
+| Muthe | IDN Live | Hi | 16 Nov 2026, 15.01 | 2.667 |
+| Bella | IDN Live | Hellooo | 16 Nov 2026, 15.06 | 2.054 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.21 | 733 |
+| Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 495 |
+| Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 880 |
 
 ## Live terakhir — Nov 2026
 
