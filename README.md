@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 15.02 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 15.07 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Carissa | IDN Live | hhhhaaaalllloooo🥰 | 16 Nov 2026, 13.59 | 2.589 |
-| Rilly | IDN Live | GEREEEMMM | 16 Nov 2026, 14.41 | 934 |
-| Ekin | IDN Live | hai | 16 Nov 2026, 14.43 | 2.571 |
-| Muthe | IDN Live | Hi | 16 Nov 2026, 15.01 | 66 |
-| Bella | IDN Live | Hellooo | 16 Nov 2026, 15.02 | 9 |
+| Carissa | IDN Live | hhhhaaaalllloooo🥰 | 16 Nov 2026, 13.59 | 2.895 |
+| Rilly | IDN Live | GEREEEMMM | 16 Nov 2026, 14.41 | 1.237 |
+| Ekin | IDN Live | hai | 16 Nov 2026, 14.43 | 3.171 |
+| Muthe | IDN Live | Hi | 16 Nov 2026, 15.01 | 601 |
+| Bella | IDN Live | Hellooo | 16 Nov 2026, 15.06 | 142 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Bella | IDN Live | Hellooo | 16 Nov 2026, 15.02 | 3m | 389 | 0 | — | — | 81 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 13.24 | 64m | 3.087 | 51 | 1.391 | — | 3.725 |
 | Gracie | IDN Live | hiii | 16 Nov 2026, 13.02 | 63m | 3.594 | 51 | 1.718 | — | 2.051 |
 | Intan | IDN Live | p | 16 Nov 2026, 10.53 | 66m | 3.319 | 32 | 1.073 | — | 1.434 |
@@ -95,7 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Michie | IDN Live | live  aja | 15 Nov 2026, 13.43 | 61m | 7.388 | 82 | 1.317 | — | 6.593 |
 | Rara | IDN Live | temeninnn | 15 Nov 2026, 12.44 | 71m | 2.338 | 56 | 679 | — | 1.237 |
 | Jazzy | IDN Live | when ya | 15 Nov 2026, 12.31 | 70m | 3.463 | 68 | 1.187 | — | 5.224 |
-| Muthe | IDN Live | Hi | 15 Nov 2026, 12.17 | 63m | 3.485 | 16 | 320 | — | 937 |
 
 ## Lisensi
 
