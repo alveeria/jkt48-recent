@@ -11,25 +11,32 @@
     "url": "https://www.idn.app/jkt48_lulu/live/hi-261116190433",
     "image": "https://cdn.idn.app/livestream/48a7653c01bd84ccc31e32ad03a07782.webp",
     "started_at": "2026-11-16T12:04:39.000Z",
-    "viewers": 2444,
-    "last_seen_at": "2026-11-16T12:31:47.272Z",
-    "peak_viewers": 2444,
-    "gifts": 2,
-    "gift_points": 412,
+    "viewers": 3011,
+    "last_seen_at": "2026-11-16T12:37:03.537Z",
+    "peak_viewers": 3011,
+    "gifts": 7,
+    "gift_points": 828,
     "stars": 0,
-    "comments": 783,
+    "comments": 1063,
     "gift_breakdown": {
       "Mawar": 1,
-      "JKT48 Show": 1
+      "JKT48 Show": 1,
+      "Angklung": 2,
+      "Jari Hati": 1,
+      "Tulip Flower": 1,
+      "Matcha": 1
     },
     "gifters": {
       "87ba5cf5-bf13-47c4-921d-becb0ce8728e": "Narendra _",
-      "6196732f-fb3e-4281-a31f-ded65fe5ed8b": "I P U N ."
+      "6196732f-fb3e-4281-a31f-ded65fe5ed8b": "I P U N .",
+      "abfa7f23-3e1a-495c-870a-92a01e939c0c": "Panduu",
+      "008eaab1-870e-4cd3-b9d6-444f6f085b51": "helmi mohd",
+      "001cd0c9-d6f8-4011-9b23-979364ad8ea5": "Rahman Tea"
     },
     "top_gifters": [],
-    "viewer_series": [[1, 19], [2, 120], [3, 189], [4, 246], [5, 300], [6, 356], [7, 419], [8, 491], [9, 566], [10, 651], [11, 729], [12, 794], [13, 826], [14, 909], [15, 1012], [16, 1105], [17, 1201], [18, 1327], [19, 1437], [20, 1535], [21, 1611], [22, 1691], [23, 1752], [24, 1837], [25, 1970], [26, 2257], [27, 2388]],
+    "viewer_series": [[1, 19], [2, 120], [3, 189], [4, 246], [5, 300], [6, 356], [7, 419], [8, 491], [9, 566], [10, 651], [11, 729], [12, 794], [13, 826], [14, 909], [15, 1012], [16, 1105], [17, 1201], [18, 1327], [19, 1437], [20, 1535], [21, 1611], [22, 1691], [23, 1752], [24, 1837], [25, 1970], [26, 2257], [27, 2388], [28, 2512], [29, 2634], [30, 2762], [31, 2868], [32, 2963]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
-    "gift_gold": 103,
+    "gift_gold": 207,
     "idn_gifters": {
       "87ba5cf5-bf13-47c4-921d-becb0ce8728e": {
         "name": "Narendra _",
@@ -40,10 +47,81 @@
         "name": "I P U N .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53245f592c84bab98c9e779f98820451.webp?v=1786319945",
         "points": 400
+      },
+      "abfa7f23-3e1a-495c-870a-92a01e939c0c": {
+        "name": "Panduu",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/502368382a46fe355ceec34f02111953.webp?v=1731395787",
+        "points": 196
+      },
+      "008eaab1-870e-4cd3-b9d6-444f6f085b51": {
+        "name": "helmi mohd",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 116
+      },
+      "001cd0c9-d6f8-4011-9b23-979364ad8ea5": {
+        "name": "Rahman Tea",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4cafda36e3d05033f7400078f2534382.webp?v=1785760004",
+        "points": 104
       }
     },
-    "estimated_gift_value_idr": 257500,
+    "estimated_gift_value_idr": 517500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
+  },
+  "idn:malms-bosku-261116193550": {
+    "id": "idn:malms-bosku-261116193550",
+    "platform": "idn",
+    "member": {
+      "name": "Delynn",
+      "username": "jkt48_delynn",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/59da93bbc2b0f06fa8a98329a93f1348.webp?v=1778755871"
+    },
+    "title": "malms bosku",
+    "url": "https://www.idn.app/jkt48_delynn/live/malms-bosku-261116193550",
+    "image": "https://cdn.idn.app/livestream/67f8a19952e9084c86c0ee6992c66f14.webp",
+    "started_at": "2026-11-16T12:35:56.000Z",
+    "viewers": 230,
+    "last_seen_at": "2026-11-16T12:37:03.537Z",
+    "peak_viewers": 230,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 26,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 85]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/mnMORuLVJAeJ",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
+  },
+  "idn:ayo-ngobrol-bareng-261116193605": {
+    "id": "idn:ayo-ngobrol-bareng-261116193605",
+    "platform": "idn",
+    "member": {
+      "name": "Christy",
+      "username": "jkt48_christy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4e9f4a84addf88bc982b1bf1bfa6e4da.webp?v=1778755285"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_christy/live/ayo-ngobrol-bareng-261116193605",
+    "image": "https://cdn.idn.app/livestream/bf270cd59de6638d74bf731144b8d6f3.webp",
+    "started_at": "2026-11-16T12:36:15.000Z",
+    "viewers": 142,
+    "last_seen_at": "2026-11-16T12:37:03.537Z",
+    "peak_viewers": 142,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 10,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 15], [1, 142]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/m1hxktxu0xLI",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
   }
 }
