@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:40:02.827Z",
+  "updated_at": "2026-11-16T06:45:14.303Z",
   "lives": [
     {
       "id": "idn:hiii-261116130251",
@@ -13,31 +13,32 @@
       "url": "https://www.idn.app/jkt48_gracie/live/hiii-261116130251",
       "image": "https://cdn.idn.app/livestream/45277c459181a1361a57a8734fc27aa2.webp",
       "started_at": "2026-11-16T06:02:55.000Z",
-      "viewers": 2298,
-      "last_seen_at": "2026-11-16T06:40:01.783Z",
-      "peak_viewers": 2298,
-      "gifts": 30,
-      "gift_points": 2928,
+      "viewers": 2585,
+      "last_seen_at": "2026-11-16T06:45:13.260Z",
+      "peak_viewers": 2585,
+      "gifts": 34,
+      "gift_points": 3016,
       "stars": 0,
-      "comments": 1230,
+      "comments": 1340,
       "gift_breakdown": {
-        "Toa": 6,
+        "Toa": 7,
         "Kompas": 3,
-        "Pumpkin": 2,
+        "Pumpkin": 3,
         "Es Kelapa": 1,
         "Makan ya kak": 1,
         "Siomay": 2,
         "Happy B-Day!": 1,
         "GRACIE": 3,
         "Emas Batang": 1,
-        "HAHAHA": 1,
+        "HAHAHA": 2,
         "Jet Pribadi": 1,
         "Matcha": 2,
         "Nasi Goreng": 1,
         "Arcade Game": 1,
         "Martabak": 1,
         "Boba Tea": 1,
-        "Team Hype": 2
+        "Team Hype": 2,
+        "Water": 1
       },
       "top_gifters": [
         {
@@ -72,21 +73,21 @@
         },
         {
           "rank": 6,
+          "name": "Heggyss Septian",
+          "points": 100,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/28036b579674116f70da81484450a53a.webp?v=1793711683"
+        },
+        {
+          "rank": 7,
           "name": "ogreg maxxing",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d3d18fb48d5992cbc9d3f87a09e616a6.webp?v=1779200619"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Huda Mahendra",
           "points": 60,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8a5c509587f4fd50cd330b639c8035ad.webp?v=1786714837"
-        },
-        {
-          "rank": 8,
-          "name": "Heggyss Septian",
-          "points": 60,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/28036b579674116f70da81484450a53a.webp?v=1793711683"
         },
         {
           "rank": 9,
@@ -101,10 +102,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6322609698ce91adbfd1493e558b7419.webp?v=1794587307"
         }
       ],
-      "viewer_series": [[0, 26], [1, 90], [2, 148], [3, 239], [4, 309], [5, 365], [6, 420], [7, 517], [8, 656], [9, 746], [10, 834], [11, 908], [12, 969], [13, 1031], [14, 1084], [15, 1134], [16, 1190], [17, 1247], [18, 1292], [19, 1312], [20, 1366], [21, 1417], [22, 1483], [23, 1543], [24, 1606], [25, 1659], [26, 1715], [27, 1774], [28, 1825], [29, 1883], [30, 1947], [31, 1995], [32, 2049], [33, 2119], [34, 2143], [35, 2189], [36, 2237], [37, 2278]],
+      "viewer_series": [[0, 26], [1, 90], [2, 148], [3, 239], [4, 309], [5, 365], [6, 420], [7, 517], [8, 656], [9, 746], [10, 834], [11, 908], [12, 969], [13, 1031], [14, 1084], [15, 1134], [16, 1190], [17, 1247], [18, 1292], [19, 1312], [20, 1366], [21, 1417], [22, 1483], [23, 1543], [24, 1606], [25, 1659], [26, 1715], [27, 1774], [28, 1825], [29, 1883], [30, 1947], [31, 1995], [32, 2049], [33, 2119], [34, 2143], [35, 2189], [36, 2237], [37, 2278], [38, 2341], [39, 2401], [40, 2453], [41, 2503], [42, 2562]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-      "gift_gold": 732,
-      "estimated_gift_value_idr": 1830000,
+      "gift_gold": 754,
+      "estimated_gift_value_idr": 1885000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -120,20 +121,24 @@
       "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261116132419",
       "image": "https://cdn.idn.app/livestream/a9ca63cdb6563c0faced2e1662753ea1.webp",
       "started_at": "2026-11-16T06:24:24.000Z",
-      "viewers": 810,
-      "last_seen_at": "2026-11-16T06:40:01.783Z",
-      "peak_viewers": 810,
-      "gifts": 9,
-      "gift_points": 632,
+      "viewers": 1038,
+      "last_seen_at": "2026-11-16T06:45:13.260Z",
+      "peak_viewers": 1038,
+      "gifts": 19,
+      "gift_points": 928,
       "stars": 0,
-      "comments": 860,
+      "comments": 1123,
       "gift_breakdown": {
         "MIKAELA": 2,
         "Tulip Flower": 1,
         "Team Chill": 1,
-        "Angklung": 2,
+        "Angklung": 3,
         "Hii Takut": 1,
-        "Toa": 2
+        "Toa": 6,
+        "Kompas": 2,
+        "Semangat kak": 1,
+        "Rempeyek": 1,
+        "Cold Water": 1
       },
       "top_gifters": [
         {
@@ -151,26 +156,50 @@
         {
           "rank": 3,
           "name": "Azil -",
-          "points": 116,
+          "points": 136,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3e3655d7642cbce76226a98ceea6a7e5.webp?v=1784993848"
         },
         {
           "rank": 4,
+          "name": "Rafmul ‎",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2ca725cb5d594137cf987468815dc8cc.webp?v=1751292560"
+        },
+        {
+          "rank": 5,
           "name": "macaroni 🍝",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3202dd06123ea1cecce8a54b851a6a04.webp?v=1794732377"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "name": "Angeletania25",
+          "points": 60,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+        },
+        {
+          "rank": 7,
+          "name": "Reii Wijaya",
+          "points": 60,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414"
+        },
+        {
+          "rank": 8,
+          "name": "Nilammmm ☄️",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6a4b5fab63b8764638ed1e127414707.webp?v=1793887123"
+        },
+        {
+          "rank": 9,
           "name": "Rofiqnz 187",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/71f8aba34732531bce2e5e298765e464.webp?v=1793978541"
         }
       ],
-      "viewer_series": [[0, 1], [1, 32], [2, 126], [3, 196], [4, 243], [5, 313], [6, 376], [7, 430], [8, 483], [9, 540], [10, 580], [11, 635], [12, 656], [13, 706], [14, 735], [15, 776], [16, 810]],
+      "viewer_series": [[0, 1], [1, 32], [2, 126], [3, 196], [4, 243], [5, 313], [6, 376], [7, 430], [8, 483], [9, 540], [10, 580], [11, 635], [12, 656], [13, 706], [14, 735], [15, 776], [16, 810], [17, 869], [18, 908], [19, 956], [20, 997], [21, 1038]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-      "gift_gold": 158,
-      "estimated_gift_value_idr": 395000,
+      "gift_gold": 232,
+      "estimated_gift_value_idr": 580000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
