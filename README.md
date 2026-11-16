@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 16.20 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 16.25 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lyn | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.21 | 3.379 |
-| Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 2.663 |
-| Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 6.317 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 3.317 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 3.697 |
-| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 1.106 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 788 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.21 | 3.587 |
+| Elin | IDN Live | Hai | 16 Nov 2026, 15.25 | 2.837 |
+| Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 6.730 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 3.615 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 4.090 |
+| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 1.322 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 1.120 |
 
 ## Live terakhir — Nov 2026
 
