@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_gita/live/gits-261116181910",
     "image": "https://cdn.idn.app/livestream/5bc548ea1b91541f299ce9cafa451d7e.webp",
     "started_at": "2026-11-16T11:19:15.000Z",
-    "viewers": 1480,
-    "last_seen_at": "2026-11-16T11:34:32.169Z",
-    "peak_viewers": 1480,
-    "gifts": 10,
-    "gift_points": 316,
+    "viewers": 1890,
+    "last_seen_at": "2026-11-16T11:39:42.255Z",
+    "peak_viewers": 1890,
+    "gifts": 12,
+    "gift_points": 456,
     "stars": 0,
-    "comments": 341,
+    "comments": 468,
     "gift_breakdown": {
       "GITA": 1,
       "HADIIIRRR!!": 1,
@@ -25,7 +25,9 @@
       "Makan ya kak": 1,
       "Semangat kak": 2,
       "Kompas": 3,
-      "Mawar": 1
+      "Mawar": 1,
+      "Arcade Game": 1,
+      "Matcha": 1
     },
     "gifters": {
       "aca894dc-91a1-48b3-ba97-501cf345183e": "Robby Nur Hidayat",
@@ -36,12 +38,14 @@
       "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": "Bli Putu Dicky MP",
       "394b5074-715a-4d57-91e2-530268c0df8d": "Nurits ✌️😁 ",
       "cc78c020-6b1a-4be7-b019-78fccc09c505": "Ice Bear",
-      "2d58c906-b130-4e42-90b8-4225395b36d8": "Rafy Rapyra"
+      "2d58c906-b130-4e42-90b8-4225395b36d8": "Rafy Rapyra",
+      "75483bb3-5148-4a88-ad2d-df1da144d358": "Wijaya rfhrn19",
+      "a19f89ee-ede9-45d4-8548-2fe225ed36ed": "Dhanyfs _"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905], [11, 1020], [12, 1120], [13, 1250], [14, 1357], [15, 1439]],
+    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905], [11, 1020], [12, 1120], [13, 1250], [14, 1357], [15, 1439], [16, 1517], [17, 1603], [18, 1677], [19, 1775], [20, 1858]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-    "gift_gold": 79,
+    "gift_gold": 114,
     "idn_gifters": {
       "aca894dc-91a1-48b3-ba97-501cf345183e": {
         "name": "Robby Nur Hidayat",
@@ -87,9 +91,19 @@
         "name": "Rafy Rapyra",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310",
         "points": 20
+      },
+      "75483bb3-5148-4a88-ad2d-df1da144d358": {
+        "name": "Wijaya rfhrn19",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/40a317263bbd0ba72a593619619a5aea.webp?v=1794664144",
+        "points": 100
+      },
+      "a19f89ee-ede9-45d4-8548-2fe225ed36ed": {
+        "name": "Dhanyfs _",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6e47a6c2736ca6623656e8415cb4f30.webp?v=1765792488",
+        "points": 40
       }
     },
-    "estimated_gift_value_idr": 197500,
+    "estimated_gift_value_idr": 285000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }

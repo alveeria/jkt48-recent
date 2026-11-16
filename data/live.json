@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:34:33.226Z",
+  "updated_at": "2026-11-16T11:39:43.326Z",
   "lives": [
     {
       "id": "idn:gits-261116181910",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_gita/live/gits-261116181910",
       "image": "https://cdn.idn.app/livestream/5bc548ea1b91541f299ce9cafa451d7e.webp",
       "started_at": "2026-11-16T11:19:15.000Z",
-      "viewers": 1480,
-      "last_seen_at": "2026-11-16T11:34:32.169Z",
-      "peak_viewers": 1480,
-      "gifts": 10,
-      "gift_points": 316,
+      "viewers": 1890,
+      "last_seen_at": "2026-11-16T11:39:42.255Z",
+      "peak_viewers": 1890,
+      "gifts": 12,
+      "gift_points": 456,
       "stars": 0,
-      "comments": 341,
+      "comments": 468,
       "gift_breakdown": {
         "GITA": 1,
         "HADIIIRRR!!": 1,
@@ -27,68 +27,76 @@
         "Makan ya kak": 1,
         "Semangat kak": 2,
         "Kompas": 3,
-        "Mawar": 1
+        "Mawar": 1,
+        "Arcade Game": 1,
+        "Matcha": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "Wijaya rfhrn19",
+          "points": 100,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/40a317263bbd0ba72a593619619a5aea.webp?v=1794664144"
+        },
+        {
+          "rank": 2,
           "name": "Robby Nur Hidayat",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91380885f157ebc90c097f90d7ca6524.webp?v=1774497189"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Septiii ",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eacb97c5b776ab935d1bcbd7b2f6871b.webp?v=1794557116"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Kruaa aja.",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/767f2e148f15bbdd1433b61bc45d7b26.webp?v=1729746183"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Bli Putu Dicky MP",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9659f3252457548f57cbdcda34f1ad4.webp?v=1792135196"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "name": "Dhanyfs _",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6e47a6c2736ca6623656e8415cb4f30.webp?v=1765792488"
+        },
+        {
+          "rank": 7,
           "name": "Muhammad Irsyat J",
           "points": 28,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d46e9e09401f34640c67b472bb6a0ee.webp?v=1784039027"
         },
         {
-          "rank": 6,
+          "rank": 8,
           "name": "Yudistira Nugraha",
           "points": 28,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/42780c34008a0f04b67710f4c487591f.webp?v=1785605410"
         },
         {
-          "rank": 7,
+          "rank": 9,
           "name": "Nurits ✌️😁 ",
           "points": 28,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7d929feb2685cdd5bbc9a5e4f6926dd9.webp?v=1763828290"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "name": "Rafy Rapyra",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310"
-        },
-        {
-          "rank": 9,
-          "name": "Ice Bear",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         }
       ],
-      "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905], [11, 1020], [12, 1120], [13, 1250], [14, 1357], [15, 1439]],
+      "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905], [11, 1020], [12, 1120], [13, 1250], [14, 1357], [15, 1439], [16, 1517], [17, 1603], [18, 1677], [19, 1775], [20, 1858]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-      "gift_gold": 79,
-      "estimated_gift_value_idr": 197500,
+      "gift_gold": 114,
+      "estimated_gift_value_idr": 285000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
