@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 22.30 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 16 Nov 2026, 22.35 WIB.
 
 ## Interval pembaruan
 
@@ -46,24 +46,23 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 10.198 |
-| Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 7.128 |
-| Jessi | IDN Live | hi | 16 Nov 2026, 21.05 | 6.114 |
-| Erine | IDN Live | erin boss  | 16 Nov 2026, 21.10 | 16.781 |
-| Danella | IDN Live | ☺️ | 16 Nov 2026, 20.51 | 4.993 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 21.28 | 4.000 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 21.35 | 4.458 |
-| Lana | IDN Live | Hai | 16 Nov 2026, 21.35 | 5.327 |
-| Greesel | IDN Live | hi | 16 Nov 2026, 21.43 | 4.670 |
-| Trisha | IDN Live | haai | 16 Nov 2026, 22.08 | 3.765 |
-| Lily | IDN Live | Hai | 16 Nov 2026, 22.09 | 3.763 |
+| Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 10.524 |
+| Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 7.358 |
+| Erine | IDN Live | erin boss  | 16 Nov 2026, 21.10 | 17.384 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 21.28 | 4.198 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 21.35 | 4.747 |
+| Lana | IDN Live | Hai | 16 Nov 2026, 21.35 | 5.698 |
+| Greesel | IDN Live | hi | 16 Nov 2026, 21.43 | 5.035 |
+| Trisha | IDN Live | haai | 16 Nov 2026, 22.08 | 4.411 |
+| Lily | IDN Live | Hai | 16 Nov 2026, 22.09 | 4.368 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Jessi | IDN Live | hi | 16 Nov 2026, 21.05 | 85m | 6.143 | 47 | 808 | — | 3.202 |
 | Aralie | IDN Live | hi | 16 Nov 2026, 21.01 | 73m | 12.944 | 43 | 1.424 | — | 2.972 |
-| Danella | IDN Live | ☺️ | 16 Nov 2026, 20.51 | 29m | 1.827 | 35 | 463 | — | 491 |
+| Danella | IDN Live | ☺️ | 16 Nov 2026, 20.51 | 98m | 4.993 | 63 | 1.011 | — | 846 |
 | Daisy | IDN Live | Hi | 16 Nov 2026, 20.41 | 62m | 3.319 | 23 | 954 | — | 708 |
 | Christy | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 19.36 | 70m | 19.734 | 114 | 3.047 | — | 5.635 |
 | Delynn | IDN Live | malms bosku | 16 Nov 2026, 19.35 | 70m | 19.108 | 77 | 3.799 | — | 3.007 |
@@ -101,7 +100,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Ribka | IDN Live | nagu mania | 15 Nov 2026, 18.32 | 64m | 6.674 | 19 | 360 | — | 882 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 18.28 | 50m | 4.886 | 45 | 423 | — | 1.119 |
 | Nachia | IDN Live | hi | 15 Nov 2026, 18.13 | 32m | 4.138 | 30 | 647 | — | 1.679 |
-| Jessi | IDN Live | hi lg main | 15 Nov 2026, 18.00 | 71m | 7.386 | 44 | 440 | — | 1.138 |
 
 ## Lisensi
 
