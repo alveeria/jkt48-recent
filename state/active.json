@@ -11,22 +11,24 @@
     "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
     "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
     "started_at": "2026-11-16T03:53:12.000Z",
-    "viewers": 1169,
-    "last_seen_at": "2026-11-16T04:03:20.500Z",
-    "peak_viewers": 1169,
-    "gifts": 14,
-    "gift_points": 1300,
+    "viewers": 1449,
+    "last_seen_at": "2026-11-16T04:08:28.045Z",
+    "peak_viewers": 1449,
+    "gifts": 25,
+    "gift_points": 2192,
     "stars": 0,
-    "comments": 610,
+    "comments": 949,
     "gift_breakdown": {
-      "Toa": 3,
-      "INTAN": 2,
+      "Toa": 6,
+      "INTAN": 3,
       "Lightstick": 1,
       "JKT48 Show": 1,
-      "Kompas": 4,
+      "Kompas": 7,
       "Emas Batang": 1,
       "Puding": 1,
-      "JKT48 Stage": 1
+      "JKT48 Stage": 2,
+      "Panjat": 2,
+      "Water": 1
     },
     "gifters": {
       "902cec25-44e2-428f-8876-1d7c127280ea": "serli gusdania",
@@ -39,12 +41,18 @@
       "857fad51-5f9a-443a-8932-d8fe8fd2b2a4": "aldi kebun duren",
       "cc55b9de-2a5d-4e1d-b23b-ec7ba97e0f8c": "Anisafeb 🤡🤡",
       "ab6d1ea7-8eb6-49c0-9abd-a5246621252d": "Syafira Alifa",
-      "3af40406-2fdf-4870-8179-3fa48a29a3cb": "Almaida _"
+      "3af40406-2fdf-4870-8179-3fa48a29a3cb": "Almaida _",
+      "060002c8-3634-4120-b0e4-8412fd48f1ac": "Kuncoro Wibowo",
+      "2afa6415-c7a2-4f16-901c-0dae71b871b5": "Idol Karbitan",
+      "895d2172-7ac5-40c7-8d15-8d210bc7e580": "Wisnu Ardi",
+      "188c8ff6-aa83-4a15-8a6b-d40b99e420d1": "Farel k",
+      "587a7855-72ce-4a42-8176-03418709fc7a": "Huft .",
+      "03106a45-6dee-409d-aba3-91eb3d7793bf": "Pluto 15"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745], [6, 809], [7, 895], [8, 986], [9, 1067], [10, 1140]],
+    "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745], [6, 809], [7, 895], [8, 986], [9, 1067], [10, 1140], [11, 1200], [12, 1264], [13, 1322], [14, 1369], [15, 1421]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "gift_gold": 325,
+    "gift_gold": 548,
     "idn_gifters": {
       "902cec25-44e2-428f-8876-1d7c127280ea": {
         "name": "serli gusdania",
@@ -54,12 +62,12 @@
       "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": {
         "name": "Azrie Ahmad",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787",
-        "points": 20
+        "points": 220
       },
       "c45e24db-268b-45e7-aabf-65e5bd8be03d": {
         "name": "Shinbé Kiyawara",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705",
-        "points": 376
+        "points": 664
       },
       "104fd0cd-6596-48da-b0f6-d535568aa9df": {
         "name": "yudea",
@@ -99,10 +107,40 @@
       "3af40406-2fdf-4870-8179-3fa48a29a3cb": {
         "name": "Almaida _",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546",
+        "points": 40
+      },
+      "060002c8-3634-4120-b0e4-8412fd48f1ac": {
+        "name": "Kuncoro Wibowo",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cff3df5e7afb0cd15fc5836b591672a0.webp?v=1784571507",
+        "points": 200
+      },
+      "2afa6415-c7a2-4f16-901c-0dae71b871b5": {
+        "name": "Idol Karbitan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4d89dd8f2a523bb51ad091f7f1ee695a.webp?v=1793778139",
         "points": 20
+      },
+      "895d2172-7ac5-40c7-8d15-8d210bc7e580": {
+        "name": "Wisnu Ardi",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/947a3acdfb3ed0d41915e6e24c1bf6e3.webp?v=1790674867",
+        "points": 40
+      },
+      "188c8ff6-aa83-4a15-8a6b-d40b99e420d1": {
+        "name": "Farel k",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/169b49e46611c84e7b53758030abf35a.webp?v=1794682588",
+        "points": 80
+      },
+      "587a7855-72ce-4a42-8176-03418709fc7a": {
+        "name": "Huft .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/483585375fa24d024d97cdf2bf00f0a5.webp?v=1794542703",
+        "points": 4
+      },
+      "03106a45-6dee-409d-aba3-91eb3d7793bf": {
+        "name": "Pluto 15",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0b217924d99672383e30c60879b97d16.webp?v=1780741707",
+        "points": 40
       }
     },
-    "estimated_gift_value_idr": 812500,
+    "estimated_gift_value_idr": 1370000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
