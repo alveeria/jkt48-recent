@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T07:31:43.199Z",
+  "updated_at": "2026-11-16T07:36:54.214Z",
   "lives": [
     {
       "id": "idn:hhhhaaaalllloooo-261116135938",
@@ -13,19 +13,22 @@
       "url": "https://www.idn.app/jkt48_carissa/live/hhhhaaaalllloooo-261116135938",
       "image": "https://cdn.idn.app/livestream/589a6759a7171c2f5f3d7dc81259feb3.webp",
       "started_at": "2026-11-16T06:59:42.000Z",
-      "viewers": 1518,
-      "last_seen_at": "2026-11-16T07:31:42.099Z",
-      "peak_viewers": 1518,
-      "gifts": 12,
-      "gift_points": 748,
+      "viewers": 1669,
+      "last_seen_at": "2026-11-16T07:36:53.151Z",
+      "peak_viewers": 1669,
+      "gifts": 15,
+      "gift_points": 920,
       "stars": 0,
-      "comments": 1120,
+      "comments": 1357,
       "gift_breakdown": {
         "NACHIA": 1,
         "Kompas": 2,
         "Toa": 7,
         "Cendrawasih": 1,
-        "Lemonade": 1
+        "Lemonade": 1,
+        "Puding": 1,
+        "Cupid": 1,
+        "KIMMY": 1
       },
       "top_gifters": [
         {
@@ -36,45 +39,57 @@
         },
         {
           "rank": 2,
+          "name": "Vigo.",
+          "points": 156,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b2fff832cb43ffacca03b43929e395bf.webp?v=1793693535"
+        },
+        {
+          "rank": 3,
           "name": "WISNU CARISSA ONLY🦖🦖🦖 AJA",
           "points": 100,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d2697f8719892a602f109b7f7e008511.webp?v=1794631461"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "KimTaeSar .",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fb8ce0527ae931ae156db6ca49959ec9.webp?v=1793981560"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Aqsa",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c19abc5819f8671ccabf5c168e31a46.webp?v=1793976208"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Faisal Setia_N",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5666822e54182bf83d2f521a311ab717.webp?v=1793631523"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "izalcul 👾",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5a3d105c02fefad79e991e9049f7c6a5.webp?v=1793252652"
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "name": "Yoel ❤️‍🔥",
+          "points": 16,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fc485378aca28afd8b0b47b8668f98dc.webp?v=1784990826"
+        },
+        {
+          "rank": 9,
           "name": "mikayla iskandar",
           "points": 12,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4bd98f4b2c7c436a26adb8ce1a3658f.webp?v=1791544331"
         }
       ],
-      "viewer_series": [[0, 10], [1, 71], [2, 122], [3, 187], [4, 230], [5, 297], [6, 345], [7, 392], [8, 476], [9, 526], [10, 578], [11, 626], [12, 677], [13, 703], [14, 745], [15, 794], [16, 834], [17, 862], [18, 900], [19, 948], [20, 995], [21, 1031], [22, 1065], [23, 1096], [24, 1133], [25, 1163], [26, 1202], [27, 1260], [28, 1304], [29, 1340], [30, 1442], [31, 1482], [32, 1518]],
+      "viewer_series": [[0, 10], [1, 71], [2, 122], [3, 187], [4, 230], [5, 297], [6, 345], [7, 392], [8, 476], [9, 526], [10, 578], [11, 626], [12, 677], [13, 703], [14, 745], [15, 794], [16, 834], [17, 862], [18, 900], [19, 948], [20, 995], [21, 1031], [22, 1065], [23, 1096], [24, 1133], [25, 1163], [26, 1202], [27, 1260], [28, 1304], [29, 1340], [30, 1442], [31, 1482], [32, 1518], [33, 1540], [34, 1563], [35, 1598], [36, 1632], [37, 1656]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/uFfgGxueaWlO",
-      "gift_gold": 187,
-      "estimated_gift_value_idr": 467500,
+      "gift_gold": 230,
+      "estimated_gift_value_idr": 575000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
