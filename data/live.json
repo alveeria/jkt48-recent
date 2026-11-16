@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:24:08.292Z",
+  "updated_at": "2026-11-16T11:29:17.918Z",
   "lives": [
     {
       "id": "idn:gits-261116181910",
@@ -13,17 +13,20 @@
       "url": "https://www.idn.app/jkt48_gita/live/gits-261116181910",
       "image": "https://cdn.idn.app/livestream/5bc548ea1b91541f299ce9cafa451d7e.webp",
       "started_at": "2026-11-16T11:19:15.000Z",
-      "viewers": 406,
-      "last_seen_at": "2026-11-16T11:24:07.088Z",
-      "peak_viewers": 406,
-      "gifts": 3,
-      "gift_points": 148,
+      "viewers": 960,
+      "last_seen_at": "2026-11-16T11:29:16.771Z",
+      "peak_viewers": 960,
+      "gifts": 6,
+      "gift_points": 236,
       "stars": 0,
-      "comments": 77,
+      "comments": 164,
       "gift_breakdown": {
         "GITA": 1,
         "HADIIIRRR!!": 1,
-        "Pumpkin": 1
+        "Pumpkin": 1,
+        "Makan ya kak": 1,
+        "Semangat kak": 1,
+        "Kompas": 1
       },
       "top_gifters": [
         {
@@ -40,15 +43,33 @@
         },
         {
           "rank": 3,
+          "name": "Kruaa aja.",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/767f2e148f15bbdd1433b61bc45d7b26.webp?v=1729746183"
+        },
+        {
+          "rank": 4,
           "name": "Muhammad Irsyat J",
           "points": 28,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d46e9e09401f34640c67b472bb6a0ee.webp?v=1784039027"
+        },
+        {
+          "rank": 5,
+          "name": "Yudistira Nugraha",
+          "points": 28,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/42780c34008a0f04b67710f4c487591f.webp?v=1785605410"
+        },
+        {
+          "rank": 6,
+          "name": "Bli Putu Dicky MP",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9659f3252457548f57cbdcda34f1ad4.webp?v=1792135196"
         }
       ],
-      "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406]],
+      "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-      "gift_gold": 37,
-      "estimated_gift_value_idr": 92500,
+      "gift_gold": 59,
+      "estimated_gift_value_idr": 147500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }

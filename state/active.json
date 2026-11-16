@@ -11,27 +11,33 @@
     "url": "https://www.idn.app/jkt48_gita/live/gits-261116181910",
     "image": "https://cdn.idn.app/livestream/5bc548ea1b91541f299ce9cafa451d7e.webp",
     "started_at": "2026-11-16T11:19:15.000Z",
-    "viewers": 406,
-    "last_seen_at": "2026-11-16T11:24:07.088Z",
-    "peak_viewers": 406,
-    "gifts": 3,
-    "gift_points": 148,
+    "viewers": 960,
+    "last_seen_at": "2026-11-16T11:29:16.771Z",
+    "peak_viewers": 960,
+    "gifts": 6,
+    "gift_points": 236,
     "stars": 0,
-    "comments": 77,
+    "comments": 164,
     "gift_breakdown": {
       "GITA": 1,
       "HADIIIRRR!!": 1,
-      "Pumpkin": 1
+      "Pumpkin": 1,
+      "Makan ya kak": 1,
+      "Semangat kak": 1,
+      "Kompas": 1
     },
     "gifters": {
       "aca894dc-91a1-48b3-ba97-501cf345183e": "Robby Nur Hidayat",
       "51bea9e7-4b96-4bfe-aab5-9132262211df": "Muhammad Irsyat J",
-      "2e9d7016-38af-4809-9f61-dfc7edf8fec1": "Septiii "
+      "2e9d7016-38af-4809-9f61-dfc7edf8fec1": "Septiii ",
+      "98081730-b928-468a-a946-fedab7f790a6": "Kruaa aja.",
+      "2bf92498-d613-40f3-8880-7fad40007428": "Yudistira Nugraha",
+      "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": "Bli Putu Dicky MP"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406]],
+    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-    "gift_gold": 37,
+    "gift_gold": 59,
     "idn_gifters": {
       "aca894dc-91a1-48b3-ba97-501cf345183e": {
         "name": "Robby Nur Hidayat",
@@ -47,9 +53,24 @@
         "name": "Septiii ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eacb97c5b776ab935d1bcbd7b2f6871b.webp?v=1794557116",
         "points": 40
+      },
+      "98081730-b928-468a-a946-fedab7f790a6": {
+        "name": "Kruaa aja.",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/767f2e148f15bbdd1433b61bc45d7b26.webp?v=1729746183",
+        "points": 40
+      },
+      "2bf92498-d613-40f3-8880-7fad40007428": {
+        "name": "Yudistira Nugraha",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/42780c34008a0f04b67710f4c487591f.webp?v=1785605410",
+        "points": 28
+      },
+      "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": {
+        "name": "Bli Putu Dicky MP",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9659f3252457548f57cbdcda34f1ad4.webp?v=1792135196",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 92500,
+    "estimated_gift_value_idr": 147500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
