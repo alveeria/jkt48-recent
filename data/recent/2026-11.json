@@ -1,5 +1,107 @@
 [
   {
+    "id": "idn:alveeria-2934",
+    "platform": "idn",
+    "member": {
+      "name": "Rilly",
+      "username": "jkt48_rilly",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5e38d8edf838fca332ba020f7bb73ec2.webp?v=1743097350"
+    },
+    "title": "GEREEEMMM",
+    "url": "https://www.idn.app/jkt48_rilly/live/gereeemmm-261116144128",
+    "image": "https://cdn.idn.app/livestream/ca9ca1c9f548a635872cc09d5f0ed45c.webp",
+    "started_at": "2026-11-16T07:41:35.000Z",
+    "last_seen_at": "2026-11-16T08:50:59.552Z",
+    "peak_viewers": 3692,
+    "gifts": 19,
+    "gift_points": 1392,
+    "stars": 0,
+    "comments": 875,
+    "gift_breakdown": {
+      "JKT48 Show": 1,
+      "Team Hype": 1,
+      "Boba Tea": 1,
+      "Happy B-Day!": 1,
+      "Panjat": 2,
+      "Buket Mawar": 1,
+      "Kompas": 4,
+      "Toa": 2,
+      "Angklung": 1,
+      "Semangat kak": 1,
+      "Mawar": 1,
+      "Water": 1,
+      "Cold Water": 1,
+      "Lemon Tea": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Azrie Ahmad",
+        "points": 600,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787"
+      },
+      {
+        "rank": 2,
+        "name": "ruru my 🦥 kukangnim",
+        "points": 404,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92eabce42ef2922cde4b56c93137368c.webp?v=1787038984"
+      },
+      {
+        "rank": 3,
+        "name": "Pasukan Bebek kwek kwek",
+        "points": 260,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4db3910cee223618b5449838d696af27.webp?v=1787739085"
+      },
+      {
+        "rank": 4,
+        "name": "rosaa rojeh",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d877cb17c974f66786d6e8adb4b4e77.webp?v=1794506699"
+      },
+      {
+        "rank": 5,
+        "name": "dypaw _",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec7fd7ad5fa405bb0fd3d73305895280.webp?v=1794755780"
+      },
+      {
+        "rank": 6,
+        "name": "ᴋᴀʀʀᴇʟ._ lagi tipes",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b255793717b9ab81a2196a46acc9aeb5.webp?v=1794298249"
+      },
+      {
+        "rank": 7,
+        "name": "Zah Sd🙏🏻",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/822598155f952b5cdd8ccefa2922eebd.webp?v=1794735811"
+      },
+      {
+        "rank": 8,
+        "name": "rifdah.anotherellayyy ",
+        "points": 16,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/812c2f3c9943ee2edbb615970d92535a.webp?v=1793695973"
+      },
+      {
+        "rank": 9,
+        "name": "mikayla iskandar",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4bd98f4b2c7c436a26adb8ce1a3658f.webp?v=1791544331"
+      }
+    ],
+    "viewer_series": [[0, 15], [1, 68], [2, 130], [3, 209], [4, 283], [5, 352], [6, 400], [7, 453], [8, 502], [9, 547], [10, 589], [11, 622], [12, 661], [13, 686], [14, 712], [15, 737], [16, 746], [17, 782], [18, 822], [19, 860], [20, 891], [21, 917], [22, 962], [23, 1019], [24, 1078], [25, 1142], [26, 1209], [27, 1275], [28, 1302], [29, 1362], [30, 1416], [31, 1490], [32, 1568], [33, 1630], [34, 1705], [35, 1758], [36, 1803], [37, 1850], [38, 1908], [39, 1950], [40, 2005], [41, 2040], [42, 2090], [43, 2126], [44, 2161], [45, 2221], [46, 2285], [47, 2362], [48, 2421], [49, 2482], [50, 2531], [51, 2583], [52, 2647], [53, 2725], [54, 2769], [55, 2823], [56, 2879], [57, 2921], [58, 2943], [59, 3000], [60, 3062], [61, 3166], [62, 3269], [63, 3329], [64, 3395], [65, 3443], [66, 3508], [67, 3562], [68, 3608], [69, 3661]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
+    "gift_gold": 348,
+    "estimated_gift_value_idr": 870000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-16T08:50:59.552Z",
+    "duration_minutes": 69,
+    "last_viewers": 3692,
+    "unique_gifters": 9,
+    "source_id": "idn:gereeemmm-261116144128"
+  },
+  {
     "id": "idn:alveeria-2933",
     "platform": "idn",
     "member": {
