@@ -11,26 +11,29 @@
     "url": "https://www.idn.app/jkt48_gita/live/gits-261116181910",
     "image": "https://cdn.idn.app/livestream/5bc548ea1b91541f299ce9cafa451d7e.webp",
     "started_at": "2026-11-16T11:19:15.000Z",
-    "viewers": 2221,
-    "last_seen_at": "2026-11-16T11:44:53.390Z",
-    "peak_viewers": 2221,
-    "gifts": 17,
-    "gift_points": 648,
+    "viewers": 2536,
+    "last_seen_at": "2026-11-16T11:50:03.764Z",
+    "peak_viewers": 2536,
+    "gifts": 23,
+    "gift_points": 940,
     "stars": 0,
-    "comments": 619,
+    "comments": 736,
     "gift_breakdown": {
-      "GITA": 1,
+      "GITA": 2,
       "HADIIIRRR!!": 1,
       "Pumpkin": 1,
       "Makan ya kak": 1,
       "Semangat kak": 2,
-      "Kompas": 3,
-      "Mawar": 2,
+      "Kompas": 4,
+      "Mawar": 3,
       "Arcade Game": 1,
       "Matcha": 2,
       "Angklung": 1,
       "Water": 1,
-      "Toa": 1
+      "Toa": 1,
+      "Rempeyek": 1,
+      "ELI": 1,
+      "Kupu-Kupu": 1
     },
     "gifters": {
       "aca894dc-91a1-48b3-ba97-501cf345183e": "Robby Nur Hidayat",
@@ -45,17 +48,19 @@
       "75483bb3-5148-4a88-ad2d-df1da144d358": "Wijaya rfhrn19",
       "a19f89ee-ede9-45d4-8548-2fe225ed36ed": "Dhanyfs _",
       "398147fc-3cfc-418e-a6d9-8b0dbb09a7ff": "firdan ɐzʞɐ ƃıɟɟɐɹı",
-      "83114969-776f-4544-b1ad-07a39ca80a5f": "Habib christy only "
+      "83114969-776f-4544-b1ad-07a39ca80a5f": "Habib christy only ",
+      "e1629b52-b935-46d5-9b3b-be5b9f6525fb": "Nemesis Anon12",
+      "fdcb1d27-3e67-42ba-96c5-528404b9d973": "ninja putih"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905], [11, 1020], [12, 1120], [13, 1250], [14, 1357], [15, 1439], [16, 1517], [17, 1603], [18, 1677], [19, 1775], [20, 1858], [21, 1935], [22, 1967], [23, 2023], [24, 2100], [25, 2161], [26, 2221]],
+    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406], [6, 490], [7, 589], [8, 685], [9, 841], [10, 905], [11, 1020], [12, 1120], [13, 1250], [14, 1357], [15, 1439], [16, 1517], [17, 1603], [18, 1677], [19, 1775], [20, 1858], [21, 1935], [22, 1967], [23, 2023], [24, 2100], [25, 2161], [26, 2221], [27, 2281], [28, 2348], [29, 2417], [30, 2482], [31, 2536]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
-    "gift_gold": 162,
+    "gift_gold": 235,
     "idn_gifters": {
       "aca894dc-91a1-48b3-ba97-501cf345183e": {
         "name": "Robby Nur Hidayat",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91380885f157ebc90c097f90d7ca6524.webp?v=1774497189",
-        "points": 80
+        "points": 160
       },
       "51bea9e7-4b96-4bfe-aab5-9132262211df": {
         "name": "Muhammad Irsyat J",
@@ -75,7 +80,7 @@
       "2bf92498-d613-40f3-8880-7fad40007428": {
         "name": "Yudistira Nugraha",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/42780c34008a0f04b67710f4c487591f.webp?v=1785605410",
-        "points": 28
+        "points": 56
       },
       "2b05f7f9-92f6-4d99-b8dd-fe321c51c7fb": {
         "name": "Bli Putu Dicky MP",
@@ -100,7 +105,7 @@
       "75483bb3-5148-4a88-ad2d-df1da144d358": {
         "name": "Wijaya rfhrn19",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/40a317263bbd0ba72a593619619a5aea.webp?v=1794664144",
-        "points": 220
+        "points": 292
       },
       "a19f89ee-ede9-45d4-8548-2fe225ed36ed": {
         "name": "Dhanyfs _",
@@ -115,10 +120,20 @@
       "83114969-776f-4544-b1ad-07a39ca80a5f": {
         "name": "Habib christy only ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/86249740194089d38632ad70b1e647cd.webp?v=1790733008",
+        "points": 100
+      },
+      "e1629b52-b935-46d5-9b3b-be5b9f6525fb": {
+        "name": "Nemesis Anon12",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 20
+      },
+      "fdcb1d27-3e67-42ba-96c5-528404b9d973": {
+        "name": "ninja putih",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 12
       }
     },
-    "estimated_gift_value_idr": 405000,
+    "estimated_gift_value_idr": 587500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
