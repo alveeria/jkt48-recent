@@ -1,1 +1,56 @@
-{}
+{
+  "idn:gits-261116181910": {
+    "id": "idn:gits-261116181910",
+    "platform": "idn",
+    "member": {
+      "name": "Gita",
+      "username": "jkt48_gita",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/449dae836a829fdd6767c3268ac51d93.webp?v=1778756058"
+    },
+    "title": "Gits",
+    "url": "https://www.idn.app/jkt48_gita/live/gits-261116181910",
+    "image": "https://cdn.idn.app/livestream/5bc548ea1b91541f299ce9cafa451d7e.webp",
+    "started_at": "2026-11-16T11:19:15.000Z",
+    "viewers": 406,
+    "last_seen_at": "2026-11-16T11:24:07.088Z",
+    "peak_viewers": 406,
+    "gifts": 3,
+    "gift_points": 148,
+    "stars": 0,
+    "comments": 77,
+    "gift_breakdown": {
+      "GITA": 1,
+      "HADIIIRRR!!": 1,
+      "Pumpkin": 1
+    },
+    "gifters": {
+      "aca894dc-91a1-48b3-ba97-501cf345183e": "Robby Nur Hidayat",
+      "51bea9e7-4b96-4bfe-aab5-9132262211df": "Muhammad Irsyat J",
+      "2e9d7016-38af-4809-9f61-dfc7edf8fec1": "Septiii "
+    },
+    "top_gifters": [],
+    "viewer_series": [[0, 5], [1, 55], [2, 177], [3, 255], [4, 329], [5, 406]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
+    "gift_gold": 37,
+    "idn_gifters": {
+      "aca894dc-91a1-48b3-ba97-501cf345183e": {
+        "name": "Robby Nur Hidayat",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91380885f157ebc90c097f90d7ca6524.webp?v=1774497189",
+        "points": 80
+      },
+      "51bea9e7-4b96-4bfe-aab5-9132262211df": {
+        "name": "Muhammad Irsyat J",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0d46e9e09401f34640c67b472bb6a0ee.webp?v=1784039027",
+        "points": 28
+      },
+      "2e9d7016-38af-4809-9f61-dfc7edf8fec1": {
+        "name": "Septiii ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eacb97c5b776ab935d1bcbd7b2f6871b.webp?v=1794557116",
+        "points": 40
+      }
+    },
+    "estimated_gift_value_idr": 92500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
+  }
+}
