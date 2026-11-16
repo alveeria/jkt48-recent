@@ -1,1 +1,56 @@
-{}
+{
+  "idn:p-261116105307": {
+    "id": "idn:p-261116105307",
+    "platform": "idn",
+    "member": {
+      "name": "Intan",
+      "username": "jkt48_intan",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8906cd39a85bd0a92a38e1dc0733182.webp?v=1743097568"
+    },
+    "title": "p",
+    "url": "https://www.idn.app/jkt48_intan/live/p-261116105307",
+    "image": "https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp",
+    "started_at": "2026-11-16T03:53:12.000Z",
+    "viewers": 745,
+    "last_seen_at": "2026-11-16T03:58:10.997Z",
+    "peak_viewers": 745,
+    "gifts": 4,
+    "gift_points": 220,
+    "stars": 0,
+    "comments": 341,
+    "gift_breakdown": {
+      "Toa": 2,
+      "INTAN": 1,
+      "Lightstick": 1
+    },
+    "gifters": {
+      "902cec25-44e2-428f-8876-1d7c127280ea": "serli gusdania",
+      "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": "Azrie Ahmad",
+      "c45e24db-268b-45e7-aabf-65e5bd8be03d": "Shinbé Kiyawara"
+    },
+    "top_gifters": [],
+    "viewer_series": [[0, 6], [1, 65], [2, 338], [3, 550], [4, 650], [5, 745]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
+    "gift_gold": 55,
+    "idn_gifters": {
+      "902cec25-44e2-428f-8876-1d7c127280ea": {
+        "name": "serli gusdania",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6fde10b47884038ed23e33a9caf7477a.webp?v=1793874487",
+        "points": 20
+      },
+      "bb6af6a7-daf0-410d-bd5e-84e7f690eb62": {
+        "name": "Azrie Ahmad",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fcef0ba41ae54cfdd24ed1a8f08fca2b.webp?v=1768307787",
+        "points": 20
+      },
+      "c45e24db-268b-45e7-aabf-65e5bd8be03d": {
+        "name": "Shinbé Kiyawara",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2fb037132c6568362633abb054424897.webp?v=1794148705",
+        "points": 180
+      }
+    },
+    "estimated_gift_value_idr": 137500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
+  }
+}
