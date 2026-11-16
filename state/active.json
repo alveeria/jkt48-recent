@@ -1,95 +1,4 @@
 {
-  "idn:manadooo-261116160037": {
-    "id": "idn:manadooo-261116160037",
-    "platform": "idn",
-    "member": {
-      "name": "Nayla",
-      "username": "jkt48_nayla",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/910f26252548bf370c7492e9ec668250.webp?v=1778761743"
-    },
-    "title": "Manadooo",
-    "url": "https://www.idn.app/jkt48_nayla/live/manadooo-261116160037",
-    "image": "https://cdn.idn.app/livestream/e68e089b2aa1448535d5be20078e46db.webp",
-    "started_at": "2026-11-16T09:00:44.000Z",
-    "viewers": 3097,
-    "last_seen_at": "2026-11-16T10:11:38.047Z",
-    "peak_viewers": 3097,
-    "gifts": 12,
-    "gift_points": 1148,
-    "stars": 0,
-    "comments": 503,
-    "gift_breakdown": {
-      "NAYLA": 1,
-      "Emas Batang": 2,
-      "Mawar": 1,
-      "Boba Tea": 1,
-      "Toa": 1,
-      "Champion!!!": 1,
-      "Serem Bor": 1,
-      "Kucing": 1,
-      "Team Hype": 2,
-      "JKT48 Stage": 1
-    },
-    "gifters": {
-      "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM .",
-      "e3109a1a-efa0-492a-a20a-6850bd70de13": "🐱 ㅤ",
-      "4e0bf61e-2b35-4489-8056-f9746768c182": "Idham ",
-      "3a58018d-803b-45d7-b09f-c8aadb410e11": "zell yukoza",
-      "e75aec5d-6ffb-4ecc-9163-cadcfba0ed24": "Hahu Hoheng",
-      "e85b5541-b7f2-4618-bf6c-2d6dc755a96d": "NazarKingggg 👑 .",
-      "b894e9ec-c147-42d3-8d42-41a7a575c720": "only michie .",
-      "2743bd3a-776f-4ba8-9441-d79d4a6b87e7": "mai mai"
-    },
-    "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 10], [2, 58], [3, 95], [4, 143], [5, 225], [6, 334], [7, 387], [8, 450], [9, 517], [10, 584], [11, 630], [12, 690], [13, 716], [14, 765], [15, 816], [16, 862], [17, 903], [18, 975], [19, 1046], [20, 1106], [21, 1155], [22, 1191], [23, 1231], [24, 1277], [25, 1322], [60, 2722], [61, 2738], [62, 2749], [63, 2775], [64, 2801], [65, 2828], [66, 2871], [67, 2913], [68, 2947], [69, 2986], [70, 3029], [71, 3097]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
-    "gift_gold": 287,
-    "idn_gifters": {
-      "34f3e1cf-7d26-485c-b796-0e17dd1a447b": {
-        "name": "eM .",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893",
-        "points": 80
-      },
-      "e3109a1a-efa0-492a-a20a-6850bd70de13": {
-        "name": "🐱 ㅤ",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/769d0ee3b2e6f625e333ffb94ac8665a.webp?v=1791419484",
-        "points": 196
-      },
-      "4e0bf61e-2b35-4489-8056-f9746768c182": {
-        "name": "Idham ",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417",
-        "points": 644
-      },
-      "3a58018d-803b-45d7-b09f-c8aadb410e11": {
-        "name": "zell yukoza",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c6a1631622a2863437f924e6b099a6c.webp?v=1743938206",
-        "points": 12
-      },
-      "e75aec5d-6ffb-4ecc-9163-cadcfba0ed24": {
-        "name": "Hahu Hoheng",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7e418e51e817ed974e5453b69ace62.webp?v=1792929643",
-        "points": 12
-      },
-      "e85b5541-b7f2-4618-bf6c-2d6dc755a96d": {
-        "name": "NazarKingggg 👑 .",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5b8ba76c53d8ca651bf1787adf17016c.webp?v=1794235574",
-        "points": 20
-      },
-      "b894e9ec-c147-42d3-8d42-41a7a575c720": {
-        "name": "only michie .",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/930358ea8383d7e361ce96cb136a1100.webp?v=1794727620",
-        "points": 36
-      },
-      "2743bd3a-776f-4ba8-9441-d79d4a6b87e7": {
-        "name": "mai mai",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1cf0070dcfa9e266f96469083f92cfe8.webp?v=1743698353",
-        "points": 148
-      }
-    },
-    "estimated_gift_value_idr": 717500,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold"
-  },
   "idn:ayo-ngobrol-bareng-261116161013": {
     "id": "idn:ayo-ngobrol-bareng-261116161013",
     "platform": "idn",
@@ -102,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261116161013",
     "image": "https://cdn.idn.app/livestream/b6f95b9039ba3ac50ab03cc43615385d.webp",
     "started_at": "2026-11-16T09:10:19.000Z",
-    "viewers": 3363,
-    "last_seen_at": "2026-11-16T10:11:38.047Z",
-    "peak_viewers": 3363,
-    "gifts": 20,
-    "gift_points": 1344,
+    "viewers": 3556,
+    "last_seen_at": "2026-11-16T10:16:48.327Z",
+    "peak_viewers": 3556,
+    "gifts": 21,
+    "gift_points": 1348,
     "stars": 0,
-    "comments": 573,
+    "comments": 729,
     "gift_breakdown": {
       "Graffiti": 1,
       "Cold Water": 6,
@@ -122,7 +31,7 @@
       "JKT48 Show": 1,
       "Angklung": 1,
       "Lemon Tea": 1,
-      "Water": 2
+      "Water": 3
     },
     "gifters": {
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": "dagdigdugdeerr .",
@@ -141,12 +50,13 @@
       "d6cec277-1926-409d-b449-96ff55ae9c6d": "Adlin Ardi Putra",
       "2b4b411a-6a4b-4d9d-ab89-b3e84af1c2ac": "Jekjek",
       "c4ac74d2-e970-4769-a0de-c2626f05fd99": "Janelle A",
-      "e7af7aab-9315-4460-b48b-ba4332a94309": "Ajeng Najwa"
+      "e7af7aab-9315-4460-b48b-ba4332a94309": "Ajeng Najwa",
+      "c290ffbf-7b5c-4953-8994-f42ae442fc56": "Nay Khan"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 6], [1, 32], [2, 102], [3, 159], [4, 209], [5, 277], [6, 307], [7, 375], [8, 462], [9, 616], [10, 744], [11, 844], [12, 905], [13, 975], [14, 1026], [15, 1083], [51, 2962], [52, 3002], [53, 3037], [54, 3072], [55, 3107], [56, 3124], [57, 3181], [58, 3213], [59, 3249], [60, 3297], [61, 3341]],
+    "viewer_series": [[0, 6], [1, 32], [2, 102], [3, 159], [4, 209], [5, 277], [6, 307], [7, 375], [8, 462], [9, 616], [10, 744], [11, 844], [12, 905], [13, 975], [14, 1026], [15, 1083], [51, 2962], [52, 3002], [53, 3037], [54, 3072], [55, 3107], [56, 3124], [57, 3181], [58, 3213], [59, 3249], [60, 3297], [61, 3341], [62, 3379], [63, 3422], [64, 3460], [65, 3488], [66, 3541]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL",
-    "gift_gold": 336,
+    "gift_gold": 337,
     "idn_gifters": {
       "bc2a296b-f9e7-4222-8ffb-871dce9152f4": {
         "name": "dagdigdugdeerr .",
@@ -232,9 +142,14 @@
         "name": "Ajeng Najwa",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4940113de91824ac79288a1f15bb02d.webp?v=1793808743",
         "points": 4
+      },
+      "c290ffbf-7b5c-4953-8994-f42ae442fc56": {
+        "name": "Nay Khan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8a4b8fa56c7d58654f3136a36b95eaf9.webp?v=1790345014",
+        "points": 4
       }
     },
-    "estimated_gift_value_idr": 840000,
+    "estimated_gift_value_idr": 842500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }

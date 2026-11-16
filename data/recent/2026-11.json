@@ -1,5 +1,97 @@
 [
   {
+    "id": "idn:alveeria-2943",
+    "platform": "idn",
+    "member": {
+      "name": "Nayla",
+      "username": "jkt48_nayla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/910f26252548bf370c7492e9ec668250.webp?v=1778761743"
+    },
+    "title": "Manadooo",
+    "url": "https://www.idn.app/jkt48_nayla/live/manadooo-261116160037",
+    "image": "https://cdn.idn.app/livestream/e68e089b2aa1448535d5be20078e46db.webp",
+    "started_at": "2026-11-16T09:00:44.000Z",
+    "last_seen_at": "2026-11-16T10:15:15.876Z",
+    "peak_viewers": 3226,
+    "gifts": 12,
+    "gift_points": 1148,
+    "stars": 0,
+    "comments": 538,
+    "gift_breakdown": {
+      "NAYLA": 1,
+      "Emas Batang": 2,
+      "Mawar": 1,
+      "Boba Tea": 1,
+      "Toa": 1,
+      "Champion!!!": 1,
+      "Serem Bor": 1,
+      "Kucing": 1,
+      "Team Hype": 2,
+      "JKT48 Stage": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Idham ",
+        "points": 644,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
+      },
+      {
+        "rank": 2,
+        "name": "🐱 ㅤ",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/769d0ee3b2e6f625e333ffb94ac8665a.webp?v=1791419484"
+      },
+      {
+        "rank": 3,
+        "name": "mai mai",
+        "points": 148,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1cf0070dcfa9e266f96469083f92cfe8.webp?v=1743698353"
+      },
+      {
+        "rank": 4,
+        "name": "eM .",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
+      },
+      {
+        "rank": 5,
+        "name": "only michie .",
+        "points": 36,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/930358ea8383d7e361ce96cb136a1100.webp?v=1794727620"
+      },
+      {
+        "rank": 6,
+        "name": "NazarKingggg 👑 .",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5b8ba76c53d8ca651bf1787adf17016c.webp?v=1794235574"
+      },
+      {
+        "rank": 7,
+        "name": "zell yukoza",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c6a1631622a2863437f924e6b099a6c.webp?v=1743938206"
+      },
+      {
+        "rank": 8,
+        "name": "Hahu Hoheng",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7e418e51e817ed974e5453b69ace62.webp?v=1792929643"
+      }
+    ],
+    "viewer_series": [[0, 2], [1, 10], [2, 58], [3, 95], [4, 143], [5, 225], [6, 334], [7, 387], [8, 450], [9, 517], [10, 584], [11, 630], [12, 690], [13, 716], [14, 765], [15, 816], [16, 862], [17, 903], [18, 975], [19, 1046], [20, 1106], [21, 1155], [22, 1191], [23, 1231], [24, 1277], [25, 1322], [60, 2722], [61, 2738], [62, 2749], [63, 2775], [64, 2801], [65, 2828], [66, 2871], [67, 2913], [68, 2947], [69, 2986], [70, 3029], [71, 3097], [72, 3143], [73, 3184], [74, 3195], [75, 3226]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
+    "gift_gold": 287,
+    "estimated_gift_value_idr": 717500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-16T10:15:15.876Z",
+    "duration_minutes": 75,
+    "last_viewers": 3226,
+    "unique_gifters": 8,
+    "source_id": "idn:manadooo-261116160037"
+  },
+  {
     "id": "idn:alveeria-2941",
     "platform": "idn",
     "member": {
