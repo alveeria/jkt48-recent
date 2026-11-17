@@ -1,5 +1,53 @@
 [
   {
+    "id": "idn:alveeria-2984",
+    "platform": "idn",
+    "member": {
+      "name": "Ella",
+      "username": "jkt48_ella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e5114433fc13ada649ff70b6bba8784.webp?v=1778756003"
+    },
+    "title": "Haiiiii",
+    "url": "https://www.idn.app/jkt48_ella/live/haiiiii-261117213632",
+    "image": "https://cdn.idn.app/livestream/fd2dd4747c5c8180c1b680702454d4c4.webp",
+    "started_at": "2026-11-17T14:36:39.000Z",
+    "last_seen_at": "2026-11-17T14:48:45.838Z",
+    "peak_viewers": 2481,
+    "gifts": 2,
+    "gift_points": 36,
+    "stars": 0,
+    "comments": 738,
+    "gift_breakdown": {
+      "Mawar": 1,
+      "HAHAHA": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Amyraaa .",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a7fccf0211ee8a4749054bb16b5fce98.webp?v=1790252363"
+      },
+      {
+        "rank": 2,
+        "name": "Dedy Saputra",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/14a45f5123b4e012bc8c9de49877e3b6.webp?v=1732114520"
+      }
+    ],
+    "viewer_series": [[0, 3], [1, 67], [2, 253], [3, 418], [4, 535], [5, 674], [6, 934], [7, 1257], [8, 1381], [9, 1628], [10, 1941], [11, 2220], [12, 2407]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/i5RIo9CuCp8b",
+    "gift_gold": 9,
+    "estimated_gift_value_idr": 22500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-17T14:48:45.838Z",
+    "duration_minutes": 12,
+    "last_viewers": 2481,
+    "unique_gifters": 2,
+    "source_id": "idn:haiiiii-261117213632"
+  },
+  {
     "id": "showroom:alveeria-1",
     "platform": "showroom",
     "room_id": 318223,
