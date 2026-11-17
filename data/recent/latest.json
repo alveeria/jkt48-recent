@@ -1,5 +1,114 @@
 [
   {
+    "id": "idn:alveeria-2962",
+    "platform": "idn",
+    "member": {
+      "name": "Rara",
+      "username": "jkt48_rara",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1c1ced380ede33a7e1f493b00b877630.webp?v=1779088190"
+    },
+    "title": "SERIUSAN",
+    "url": "https://www.idn.app/jkt48_rara/live/seriusan-261117111949",
+    "image": "https://cdn.idn.app/livestream/4c82e04a00004362943f013902da4fe9.webp",
+    "started_at": "2026-11-17T04:19:54.000Z",
+    "last_seen_at": "2026-11-17T05:24:54.293Z",
+    "peak_viewers": 1433,
+    "gifts": 23,
+    "gift_points": 1248,
+    "stars": 0,
+    "comments": 1020,
+    "gift_breakdown": {
+      "Lemon Tea": 1,
+      "Cold Water": 2,
+      "Kompas": 1,
+      "HADIIIRRR!!": 2,
+      "Matcha": 2,
+      "Pumpkin": 3,
+      "Angklung": 4,
+      "Semangat kak": 1,
+      "Toa": 1,
+      "Panjat": 1,
+      "Yuk bisa yuk": 1,
+      "NALA": 1,
+      "Team Chill": 1,
+      "Outt!": 1,
+      "Mawar": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Messi Emyu ㅤ",
+        "points": 276,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b885de0922453aedcdab974ef2118a79.webp?v=1794722551"
+      },
+      {
+        "rank": 2,
+        "name": "~y ~",
+        "points": 236,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
+      },
+      {
+        "rank": 3,
+        "name": "✶ ‎ Rysaaa.",
+        "points": 216,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b1a7d5eb58105f730c3d629052341b4.webp?v=1793886003"
+      },
+      {
+        "rank": 4,
+        "name": "ruru my 🦥 kukangnim",
+        "points": 200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/92eabce42ef2922cde4b56c93137368c.webp?v=1787038984"
+      },
+      {
+        "rank": 5,
+        "name": "ale dagangseblak ",
+        "points": 116,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/aefb9383946570670db3e44a8182c05c.webp?v=1761905673"
+      },
+      {
+        "rank": 6,
+        "name": "Oishi.. Ekin anak baik",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a53e4082c9e07d27b9df52857a18edbd.webp?v=1791867121"
+      },
+      {
+        "rank": 7,
+        "name": "Rosesa -",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d641fb376084f02f199c06b345a6eb9.webp?v=1785337995"
+      },
+      {
+        "rank": 8,
+        "name": "Pakde ga Jomblo",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/36302049f0ecb91742bf5dddbfd5c2a3.webp?v=1789653771"
+      },
+      {
+        "rank": 9,
+        "name": "Messi Widiastuti",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eabeebc9e5b4aae9293279fe901c9482.webp?v=1794582057"
+      },
+      {
+        "rank": 10,
+        "name": "Rafy Rapyra",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310"
+      }
+    ],
+    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590], [26, 608], [27, 617], [28, 627], [29, 642], [30, 655], [31, 675], [32, 684], [33, 701], [34, 709], [35, 721], [36, 735], [37, 758], [38, 774], [39, 793], [40, 814], [41, 829], [42, 844], [43, 860], [44, 877], [45, 895], [46, 908], [47, 922], [48, 947], [49, 963], [50, 995], [51, 1049], [52, 1089], [53, 1123], [54, 1143], [55, 1169], [56, 1197], [57, 1221], [58, 1244], [59, 1265], [60, 1283], [61, 1306], [62, 1329], [63, 1354], [64, 1395], [65, 1433]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
+    "gift_gold": 312,
+    "estimated_gift_value_idr": 780000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-17T05:24:54.293Z",
+    "duration_minutes": 65,
+    "last_viewers": 1433,
+    "unique_gifters": 12,
+    "source_id": "idn:seriusan-261117111949"
+  },
+  {
     "id": "idn:alveeria-2961",
     "platform": "idn",
     "member": {
@@ -17754,24 +17863,6 @@
     "url": "https://www.idn.app/jkt48_gita",
     "image": "https://cdn.idn.app/livestream/a14e14500a0f0c5680a4d4cbd5bd3355.webp",
     "started_at": "2026-11-05T15:32:21.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2762",
-    "platform": "idn",
-    "member": {
-      "name": "Lyn",
-      "username": "jkt48_lyn",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_lyn",
-    "image": "https://cdn.idn.app/livestream/1e75b1769e926c5964aa327a43855f27.webp",
-    "started_at": "2026-11-05T07:33:46.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
