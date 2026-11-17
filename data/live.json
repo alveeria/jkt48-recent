@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:15:39.200Z",
+  "updated_at": "2026-11-17T13:20:51.579Z",
   "lives": [
     {
       "id": "showroom:318223:1794918430",
@@ -14,31 +14,33 @@
       "url": "https://www.showroom-live.com/r/JKT48_Fiony",
       "image": "https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_s.jpeg?v=1794918430",
       "started_at": "2026-11-17T12:27:10.000Z",
-      "viewers": 11707,
-      "last_seen_at": "2026-11-17T13:15:37.954Z",
-      "peak_viewers": 11707,
-      "gifts": 297,
-      "gift_points": 11901,
-      "stars": 511,
-      "comments": 472,
+      "viewers": 12200,
+      "last_seen_at": "2026-11-17T13:20:50.399Z",
+      "peak_viewers": 12200,
+      "gifts": 474,
+      "gift_points": 12429,
+      "stars": 586,
+      "comments": 986,
       "gift_breakdown": {
-        "daruma(red)": 33,
+        "daruma(red)": 65,
         "colorful confetti (anime)": 2,
-        "Heart(pink)(anime)": 20,
-        "Twinkle Star (anime)": 70,
+        "Heart(pink)(anime)": 30,
+        "Twinkle Star (anime)": 90,
         "Daruma(pink)(anime)": 40,
         "flower": 32,
-        "heart": 37,
-        "Plump 13(anime)": 22,
-        "Plump Bear Balloon(anime)": 3,
-        "Squirrel(anime)": 9,
+        "heart": 38,
+        "Plump 13(anime)": 37,
+        "Plump Bear Balloon(anime)": 4,
+        "Squirrel(anime)": 10,
         "MoNas": 1,
         "Lucu Banget": 1,
         "Penlight(red)(anime)": 5,
-        "Life heart(anime)": 1,
+        "Life heart(anime)": 53,
         "Heart(yellow)(anime)": 10,
         "Oshiku1-1 nya!": 1,
-        "Ika Pachi(anime)": 10
+        "Ika Pachi(anime)": 25,
+        "Hanaonpu(anime)": 29,
+        "Daruma(red)(anime)": 1
       },
       "top_gifters": [
         {
@@ -61,33 +63,33 @@
         },
         {
           "rank": 4,
+          "name": "Farul Zidny",
+          "points": null,
+          "avatar": "https://static.showroom-live.com/image/avatar/59.png?v=110"
+        },
+        {
+          "rank": 5,
           "name": "Anisatrii",
           "points": null,
           "avatar": "https://static.showroom-live.com/image/avatar/1120508.png?v=110"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "iso",
           "points": null,
           "avatar": "https://static.showroom-live.com/image/avatar/60.png?v=110"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Glunt",
           "points": null,
           "avatar": "https://static.showroom-live.com/image/avatar/1120795.png?v=110"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Narul",
           "points": null,
           "avatar": "https://static.showroom-live.com/image/avatar/1144867.png?v=110"
-        },
-        {
-          "rank": 8,
-          "name": "Farul Zidny",
-          "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/59.png?v=110"
         },
         {
           "rank": 9,
@@ -97,13 +99,13 @@
         },
         {
           "rank": 10,
-          "name": "Alsagiya, P ",
+          "name": "Hussss",
           "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/2000066.png?v=110"
+          "avatar": "https://static.showroom-live.com/image/avatar/1019636.png?v=110"
         }
       ],
-      "viewer_series": [[43, 11058], [44, 11079], [45, 11211], [46, 11260], [47, 11468], [48, 11621]],
-      "estimated_gift_value_idr": 1359808.26,
+      "viewer_series": [[43, 11058], [44, 11079], [45, 11211], [46, 11260], [47, 11468], [48, 11621], [49, 11785], [50, 11802], [51, 11884], [52, 12030], [53, 12104], [54, 12200]],
+      "estimated_gift_value_idr": 1420137.54,
       "gift_rate_idr": 114.26,
       "gift_value_basis": "paid_points"
     }
