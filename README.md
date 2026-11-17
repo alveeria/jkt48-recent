@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 14.14 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 14.19 WIB.
 
 ## Interval pembaruan
 
@@ -46,20 +46,20 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Danella | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 13.13 | 2.241 |
-| Daisy | IDN Live | haii | 17 Nov 2026, 13.20 | 1.875 |
-| Maxine | IDN Live | hi | 17 Nov 2026, 13.46 | 1.334 |
-| Fera | IDN Live | Ayo masuk | 17 Nov 2026, 13.57 | 909 |
-| Jazzy | IDN Live | jejita | 17 Nov 2026, 13.56 | 1.138 |
-| Carissa | IDN Live | Ready ready sama aku siniii 😽 | 17 Nov 2026, 14.03 | 655 |
-| Lily | IDN Live | Hii | 17 Nov 2026, 14.07 | 1.058 |
-| Greesel | IDN Live | hi | 17 Nov 2026, 14.11 | 160 |
-| Greesel | IDN Live | hi | 17 Nov 2026, 14.13 | 56 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 13.13 | 2.406 |
+| Daisy | IDN Live | haii | 17 Nov 2026, 13.20 | 2.046 |
+| Maxine | IDN Live | hi | 17 Nov 2026, 13.46 | 1.552 |
+| Fera | IDN Live | Ayo masuk | 17 Nov 2026, 13.57 | 1.204 |
+| Jazzy | IDN Live | jejita | 17 Nov 2026, 13.56 | 1.433 |
+| Carissa | IDN Live | Ready ready sama aku siniii 😽 | 17 Nov 2026, 14.03 | 951 |
+| Lily | IDN Live | Hii | 17 Nov 2026, 14.07 | 1.820 |
+| Greesel | IDN Live | hi | 17 Nov 2026, 14.13 | 589 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Greesel | IDN Live | hi | 17 Nov 2026, 14.11 | 1m | 160 | 0 | — | — | 83 |
 | Intan | IDN Live | p | 17 Nov 2026, 12.21 | 67m | 4.630 | 51 | 1.205 | — | 3.908 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 12.07 | 63m | 3.693 | 36 | 1.105 | — | 1.788 |
 | Rara | IDN Live | SERIUSAN | 17 Nov 2026, 11.19 | 65m | 1.433 | 23 | 312 | — | 1.020 |
@@ -99,7 +99,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Intan | IDN Live | p | 16 Nov 2026, 10.53 | 66m | 3.319 | 32 | 1.073 | — | 1.434 |
 | Lulu | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 22.35 | 5m | 519 | 0 | — | — | 160 |
 | Elin | IDN Live | Yowww | 15 Nov 2026, 22.28 | 12m | 779 | 8 | 174 | — | 130 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 15 Nov 2026, 22.24 | 17m | 2.069 | 4 | 18 | — | 431 |
 
 ## Lisensi
 

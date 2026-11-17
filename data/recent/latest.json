@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-2965",
+    "platform": "idn",
+    "member": {
+      "name": "Greesel",
+      "username": "jkt48_greesel",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/44057259b756c4d190b2283ebfb952b6.webp?v=1778756088"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_greesel/live/hi-261117141151",
+    "image": "https://cdn.idn.app/livestream/4ccfa029dcde1858d95b527fdbf3b85e.webp",
+    "started_at": "2026-11-17T07:11:57.000Z",
+    "last_seen_at": "2026-11-17T07:13:11.128Z",
+    "peak_viewers": 160,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 83,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 2], [1, 53]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/N7Y0Yn2baCsg",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-17T07:13:11.128Z",
+    "duration_minutes": 1,
+    "last_viewers": 160,
+    "unique_gifters": 0,
+    "source_id": "idn:hi-261117141151"
+  },
+  {
     "id": "idn:alveeria-2964",
     "platform": "idn",
     "member": {
@@ -18037,24 +18068,6 @@
     "url": "https://www.idn.app/jkt48_ekin",
     "image": "https://cdn.idn.app/livestream/176b16aeeb3aeecf1413f536601ed9ef.webp",
     "started_at": "2026-11-06T15:52:41.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2765",
-    "platform": "idn",
-    "member": {
-      "name": "Mikaela",
-      "username": "jkt48_mikaela",
-      "avatar": null
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_mikaela",
-    "image": "https://cdn.idn.app/livestream/809211423c6ac24409b54be6fee5951e.webp",
-    "started_at": "2026-11-05T16:22:54.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
