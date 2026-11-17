@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 22.19 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 22.24 WIB.
 
 ## Interval pembaruan
 
@@ -46,11 +46,10 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lana | IDN Live | Hai | 17 Nov 2026, 21.11 | 7.253 |
-| Lulu | IDN Live | mlm | 17 Nov 2026, 21.31 | 3.825 |
-| Gracie | IDN Live | hiii | 17 Nov 2026, 21.32 | 5.112 |
-| Fritzy | IDN Live | g(u)rwm | 17 Nov 2026, 21.37 | 5.057 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.50 | 3.077 |
+| Lulu | IDN Live | mlm | 17 Nov 2026, 21.31 | 4.202 |
+| Gracie | IDN Live | hiii | 17 Nov 2026, 21.32 | 5.697 |
+| Fritzy | IDN Live | g(u)rwm | 17 Nov 2026, 21.37 | 5.631 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.50 | 3.578 |
 
 ## Live terakhir — Nov 2026
 
@@ -59,6 +58,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Ella | IDN Live | aloo | 17 Nov 2026, 21.50 | 8m | 1.226 | 12 | 45 | — | 1.188 |
 | Ella | IDN Live | Haiiiii | 17 Nov 2026, 21.36 | 12m | 2.481 | 2 | 9 | — | 738 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.36 | 33m | 1.985 | 30 | 554 | — | 234 |
+| Lana | IDN Live | Hai | 17 Nov 2026, 21.11 | 68m | 7.276 | 66 | 1.756 | — | 2.743 |
 | Gita | IDN Live | Gits | 17 Nov 2026, 21.05 | 68m | 6.540 | 40 | 635 | — | 1.410 |
 | Nayla | IDN Live | N | 17 Nov 2026, 20.58 | 70m | 5.295 | 33 | 605 | — | 1.348 |
 | Fiony | SHOWROOM |  | 17 Nov 2026, 19.27 | 102m | 14.948 | 1.058 | 16.171 | 1.058 | 4.564 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Aralie | IDN Live | hi | 16 Nov 2026, 21.01 | 73m | 12.944 | 43 | 1.424 | — | 2.972 |
 | Danella | IDN Live | ☺️ | 16 Nov 2026, 20.51 | 98m | 4.993 | 63 | 1.011 | — | 846 |
 | Eli | IDN Live | KaraokELI | 16 Nov 2026, 20.43 | 117m | 7.698 | 18 | 160 | — | 872 |
-| Daisy | IDN Live | Hi | 16 Nov 2026, 20.41 | 62m | 3.319 | 23 | 954 | — | 708 |
 
 ## Lisensi
 
