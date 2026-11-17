@@ -1,5 +1,54 @@
 [
   {
+    "id": "showroom:alveeria-2",
+    "platform": "showroom",
+    "room_id": 510071,
+    "member": {
+      "name": "Nala",
+      "username": "JKT48_Nala",
+      "avatar": null
+    },
+    "title": "",
+    "url": "https://www.showroom-live.com/r/JKT48_Nala",
+    "image": "https://static.showroom-live.com/image/room/cover/e44adf3c6b43f688c3203dc24922621299a959827611d233c5390bc97e68e217_s.jpeg?v=1794933577",
+    "started_at": "2026-11-17T16:39:37.000Z",
+    "last_seen_at": "2026-11-17T17:21:44.509Z",
+    "peak_viewers": 3194,
+    "gifts": 601,
+    "gift_points": 2027,
+    "stars": 731,
+    "comments": 581,
+    "gift_breakdown": {
+      "Plump 13(anime)": 44,
+      "Squirrel(anime)": 10,
+      "Twinkle Star (anime)": 281,
+      "Life heart(anime)": 82,
+      "heart": 27,
+      "Ika Pachi(anime)": 26,
+      "Don’t cry": 1,
+      "Penlight(light green)(anime)": 2,
+      "daruma(red)": 81,
+      "hand clap(anime)": 1,
+      "Heart(light green)(anime)": 9,
+      "colorful confetti (anime)": 20,
+      "Daruma(red)(anime)": 6,
+      "Loveletter(anime)": 1,
+      "flower": 1,
+      "good game": 2,
+      "Heart(light blue)(anime)": 7
+    },
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 12], [2, 124], [3, 327], [4, 460], [5, 618], [6, 730], [7, 837], [8, 919], [9, 987], [10, 1094], [11, 1147], [12, 1199], [13, 1246], [14, 1286], [15, 1324], [16, 1369], [17, 1402], [18, 1446], [19, 1530], [20, 1566], [21, 1620], [22, 1668], [23, 1723], [24, 1755], [25, 2010], [26, 2092], [27, 2127], [28, 2153], [29, 2169], [30, 2214], [31, 2251], [32, 2308], [33, 2556], [34, 2645], [35, 2660], [36, 2686], [37, 2723], [38, 2732], [39, 2777], [40, 2947], [41, 3142], [42, 3183]],
+    "estimated_gift_value_idr": 231605.02,
+    "gift_rate_idr": 114.26,
+    "gift_value_basis": "paid_points",
+    "ended_at": "2026-11-17T17:21:44.509Z",
+    "duration_minutes": 42,
+    "last_viewers": 3194,
+    "unique_gifters": 60,
+    "source_id": "showroom:510071:1794933577"
+  },
+  {
     "id": "idn:alveeria-2994",
     "platform": "idn",
     "member": {
@@ -20743,31 +20792,5 @@
     "estimated_gift_value_idr": 485000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
-  },
-  {
-    "id": "idn:alveeria-2796",
-    "platform": "idn",
-    "member": {
-      "name": "Jemima",
-      "username": "jkt48_jemima",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/54c286f829c7ff60a713e07d607edcc2.webp?v=1743097513"
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261112192335",
-    "image": "https://cdn.idn.app/livestream/d2139dac4809706ca15b556bded0f16c.webp",
-    "started_at": "2026-11-12T12:23:42.000Z",
-    "last_seen_at": "2026-11-12T13:28:46.596Z",
-    "peak_viewers": 5862,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "ended_at": "2026-11-12T13:28:46.596Z",
-    "duration_minutes": 65,
-    "last_viewers": 5862,
-    "unique_gifters": 0,
-    "source_id": "idn:ayo-ngobrol-bareng-261112192335"
   }
 ]
