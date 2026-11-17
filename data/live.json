@@ -1,131 +1,6 @@
 {
-  "updated_at": "2026-11-17T17:13:24.279Z",
+  "updated_at": "2026-11-17T17:18:37.354Z",
   "lives": [
-    {
-      "id": "idn:hai-261117225233",
-      "platform": "idn",
-      "member": {
-        "name": "Ekin",
-        "username": "jkt48_ekin",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bcd54a4ea423aed142ea0e22ea9258a8.webp?v=1743097485"
-      },
-      "title": "hai",
-      "url": "https://www.idn.app/jkt48_ekin/live/hai-261117225233",
-      "image": "https://cdn.idn.app/livestream/f97b5f075ebfce3084520c261b258794.webp",
-      "started_at": "2026-11-17T15:52:41.000Z",
-      "viewers": 5732,
-      "last_seen_at": "2026-11-17T17:13:23.061Z",
-      "peak_viewers": 5732,
-      "gifts": 113,
-      "gift_points": 10632,
-      "stars": 0,
-      "comments": 10813,
-      "gift_breakdown": {
-        "Pumpkin": 2,
-        "Cold Water": 2,
-        "Kompas": 4,
-        "HADIIIRRR!!": 3,
-        "Toa": 27,
-        "Kucing": 1,
-        "Ngeri Banget": 4,
-        "Paling Ramah": 2,
-        "Hii Takut": 4,
-        "HAHAHA": 18,
-        "CHRISTY": 1,
-        "Konfeti": 1,
-        "Emas Batang": 2,
-        "EKIN": 7,
-        "Siomay": 1,
-        "Gift Card": 1,
-        "Matcha": 3,
-        "Yuk bisa yuk": 2,
-        "Angklung": 2,
-        "Water": 1,
-        "Mawar": 3,
-        "Masker": 1,
-        "Semangat kak": 7,
-        "Nasi Goreng": 1,
-        "Jari Hati": 1,
-        "SSETAAAN": 2,
-        "Kupu-Kupu": 1,
-        "Komodo": 2,
-        "Kagett Bang!": 1,
-        "Cupid": 1,
-        "JKT48 Show": 1,
-        "Graffiti": 1,
-        "Balon Pesta": 1,
-        "Kembang Api": 1,
-        "Heart": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "Idham ",
-          "points": 1836,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
-        },
-        {
-          "rank": 2,
-          "name": "Adhi Endol",
-          "points": 1660,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38945b589996db9885eb859176d506a0.webp?v=1793550226"
-        },
-        {
-          "rank": 3,
-          "name": "Otto .",
-          "points": 1392,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/208bfcacc3e05a80cbe62013d660f779.webp?v=1790356710"
-        },
-        {
-          "rank": 4,
-          "name": "PanduMardhika 🔵⚫️",
-          "points": 1316,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/feab60041b0ce743cc5d0f366ef1cf5f.webp?v=1794677580"
-        },
-        {
-          "rank": 5,
-          "name": "Mikimon ;",
-          "points": 1224,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/555ed0af2e6c8cffe9df0e02208e1f5e.webp?v=1794317665"
-        },
-        {
-          "rank": 6,
-          "name": "dusk till down",
-          "points": 556,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/54e7c7111fb48cd80f4380dfc3797925.webp?v=1794830205"
-        },
-        {
-          "rank": 7,
-          "name": "iSocial Bae",
-          "points": 452,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
-        },
-        {
-          "rank": 8,
-          "name": "anang ramadhan",
-          "points": 440,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ab6455afb9866a42e927b2645cf95dbf.webp?v=1733234730"
-        },
-        {
-          "rank": 9,
-          "name": "Us us us Bren",
-          "points": 280,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/11892a0e0ec30a6792e1503fec7757f2.webp?v=1794737148"
-        },
-        {
-          "rank": 10,
-          "name": "KyotoSae Kitty",
-          "points": 200,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b1d9d8b514ae1f0167e7b03c9e482dfd.webp?v=1782468100"
-        }
-      ],
-      "viewer_series": [[1, 50], [2, 357], [3, 660], [4, 875], [5, 1041], [6, 1240], [7, 1403], [8, 1516], [9, 1643], [10, 1735], [11, 1840], [12, 1953], [13, 2064], [14, 2229], [15, 2330], [16, 2432], [17, 2535], [18, 2612], [19, 2649], [20, 2708], [21, 2794], [22, 2866], [23, 2932], [24, 2999], [25, 3063], [26, 3144], [27, 3220], [28, 3294], [29, 3373], [30, 3443], [31, 3506], [32, 3574], [33, 3615], [34, 3656], [35, 3729], [36, 3761], [37, 3825], [38, 3894], [39, 3963], [40, 4024], [41, 4072], [42, 4113], [43, 4176], [44, 4224], [45, 4276], [46, 4320], [47, 4356], [48, 4400], [49, 4466], [50, 4525], [51, 4565], [52, 4611], [53, 4627], [54, 4660], [55, 4698], [56, 4739], [57, 4782], [58, 4830], [59, 4872], [60, 4916], [61, 4955], [62, 4999], [63, 5047], [64, 5075], [65, 5090], [66, 5129], [67, 5160], [68, 5197], [69, 5249], [70, 5294], [71, 5337], [72, 5376], [73, 5416], [74, 5469], [75, 5503], [76, 5551], [77, 5573], [78, 5624], [79, 5664], [80, 5698], [81, 5732]],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/3GzmMqHzNnZY",
-      "gift_gold": 2658,
-      "estimated_gift_value_idr": 6645000,
-      "gift_rate_idr": 2500,
-      "gift_value_basis": "gold"
-    },
     {
       "id": "showroom:510065:1794933564",
       "platform": "showroom",
@@ -139,34 +14,35 @@
       "url": "https://www.showroom-live.com/r/JKT48_Nachia",
       "image": "https://static.showroom-live.com/image/room/cover/be9cc81c23250f46d686c9a750c5876b19f6c93234b2d3bdabc5c71ae9be4835_s.jpeg?v=1794933564",
       "started_at": "2026-11-17T16:39:24.000Z",
-      "viewers": 2532,
-      "last_seen_at": "2026-11-17T17:13:23.061Z",
-      "peak_viewers": 2532,
-      "gifts": 418,
-      "gift_points": 3074,
-      "stars": 470,
-      "comments": 688,
+      "viewers": 2800,
+      "last_seen_at": "2026-11-17T17:18:35.990Z",
+      "peak_viewers": 2800,
+      "gifts": 439,
+      "gift_points": 3620,
+      "stars": 487,
+      "comments": 777,
       "gift_breakdown": {
         "Ika Pachi(anime)": 39,
         "heart": 71,
         "daruma(red)": 81,
-        "Twinkle Star (anime)": 41,
+        "Twinkle Star (anime)": 44,
         "flower": 5,
         "Squirrel(anime)": 4,
-        "colorful confetti (anime)": 8,
-        "Plump 13(anime)": 40,
+        "colorful confetti (anime)": 9,
+        "Plump 13(anime)": 53,
         "Heart(pink)(anime)": 7,
         "Life heart(anime)": 100,
         "Mini Crystal Bear 2026": 2,
         "Penlight(blue)(anime)": 3,
         "Panda(anime)": 1,
         "Heart(light green)(anime)": 7,
-        "Plump Bear Balloon(anime)": 1,
+        "Plump Bear Balloon(anime)": 3,
         "Loveletter(anime)": 1,
         "Daruma(yellow)(anime)": 4,
         "Penlight(black)(anime)": 1,
         "Penlight(yellow)(anime)": 1,
-        "mirror ball(anime)": 1
+        "mirror ball(anime)": 1,
+        "Star Shower(anime)": 2
       },
       "top_gifters": [
         {
@@ -183,21 +59,21 @@
         },
         {
           "rank": 3,
+          "name": "𝗛𝗲𝗿𝘂𝗔𝗿𝗝𝘂𝗻𝗮",
+          "points": null,
+          "avatar": "https://static.showroom-live.com/image/avatar/1130965.png?v=110"
+        },
+        {
+          "rank": 4,
           "name": "Origami D Victor",
           "points": null,
           "avatar": "https://static.showroom-live.com/image/avatar/1.png?v=110"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Alsagiya, P ",
           "points": null,
           "avatar": "https://static.showroom-live.com/image/avatar/2000066.png?v=110"
-        },
-        {
-          "rank": 5,
-          "name": "izalcul",
-          "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/1061583.png?v=110"
         },
         {
           "rank": 6,
@@ -207,31 +83,31 @@
         },
         {
           "rank": 7,
-          "name": "Alifiian Arrafi",
+          "name": "タキ || sowoneul malhaebwa",
           "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/1033824.png?v=110"
+          "avatar": "https://static.showroom-live.com/image/avatar/1062001.png?v=110"
         },
         {
           "rank": 8,
-          "name": "KimTaeSar ",
+          "name": "Nikolaaa",
           "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/1030803.png?v=110"
+          "avatar": "https://static.showroom-live.com/image/avatar/37.png?v=110"
         },
         {
           "rank": 9,
-          "name": "Fia Nabila",
+          "name": "izalcul",
           "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/1062577.png?v=110"
+          "avatar": "https://static.showroom-live.com/image/avatar/1061583.png?v=110"
         },
         {
           "rank": 10,
-          "name": "HaNin",
+          "name": "Alifiian Arrafi",
           "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/1145741.png?v=110"
+          "avatar": "https://static.showroom-live.com/image/avatar/1033824.png?v=110"
         }
       ],
-      "viewer_series": [[1, 7], [2, 334], [3, 478], [4, 619], [5, 713], [6, 808], [7, 910], [8, 1003], [9, 1083], [10, 1168], [11, 1168], [12, 1297], [13, 1373], [14, 1429], [15, 1470], [16, 1540], [17, 1566], [18, 1579], [19, 1657], [20, 1707], [21, 1772], [22, 1806], [23, 1991], [24, 2128], [25, 2156], [26, 2226], [27, 2273], [28, 2337], [29, 2378], [30, 2411], [31, 2431], [32, 2452], [33, 2483], [34, 2532]],
-      "estimated_gift_value_idr": 351235.24,
+      "viewer_series": [[1, 7], [2, 334], [3, 478], [4, 619], [5, 713], [6, 808], [7, 910], [8, 1003], [9, 1083], [10, 1168], [11, 1168], [12, 1297], [13, 1373], [14, 1429], [15, 1470], [16, 1540], [17, 1566], [18, 1579], [19, 1657], [20, 1707], [21, 1772], [22, 1806], [23, 1991], [24, 2128], [25, 2156], [26, 2226], [27, 2273], [28, 2337], [29, 2378], [30, 2411], [31, 2431], [32, 2452], [33, 2483], [34, 2532], [35, 2612], [36, 2661], [37, 2699], [38, 2728], [39, 2800]],
+      "estimated_gift_value_idr": 413621.2,
       "gift_rate_idr": 114.26,
       "gift_value_basis": "paid_points"
     },
@@ -248,30 +124,31 @@
       "url": "https://www.showroom-live.com/r/JKT48_Nala",
       "image": "https://static.showroom-live.com/image/room/cover/e44adf3c6b43f688c3203dc24922621299a959827611d233c5390bc97e68e217_s.jpeg?v=1794933577",
       "started_at": "2026-11-17T16:39:37.000Z",
-      "viewers": 2645,
-      "last_seen_at": "2026-11-17T17:13:23.061Z",
-      "peak_viewers": 2645,
-      "gifts": 517,
-      "gift_points": 1692,
-      "stars": 510,
-      "comments": 487,
+      "viewers": 2777,
+      "last_seen_at": "2026-11-17T17:18:35.990Z",
+      "peak_viewers": 2777,
+      "gifts": 559,
+      "gift_points": 1842,
+      "stars": 554,
+      "comments": 547,
       "gift_breakdown": {
         "Plump 13(anime)": 40,
-        "Squirrel(anime)": 8,
-        "Twinkle Star (anime)": 255,
-        "Life heart(anime)": 51,
+        "Squirrel(anime)": 10,
+        "Twinkle Star (anime)": 264,
+        "Life heart(anime)": 71,
         "heart": 27,
         "Ika Pachi(anime)": 26,
         "Don’t cry": 1,
         "Penlight(light green)(anime)": 2,
-        "daruma(red)": 80,
+        "daruma(red)": 81,
         "hand clap(anime)": 1,
         "Heart(light green)(anime)": 9,
-        "colorful confetti (anime)": 7,
+        "colorful confetti (anime)": 10,
         "Daruma(red)(anime)": 6,
         "Loveletter(anime)": 1,
         "flower": 1,
-        "good game": 2
+        "good game": 2,
+        "Heart(light blue)(anime)": 7
       },
       "top_gifters": [
         {
@@ -282,21 +159,21 @@
         },
         {
           "rank": 2,
+          "name": "Hasruull",
+          "points": null,
+          "avatar": "https://static.showroom-live.com/image/avatar/1029777.png?v=110"
+        },
+        {
+          "rank": 3,
           "name": "sHanKagami 🌻💠💠🌻",
           "points": null,
           "avatar": "https://static.showroom-live.com/image/avatar/1145944.png?v=110"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Chael Aja",
           "points": null,
           "avatar": "https://static.showroom-live.com/image/avatar/2001511.png?v=110"
-        },
-        {
-          "rank": 4,
-          "name": "Hasruull",
-          "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/1029777.png?v=110"
         },
         {
           "rank": 5,
@@ -330,13 +207,13 @@
         },
         {
           "rank": 10,
-          "name": "Ihsan",
+          "name": "🐾ryn_",
           "points": null,
-          "avatar": "https://static.showroom-live.com/image/avatar/1112031.png?v=110"
+          "avatar": "https://static.showroom-live.com/image/avatar/1118155.png?v=110"
         }
       ],
-      "viewer_series": [[0, 0], [1, 12], [2, 124], [3, 327], [4, 460], [5, 618], [6, 730], [7, 837], [8, 919], [9, 987], [10, 1094], [11, 1147], [12, 1199], [13, 1246], [14, 1286], [15, 1324], [16, 1369], [17, 1402], [18, 1446], [19, 1530], [20, 1566], [21, 1620], [22, 1668], [23, 1723], [24, 1755], [25, 2010], [26, 2092], [27, 2127], [28, 2153], [29, 2169], [30, 2214], [31, 2251], [32, 2308], [33, 2556], [34, 2645]],
-      "estimated_gift_value_idr": 193327.92,
+      "viewer_series": [[0, 0], [1, 12], [2, 124], [3, 327], [4, 460], [5, 618], [6, 730], [7, 837], [8, 919], [9, 987], [10, 1094], [11, 1147], [12, 1199], [13, 1246], [14, 1286], [15, 1324], [16, 1369], [17, 1402], [18, 1446], [19, 1530], [20, 1566], [21, 1620], [22, 1668], [23, 1723], [24, 1755], [25, 2010], [26, 2092], [27, 2127], [28, 2153], [29, 2169], [30, 2214], [31, 2251], [32, 2308], [33, 2556], [34, 2645], [35, 2660], [36, 2686], [37, 2723], [38, 2732], [39, 2777]],
+      "estimated_gift_value_idr": 210466.92,
       "gift_rate_idr": 114.26,
       "gift_value_basis": "paid_points"
     }
