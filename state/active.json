@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261117215021",
     "image": "https://cdn.idn.app/livestream/b925494a50cddbbd0c1f62e5378db323.webp",
     "started_at": "2026-11-17T14:50:28.000Z",
-    "viewers": 5788,
-    "last_seen_at": "2026-11-17T15:50:35.173Z",
-    "peak_viewers": 5788,
-    "gifts": 41,
-    "gift_points": 4332,
+    "viewers": 6119,
+    "last_seen_at": "2026-11-17T15:55:45.272Z",
+    "peak_viewers": 6119,
+    "gifts": 42,
+    "gift_points": 5928,
     "stars": 0,
-    "comments": 2377,
+    "comments": 2551,
     "gift_breakdown": {
       "Matcha": 4,
       "Water": 1,
@@ -37,7 +37,8 @@
       "Orange Syrup": 1,
       "Combat": 1,
       "JKT48 Show": 3,
-      "Motor Sport": 1
+      "Motor Sport": 1,
+      "Heart": 1
     },
     "gifters": {
       "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": "Franko ...",
@@ -53,12 +54,13 @@
       "49153d44-e2be-4a46-9ceb-bc5eac93bf29": "Pynuett Loh yaaa",
       "b5c5baef-e3f3-4061-a620-e67b781c218d": "karenz -",
       "5ec6077e-3c6a-422c-a529-2b2e7a759277": "Pandu Wibu",
-      "46e0b169-6c1e-40ac-b361-421d2708f9e1": "Raihan Alrais"
+      "46e0b169-6c1e-40ac-b361-421d2708f9e1": "Raihan Alrais",
+      "0c58b1da-0767-47eb-b7d2-42422a3b38d0": "Alif Lajim"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 12], [1, 64], [2, 193], [3, 327], [4, 492], [5, 559], [6, 766], [7, 933], [8, 1067], [9, 1236], [10, 1435], [11, 1575], [12, 1692], [13, 1784], [14, 1855], [15, 1948], [16, 2029], [17, 2133], [18, 2206], [19, 2280], [20, 2382], [21, 2415], [22, 2496], [23, 2589], [24, 2658], [25, 2747], [26, 2836], [27, 2901], [28, 2975], [29, 3042], [30, 3127], [31, 3247], [32, 3361], [33, 3448], [34, 3532], [35, 3617], [36, 3696], [37, 3770], [38, 3843], [39, 3881], [40, 3963], [41, 4049], [42, 4126], [43, 4176], [44, 4227], [45, 4310], [46, 4385], [47, 4468], [48, 4548], [49, 4611], [50, 4698], [51, 4813], [52, 4900], [53, 5065], [54, 5145], [55, 5308], [56, 5382], [57, 5468], [58, 5532], [59, 5656], [60, 5749]],
+    "viewer_series": [[0, 12], [1, 64], [2, 193], [3, 327], [4, 492], [5, 559], [6, 766], [7, 933], [8, 1067], [9, 1236], [10, 1435], [11, 1575], [12, 1692], [13, 1784], [14, 1855], [15, 1948], [16, 2029], [17, 2133], [18, 2206], [19, 2280], [20, 2382], [21, 2415], [22, 2496], [23, 2589], [24, 2658], [25, 2747], [26, 2836], [27, 2901], [28, 2975], [29, 3042], [30, 3127], [31, 3247], [32, 3361], [33, 3448], [34, 3532], [35, 3617], [36, 3696], [37, 3770], [38, 3843], [39, 3881], [40, 3963], [41, 4049], [42, 4126], [43, 4176], [44, 4227], [45, 4310], [46, 4385], [47, 4468], [48, 4548], [49, 4611], [50, 4698], [51, 4813], [52, 4900], [53, 5065], [54, 5145], [55, 5308], [56, 5382], [57, 5468], [58, 5532], [59, 5656], [60, 5749], [61, 5823], [62, 5887], [63, 5963], [64, 6022], [65, 6087]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
-    "gift_gold": 1083,
+    "gift_gold": 1482,
     "idn_gifters": {
       "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": {
         "name": "Franko ...",
@@ -129,9 +131,69 @@
         "name": "Raihan Alrais",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 400
+      },
+      "0c58b1da-0767-47eb-b7d2-42422a3b38d0": {
+        "name": "Alif Lajim",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6bd90af47d17b774dede9cf21d5b006b.webp?v=1783963204",
+        "points": 1596
       }
     },
-    "estimated_gift_value_idr": 2707500,
+    "estimated_gift_value_idr": 3705000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
+  },
+  "idn:hai-261117225233": {
+    "id": "idn:hai-261117225233",
+    "platform": "idn",
+    "member": {
+      "name": "Ekin",
+      "username": "jkt48_ekin",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bcd54a4ea423aed142ea0e22ea9258a8.webp?v=1743097485"
+    },
+    "title": "hai",
+    "url": "https://www.idn.app/jkt48_ekin/live/hai-261117225233",
+    "image": "https://cdn.idn.app/livestream/f97b5f075ebfce3084520c261b258794.webp",
+    "started_at": "2026-11-17T15:52:41.000Z",
+    "viewers": 756,
+    "last_seen_at": "2026-11-17T15:55:45.272Z",
+    "peak_viewers": 756,
+    "gifts": 4,
+    "gift_points": 92,
+    "stars": 0,
+    "comments": 385,
+    "gift_breakdown": {
+      "Pumpkin": 1,
+      "Cold Water": 1,
+      "Kompas": 1,
+      "HADIIIRRR!!": 1
+    },
+    "gifters": {
+      "29f3feb3-b0a6-44f7-9e4d-94f7e0d20d63": "Rizkum .",
+      "091a1a06-f9c8-448a-a536-7b333124df0f": "Mahendra Pramudita",
+      "5254c56d-e17f-424c-a33e-a15875a804c8": "Zaza06"
+    },
+    "top_gifters": [],
+    "viewer_series": [[1, 50], [2, 357], [3, 660]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/3GzmMqHzNnZY",
+    "gift_gold": 23,
+    "idn_gifters": {
+      "29f3feb3-b0a6-44f7-9e4d-94f7e0d20d63": {
+        "name": "Rizkum .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343",
+        "points": 44
+      },
+      "091a1a06-f9c8-448a-a536-7b333124df0f": {
+        "name": "Mahendra Pramudita",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a89881c43cc1daba78f08718217622c9.webp?v=1789239454",
+        "points": 20
+      },
+      "5254c56d-e17f-424c-a33e-a15875a804c8": {
+        "name": "Zaza06",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 28
+      }
+    },
+    "estimated_gift_value_idr": 57500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
