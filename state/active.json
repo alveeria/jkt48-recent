@@ -11,21 +11,21 @@
     "url": "https://www.idn.app/jkt48_rara/live/seriusan-261117111949",
     "image": "https://cdn.idn.app/livestream/4c82e04a00004362943f013902da4fe9.webp",
     "started_at": "2026-11-17T04:19:54.000Z",
-    "viewers": 829,
-    "last_seen_at": "2026-11-17T05:00:46.433Z",
-    "peak_viewers": 829,
-    "gifts": 10,
-    "gift_points": 344,
+    "viewers": 908,
+    "last_seen_at": "2026-11-17T05:05:53.861Z",
+    "peak_viewers": 908,
+    "gifts": 12,
+    "gift_points": 488,
     "stars": 0,
-    "comments": 711,
+    "comments": 795,
     "gift_breakdown": {
       "Lemon Tea": 1,
       "Cold Water": 1,
       "Kompas": 1,
-      "HADIIIRRR!!": 1,
+      "HADIIIRRR!!": 2,
       "Matcha": 2,
       "Pumpkin": 1,
-      "Angklung": 1,
+      "Angklung": 2,
       "Semangat kak": 1,
       "Toa": 1
     },
@@ -37,12 +37,13 @@
       "06e95287-e740-4473-bc72-6377597824c5": "Oishi.. Ekin anak baik",
       "da30e1d1-cc60-46df-aeb7-a4875a5ac6f7": "Pakde ga Jomblo",
       "55187f2d-9d67-417b-9c75-07f815a9f9e1": "ale dagangseblak ",
-      "ab35b318-7185-4ddf-9beb-9ae0fc8fc897": "Messi Widiastuti"
+      "ab35b318-7185-4ddf-9beb-9ae0fc8fc897": "Messi Widiastuti",
+      "eb27a483-19dd-4b40-9e39-7aab8bd4e5e4": "~y ~"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590], [26, 608], [27, 617], [28, 627], [29, 642], [30, 655], [31, 675], [32, 684], [33, 701], [34, 709], [35, 721], [36, 735], [37, 758], [38, 774], [39, 793], [40, 814], [41, 829]],
+    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590], [26, 608], [27, 617], [28, 627], [29, 642], [30, 655], [31, 675], [32, 684], [33, 701], [34, 709], [35, 721], [36, 735], [37, 758], [38, 774], [39, 793], [40, 814], [41, 829], [42, 844], [43, 860], [44, 877], [45, 895], [46, 908]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "gift_gold": 86,
+    "gift_gold": 122,
     "idn_gifters": {
       "2d58c906-b130-4e42-90b8-4225395b36d8": {
         "name": "Rafy Rapyra",
@@ -62,7 +63,7 @@
       "35a9d9bd-1f3a-4a7c-a782-d046114e2087": {
         "name": "✶ ‎ Rysaaa.",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b1a7d5eb58105f730c3d629052341b4.webp?v=1793886003",
-        "points": 28
+        "points": 144
       },
       "06e95287-e740-4473-bc72-6377597824c5": {
         "name": "Oishi.. Ekin anak baik",
@@ -83,9 +84,14 @@
         "name": "Messi Widiastuti",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eabeebc9e5b4aae9293279fe901c9482.webp?v=1794582057",
         "points": 28
+      },
+      "eb27a483-19dd-4b40-9e39-7aab8bd4e5e4": {
+        "name": "~y ~",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127",
+        "points": 28
       }
     },
-    "estimated_gift_value_idr": 215000,
+    "estimated_gift_value_idr": 305000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }

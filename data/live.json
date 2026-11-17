@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T05:00:47.387Z",
+  "updated_at": "2026-11-17T05:05:54.751Z",
   "lives": [
     {
       "id": "idn:seriusan-261117111949",
@@ -13,54 +13,54 @@
       "url": "https://www.idn.app/jkt48_rara/live/seriusan-261117111949",
       "image": "https://cdn.idn.app/livestream/4c82e04a00004362943f013902da4fe9.webp",
       "started_at": "2026-11-17T04:19:54.000Z",
-      "viewers": 829,
-      "last_seen_at": "2026-11-17T05:00:46.433Z",
-      "peak_viewers": 829,
-      "gifts": 10,
-      "gift_points": 344,
+      "viewers": 908,
+      "last_seen_at": "2026-11-17T05:05:53.861Z",
+      "peak_viewers": 908,
+      "gifts": 12,
+      "gift_points": 488,
       "stars": 0,
-      "comments": 711,
+      "comments": 795,
       "gift_breakdown": {
         "Lemon Tea": 1,
         "Cold Water": 1,
         "Kompas": 1,
-        "HADIIIRRR!!": 1,
+        "HADIIIRRR!!": 2,
         "Matcha": 2,
         "Pumpkin": 1,
-        "Angklung": 1,
+        "Angklung": 2,
         "Semangat kak": 1,
         "Toa": 1
       },
       "top_gifters": [
         {
           "rank": 1,
+          "name": "✶ ‎ Rysaaa.",
+          "points": 144,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b1a7d5eb58105f730c3d629052341b4.webp?v=1793886003"
+        },
+        {
+          "rank": 2,
           "name": "ale dagangseblak ",
           "points": 116,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/aefb9383946570670db3e44a8182c05c.webp?v=1761905673"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Oishi.. Ekin anak baik",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a53e4082c9e07d27b9df52857a18edbd.webp?v=1791867121"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Rosesa -",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d641fb376084f02f199c06b345a6eb9.webp?v=1785337995"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Pakde ga Jomblo",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/36302049f0ecb91742bf5dddbfd5c2a3.webp?v=1789653771"
-        },
-        {
-          "rank": 5,
-          "name": "✶ ‎ Rysaaa.",
-          "points": 28,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b1a7d5eb58105f730c3d629052341b4.webp?v=1793886003"
         },
         {
           "rank": 6,
@@ -70,21 +70,27 @@
         },
         {
           "rank": 7,
+          "name": "~y ~",
+          "points": 28,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
+        },
+        {
+          "rank": 8,
           "name": "Rafy Rapyra",
           "points": 8,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Gabriella Ika",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c0106c364c12f22b0308f5a00d07e58.webp?v=1781289174"
         }
       ],
-      "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590], [26, 608], [27, 617], [28, 627], [29, 642], [30, 655], [31, 675], [32, 684], [33, 701], [34, 709], [35, 721], [36, 735], [37, 758], [38, 774], [39, 793], [40, 814], [41, 829]],
+      "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590], [26, 608], [27, 617], [28, 627], [29, 642], [30, 655], [31, 675], [32, 684], [33, 701], [34, 709], [35, 721], [36, 735], [37, 758], [38, 774], [39, 793], [40, 814], [41, 829], [42, 844], [43, 860], [44, 877], [45, 895], [46, 908]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-      "gift_gold": 86,
-      "estimated_gift_value_idr": 215000,
+      "gift_gold": 122,
+      "estimated_gift_value_idr": 305000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
