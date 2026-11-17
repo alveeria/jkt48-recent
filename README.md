@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 15.26 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 15.31 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 14.24 | 4.361 |
-| Sona | IDN Live | haihaiahi | 17 Nov 2026, 14.28 | 3.325 |
-| Ralyne | IDN Live | HAIII | 17 Nov 2026, 14.37 | 2.564 |
-| Giaa | IDN Live | p | 17 Nov 2026, 14.49 | 1.651 |
-| Muthe | IDN Live | Hi | 17 Nov 2026, 15.05 | 2.498 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.14 | 1.095 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 14.24 | 4.664 |
+| Sona | IDN Live | haihaiahi | 17 Nov 2026, 14.28 | 3.591 |
+| Ralyne | IDN Live | HAIII | 17 Nov 2026, 14.37 | 2.846 |
+| Giaa | IDN Live | p | 17 Nov 2026, 14.49 | 1.924 |
+| Muthe | IDN Live | Hi | 17 Nov 2026, 15.05 | 2.962 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.14 | 1.440 |
+| Rilly | IDN Live | Ngobsss | 17 Nov 2026, 15.28 | 216 |
 
 ## Live terakhir — Nov 2026
 
