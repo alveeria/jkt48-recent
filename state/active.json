@@ -11,31 +11,45 @@
     "url": "https://www.idn.app/jkt48_rara/live/seriusan-261117111949",
     "image": "https://cdn.idn.app/livestream/4c82e04a00004362943f013902da4fe9.webp",
     "started_at": "2026-11-17T04:19:54.000Z",
-    "viewers": 598,
-    "last_seen_at": "2026-11-17T04:45:23.867Z",
-    "peak_viewers": 598,
-    "gifts": 1,
-    "gift_points": 8,
+    "viewers": 675,
+    "last_seen_at": "2026-11-17T04:50:31.283Z",
+    "peak_viewers": 675,
+    "gifts": 3,
+    "gift_points": 32,
     "stars": 0,
-    "comments": 422,
+    "comments": 512,
     "gift_breakdown": {
-      "Lemon Tea": 1
+      "Lemon Tea": 1,
+      "Cold Water": 1,
+      "Kompas": 1
     },
     "gifters": {
-      "2d58c906-b130-4e42-90b8-4225395b36d8": "Rafy Rapyra"
+      "2d58c906-b130-4e42-90b8-4225395b36d8": "Rafy Rapyra",
+      "f11d76ae-33da-42d4-adde-6cd9148ecf54": "Gabriella Ika",
+      "ce1397ef-17ab-494e-8a33-04d3805f597c": "Rosesa -"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590]],
+    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590], [26, 608], [27, 617], [28, 627], [29, 642], [30, 655], [31, 675]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "gift_gold": 2,
+    "gift_gold": 8,
     "idn_gifters": {
       "2d58c906-b130-4e42-90b8-4225395b36d8": {
         "name": "Rafy Rapyra",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310",
         "points": 8
+      },
+      "f11d76ae-33da-42d4-adde-6cd9148ecf54": {
+        "name": "Gabriella Ika",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c0106c364c12f22b0308f5a00d07e58.webp?v=1781289174",
+        "points": 4
+      },
+      "ce1397ef-17ab-494e-8a33-04d3805f597c": {
+        "name": "Rosesa -",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d641fb376084f02f199c06b345a6eb9.webp?v=1785337995",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 5000,
+    "estimated_gift_value_idr": 20000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
