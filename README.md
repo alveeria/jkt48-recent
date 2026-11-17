@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 14.55 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 15.00 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fera | IDN Live | Ayo masuk | 17 Nov 2026, 13.57 | 3.293 |
-| Jazzy | IDN Live | jejita | 17 Nov 2026, 13.56 | 4.088 |
-| Carissa | IDN Live | Ready ready sama aku siniii 😽 | 17 Nov 2026, 14.03 | 2.973 |
-| Lily | IDN Live | Hii | 17 Nov 2026, 14.07 | 5.516 |
-| Greesel | IDN Live | hi | 17 Nov 2026, 14.13 | 3.862 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 14.24 | 2.568 |
-| Sona | IDN Live | haihaiahi | 17 Nov 2026, 14.28 | 1.802 |
-| Ralyne | IDN Live | HAIII | 17 Nov 2026, 14.37 | 1.093 |
-| Giaa | IDN Live | p | 17 Nov 2026, 14.49 | 233 |
+| Fera | IDN Live | Ayo masuk | 17 Nov 2026, 13.57 | 3.479 |
+| Jazzy | IDN Live | jejita | 17 Nov 2026, 13.56 | 4.293 |
+| Carissa | IDN Live | Ready ready sama aku siniii 😽 | 17 Nov 2026, 14.03 | 3.162 |
+| Lily | IDN Live | Hii | 17 Nov 2026, 14.07 | 5.821 |
+| Greesel | IDN Live | hi | 17 Nov 2026, 14.13 | 4.158 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 14.24 | 2.818 |
+| Sona | IDN Live | haihaiahi | 17 Nov 2026, 14.28 | 2.037 |
+| Ralyne | IDN Live | HAIII | 17 Nov 2026, 14.37 | 1.317 |
+| Giaa | IDN Live | p | 17 Nov 2026, 14.49 | 397 |
 
 ## Live terakhir — Nov 2026
 
