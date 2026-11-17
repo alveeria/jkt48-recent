@@ -11,27 +11,31 @@
     "url": "https://www.idn.app/jkt48_rara/live/seriusan-261117111949",
     "image": "https://cdn.idn.app/livestream/4c82e04a00004362943f013902da4fe9.webp",
     "started_at": "2026-11-17T04:19:54.000Z",
-    "viewers": 675,
-    "last_seen_at": "2026-11-17T04:50:31.283Z",
-    "peak_viewers": 675,
-    "gifts": 3,
-    "gift_points": 32,
+    "viewers": 735,
+    "last_seen_at": "2026-11-17T04:55:38.875Z",
+    "peak_viewers": 735,
+    "gifts": 5,
+    "gift_points": 100,
     "stars": 0,
-    "comments": 512,
+    "comments": 621,
     "gift_breakdown": {
       "Lemon Tea": 1,
       "Cold Water": 1,
-      "Kompas": 1
+      "Kompas": 1,
+      "HADIIIRRR!!": 1,
+      "Matcha": 1
     },
     "gifters": {
       "2d58c906-b130-4e42-90b8-4225395b36d8": "Rafy Rapyra",
       "f11d76ae-33da-42d4-adde-6cd9148ecf54": "Gabriella Ika",
-      "ce1397ef-17ab-494e-8a33-04d3805f597c": "Rosesa -"
+      "ce1397ef-17ab-494e-8a33-04d3805f597c": "Rosesa -",
+      "35a9d9bd-1f3a-4a7c-a782-d046114e2087": "✶ ‎ Rysaaa.",
+      "06e95287-e740-4473-bc72-6377597824c5": "Oishi.. Ekin anak baik"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590], [26, 608], [27, 617], [28, 627], [29, 642], [30, 655], [31, 675]],
+    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519], [21, 534], [22, 551], [23, 564], [24, 575], [25, 590], [26, 608], [27, 617], [28, 627], [29, 642], [30, 655], [31, 675], [32, 684], [33, 701], [34, 709], [35, 721], [36, 735]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "gift_gold": 8,
+    "gift_gold": 25,
     "idn_gifters": {
       "2d58c906-b130-4e42-90b8-4225395b36d8": {
         "name": "Rafy Rapyra",
@@ -47,9 +51,19 @@
         "name": "Rosesa -",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d641fb376084f02f199c06b345a6eb9.webp?v=1785337995",
         "points": 20
+      },
+      "35a9d9bd-1f3a-4a7c-a782-d046114e2087": {
+        "name": "✶ ‎ Rysaaa.",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b1a7d5eb58105f730c3d629052341b4.webp?v=1793886003",
+        "points": 28
+      },
+      "06e95287-e740-4473-bc72-6377597824c5": {
+        "name": "Oishi.. Ekin anak baik",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a53e4082c9e07d27b9df52857a18edbd.webp?v=1791867121",
+        "points": 40
       }
     },
-    "estimated_gift_value_idr": 20000,
+    "estimated_gift_value_idr": 62500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
