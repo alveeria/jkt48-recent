@@ -1,5 +1,346 @@
 [
   {
+    "id": "idn:alveeria-2969",
+    "platform": "idn",
+    "member": {
+      "name": "Lily",
+      "username": "jkt48_lily",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82c594a3ba1e3ef986d941a4ec936fa9.webp?v=1778761669"
+    },
+    "title": "Hii",
+    "url": "https://www.idn.app/jkt48_lily/live/hii-261117140737",
+    "image": "https://cdn.idn.app/livestream/d378520044831c2a4692341c344a83b6.webp",
+    "started_at": "2026-11-17T07:07:42.000Z",
+    "last_seen_at": "2026-11-17T08:09:42.002Z",
+    "peak_viewers": 6332,
+    "gifts": 60,
+    "gift_points": 4152,
+    "stars": 0,
+    "comments": 1950,
+    "gift_breakdown": {
+      "SSETAAAN": 1,
+      "Mawar": 7,
+      "HADIIIRRR!!": 2,
+      "Martabak": 1,
+      "LILY": 2,
+      "Toa": 12,
+      "Kompas": 7,
+      "Es Kelapa": 1,
+      "Semangat kak": 3,
+      "Yuk bisa yuk": 2,
+      "Pumpkin": 2,
+      "Orange Syrup": 1,
+      "Hii Takut": 1,
+      "Jet Pribadi": 1,
+      "Water": 3,
+      "Lightstick": 1,
+      "Angklung": 6,
+      "Cold Water": 2,
+      "Ikan Bakar": 1,
+      "Cupid": 1,
+      "JKT48 Show": 1,
+      "Emas Batang": 1,
+      "Kagett Bang!": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Idham ",
+        "points": 1712,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
+      },
+      {
+        "rank": 2,
+        "name": "ikii _",
+        "points": 552,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc562369d218f61e85fee30e6fa8150c.webp?v=1793811399"
+      },
+      {
+        "rank": 3,
+        "name": "Finixx",
+        "points": 400,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 4,
+        "name": "Bang Alex Yo!",
+        "points": 340,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a7da3ec351ab69c1cea93eccf2307d59.webp?v=1779715042"
+      },
+      {
+        "rank": 5,
+        "name": "Aqil Zaman",
+        "points": 208,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d368cbc331704b0b3a821175e20253e8.webp?v=1789080077"
+      },
+      {
+        "rank": 6,
+        "name": "Farhan jaga ayam",
+        "points": 200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fd2497f005beff9960be4d8807a57ff4.webp?v=1794409115"
+      },
+      {
+        "rank": 7,
+        "name": "Yoel ❤️‍🔥",
+        "points": 140,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fc485378aca28afd8b0b47b8668f98dc.webp?v=1784990826"
+      },
+      {
+        "rank": 8,
+        "name": "meemz! ⭐️",
+        "points": 116,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0ed35015507270331be13fa271c6bee2.webp?v=1793254599"
+      },
+      {
+        "rank": 9,
+        "name": "Narendra Lokananta ♱ ໒꒱ ‧₊˚",
+        "points": 112,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b78fa493ce8b98b6ff312af60bf3347.webp?v=1794646987"
+      },
+      {
+        "rank": 10,
+        "name": "Ami .",
+        "points": 100,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/657f14ef5cb775d8587c347caf049960.webp?v=1794488838"
+      }
+    ],
+    "viewer_series": [[0, 6], [1, 61], [2, 224], [3, 336], [4, 478], [5, 644], [6, 912], [7, 1058], [8, 1276], [9, 1439], [10, 1575], [11, 1695], [12, 1820], [13, 1944], [14, 2080], [15, 2219], [16, 2356], [17, 2471], [18, 2581], [19, 2709], [20, 2821], [21, 2956], [22, 3071], [23, 3231], [24, 3389], [25, 3444], [26, 3536], [27, 3637], [28, 3744], [29, 3827], [30, 3894], [31, 3975], [32, 4080], [33, 4218], [34, 4349], [35, 4449], [36, 4549], [37, 4658], [38, 4768], [39, 4848], [40, 4937], [41, 5024], [42, 5104], [43, 5185], [44, 5227], [45, 5314], [46, 5378], [47, 5461], [48, 5516], [49, 5580], [50, 5648], [51, 5697], [52, 5767], [53, 5821], [54, 5883], [55, 5932], [56, 5992], [57, 6038], [58, 6088], [59, 6137], [60, 6207], [61, 6268], [62, 6332]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/ERh0u6azjSIB",
+    "gift_gold": 1038,
+    "estimated_gift_value_idr": 2595000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-17T08:09:42.002Z",
+    "duration_minutes": 62,
+    "last_viewers": 6332,
+    "unique_gifters": 20,
+    "source_id": "idn:hii-261117140737"
+  },
+  {
+    "id": "idn:alveeria-2970",
+    "platform": "idn",
+    "member": {
+      "name": "Fera",
+      "username": "jkt48_fera",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d66f83efb55bc65f61f4a3943dfd6c95.webp?v=1779088009"
+    },
+    "title": "Ayo masuk",
+    "url": "https://www.idn.app/jkt48_fera/live/ayo-masuk-261117135657",
+    "image": "https://cdn.idn.app/livestream/d9bd080282c44f4960e22043b70ae527.webp",
+    "started_at": "2026-11-17T06:57:01.000Z",
+    "last_seen_at": "2026-11-17T08:13:48.826Z",
+    "peak_viewers": 3924,
+    "gifts": 31,
+    "gift_points": 2092,
+    "stars": 0,
+    "comments": 641,
+    "gift_breakdown": {
+      "Toa": 6,
+      "Bubble Gun": 1,
+      "Matcha": 4,
+      "HADIIIRRR!!": 1,
+      "HAHAHA": 2,
+      "Lightstick": 1,
+      "Serem Bor": 1,
+      "Water": 2,
+      "Pumpkin": 4,
+      "Goaaaaal!!": 1,
+      "Outt!": 1,
+      "Gift Card": 1,
+      "Angklung": 2,
+      "Ngeri Banget": 1,
+      "Emas Batang": 1,
+      "Arcade Game": 1,
+      "Kompas": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "dagdigdugdeerr .",
+        "points": 700,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a265d8588c4b140a34250ca9937442ea.webp?v=1792413558"
+      },
+      {
+        "rank": 2,
+        "name": "Tegar Fityanto",
+        "points": 392,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 3,
+        "name": "ouɐןı̣W ı̣pןⱯ",
+        "points": 340,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c264f998601e5be48c0dd3712fef0d65.webp?v=1794322186"
+      },
+      {
+        "rank": 4,
+        "name": "Fadil Karim",
+        "points": 156,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4e6c35db1ac33d3898983d1ef47ac800.webp?v=1793791797"
+      },
+      {
+        "rank": 5,
+        "name": "Iswari Afala",
+        "points": 84,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc281a4d7a441ddd6c23d4d145b85508.webp?v=1794321226"
+      },
+      {
+        "rank": 6,
+        "name": "roitho #maxinebaikhati🦦",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/93a2431939160be8fe7b6f5241448393.webp?v=1793962069"
+      },
+      {
+        "rank": 7,
+        "name": "Khaira 🐈🐈‍⬛",
+        "points": 64,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4d94ef82c2df268895072e102f143f6b.webp?v=1771923217"
+      },
+      {
+        "rank": 8,
+        "name": "Alenzz🤓 🤓",
+        "points": 60,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2ee153b020d1202aef7d7d99d641a7ba.webp?v=1794041073"
+      },
+      {
+        "rank": 9,
+        "name": "Messi Emyu ㅤ",
+        "points": 48,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b885de0922453aedcdab974ef2118a79.webp?v=1794722551"
+      },
+      {
+        "rank": 10,
+        "name": "Samuel Alexander",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6479c87e35a0b98132807b773c741887.webp?v=1793373144"
+      }
+    ],
+    "viewer_series": [[0, 2], [1, 29], [2, 137], [3, 193], [4, 254], [5, 306], [6, 349], [7, 397], [8, 473], [9, 525], [10, 575], [11, 592], [12, 637], [13, 685], [14, 731], [15, 783], [16, 827], [17, 881], [18, 950], [19, 1021], [20, 1080], [21, 1142], [22, 1196], [23, 1222], [24, 1269], [25, 1346], [26, 1400], [27, 1461], [28, 1530], [29, 1557], [30, 1628], [31, 1686], [32, 1757], [33, 1809], [34, 1901], [35, 1990], [36, 2064], [37, 2113], [38, 2190], [39, 2274], [40, 2333], [41, 2397], [42, 2441], [43, 2516], [44, 2576], [45, 2640], [46, 2701], [47, 2785], [48, 2817], [49, 2885], [50, 2930], [51, 2978], [52, 3028], [53, 3072], [54, 3113], [55, 3173], [56, 3212], [57, 3243], [58, 3281], [59, 3318], [60, 3351], [61, 3403], [62, 3424], [63, 3457], [64, 3491], [65, 3522], [66, 3542], [67, 3557], [68, 3584], [69, 3612], [70, 3647], [71, 3687], [72, 3727], [73, 3771], [74, 3814], [75, 3853], [76, 3883], [77, 3924]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/POC6D488qiQY",
+    "gift_gold": 523,
+    "estimated_gift_value_idr": 1307500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-17T08:13:48.826Z",
+    "duration_minutes": 77,
+    "last_viewers": 3924,
+    "unique_gifters": 15,
+    "source_id": "idn:ayo-masuk-261117135657"
+  },
+  {
+    "id": "idn:alveeria-2971",
+    "platform": "idn",
+    "member": {
+      "name": "Carissa",
+      "username": "jkt48_carissa",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/be7df69330e6c87a93d6b484dad4620c.webp?v=1779706174"
+    },
+    "title": "Ready ready sama aku siniii 😽",
+    "url": "https://www.idn.app/jkt48_carissa/live/ready-ready-sama-aku-siniii-261117140331",
+    "image": "https://cdn.idn.app/livestream/021196962a3ba16dd4d90b55e2a258cc.webp",
+    "started_at": "2026-11-17T07:03:36.000Z",
+    "last_seen_at": "2026-11-17T08:14:19.417Z",
+    "peak_viewers": 3653,
+    "gifts": 30,
+    "gift_points": 2688,
+    "stars": 0,
+    "comments": 1453,
+    "gift_breakdown": {
+      "Toa": 9,
+      "ELIN": 1,
+      "Cendrawasih": 1,
+      "SSETAAAN": 1,
+      "JKT48 Show": 1,
+      "Makan ya kak": 1,
+      "RIBKA": 1,
+      "Kastil Hantu": 1,
+      "ANINDYA": 2,
+      "Team Chill": 2,
+      "Kotak Pensil": 1,
+      "HAHAHA": 1,
+      "Ngeri Banget": 1,
+      "Rempeyek": 1,
+      "Pumpkin": 2,
+      "Mawar": 1,
+      "Hii Takut": 1,
+      "HADIIIRRR!!": 1,
+      "Kompas": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Idham ",
+        "points": 796,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
+      },
+      {
+        "rank": 2,
+        "name": "WISNU CARISSA ONLY🦖🦖🦖 AJA",
+        "points": 580,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d2697f8719892a602f109b7f7e008511.webp?v=1794631461"
+      },
+      {
+        "rank": 3,
+        "name": "kakdok",
+        "points": 480,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0fb2b16ce420cef44ef24ae7edc76159.webp?v=1731415166"
+      },
+      {
+        "rank": 4,
+        "name": "Carissa Putri ",
+        "points": 444,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2a673139130d00ca25335fa62774fff6.webp?v=1782110316"
+      },
+      {
+        "rank": 5,
+        "name": "Sir Aryooo",
+        "points": 160,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d0a75d719bcca66ebd9fd331dd79ba8a.webp?v=1782826463"
+      },
+      {
+        "rank": 6,
+        "name": "Dhika 🥭🍵",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e68d6806f4ca883c3d7dbe0b23b522b.webp?v=1791901602"
+      },
+      {
+        "rank": 7,
+        "name": "Khoirul Iman 🥕",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f789d466b87f7090aff25599d5c87ea.webp?v=1794655080"
+      },
+      {
+        "rank": 8,
+        "name": "Alwan .",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4b5d5c8df5242ed99d2140f9f5178c2f.webp?v=1791382040"
+      },
+      {
+        "rank": 9,
+        "name": "Awal Sukajamping🚀",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6f298a9e9215a8c3130e16ddb9d4f8b2.webp?v=1794558680"
+      },
+      {
+        "rank": 10,
+        "name": "KimTaeSar .",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fb8ce0527ae931ae156db6ca49959ec9.webp?v=1793981560"
+      }
+    ],
+    "viewer_series": [[0, 3], [1, 46], [2, 152], [3, 208], [4, 266], [5, 322], [6, 363], [7, 390], [8, 438], [9, 493], [10, 565], [11, 655], [12, 734], [13, 800], [14, 855], [15, 906], [16, 951], [17, 1011], [18, 1065], [19, 1134], [20, 1200], [21, 1249], [22, 1310], [23, 1377], [24, 1433], [25, 1496], [26, 1523], [27, 1592], [28, 1697], [29, 1788], [30, 1856], [31, 1900], [32, 1960], [33, 2009], [34, 2055], [35, 2112], [36, 2152], [37, 2230], [38, 2288], [39, 2337], [40, 2397], [41, 2487], [42, 2562], [43, 2613], [44, 2635], [45, 2679], [46, 2721], [47, 2759], [48, 2799], [49, 2850], [50, 2902], [51, 2936], [52, 2973], [53, 3022], [54, 3058], [55, 3110], [56, 3138], [57, 3162], [58, 3201], [59, 3224], [60, 3247], [61, 3279], [62, 3306], [63, 3327], [64, 3356], [65, 3393], [66, 3428], [67, 3470], [68, 3527], [69, 3570], [70, 3613], [71, 3653]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/uFfgGxueaWlO",
+    "gift_gold": 672,
+    "estimated_gift_value_idr": 1680000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-17T08:14:19.417Z",
+    "duration_minutes": 71,
+    "last_viewers": 3653,
+    "unique_gifters": 12,
+    "source_id": "idn:ready-ready-sama-aku-siniii-261117140331"
+  },
+  {
     "id": "idn:alveeria-2968",
     "platform": "idn",
     "member": {
