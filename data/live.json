@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:46:45.399Z",
+  "updated_at": "2026-11-17T13:51:56.091Z",
   "lives": [
     {
       "id": "showroom:318223:1794918430",
@@ -14,32 +14,32 @@
       "url": "https://www.showroom-live.com/r/JKT48_Fiony",
       "image": "https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_s.jpeg?v=1794918430",
       "started_at": "2026-11-17T12:27:10.000Z",
-      "viewers": 13937,
-      "last_seen_at": "2026-11-17T13:46:44.226Z",
-      "peak_viewers": 13937,
-      "gifts": 717,
-      "gift_points": 14817,
-      "stars": 982,
-      "comments": 2693,
+      "viewers": 14152,
+      "last_seen_at": "2026-11-17T13:51:54.872Z",
+      "peak_viewers": 14152,
+      "gifts": 819,
+      "gift_points": 15113,
+      "stars": 1032,
+      "comments": 3001,
       "gift_breakdown": {
-        "daruma(red)": 77,
+        "daruma(red)": 119,
         "colorful confetti (anime)": 18,
         "Heart(pink)(anime)": 30,
-        "Twinkle Star (anime)": 135,
+        "Twinkle Star (anime)": 136,
         "Daruma(pink)(anime)": 40,
         "flower": 39,
-        "heart": 75,
-        "Plump 13(anime)": 82,
+        "heart": 76,
+        "Plump 13(anime)": 87,
         "Plump Bear Balloon(anime)": 6,
-        "Squirrel(anime)": 15,
+        "Squirrel(anime)": 16,
         "MoNas": 1,
         "Lucu Banget": 1,
-        "Penlight(red)(anime)": 7,
-        "Life heart(anime)": 84,
+        "Penlight(red)(anime)": 8,
+        "Life heart(anime)": 105,
         "Heart(yellow)(anime)": 10,
         "Oshiku1-1 nya!": 1,
-        "Ika Pachi(anime)": 39,
-        "Hanaonpu(anime)": 29,
+        "Ika Pachi(anime)": 49,
+        "Hanaonpu(anime)": 39,
         "Daruma(red)(anime)": 1,
         "Daruma(green)(anime)": 10,
         "mirror ball(anime)": 1,
@@ -47,7 +47,8 @@
         "Cat's Paw High Five(anime)": 1,
         "Squid(anime)": 1,
         "Headphones Penguin(anime)": 1,
-        "Loveletter(anime)": 1
+        "Loveletter(anime)": 1,
+        "Penlight(green)(anime)": 10
       },
       "top_gifters": [
         {
@@ -111,8 +112,8 @@
           "avatar": "https://static.showroom-live.com/image/avatar/2000066.png?v=110"
         }
       ],
-      "viewer_series": [[43, 11058], [44, 11079], [45, 11211], [46, 11260], [47, 11468], [48, 11621], [49, 11785], [50, 11802], [51, 11884], [52, 12030], [53, 12104], [54, 12200], [55, 12319], [56, 12340], [57, 12364], [58, 12382], [59, 12501], [60, 12550], [61, 12650], [62, 12823], [63, 12852], [64, 13009], [65, 13102], [66, 13176], [67, 13303], [68, 13490], [69, 13540], [70, 13581], [71, 13608], [72, 13659], [73, 13717], [74, 13763], [75, 13779], [76, 13828], [77, 13853], [78, 13866], [79, 13911], [80, 13937]],
-      "estimated_gift_value_idr": 1692990.42,
+      "viewer_series": [[43, 11058], [44, 11079], [45, 11211], [46, 11260], [47, 11468], [48, 11621], [49, 11785], [50, 11802], [51, 11884], [52, 12030], [53, 12104], [54, 12200], [55, 12319], [56, 12340], [57, 12364], [58, 12382], [59, 12501], [60, 12550], [61, 12650], [62, 12823], [63, 12852], [64, 13009], [65, 13102], [66, 13176], [67, 13303], [68, 13490], [69, 13540], [70, 13581], [71, 13608], [72, 13659], [73, 13717], [74, 13763], [75, 13779], [76, 13828], [77, 13853], [78, 13866], [79, 13911], [80, 13937], [81, 13987], [82, 14021], [83, 14065], [84, 14098], [85, 14152]],
+      "estimated_gift_value_idr": 1726811.38,
       "gift_rate_idr": 114.26,
       "gift_value_basis": "paid_points"
     }
