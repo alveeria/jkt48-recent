@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 16.24 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 20.15 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Muthe | IDN Live | Hi | 17 Nov 2026, 15.05 | 8.775 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.14 | 6.452 |
-| Rilly | IDN Live | Ngobsss | 17 Nov 2026, 15.28 | 4.381 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.44 | 3.290 |
-| JKT48 | IDN Live | Temen Main Ep.3 | 17 Nov 2026, 15.53 | 4.324 |
+| Fiony | SHOWROOM |  | 17 Nov 2026, 19.27 | 11.707 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| JKT48 | IDN Live | Temen Main Ep.3 | 17 Nov 2026, 15.53 | 30m | 4.324 | 22 | 607 | — | 337 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.44 | 39m | 3.290 | 26 | 275 | — | 581 |
 | Maira | IDN Live | Let’s go!!! | 17 Nov 2026, 15.39 | 43m | 3.725 | 16 | 241 | — | 148 |
+| Rilly | IDN Live | Ngobsss | 17 Nov 2026, 15.28 | 55m | 4.381 | 42 | 1.022 | — | 595 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.14 | 69m | 6.452 | 34 | 1.664 | — | 1.211 |
+| Muthe | IDN Live | Hi | 17 Nov 2026, 15.05 | 78m | 8.775 | 52 | 1.199 | — | 3.080 |
 | Giaa | IDN Live | p | 17 Nov 2026, 14.49 | 65m | 3.362 | 27 | 551 | — | 521 |
 | Ralyne | IDN Live | HAIII | 17 Nov 2026, 14.37 | 87m | 6.088 | 36 | 888 | — | 714 |
 | Sona | IDN Live | haihaiahi | 17 Nov 2026, 14.28 | 66m | 3.804 | 51 | 1.262 | — | 1.578 |
@@ -91,11 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Lulu | IDN Live | hi | 16 Nov 2026, 19.04 | 66m | 7.290 | 42 | 619 | — | 2.473 |
 | Gita | IDN Live | Gits | 16 Nov 2026, 18.19 | 63m | 4.182 | 52 | 868 | — | 1.414 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 16.10 | 99m | 4.645 | 32 | 457 | — | 1.658 |
-| Nayla | IDN Live | Manadooo | 16 Nov 2026, 16.00 | 75m | 3.226 | 12 | 287 | — | 538 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.40 | 46m | 4.090 | 23 | 617 | — | 1.078 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 15.39 | 46m | 3.615 | 24 | 855 | — | 553 |
-| Giaa | IDN Live | p | 16 Nov 2026, 15.37 | 39m | 2.514 | 20 | 199 | — | 432 |
-| Michie | IDN Live | live  aja | 16 Nov 2026, 15.28 | 57m | 6.730 | 87 | 1.333 | — | 4.951 |
 
 ## Lisensi
 
