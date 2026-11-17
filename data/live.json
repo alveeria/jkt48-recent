@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:11:12.974Z",
+  "updated_at": "2026-11-17T16:16:21.951Z",
   "lives": [
     {
       "id": "idn:hai-261117225233",
@@ -13,31 +13,33 @@
       "url": "https://www.idn.app/jkt48_ekin/live/hai-261117225233",
       "image": "https://cdn.idn.app/livestream/f97b5f075ebfce3084520c261b258794.webp",
       "started_at": "2026-11-17T15:52:41.000Z",
-      "viewers": 2649,
-      "last_seen_at": "2026-11-17T16:11:11.957Z",
-      "peak_viewers": 2649,
-      "gifts": 35,
-      "gift_points": 2056,
+      "viewers": 2999,
+      "last_seen_at": "2026-11-17T16:16:20.935Z",
+      "peak_viewers": 2999,
+      "gifts": 41,
+      "gift_points": 2292,
       "stars": 0,
-      "comments": 2810,
+      "comments": 3437,
       "gift_breakdown": {
         "Pumpkin": 2,
         "Cold Water": 1,
         "Kompas": 2,
-        "HADIIIRRR!!": 2,
-        "Toa": 10,
+        "HADIIIRRR!!": 3,
+        "Toa": 12,
         "Kucing": 1,
         "Ngeri Banget": 1,
         "Paling Ramah": 1,
         "Hii Takut": 1,
-        "HAHAHA": 5,
+        "HAHAHA": 6,
         "CHRISTY": 1,
         "Konfeti": 1,
         "Emas Batang": 1,
         "EKIN": 3,
         "Siomay": 1,
         "Gift Card": 1,
-        "Matcha": 1
+        "Matcha": 1,
+        "Yuk bisa yuk": 1,
+        "Angklung": 1
       },
       "top_gifters": [
         {
@@ -66,45 +68,45 @@
         },
         {
           "rank": 5,
+          "name": "OqYn (☞ ಠ_ಠ)☞",
+          "points": 116,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5f672faa1bd49462248fab8e02118b87.webp?v=1789780680"
+        },
+        {
+          "rank": 6,
           "name": "Khoirul Iman 🥕",
           "points": 100,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f789d466b87f7090aff25599d5c87ea.webp?v=1794655080"
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "name": "🦭 Rohman",
+          "points": 88,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/36b88a26942d2912e5631a92af5af3e0.webp?v=1794243001"
+        },
+        {
+          "rank": 8,
+          "name": "Idham ",
+          "points": 88,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
+        },
+        {
+          "rank": 9,
           "name": "Hajel 😼",
           "points": 68,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/da97bab20633a81d12807e00dbfc7510.webp?v=1794815843"
         },
         {
-          "rank": 7,
+          "rank": 10,
           "name": "Us us us Bren",
           "points": 64,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/11892a0e0ec30a6792e1503fec7757f2.webp?v=1794737148"
-        },
-        {
-          "rank": 8,
-          "name": "🦭 Rohman",
-          "points": 64,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/36b88a26942d2912e5631a92af5af3e0.webp?v=1794243001"
-        },
-        {
-          "rank": 9,
-          "name": "Rizkum .",
-          "points": 44,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343"
-        },
-        {
-          "rank": 10,
-          "name": "Idham ",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
         }
       ],
-      "viewer_series": [[1, 50], [2, 357], [3, 660], [4, 875], [5, 1041], [6, 1240], [7, 1403], [8, 1516], [9, 1643], [10, 1735], [11, 1840], [12, 1953], [13, 2064], [14, 2229], [15, 2330], [16, 2432], [17, 2535], [18, 2612], [19, 2649]],
+      "viewer_series": [[1, 50], [2, 357], [3, 660], [4, 875], [5, 1041], [6, 1240], [7, 1403], [8, 1516], [9, 1643], [10, 1735], [11, 1840], [12, 1953], [13, 2064], [14, 2229], [15, 2330], [16, 2432], [17, 2535], [18, 2612], [19, 2649], [20, 2708], [21, 2794], [22, 2866], [23, 2932], [24, 2999]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/3GzmMqHzNnZY",
-      "gift_gold": 514,
-      "estimated_gift_value_idr": 1285000,
+      "gift_gold": 573,
+      "estimated_gift_value_idr": 1432500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
