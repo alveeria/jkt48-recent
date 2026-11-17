@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:31:47.456Z",
+  "updated_at": "2026-11-17T16:36:55.849Z",
   "lives": [
     {
       "id": "idn:hai-261117225233",
@@ -13,24 +13,24 @@
       "url": "https://www.idn.app/jkt48_ekin/live/hai-261117225233",
       "image": "https://cdn.idn.app/livestream/f97b5f075ebfce3084520c261b258794.webp",
       "started_at": "2026-11-17T15:52:41.000Z",
-      "viewers": 4000,
-      "last_seen_at": "2026-11-17T16:31:46.413Z",
-      "peak_viewers": 4000,
-      "gifts": 72,
-      "gift_points": 3420,
+      "viewers": 4247,
+      "last_seen_at": "2026-11-17T16:36:54.892Z",
+      "peak_viewers": 4247,
+      "gifts": 79,
+      "gift_points": 3600,
       "stars": 0,
-      "comments": 5501,
+      "comments": 6390,
       "gift_breakdown": {
         "Pumpkin": 2,
         "Cold Water": 1,
         "Kompas": 3,
         "HADIIIRRR!!": 3,
-        "Toa": 21,
+        "Toa": 22,
         "Kucing": 1,
         "Ngeri Banget": 2,
         "Paling Ramah": 2,
-        "Hii Takut": 1,
-        "HAHAHA": 9,
+        "Hii Takut": 2,
+        "HAHAHA": 12,
         "CHRISTY": 1,
         "Konfeti": 1,
         "Emas Batang": 2,
@@ -45,7 +45,8 @@
         "Masker": 1,
         "Semangat kak": 5,
         "Nasi Goreng": 1,
-        "Jari Hati": 1
+        "Jari Hati": 1,
+        "SSETAAAN": 2
       },
       "top_gifters": [
         {
@@ -56,33 +57,33 @@
         },
         {
           "rank": 2,
+          "name": "Mikimon ;",
+          "points": 388,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/555ed0af2e6c8cffe9df0e02208e1f5e.webp?v=1794317665"
+        },
+        {
+          "rank": 3,
           "name": "anang ramadhan",
           "points": 360,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ab6455afb9866a42e927b2645cf95dbf.webp?v=1733234730"
         },
         {
-          "rank": 3,
-          "name": "Mikimon ;",
-          "points": 316,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/555ed0af2e6c8cffe9df0e02208e1f5e.webp?v=1794317665"
+          "rank": 4,
+          "name": "iSocial Bae",
+          "points": 284,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Us us us Bren",
           "points": 260,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/11892a0e0ec30a6792e1503fec7757f2.webp?v=1794737148"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Idham ",
           "points": 240,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
-        },
-        {
-          "rank": 6,
-          "name": "iSocial Bae",
-          "points": 220,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
         },
         {
           "rank": 7,
@@ -109,10 +110,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5f672faa1bd49462248fab8e02118b87.webp?v=1789780680"
         }
       ],
-      "viewer_series": [[1, 50], [2, 357], [3, 660], [4, 875], [5, 1041], [6, 1240], [7, 1403], [8, 1516], [9, 1643], [10, 1735], [11, 1840], [12, 1953], [13, 2064], [14, 2229], [15, 2330], [16, 2432], [17, 2535], [18, 2612], [19, 2649], [20, 2708], [21, 2794], [22, 2866], [23, 2932], [24, 2999], [25, 3063], [26, 3144], [27, 3220], [28, 3294], [29, 3373], [30, 3443], [31, 3506], [32, 3574], [33, 3615], [34, 3656], [35, 3729], [36, 3761], [37, 3825], [38, 3894], [39, 3963]],
+      "viewer_series": [[1, 50], [2, 357], [3, 660], [4, 875], [5, 1041], [6, 1240], [7, 1403], [8, 1516], [9, 1643], [10, 1735], [11, 1840], [12, 1953], [13, 2064], [14, 2229], [15, 2330], [16, 2432], [17, 2535], [18, 2612], [19, 2649], [20, 2708], [21, 2794], [22, 2866], [23, 2932], [24, 2999], [25, 3063], [26, 3144], [27, 3220], [28, 3294], [29, 3373], [30, 3443], [31, 3506], [32, 3574], [33, 3615], [34, 3656], [35, 3729], [36, 3761], [37, 3825], [38, 3894], [39, 3963], [40, 4024], [41, 4072], [42, 4113], [43, 4176], [44, 4224]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/3GzmMqHzNnZY",
-      "gift_gold": 855,
-      "estimated_gift_value_idr": 2137500,
+      "gift_gold": 900,
+      "estimated_gift_value_idr": 2250000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
