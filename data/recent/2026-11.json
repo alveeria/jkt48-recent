@@ -1,5 +1,131 @@
 [
   {
+    "id": "showroom:alveeria-1",
+    "platform": "showroom",
+    "room_id": 318223,
+    "member": {
+      "name": "Fiony",
+      "username": "JKT48_Fiony",
+      "avatar": null
+    },
+    "title": "",
+    "url": "https://www.showroom-live.com/r/JKT48_Fiony",
+    "image": "https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_s.jpeg?v=1794918430",
+    "started_at": "2026-11-17T12:27:10.000Z",
+    "last_seen_at": "2026-11-17T14:09:03.449Z",
+    "peak_viewers": 14948,
+    "gifts": 1058,
+    "gift_points": 16171,
+    "stars": 1058,
+    "comments": 4564,
+    "gift_breakdown": {
+      "daruma(red)": 151,
+      "colorful confetti (anime)": 19,
+      "Heart(pink)(anime)": 30,
+      "Twinkle Star (anime)": 163,
+      "Daruma(pink)(anime)": 40,
+      "flower": 39,
+      "heart": 158,
+      "Plump 13(anime)": 95,
+      "Plump Bear Balloon(anime)": 7,
+      "Squirrel(anime)": 17,
+      "MoNas": 1,
+      "Lucu Banget": 1,
+      "Penlight(red)(anime)": 8,
+      "Life heart(anime)": 119,
+      "Heart(yellow)(anime)": 10,
+      "Oshiku1-1 nya!": 1,
+      "Ika Pachi(anime)": 114,
+      "Hanaonpu(anime)": 40,
+      "Daruma(red)(anime)": 1,
+      "Daruma(green)(anime)": 10,
+      "mirror ball(anime)": 1,
+      "Daruma(black)(anime)": 12,
+      "Cat's Paw High Five(anime)": 1,
+      "Squid(anime)": 1,
+      "Headphones Penguin(anime)": 1,
+      "Loveletter(anime)": 1,
+      "Penlight(green)(anime)": 10,
+      "melody animation": 2,
+      "Beautiful": 1,
+      "so cute": 1,
+      "Good evening": 1,
+      "lol": 1,
+      "Cheering Fan(wink)(anime)": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "kim-kim",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/1047678.png?v=110"
+      },
+      {
+        "rank": 2,
+        "name": "Fe[R]",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/1024681.png?v=110"
+      },
+      {
+        "rank": 3,
+        "name": "Novi (doday06)",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/1138115.png?v=110"
+      },
+      {
+        "rank": 4,
+        "name": "Farul Zidny",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/59.png?v=110"
+      },
+      {
+        "rank": 5,
+        "name": "Hussss",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/1019636.png?v=110"
+      },
+      {
+        "rank": 6,
+        "name": "Glunt",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/1120795.png?v=110"
+      },
+      {
+        "rank": 7,
+        "name": "Anisatrii",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/1120508.png?v=110"
+      },
+      {
+        "rank": 8,
+        "name": "iso",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/60.png?v=110"
+      },
+      {
+        "rank": 9,
+        "name": "Alsagiya, P ",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/2000066.png?v=110"
+      },
+      {
+        "rank": 10,
+        "name": "NikkoRiz",
+        "points": null,
+        "avatar": "https://static.showroom-live.com/image/avatar/2002385.png?v=110"
+      }
+    ],
+    "viewer_series": [[43, 11058], [44, 11079], [45, 11211], [46, 11260], [47, 11468], [48, 11621], [49, 11785], [50, 11802], [51, 11884], [52, 12030], [53, 12104], [54, 12200], [55, 12319], [56, 12340], [57, 12364], [58, 12382], [59, 12501], [60, 12550], [61, 12650], [62, 12823], [63, 12852], [64, 13009], [65, 13102], [66, 13176], [67, 13303], [68, 13490], [69, 13540], [70, 13581], [71, 13608], [72, 13659], [73, 13717], [74, 13763], [75, 13779], [76, 13828], [77, 13853], [78, 13866], [79, 13911], [80, 13937], [81, 13987], [82, 14021], [83, 14065], [84, 14098], [85, 14152], [86, 14218], [87, 14256], [88, 14302], [89, 14365], [90, 14395], [91, 14460], [92, 14460], [93, 14502], [94, 14555], [95, 14619], [96, 14656], [97, 14726], [98, 14760], [99, 14805], [100, 14833], [101, 14930], [102, 14948]],
+    "estimated_gift_value_idr": 1847698.46,
+    "gift_rate_idr": 114.26,
+    "gift_value_basis": "paid_points",
+    "ended_at": "2026-11-17T14:09:03.449Z",
+    "duration_minutes": 102,
+    "last_viewers": 14948,
+    "unique_gifters": 105,
+    "source_id": "showroom:318223:1794918430"
+  },
+  {
     "id": "idn:alveeria-2979",
     "platform": "idn",
     "member": {
