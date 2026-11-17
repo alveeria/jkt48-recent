@@ -11,20 +11,32 @@
     "url": "https://www.idn.app/jkt48_rara/live/seriusan-261117111949",
     "image": "https://cdn.idn.app/livestream/4c82e04a00004362943f013902da4fe9.webp",
     "started_at": "2026-11-17T04:19:54.000Z",
-    "viewers": 440,
-    "last_seen_at": "2026-11-17T04:35:08.816Z",
-    "peak_viewers": 440,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 527,
+    "last_seen_at": "2026-11-17T04:40:16.246Z",
+    "peak_viewers": 527,
+    "gifts": 1,
+    "gift_points": 8,
     "stars": 0,
-    "comments": 261,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 329,
+    "gift_breakdown": {
+      "Lemon Tea": 1
+    },
+    "gifters": {
+      "2d58c906-b130-4e42-90b8-4225395b36d8": "Rafy Rapyra"
+    },
     "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435]],
+    "viewer_series": [[0, 2], [1, 44], [2, 122], [3, 151], [4, 188], [5, 212], [6, 226], [7, 250], [8, 276], [9, 308], [10, 332], [11, 353], [12, 377], [13, 397], [14, 416], [15, 435], [16, 447], [17, 469], [18, 480], [19, 501], [20, 519]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null
+    "gift_gold": 2,
+    "idn_gifters": {
+      "2d58c906-b130-4e42-90b8-4225395b36d8": {
+        "name": "Rafy Rapyra",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310",
+        "points": 8
+      }
+    },
+    "estimated_gift_value_idr": 5000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
   }
 }
