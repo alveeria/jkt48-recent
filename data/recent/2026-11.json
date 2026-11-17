@@ -1,5 +1,110 @@
 [
   {
+    "id": "idn:alveeria-2968",
+    "platform": "idn",
+    "member": {
+      "name": "Maxine",
+      "username": "jkt48_maxine",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2047774f0cf81a814865c9e0923b4709.webp?v=1779088248"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_maxine/live/hi-261117134613",
+    "image": "https://cdn.idn.app/livestream/7e8cadf20a417d634b29a194b48a2dae.webp",
+    "started_at": "2026-11-17T06:46:20.000Z",
+    "last_seen_at": "2026-11-17T07:29:06.964Z",
+    "peak_viewers": 2207,
+    "gifts": 36,
+    "gift_points": 2068,
+    "stars": 0,
+    "comments": 1686,
+    "gift_breakdown": {
+      "Angklung": 5,
+      "Kuntilanak": 1,
+      "Emas Batang": 1,
+      "Kompas": 1,
+      "Ngeri Banget": 4,
+      "Toa": 10,
+      "Matcha": 3,
+      "Jikoshoukai": 1,
+      "HADIIIRRR!!": 1,
+      "Hii Takut": 1,
+      "HAHAHA": 2,
+      "Serem Bor": 1,
+      "Ikan Bakar": 1,
+      "Jari Hati": 1,
+      "SSETAAAN": 1,
+      "Makan ya kak": 1,
+      "Team Chill": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "jesaya-nya Maxine",
+        "points": 744,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/56ac4619cd4f5b989ac43c64cd427b62.webp?v=1794666366"
+      },
+      {
+        "rank": 2,
+        "name": "Alfiansyah F",
+        "points": 396,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b007bf2ac0b4e831002ae77d50bac452.webp?v=1793964061"
+      },
+      {
+        "rank": 3,
+        "name": "Nauval 🧛🏿🩸",
+        "points": 312,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6342e224bce79f6b06ca6fcddf8e6d90.webp?v=1784999047"
+      },
+      {
+        "rank": 4,
+        "name": "Dani San",
+        "points": 176,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/88f6b5366f6145010492cced89e081d8.webp?v=1794125833"
+      },
+      {
+        "rank": 5,
+        "name": "Daffi 🌝",
+        "points": 132,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/800e152671cecbb101f114bda422d70e.webp?v=1794661895"
+      },
+      {
+        "rank": 6,
+        "name": "teza #lopexinxin",
+        "points": 112,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9ee89e8f3573c5541df8202d0ef2d450.webp?v=1794040182"
+      },
+      {
+        "rank": 7,
+        "name": "Dino Savi",
+        "points": 92,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 8,
+        "name": "Denza Lian",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc2e9989edecc20ff0e5d795a4ae6bb8.webp?v=1787304156"
+      },
+      {
+        "rank": 9,
+        "name": "Daniel Baik",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c9d9fd5ad4ebc4b1f614b2c2cd99bbf.webp?v=1790599235"
+      }
+    ],
+    "viewer_series": [[0, 1], [1, 31], [2, 152], [3, 246], [4, 305], [5, 363], [6, 407], [7, 443], [8, 483], [9, 527], [10, 563], [11, 607], [12, 658], [13, 717], [14, 752], [15, 773], [16, 823], [17, 866], [18, 909], [19, 960], [20, 1006], [21, 1046], [22, 1085], [23, 1124], [24, 1160], [25, 1195], [26, 1235], [27, 1275], [28, 1334], [29, 1376], [30, 1432], [31, 1470], [32, 1512], [33, 1531], [34, 1579], [35, 1631], [36, 1708], [37, 1773], [38, 1839], [39, 1894], [40, 1979], [41, 2055], [42, 2137], [43, 2207]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/h82ZXdIi3f7Q",
+    "gift_gold": 517,
+    "estimated_gift_value_idr": 1292500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-17T07:29:06.964Z",
+    "duration_minutes": 43,
+    "last_viewers": 2207,
+    "unique_gifters": 9,
+    "source_id": "idn:hi-261117134613"
+  },
+  {
     "id": "idn:alveeria-2966",
     "platform": "idn",
     "member": {
