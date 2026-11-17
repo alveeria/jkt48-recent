@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 16.17 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 16.22 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,12 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Muthe | IDN Live | Hi | 17 Nov 2026, 15.05 | 8.318 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.14 | 5.928 |
-| Rilly | IDN Live | Ngobsss | 17 Nov 2026, 15.28 | 3.978 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.44 | 2.985 |
-| JKT48 | IDN Live | Temen Main Ep.3 | 17 Nov 2026, 15.53 | 3.624 |
-| Maira | IDN Live | Let’s go!!! | 17 Nov 2026, 15.39 | 3.490 |
+| Muthe | IDN Live | Hi | 17 Nov 2026, 15.05 | 8.690 |
+| Virgi | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.14 | 6.370 |
+| Rilly | IDN Live | Ngobsss | 17 Nov 2026, 15.28 | 4.325 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.44 | 3.232 |
+| JKT48 | IDN Live | Temen Main Ep.3 | 17 Nov 2026, 15.53 | 4.212 |
+| Maira | IDN Live | Let’s go!!! | 17 Nov 2026, 15.39 | 3.725 |
 
 ## Live terakhir — Nov 2026
 
