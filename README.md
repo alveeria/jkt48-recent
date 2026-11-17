@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 21.59 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 22.04 WIB.
 
 ## Interval pembaruan
 
@@ -46,20 +46,20 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Nayla | IDN Live | N | 17 Nov 2026, 20.58 | 4.557 |
-| Gita | IDN Live | Gits | 17 Nov 2026, 21.05 | 5.307 |
-| Lana | IDN Live | Hai | 17 Nov 2026, 21.11 | 5.589 |
-| Lulu | IDN Live | mlm | 17 Nov 2026, 21.31 | 2.379 |
-| Gracie | IDN Live | hiii | 17 Nov 2026, 21.32 | 3.231 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.36 | 1.463 |
-| Fritzy | IDN Live | g(u)rwm | 17 Nov 2026, 21.37 | 2.964 |
-| Ella | IDN Live | aloo | 17 Nov 2026, 21.50 | 1.226 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.50 | 1.236 |
+| Nayla | IDN Live | N | 17 Nov 2026, 20.58 | 4.997 |
+| Gita | IDN Live | Gits | 17 Nov 2026, 21.05 | 5.824 |
+| Lana | IDN Live | Hai | 17 Nov 2026, 21.11 | 6.096 |
+| Lulu | IDN Live | mlm | 17 Nov 2026, 21.31 | 2.821 |
+| Gracie | IDN Live | hiii | 17 Nov 2026, 21.32 | 3.784 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.36 | 1.768 |
+| Fritzy | IDN Live | g(u)rwm | 17 Nov 2026, 21.37 | 3.560 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.50 | 1.855 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Ella | IDN Live | aloo | 17 Nov 2026, 21.50 | 8m | 1.226 | 12 | 45 | — | 1.188 |
 | Ella | IDN Live | Haiiiii | 17 Nov 2026, 21.36 | 12m | 2.481 | 2 | 9 | — | 738 |
 | Fiony | SHOWROOM |  | 17 Nov 2026, 19.27 | 102m | 14.948 | 1.058 | 16.171 | 1.058 | 4.564 |
 | JKT48 | IDN Live | Temen Main Ep.3 | 17 Nov 2026, 15.53 | 30m | 4.324 | 22 | 607 | — | 337 |
@@ -99,7 +99,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Anindya | IDN Live | HALO!! | 16 Nov 2026, 20.32 | 124m | 10.566 | 53 | 1.531 | — | 5.370 |
 | Christy | IDN Live | Ayo ngobrol bareng! | 16 Nov 2026, 19.36 | 70m | 19.734 | 114 | 3.047 | — | 5.635 |
 | Delynn | IDN Live | malms bosku | 16 Nov 2026, 19.35 | 70m | 19.108 | 77 | 3.799 | — | 3.007 |
-| Lulu | IDN Live | hi | 16 Nov 2026, 19.04 | 66m | 7.290 | 42 | 619 | — | 2.473 |
 
 ## Lisensi
 

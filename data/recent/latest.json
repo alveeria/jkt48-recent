@@ -1,5 +1,106 @@
 [
   {
+    "id": "idn:alveeria-2985",
+    "platform": "idn",
+    "member": {
+      "name": "Ella",
+      "username": "jkt48_ella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e5114433fc13ada649ff70b6bba8784.webp?v=1778756003"
+    },
+    "title": "aloo",
+    "url": "https://www.idn.app/jkt48_ella/live/aloo-261117215009",
+    "image": "https://cdn.idn.app/livestream/b3c9be02377ca22073396c4b2710a4bf.webp",
+    "started_at": "2026-11-17T14:50:14.000Z",
+    "last_seen_at": "2026-11-17T14:58:35.607Z",
+    "peak_viewers": 1226,
+    "gifts": 12,
+    "gift_points": 180,
+    "stars": 0,
+    "comments": 1188,
+    "gift_breakdown": {
+      "Toa": 3,
+      "Water": 2,
+      "Matcha": 1,
+      "Mawar": 3,
+      "Cold Water": 1,
+      "Ngeri Banget": 1,
+      "Orange Syrup": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Irfan",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ced80dbfcbc57223884359c2e0958441.webp?v=1784823086"
+      },
+      {
+        "rank": 2,
+        "name": "Savirr Kangen Cynthia",
+        "points": 32,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f44d65297a56f0d95bedb4845c20a582.webp?v=1794917572"
+      },
+      {
+        "rank": 3,
+        "name": "Ferry Ray",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4bba723a73b4d76333351c4a1532df5d.webp?v=1794750650"
+      },
+      {
+        "rank": 4,
+        "name": "M. taufan",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/596fee322e6d3d967ffa06734f138903.webp?v=1784805796"
+      },
+      {
+        "rank": 5,
+        "name": "lady brigita e",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5b3ac7c2c6aebe2b5bd55c3e15a46484.webp?v=1793977781"
+      },
+      {
+        "rank": 6,
+        "name": "Dedy Saputra",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/14a45f5123b4e012bc8c9de49877e3b6.webp?v=1732114520"
+      },
+      {
+        "rank": 7,
+        "name": "khuzairiesahin1797",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/34f55071b8f4a75fdb6161f14b91bf91.webp?v=1794316932"
+      },
+      {
+        "rank": 8,
+        "name": "Indra 🐹",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036"
+      },
+      {
+        "rank": 9,
+        "name": "Jose Julian",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ea80e4a8562d93f47cf67774183104e0.webp?v=1780757365"
+      },
+      {
+        "rank": 10,
+        "name": "Jesica oshinya Gita .",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/69e689b51b139ebcf6052597fa0b9f60.webp?v=1780196346"
+      }
+    ],
+    "viewer_series": [[0, 2], [1, 95], [2, 287], [3, 448], [4, 578], [5, 743], [6, 901], [7, 1017], [8, 1148]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/i5RIo9CuCp8b",
+    "gift_gold": 45,
+    "estimated_gift_value_idr": 112500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-17T14:58:35.607Z",
+    "duration_minutes": 8,
+    "last_viewers": 1226,
+    "unique_gifters": 10,
+    "source_id": "idn:aloo-261117215009"
+  },
+  {
     "id": "idn:alveeria-2984",
     "platform": "idn",
     "member": {
@@ -19803,24 +19904,6 @@
     "url": "https://www.idn.app/jkt48_rilly",
     "image": "https://cdn.idn.app/livestream/9d015b68f621070a96106a60b62e6086.webp",
     "started_at": "2026-11-11T08:02:22.000Z",
-    "ended_at": null,
-    "duration_minutes": null,
-    "peak_viewers": null,
-    "last_viewers": null,
-    "source": "rznive/JKT48Live-Record"
-  },
-  {
-    "id": "idn:alveeria-2786",
-    "platform": "idn",
-    "member": {
-      "name": "Giaa",
-      "username": "jkt48_giaa",
-      "avatar": null
-    },
-    "title": "p",
-    "url": "https://www.idn.app/jkt48_giaa",
-    "image": "https://cdn.idn.app/livestream/5cadea08003f67c958388036ba131b67.webp",
-    "started_at": "2026-11-11T07:59:08.000Z",
     "ended_at": null,
     "duration_minutes": null,
     "peak_viewers": null,
