@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:06:04.447Z",
+  "updated_at": "2026-11-17T16:11:12.974Z",
   "lives": [
     {
       "id": "idn:hai-261117225233",
@@ -13,28 +13,31 @@
       "url": "https://www.idn.app/jkt48_ekin/live/hai-261117225233",
       "image": "https://cdn.idn.app/livestream/f97b5f075ebfce3084520c261b258794.webp",
       "started_at": "2026-11-17T15:52:41.000Z",
-      "viewers": 2156,
-      "last_seen_at": "2026-11-17T16:06:03.391Z",
-      "peak_viewers": 2156,
-      "gifts": 26,
-      "gift_points": 1732,
+      "viewers": 2649,
+      "last_seen_at": "2026-11-17T16:11:11.957Z",
+      "peak_viewers": 2649,
+      "gifts": 35,
+      "gift_points": 2056,
       "stars": 0,
-      "comments": 2085,
+      "comments": 2810,
       "gift_breakdown": {
         "Pumpkin": 2,
         "Cold Water": 1,
         "Kompas": 2,
         "HADIIIRRR!!": 2,
-        "Toa": 8,
+        "Toa": 10,
         "Kucing": 1,
         "Ngeri Banget": 1,
         "Paling Ramah": 1,
         "Hii Takut": 1,
-        "HAHAHA": 3,
+        "HAHAHA": 5,
         "CHRISTY": 1,
         "Konfeti": 1,
         "Emas Batang": 1,
-        "EKIN": 1
+        "EKIN": 3,
+        "Siomay": 1,
+        "Gift Card": 1,
+        "Matcha": 1
       },
       "top_gifters": [
         {
@@ -46,32 +49,32 @@
         {
           "rank": 2,
           "name": "anang ramadhan",
-          "points": 196,
+          "points": 276,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ab6455afb9866a42e927b2645cf95dbf.webp?v=1733234730"
         },
         {
           "rank": 3,
           "name": "KyotoSae Kitty",
-          "points": 80,
+          "points": 160,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b1d9d8b514ae1f0167e7b03c9e482dfd.webp?v=1782468100"
         },
         {
           "rank": 4,
-          "name": "Khoirul Iman 🥕",
-          "points": 80,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f789d466b87f7090aff25599d5c87ea.webp?v=1794655080"
+          "name": "Mikimon ;",
+          "points": 156,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/555ed0af2e6c8cffe9df0e02208e1f5e.webp?v=1794317665"
         },
         {
           "rank": 5,
-          "name": "Hajel 😼",
-          "points": 68,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/da97bab20633a81d12807e00dbfc7510.webp?v=1794815843"
+          "name": "Khoirul Iman 🥕",
+          "points": 100,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f789d466b87f7090aff25599d5c87ea.webp?v=1794655080"
         },
         {
           "rank": 6,
-          "name": "Mikimon ;",
+          "name": "Hajel 😼",
           "points": 68,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/555ed0af2e6c8cffe9df0e02208e1f5e.webp?v=1794317665"
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/da97bab20633a81d12807e00dbfc7510.webp?v=1794815843"
         },
         {
           "rank": 7,
@@ -98,74 +101,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
         }
       ],
-      "viewer_series": [[1, 50], [2, 357], [3, 660], [4, 875], [5, 1041], [6, 1240], [7, 1403], [8, 1516], [9, 1643], [10, 1735], [11, 1840], [12, 1953], [13, 2064]],
+      "viewer_series": [[1, 50], [2, 357], [3, 660], [4, 875], [5, 1041], [6, 1240], [7, 1403], [8, 1516], [9, 1643], [10, 1735], [11, 1840], [12, 1953], [13, 2064], [14, 2229], [15, 2330], [16, 2432], [17, 2535], [18, 2612], [19, 2649]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/3GzmMqHzNnZY",
-      "gift_gold": 433,
-      "estimated_gift_value_idr": 1082500,
-      "gift_rate_idr": 2500,
-      "gift_value_basis": "gold"
-    },
-    {
-      "id": "idn:ayo-ngobrol-bareng-261117225816",
-      "platform": "idn",
-      "member": {
-        "name": "Ribka",
-        "username": "jkt48_ribka",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c3e9142730d1eb21db56de1eaa161d2.webp?v=1778755827"
-      },
-      "title": "Ayo ngobrol bareng!",
-      "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261117225816",
-      "image": "https://cdn.idn.app/livestream/8b14b630cdc00fef1a978ae66c68e0b1.webp",
-      "started_at": "2026-11-17T15:58:21.000Z",
-      "viewers": 602,
-      "last_seen_at": "2026-11-17T16:05:32.724Z",
-      "peak_viewers": 602,
-      "gifts": 5,
-      "gift_points": 32,
-      "stars": 0,
-      "comments": 176,
-      "gift_breakdown": {
-        "Cold Water": 1,
-        "Water": 2,
-        "Lemon Tea": 1,
-        "Mawar": 1
-      },
-      "top_gifters": [
-        {
-          "rank": 1,
-          "name": "FADLY PRATAMA",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/760004db2e8144bc9a16367f381f3f55.webp?v=1794904990"
-        },
-        {
-          "rank": 2,
-          "name": "Alif Lajim",
-          "points": 8,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6bd90af47d17b774dede9cf21d5b006b.webp?v=1783963204"
-        },
-        {
-          "rank": 3,
-          "name": "ㅤ ㅤ",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/93740188af89cc51b18e960d2c42e943.webp?v=1791458472"
-        },
-        {
-          "rank": 4,
-          "name": "Octa .",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/48651d71711234cb39731ebe1fd9ce70.webp?v=1794326851"
-        },
-        {
-          "rank": 5,
-          "name": "Arya Sutanto",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/576c634c83a0f5a040f0f760c42e7362.webp?v=1794805194"
-        }
-      ],
-      "viewer_series": [[1, 13], [2, 120], [3, 182], [4, 275], [5, 401], [6, 510], [7, 576]],
-      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
-      "gift_gold": 8,
-      "estimated_gift_value_idr": 20000,
+      "gift_gold": 514,
+      "estimated_gift_value_idr": 1285000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
