@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 22.04 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 17 Nov 2026, 22.09 WIB.
 
 ## Interval pembaruan
 
@@ -46,14 +46,14 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Nayla | IDN Live | N | 17 Nov 2026, 20.58 | 4.997 |
-| Gita | IDN Live | Gits | 17 Nov 2026, 21.05 | 5.824 |
-| Lana | IDN Live | Hai | 17 Nov 2026, 21.11 | 6.096 |
-| Lulu | IDN Live | mlm | 17 Nov 2026, 21.31 | 2.821 |
-| Gracie | IDN Live | hiii | 17 Nov 2026, 21.32 | 3.784 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.36 | 1.768 |
-| Fritzy | IDN Live | g(u)rwm | 17 Nov 2026, 21.37 | 3.560 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.50 | 1.855 |
+| Nayla | IDN Live | N | 17 Nov 2026, 20.58 | 5.295 |
+| Gita | IDN Live | Gits | 17 Nov 2026, 21.05 | 6.177 |
+| Lana | IDN Live | Hai | 17 Nov 2026, 21.11 | 6.523 |
+| Lulu | IDN Live | mlm | 17 Nov 2026, 21.31 | 3.146 |
+| Gracie | IDN Live | hiii | 17 Nov 2026, 21.32 | 4.217 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.36 | 1.985 |
+| Fritzy | IDN Live | g(u)rwm | 17 Nov 2026, 21.37 | 4.050 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 21.50 | 2.280 |
 
 ## Live terakhir — Nov 2026
 
