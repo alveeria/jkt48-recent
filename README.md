@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 23.14 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 23.19 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Christy | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.56 | 13.872 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.22 | 1.813 |
-| Lulu | IDN Live | mlm | 18 Nov 2026, 22.22 | 2.755 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.23 | 3.477 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.22 | 1.978 |
+| Lulu | IDN Live | mlm | 18 Nov 2026, 22.22 | 3.036 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.23 | 3.720 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Christy | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.56 | 77m | 13.872 | 85 | 1.484 | — | 3.254 |
 | Muthe | IDN Live | Hi | 18 Nov 2026, 21.56 | 76m | 7.617 | 24 | 534 | — | 598 |
 | Jessi | IDN Live | hi | 18 Nov 2026, 21.55 | 76m | 5.874 | 43 | 523 | — | 1.003 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.55 | 77m | 9.564 | 34 | 426 | — | 925 |
@@ -94,7 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Lana | IDN Live | Hai | 17 Nov 2026, 21.11 | 68m | 7.276 | 66 | 1.756 | — | 2.743 |
 | Gita | IDN Live | Gits | 17 Nov 2026, 21.05 | 68m | 6.540 | 40 | 635 | — | 1.410 |
 | Nayla | IDN Live | N | 17 Nov 2026, 20.58 | 70m | 5.295 | 33 | 605 | — | 1.348 |
-| Fiony | SHOWROOM |  | 17 Nov 2026, 19.27 | 102m | 14.948 | 1.058 | 16.171 | 1.058 | 4.564 |
 
 ## Lisensi
 
