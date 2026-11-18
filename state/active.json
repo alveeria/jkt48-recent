@@ -1,1 +1,42 @@
-{}
+{
+  "idn:n-261119002223": {
+    "id": "idn:n-261119002223",
+    "platform": "idn",
+    "member": {
+      "name": "Nayla",
+      "username": "jkt48_nayla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/910f26252548bf370c7492e9ec668250.webp?v=1778761743"
+    },
+    "title": "N",
+    "url": "https://www.idn.app/jkt48_nayla/live/n-261119002223",
+    "image": "https://cdn.idn.app/livestream/8e14f20ec60a69e0f1ecdb55bbfbb634.webp",
+    "started_at": "2026-11-18T17:22:29.000Z",
+    "viewers": 153,
+    "last_seen_at": "2026-11-18T17:26:04.709Z",
+    "peak_viewers": 153,
+    "gifts": 1,
+    "gift_points": 20,
+    "stars": 0,
+    "comments": 58,
+    "gift_breakdown": {
+      "Toa": 1
+    },
+    "gifters": {
+      "d3d4ffe5-0548-41d8-a49e-bf71f5b9f2f9": "Aufa Suka Nayla. "
+    },
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
+    "gift_gold": 5,
+    "idn_gifters": {
+      "d3d4ffe5-0548-41d8-a49e-bf71f5b9f2f9": {
+        "name": "Aufa Suka Nayla. ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e271223a8cb5172104adfb07ffa8a91.webp?v=1784305157",
+        "points": 20
+      }
+    },
+    "estimated_gift_value_idr": 12500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
+  }
+}
