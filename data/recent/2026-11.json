@@ -1,5 +1,111 @@
 [
   {
+    "id": "idn:alveeria-3017",
+    "platform": "idn",
+    "member": {
+      "name": "Elin",
+      "username": "jkt48_elin",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0fb5a0de260626f7c1319567ce5e7f39.webp?v=1778761360"
+    },
+    "title": "Hai",
+    "url": "https://www.idn.app/jkt48_elin/live/hai-261118214900",
+    "image": "https://cdn.idn.app/livestream/7dffe117504f835875797ac9f4c09515.webp",
+    "started_at": "2026-11-18T14:49:06.000Z",
+    "last_seen_at": "2026-11-18T15:55:00.847Z",
+    "peak_viewers": 3636,
+    "gifts": 18,
+    "gift_points": 1396,
+    "stars": 0,
+    "comments": 912,
+    "gift_breakdown": {
+      "Bubble Gun": 1,
+      "ELIN": 1,
+      "Puding": 1,
+      "Pumpkin": 3,
+      "SSETAAAN": 1,
+      "Toa": 2,
+      "Angklung": 3,
+      "Water": 1,
+      "Cold Water": 2,
+      "Yuk bisa yuk": 1,
+      "Masker": 1,
+      "Mawar": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "dagdigdugdeerr .",
+        "points": 700,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a265d8588c4b140a34250ca9937442ea.webp?v=1792413558"
+      },
+      {
+        "rank": 2,
+        "name": "Fadil Karim",
+        "points": 160,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4e6c35db1ac33d3898983d1ef47ac800.webp?v=1793791797"
+      },
+      {
+        "rank": 3,
+        "name": "irfan Dharma",
+        "points": 148,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8ded926ce27695a1154346b27616ee54.webp?v=1756071268"
+      },
+      {
+        "rank": 4,
+        "name": "Haris Mubarok",
+        "points": 140,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b08127b35a382f71b0f151a08faef831.webp?v=1787667718"
+      },
+      {
+        "rank": 5,
+        "name": "eM .",
+        "points": 116,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
+      },
+      {
+        "rank": 6,
+        "name": "Heggyss Septian",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/28036b579674116f70da81484450a53a.webp?v=1793711683"
+      },
+      {
+        "rank": 7,
+        "name": "Le Sseramm",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 8,
+        "name": "Ade No",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d9490aad7a5c6edd9333e03eeeefa55f.webp?v=1781618535"
+      },
+      {
+        "rank": 9,
+        "name": "Tegar Aja29",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/105add69b6e30d974628347e3f1ed9cf.webp?v=1765097789"
+      },
+      {
+        "rank": 10,
+        "name": "Fa jr.",
+        "points": 16,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      }
+    ],
+    "viewer_series": [[0, 0], [1, 11], [2, 54], [3, 83], [4, 111], [5, 147], [6, 196], [7, 245], [8, 327], [9, 383], [10, 440], [11, 471], [12, 551], [13, 619], [14, 686], [15, 800], [16, 876], [17, 969], [18, 1071], [19, 1148], [20, 1248], [21, 1350], [22, 1414], [23, 1474], [24, 1523], [25, 1571], [26, 1624], [27, 1666], [28, 1703], [29, 1745], [30, 1768], [31, 1816], [32, 1875], [33, 1955], [34, 2030], [35, 2088], [36, 2163], [37, 2243], [38, 2310], [39, 2377], [40, 2439], [41, 2494], [42, 2551], [43, 2619], [44, 2678], [45, 2744], [46, 2801], [47, 2867], [48, 2947], [49, 2991], [50, 3021], [51, 3079], [52, 3124], [53, 3177], [54, 3230], [55, 3270], [56, 3304], [57, 3358], [58, 3396], [59, 3434], [60, 3473], [61, 3505], [62, 3541], [63, 3565], [64, 3589], [65, 3609], [66, 3636]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBuGTLoLJOCV",
+    "gift_gold": 349,
+    "estimated_gift_value_idr": 872500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-18T15:55:00.847Z",
+    "duration_minutes": 66,
+    "last_viewers": 3636,
+    "unique_gifters": 11,
+    "source_id": "idn:hai-261118214900"
+  },
+  {
     "id": "idn:alveeria-3016",
     "platform": "idn",
     "member": {
