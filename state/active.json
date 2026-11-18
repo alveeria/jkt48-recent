@@ -11,31 +11,54 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/grwm-261118112448",
     "image": "https://cdn.idn.app/livestream/ae41049aeea767ba056ca188320f0b47.webp",
     "started_at": "2026-11-18T04:24:56.000Z",
-    "viewers": 493,
-    "last_seen_at": "2026-11-18T04:31:04.973Z",
-    "peak_viewers": 493,
-    "gifts": 1,
-    "gift_points": 796,
+    "viewers": 1270,
+    "last_seen_at": "2026-11-18T04:36:13.002Z",
+    "peak_viewers": 1270,
+    "gifts": 7,
+    "gift_points": 2828,
     "stars": 0,
-    "comments": 319,
+    "comments": 640,
     "gift_breakdown": {
-      "Konfeti": 1
+      "Konfeti": 1,
+      "JKT48 Show": 1,
+      "Water": 1,
+      "Cold Water": 2,
+      "Heart": 1,
+      "Ikan Bakar": 1
     },
     "gifters": {
-      "4e6499f6-4bf9-4681-91c9-46b255d5e02e": "Danis Fritzy Only"
+      "4e6499f6-4bf9-4681-91c9-46b255d5e02e": "Danis Fritzy Only",
+      "1f0399e9-38ab-43c8-a646-8799273cd717": "Olivia ​Dark",
+      "4e0bf61e-2b35-4489-8056-f9746768c182": "Idham ",
+      "b75bbe41-b923-4937-ae2e-a1c1e9dd9e8a": "SobatcakLele Bali"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474]],
+    "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 199,
+    "gift_gold": 707,
     "idn_gifters": {
       "4e6499f6-4bf9-4681-91c9-46b255d5e02e": {
         "name": "Danis Fritzy Only",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/517dfdd0d2ab72b6345b7884ca34dc75.webp?v=1786202139",
-        "points": 796
+        "points": 1200
+      },
+      "1f0399e9-38ab-43c8-a646-8799273cd717": {
+        "name": "Olivia ​Dark",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81698c88f3acf76a9845e0f4238809af.webp?v=1772444473",
+        "points": 8
+      },
+      "4e0bf61e-2b35-4489-8056-f9746768c182": {
+        "name": "Idham ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417",
+        "points": 1596
+      },
+      "b75bbe41-b923-4937-ae2e-a1c1e9dd9e8a": {
+        "name": "SobatcakLele Bali",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/da41b680c3a7ed12e0b76d991412c124.webp?v=1794041304",
+        "points": 24
       }
     },
-    "estimated_gift_value_idr": 497500,
+    "estimated_gift_value_idr": 1767500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
