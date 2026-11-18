@@ -11,15 +11,15 @@
     "url": "https://www.idn.app/jkt48_ralyne/live/haiii-261118145603",
     "image": "https://cdn.idn.app/livestream/137a8bcd7ebec19fb0b50c1591d99bff.webp",
     "started_at": "2026-11-18T07:56:10.000Z",
-    "viewers": 1286,
-    "last_seen_at": "2026-11-18T08:22:16.692Z",
-    "peak_viewers": 1286,
-    "gifts": 11,
-    "gift_points": 624,
+    "viewers": 1459,
+    "last_seen_at": "2026-11-18T08:27:24.743Z",
+    "peak_viewers": 1459,
+    "gifts": 13,
+    "gift_points": 668,
     "stars": 0,
-    "comments": 655,
+    "comments": 787,
     "gift_breakdown": {
-      "Toa": 1,
+      "Toa": 2,
       "Kompas": 3,
       "Water": 1,
       "Semangat kak": 1,
@@ -27,7 +27,8 @@
       "Lato-Lato": 1,
       "JKT48 Show": 1,
       "Mawar": 1,
-      "Rempeyek": 1
+      "Rempeyek": 1,
+      "HAHAHA": 1
     },
     "gifters": {
       "4974612f-5a3b-4f35-92a4-c4ebc50b9513": "Reza Gilang",
@@ -38,17 +39,18 @@
       "43ee65c4-38ab-443b-86d8-bf595f374fbc": "Marky the Explorer",
       "265c3c8f-c663-46ee-b38c-9e3136ebb216": "innocent ×⁷",
       "6a904f6b-9a01-4964-a3b3-dc0efdc814b9": "Farhat #wongkalahan",
-      "9e7914d6-0d05-4335-8842-e60d1ab48911": "WQ ."
+      "9e7914d6-0d05-4335-8842-e60d1ab48911": "WQ .",
+      "589eb6ee-b6c4-46ea-bd16-12bb795691fd": "Riziq Shihab"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 11], [1, 76], [2, 184], [3, 238], [4, 251], [5, 301], [6, 344], [7, 383], [8, 534], [9, 604], [10, 657], [11, 696], [12, 741], [13, 773], [14, 824], [15, 873], [16, 918], [17, 963], [18, 1000], [19, 1041], [20, 1076], [21, 1109], [22, 1126], [23, 1165], [24, 1200], [25, 1236], [26, 1266]],
+    "viewer_series": [[0, 11], [1, 76], [2, 184], [3, 238], [4, 251], [5, 301], [6, 344], [7, 383], [8, 534], [9, 604], [10, 657], [11, 696], [12, 741], [13, 773], [14, 824], [15, 873], [16, 918], [17, 963], [18, 1000], [19, 1041], [20, 1076], [21, 1109], [22, 1126], [23, 1165], [24, 1200], [25, 1236], [26, 1266], [27, 1305], [28, 1334], [29, 1378], [30, 1414], [31, 1446]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/IkkRMUVBqeCM",
-    "gift_gold": 156,
+    "gift_gold": 167,
     "idn_gifters": {
       "4974612f-5a3b-4f35-92a4-c4ebc50b9513": {
         "name": "Reza Gilang",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/480798d149c63cda95e3605b20f40cd8.webp?v=1792505964",
-        "points": 20
+        "points": 44
       },
       "8dfc4d33-1144-4c86-a3e2-436bef17fae7": {
         "name": "Arrifai",
@@ -89,9 +91,14 @@
         "name": "WQ .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91220f9c60950c115b68da0fa748390c.webp?v=1747060656",
         "points": 20
+      },
+      "589eb6ee-b6c4-46ea-bd16-12bb795691fd": {
+        "name": "Riziq Shihab",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f91c5cc6b80394e1f6e91f7a9b6596a.webp?v=1794929870",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 390000,
+    "estimated_gift_value_idr": 417500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
