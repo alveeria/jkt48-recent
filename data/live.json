@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T05:17:18.573Z",
+  "updated_at": "2026-11-18T05:22:27.541Z",
   "lives": [
     {
       "id": "idn:grwm-261118112448",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/grwm-261118112448",
       "image": "https://cdn.idn.app/livestream/ae41049aeea767ba056ca188320f0b47.webp",
       "started_at": "2026-11-18T04:24:56.000Z",
-      "viewers": 3354,
-      "last_seen_at": "2026-11-18T05:17:17.609Z",
-      "peak_viewers": 3354,
+      "viewers": 3655,
+      "last_seen_at": "2026-11-18T05:22:26.605Z",
+      "peak_viewers": 3655,
       "gifts": 28,
       "gift_points": 3784,
       "stars": 0,
-      "comments": 3020,
+      "comments": 3475,
       "gift_breakdown": {
         "Konfeti": 1,
         "JKT48 Show": 1,
@@ -104,10 +104,47 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/95b7c714ab9832e2785dfeaff1a35b1a.webp?v=1784299971"
         }
       ],
-      "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214], [12, 1324], [13, 1408], [14, 1487], [15, 1566], [16, 1638], [17, 1733], [18, 1810], [19, 1870], [20, 1903], [21, 1969], [22, 2024], [23, 2085], [24, 2148], [25, 2204], [26, 2248], [27, 2295], [28, 2337], [29, 2390], [30, 2448], [31, 2490], [32, 2535], [33, 2600], [34, 2643], [35, 2687], [36, 2727], [37, 2768], [38, 2807], [39, 2827], [40, 2867], [41, 2907], [42, 2957], [43, 2991], [44, 3030], [45, 3074], [46, 3120], [47, 3154], [48, 3191], [49, 3232], [50, 3266], [51, 3310], [52, 3342]],
+      "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214], [12, 1324], [13, 1408], [14, 1487], [15, 1566], [16, 1638], [17, 1733], [18, 1810], [19, 1870], [20, 1903], [21, 1969], [22, 2024], [23, 2085], [24, 2148], [25, 2204], [26, 2248], [27, 2295], [28, 2337], [29, 2390], [30, 2448], [31, 2490], [32, 2535], [33, 2600], [34, 2643], [35, 2687], [36, 2727], [37, 2768], [38, 2807], [39, 2827], [40, 2867], [41, 2907], [42, 2957], [43, 2991], [44, 3030], [45, 3074], [46, 3120], [47, 3154], [48, 3191], [49, 3232], [50, 3266], [51, 3310], [52, 3342], [53, 3377], [54, 3417], [55, 3456], [56, 3532], [57, 3620], [58, 3655]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
       "gift_gold": 946,
       "estimated_gift_value_idr": 2365000,
+      "gift_rate_idr": 2500,
+      "gift_value_basis": "gold"
+    },
+    {
+      "id": "idn:bubbb-261118121912",
+      "platform": "idn",
+      "member": {
+        "name": "Intan",
+        "username": "jkt48_intan",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8906cd39a85bd0a92a38e1dc0733182.webp?v=1743097568"
+      },
+      "title": "bubbb",
+      "url": "https://www.idn.app/jkt48_intan/live/bubbb-261118121912",
+      "image": "https://cdn.idn.app/livestream/9b0ac6f9a2053db85d12893a68934a0a.webp",
+      "started_at": "2026-11-18T05:19:16.000Z",
+      "viewers": 558,
+      "last_seen_at": "2026-11-18T05:22:26.605Z",
+      "peak_viewers": 558,
+      "gifts": 1,
+      "gift_points": 20,
+      "stars": 0,
+      "comments": 196,
+      "gift_breakdown": {
+        "Toa": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "Almaida _",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ebd91e900efea7ffd3589e0309565f4.webp?v=1774866546"
+        }
+      ],
+      "viewer_series": [[0, 0], [1, 20], [2, 232], [3, 465]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
+      "gift_gold": 5,
+      "estimated_gift_value_idr": 12500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
