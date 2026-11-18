@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 22.18 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 22.23 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Eli | IDN Live | Ngapain ya ? | 18 Nov 2026, 20.40 | 7.329 |
-| Elin | IDN Live | Hai | 18 Nov 2026, 21.49 | 1.745 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.55 | 3.251 |
-| Jessi | IDN Live | hi | 18 Nov 2026, 21.55 | 2.359 |
-| Muthe | IDN Live | Hi | 18 Nov 2026, 21.56 | 2.999 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.56 | 5.391 |
+| Elin | IDN Live | Hai | 18 Nov 2026, 21.49 | 2.056 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.55 | 4.246 |
+| Jessi | IDN Live | hi | 18 Nov 2026, 21.55 | 2.828 |
+| Muthe | IDN Live | Hi | 18 Nov 2026, 21.56 | 3.737 |
+| Christy | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.56 | 6.950 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.22 | 4 |
+| Lulu | IDN Live | mlm | 18 Nov 2026, 22.22 | 0 |
 
 ## Live terakhir — Nov 2026
 
@@ -61,6 +62,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Greesel | IDN Live | hi | 18 Nov 2026, 20.57 | 61m | 8.210 | 44 | 1.553 | — | 1.107 |
 | Ella | IDN Live | aloo | 18 Nov 2026, 20.57 | 63m | 8.336 | 65 | 1.158 | — | 2.240 |
 | Michie | IDN Live | live  aja | 18 Nov 2026, 20.40 | 75m | 11.374 | 96 | 1.844 | — | 4.821 |
+| Eli | IDN Live | Ngapain ya ? | 18 Nov 2026, 20.40 | 98m | 7.340 | 17 | 59 | — | 499 |
 | Kathrina | IDN Live | wazzap | 18 Nov 2026, 20.25 | 69m | 8.068 | 63 | 701 | — | 1.866 |
 | Danella | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 19.55 | 67m | 3.441 | 6 | 211 | — | 188 |
 | JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/18 | 18 Nov 2026, 18.51 | 126m | 596 | 0 | — | — | 84 |
@@ -96,7 +98,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Olla | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.44 | 39m | 3.290 | 26 | 275 | — | 581 |
 | Maira | IDN Live | Let’s go!!! | 17 Nov 2026, 15.39 | 43m | 3.725 | 16 | 241 | — | 148 |
 | Rilly | IDN Live | Ngobsss | 17 Nov 2026, 15.28 | 55m | 4.381 | 42 | 1.022 | — | 595 |
-| Virgi | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 15.14 | 69m | 6.452 | 34 | 1.664 | — | 1.211 |
 
 ## Lisensi
 

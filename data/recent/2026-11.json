@@ -1,5 +1,102 @@
 [
   {
+    "id": "idn:alveeria-3016",
+    "platform": "idn",
+    "member": {
+      "name": "Eli",
+      "username": "jkt48_eli",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0f4369fe4c881fe2dc077df5d1c6bba2.webp?v=1778756126"
+    },
+    "title": "Ngapain ya ?",
+    "url": "https://www.idn.app/jkt48_eli/live/ngapain-ya-261118204006",
+    "image": "https://cdn.idn.app/livestream/0840e8fc7f48737f2feba4a0a676dbae.webp",
+    "started_at": "2026-11-18T13:40:12.000Z",
+    "last_seen_at": "2026-11-18T15:18:36.875Z",
+    "peak_viewers": 7340,
+    "gifts": 17,
+    "gift_points": 236,
+    "stars": 0,
+    "comments": 499,
+    "gift_breakdown": {
+      "Water": 4,
+      "Lemon Tea": 2,
+      "Mawar": 2,
+      "Es Kelapa": 1,
+      "Boba Tea": 1,
+      "Cold Water": 4,
+      "Pumpkin": 1,
+      "Toa": 1,
+      "ELI": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Noel Todar",
+        "points": 100,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 2,
+        "name": "Ina",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 3,
+        "name": "bulan cahaya warna",
+        "points": 32,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d69638cdc64e550270653604cb679a3.webp?v=1794667099"
+      },
+      {
+        "rank": 4,
+        "name": "putri amelia",
+        "points": 28,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/97f97f47a1332ee685d480ce9f8330e3.webp?v=1744194413"
+      },
+      {
+        "rank": 5,
+        "name": "Ariestya Christi",
+        "points": 16,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ad8c868125fe87f4e4d7859e800f701a.webp?v=1794671732"
+      },
+      {
+        "rank": 6,
+        "name": "Iam Dilaaa",
+        "points": 8,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1dbfba55c221efbdd4ed8723e9590953.webp?v=1784334318"
+      },
+      {
+        "rank": 7,
+        "name": "Malvin Evano",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8905fe068ccbd8540c4d3033309cde2d.webp?v=1786545380"
+      },
+      {
+        "rank": 8,
+        "name": "NOT_IRONMAN nya meng",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/776ba4122df4d381160790cd0b888dab.webp?v=1791214666"
+      },
+      {
+        "rank": 9,
+        "name": "Gabyelll #Ellaa",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/41a006cdd8432887dd58dee01bd2ac48.webp?v=1794927917"
+      }
+    ],
+    "viewer_series": [[10, 767], [11, 836], [12, 911], [13, 1027], [14, 1119], [15, 1187], [16, 1255], [17, 1316], [18, 1393], [19, 1481], [20, 1593], [21, 1693], [22, 1775], [23, 1862], [24, 1959], [25, 2037], [26, 2125], [27, 2158], [28, 2223], [29, 2323], [30, 2436], [31, 2533], [32, 2631], [33, 2712], [34, 2790], [35, 2889], [36, 2978], [37, 3114], [38, 3225], [39, 3366], [40, 3492], [41, 3564], [42, 3660], [43, 3729], [44, 3810], [45, 3903], [46, 4008], [47, 4092], [48, 4128], [49, 4207], [50, 4281], [51, 4366], [52, 4439], [53, 4522], [54, 4602], [55, 4675], [56, 4788], [57, 4882], [58, 4966], [59, 5026], [60, 5096], [61, 5161], [62, 5243], [63, 5324], [64, 5402], [65, 5456], [66, 5520], [67, 5584], [68, 5619], [69, 5680], [70, 5724], [71, 5787], [72, 5869], [73, 5941], [74, 5991], [75, 6043], [76, 6083], [77, 6158], [78, 6249], [79, 6323], [80, 6397], [81, 6475], [82, 6526], [83, 6651], [84, 6689], [85, 6737], [86, 6791], [87, 6840], [88, 6905], [89, 6971], [90, 7036], [91, 7088], [92, 7134], [93, 7166], [94, 7201], [95, 7233], [96, 7273], [97, 7300], [98, 7329]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/C93cx9bobpGd",
+    "gift_gold": 59,
+    "estimated_gift_value_idr": 147500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-18T15:18:36.875Z",
+    "duration_minutes": 98,
+    "last_viewers": 7340,
+    "unique_gifters": 9,
+    "source_id": "idn:ngapain-ya-261118204006"
+  },
+  {
     "id": "idn:alveeria-3015",
     "platform": "idn",
     "member": {
