@@ -11,21 +11,47 @@
     "url": "https://www.idn.app/jkt48_erine/live/erin-boss-261118085802",
     "image": "https://cdn.idn.app/livestream/e7822a505dc40599db820a808e0f36de.webp",
     "started_at": "2026-11-18T01:58:08.000Z",
-    "viewers": 67,
-    "last_seen_at": "2026-11-18T01:58:57.212Z",
-    "peak_viewers": 67,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 1442,
+    "last_seen_at": "2026-11-18T02:04:04.861Z",
+    "peak_viewers": 1442,
+    "gifts": 3,
+    "gift_points": 336,
     "stars": 0,
-    "comments": 9,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 266,
+    "gift_breakdown": {
+      "Happy B-Day!": 1,
+      "Kompas": 1,
+      "Emas Batang": 1
+    },
+    "gifters": {
+      "fe4e2027-4e43-4616-99d1-75c9d8b07d50": "Pasukan Bebek kwek kwek",
+      "1c7a9a36-3cf5-4730-8af8-5d987cd6208e": "cpy .",
+      "7a774239-6a11-4c37-a876-c4a9c951c569": "Maro9933 ."
+    },
     "top_gifters": [],
-    "viewer_series": [[0, 3], [1, 67]],
+    "viewer_series": [[0, 3], [1, 67], [2, 326], [3, 538], [4, 792], [5, 1042], [6, 1442]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/6hjihgZ20wwR",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null
+    "gift_gold": 84,
+    "idn_gifters": {
+      "fe4e2027-4e43-4616-99d1-75c9d8b07d50": {
+        "name": "Pasukan Bebek kwek kwek",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4db3910cee223618b5449838d696af27.webp?v=1787739085",
+        "points": 120
+      },
+      "1c7a9a36-3cf5-4730-8af8-5d987cd6208e": {
+        "name": "cpy .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cca476b7b1190b898a917c1bd3dba8fc.webp?v=1794410867",
+        "points": 20
+      },
+      "7a774239-6a11-4c37-a876-c4a9c951c569": {
+        "name": "Maro9933 .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/367f7891bebe5071edf09e44d71eae2f.webp?v=1783153946",
+        "points": 196
+      }
+    },
+    "estimated_gift_value_idr": 210000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
   },
   "idn:hi-261118085806": {
     "id": "idn:hi-261118085806",
@@ -39,20 +65,33 @@
     "url": "https://www.idn.app/jkt48_aralie/live/hi-261118085806",
     "image": "https://cdn.idn.app/livestream/29396ee6b3a5457ea8e0417d08a94fe7.webp",
     "started_at": "2026-11-18T01:58:11.000Z",
-    "viewers": 32,
-    "last_seen_at": "2026-11-18T01:58:57.212Z",
-    "peak_viewers": 32,
-    "gifts": 0,
-    "gift_points": 0,
+    "viewers": 755,
+    "last_seen_at": "2026-11-18T02:04:04.861Z",
+    "peak_viewers": 755,
+    "gifts": 2,
+    "gift_points": 200,
     "stars": 0,
-    "comments": 4,
-    "gift_breakdown": {},
-    "gifters": {},
+    "comments": 131,
+    "gift_breakdown": {
+      "Emas Batang": 1,
+      "Cold Water": 1
+    },
+    "gifters": {
+      "5b3f8757-5a37-40e8-b4a5-cc3d8ec0aeba": "ULIMA WKWKWK"
+    },
     "top_gifters": [],
-    "viewer_series": [[0, 5], [1, 32]],
+    "viewer_series": [[0, 5], [1, 32], [2, 174], [3, 303], [4, 437], [5, 577], [6, 755]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E0I7e29Eqkw6",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null
+    "gift_gold": 50,
+    "idn_gifters": {
+      "5b3f8757-5a37-40e8-b4a5-cc3d8ec0aeba": {
+        "name": "ULIMA WKWKWK",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/58352ca810f50dbb1c218ad50698073b.webp?v=1794747398",
+        "points": 200
+      }
+    },
+    "estimated_gift_value_idr": 125000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
   }
 }
