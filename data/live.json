@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:30:54.626Z",
+  "updated_at": "2026-11-18T07:36:02.795Z",
   "lives": [
     {
       "id": "idn:ayo-ngobrol-bareng-261118134200",
@@ -13,23 +13,23 @@
       "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261118134200",
       "image": "https://cdn.idn.app/livestream/51692299d8f90e4dc932bf79c540d9ba.webp",
       "started_at": "2026-11-18T06:42:07.000Z",
-      "viewers": 2124,
-      "last_seen_at": "2026-11-18T07:30:53.650Z",
-      "peak_viewers": 2124,
-      "gifts": 34,
-      "gift_points": 5552,
+      "viewers": 2232,
+      "last_seen_at": "2026-11-18T07:36:01.814Z",
+      "peak_viewers": 2232,
+      "gifts": 37,
+      "gift_points": 5696,
       "stars": 0,
-      "comments": 831,
+      "comments": 879,
       "gift_breakdown": {
         "Cold Water": 2,
         "TC-LIA": 1,
-        "Angklung": 2,
+        "Angklung": 3,
         "Pumpkin": 1,
         "Lemon Tea": 2,
         "Puding": 1,
         "Water": 1,
         "Lemonade": 2,
-        "Mawar": 2,
+        "Mawar": 3,
         "Matcha": 3,
         "Jakarta": 1,
         "Kompas": 2,
@@ -40,7 +40,8 @@
         "Semarang": 1,
         "Cendrawasih": 2,
         "Bubble Gun": 1,
-        "Lightstick": 1
+        "Lightstick": 1,
+        "Gift Card": 1
       },
       "top_gifters": [
         {
@@ -75,21 +76,21 @@
         },
         {
           "rank": 6,
+          "name": "William Blackone",
+          "points": 180,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3e21321b07bda2c70605fd36868d97d2.webp?v=1762918180"
+        },
+        {
+          "rank": 7,
           "name": "Iyan",
           "points": 116,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38bee7a75defcddf533143d7bbefc905.webp?v=1735875928"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "SH1F4 🌛",
           "points": 116,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e518ef629a2bf9742f432a02cff0e277.webp?v=1787236884"
-        },
-        {
-          "rank": 8,
-          "name": "William Blackone",
-          "points": 48,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3e21321b07bda2c70605fd36868d97d2.webp?v=1762918180"
         },
         {
           "rank": 9,
@@ -104,10 +105,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         }
       ],
-      "viewer_series": [[0, 17], [1, 69], [2, 109], [3, 175], [4, 229], [5, 272], [6, 318], [7, 381], [8, 456], [9, 531], [10, 580], [11, 616], [12, 785], [13, 862], [14, 930], [15, 991], [16, 1044], [17, 1087], [18, 1129], [19, 1171], [20, 1193], [21, 1240], [22, 1290], [23, 1335], [24, 1384], [25, 1430], [26, 1472], [27, 1518], [28, 1555], [29, 1590], [30, 1624], [31, 1661], [32, 1690], [33, 1736], [34, 1778], [35, 1808], [36, 1831], [37, 1854], [38, 1877], [39, 1885], [40, 1913], [41, 1950], [42, 1973], [43, 2003], [44, 2029], [45, 2046], [46, 2067], [47, 2085], [48, 2102], [49, 2124]],
+      "viewer_series": [[0, 17], [1, 69], [2, 109], [3, 175], [4, 229], [5, 272], [6, 318], [7, 381], [8, 456], [9, 531], [10, 580], [11, 616], [12, 785], [13, 862], [14, 930], [15, 991], [16, 1044], [17, 1087], [18, 1129], [19, 1171], [20, 1193], [21, 1240], [22, 1290], [23, 1335], [24, 1384], [25, 1430], [26, 1472], [27, 1518], [28, 1555], [29, 1590], [30, 1624], [31, 1661], [32, 1690], [33, 1736], [34, 1778], [35, 1808], [36, 1831], [37, 1854], [38, 1877], [39, 1885], [40, 1913], [41, 1950], [42, 1973], [43, 2003], [44, 2029], [45, 2046], [46, 2067], [47, 2085], [48, 2102], [49, 2124], [50, 2148], [51, 2170], [52, 2203], [53, 2219], [54, 2232]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
-      "gift_gold": 1388,
-      "estimated_gift_value_idr": 3470000,
+      "gift_gold": 1424,
+      "estimated_gift_value_idr": 3560000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
