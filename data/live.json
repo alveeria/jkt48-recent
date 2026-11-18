@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T09:44:38.082Z",
+  "updated_at": "2026-11-18T09:49:46.554Z",
   "lives": [
     {
       "id": "idn:ayo-masuk-261118153226",
@@ -13,26 +13,27 @@
       "url": "https://www.idn.app/jkt48_fera/live/ayo-masuk-261118153226",
       "image": "https://cdn.idn.app/livestream/d3bd22b2520ca81aa34aa356414877fb.webp",
       "started_at": "2026-11-18T08:32:31.000Z",
-      "viewers": 3027,
-      "last_seen_at": "2026-11-18T09:44:37.110Z",
-      "peak_viewers": 3027,
-      "gifts": 25,
-      "gift_points": 1180,
+      "viewers": 3168,
+      "last_seen_at": "2026-11-18T09:49:45.636Z",
+      "peak_viewers": 3168,
+      "gifts": 30,
+      "gift_points": 1356,
       "stars": 0,
-      "comments": 1484,
+      "comments": 1594,
       "gift_breakdown": {
         "Cendrawasih": 1,
-        "Cold Water": 3,
+        "Cold Water": 4,
         "Toa": 10,
-        "Pumpkin": 1,
+        "Pumpkin": 3,
         "Combat": 1,
         "Angklung": 1,
-        "Mawar": 1,
+        "Mawar": 2,
         "Outt!": 1,
         "Kompas": 3,
         "Buket Mawar": 1,
         "Team Chill": 1,
-        "HADIIIRRR!!": 1
+        "HADIIIRRR!!": 1,
+        "MUTHE": 1
       },
       "top_gifters": [
         {
@@ -44,20 +45,20 @@
         {
           "rank": 2,
           "name": "Puput ",
-          "points": 140,
+          "points": 224,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfa8a3dddcf69f1a75caa045c8c9e0b2.webp?v=1789815292"
         },
         {
           "rank": 3,
-          "name": "Rucly 02",
-          "points": 132,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8590340142d41b0d59a0258da8fafca1.webp?v=1791278046"
+          "name": "Dhika 🥭🍵🐱🌸",
+          "points": 200,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e68d6806f4ca883c3d7dbe0b23b522b.webp?v=1794928448"
         },
         {
           "rank": 4,
-          "name": "Dhika 🥭🍵🐱🌸",
-          "points": 120,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e68d6806f4ca883c3d7dbe0b23b522b.webp?v=1794928448"
+          "name": "Rucly 02",
+          "points": 144,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8590340142d41b0d59a0258da8fafca1.webp?v=1791278046"
         },
         {
           "rank": 5,
@@ -96,10 +97,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/83af6c59883d311839f38ea24f9a1776.webp?v=1792235000"
         }
       ],
-      "viewer_series": [[0, 0], [1, 15], [2, 124], [3, 175], [4, 231], [5, 275], [6, 328], [7, 372], [8, 410], [9, 450], [10, 484], [11, 535], [12, 575], [13, 629], [14, 686], [15, 726], [16, 778], [17, 807], [18, 853], [19, 898], [20, 942], [21, 998], [22, 1039], [23, 1073], [24, 1129], [25, 1169], [26, 1207], [27, 1245], [28, 1269], [29, 1310], [30, 1348], [31, 1379], [32, 1409], [33, 1434], [34, 1475], [35, 1522], [36, 1551], [37, 1591], [38, 1616], [39, 1656], [40, 1700], [41, 1739], [42, 1761], [43, 1805], [44, 1836], [45, 1862], [46, 1889], [47, 1919], [48, 1956], [49, 1990], [50, 2041], [51, 2068], [52, 2087], [53, 2127], [54, 2156], [55, 2189], [56, 2218], [57, 2240], [58, 2278], [59, 2340], [60, 2400], [61, 2455], [62, 2525], [63, 2581], [64, 2629], [65, 2678], [66, 2734], [67, 2783], [68, 2826], [69, 2851], [70, 2930], [71, 2967], [72, 3006]],
+      "viewer_series": [[0, 0], [1, 15], [2, 124], [3, 175], [4, 231], [5, 275], [6, 328], [7, 372], [8, 410], [9, 450], [10, 484], [11, 535], [12, 575], [13, 629], [14, 686], [15, 726], [16, 778], [17, 807], [18, 853], [19, 898], [20, 942], [21, 998], [22, 1039], [23, 1073], [24, 1129], [25, 1169], [26, 1207], [27, 1245], [28, 1269], [29, 1310], [30, 1348], [31, 1379], [32, 1409], [33, 1434], [34, 1475], [35, 1522], [36, 1551], [37, 1591], [38, 1616], [39, 1656], [40, 1700], [41, 1739], [42, 1761], [43, 1805], [44, 1836], [45, 1862], [46, 1889], [47, 1919], [48, 1956], [49, 1990], [50, 2041], [51, 2068], [52, 2087], [53, 2127], [54, 2156], [55, 2189], [56, 2218], [57, 2240], [58, 2278], [59, 2340], [60, 2400], [61, 2455], [62, 2525], [63, 2581], [64, 2629], [65, 2678], [66, 2734], [67, 2783], [68, 2826], [69, 2851], [70, 2930], [71, 2967], [72, 3006], [73, 3043], [74, 3071], [75, 3094], [76, 3122], [77, 3151]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/POC6D488qiQY",
-      "gift_gold": 295,
-      "estimated_gift_value_idr": 737500,
+      "gift_gold": 339,
+      "estimated_gift_value_idr": 847500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -115,13 +116,13 @@
       "url": "https://www.idn.app/jkt48_rilly/live/gereeemmm-261118155107",
       "image": "https://cdn.idn.app/livestream/fa96e7b72210f25a29f8b155eaf2f5ef.webp",
       "started_at": "2026-11-18T08:51:13.000Z",
-      "viewers": 2124,
-      "last_seen_at": "2026-11-18T09:44:37.110Z",
-      "peak_viewers": 2124,
-      "gifts": 9,
-      "gift_points": 1468,
+      "viewers": 2306,
+      "last_seen_at": "2026-11-18T09:49:45.636Z",
+      "peak_viewers": 2306,
+      "gifts": 11,
+      "gift_points": 1496,
       "stars": 0,
-      "comments": 779,
+      "comments": 843,
       "gift_breakdown": {
         "Lightstick": 1,
         "Pumpkin": 1,
@@ -131,7 +132,9 @@
         "Graffiti": 1,
         "Outt!": 1,
         "Mawar": 1,
-        "Toa": 1
+        "Toa": 1,
+        "Ngeri Banget": 1,
+        "Cold Water": 1
       },
       "top_gifters": [
         {
@@ -154,27 +157,33 @@
         },
         {
           "rank": 4,
+          "name": "Rey .",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa8b1106b07ec0422f4a7645d5f2c07e.webp?v=1794315141"
+        },
+        {
+          "rank": 5,
+          "name": "Mr Ju",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/eac09a36662baf36a3c4e68db349389f.webp?v=1769345522"
+        },
+        {
+          "rank": 6,
           "name": "Ihsaaan ",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/51217480c8fa35749228538040142cfb.webp?v=1755615559"
         },
         {
-          "rank": 5,
-          "name": "Rey .",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fa8b1106b07ec0422f4a7645d5f2c07e.webp?v=1794315141"
-        },
-        {
-          "rank": 6,
+          "rank": 7,
           "name": "Wes Rafly Wes",
           "points": 12,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a91a5a82ffa34dc64e33c7bfe073e2d7.webp?v=1794042019"
         }
       ],
-      "viewer_series": [[0, 5], [1, 34], [2, 130], [3, 196], [4, 214], [5, 273], [6, 321], [7, 355], [8, 401], [9, 437], [10, 471], [11, 516], [12, 565], [13, 603], [14, 631], [15, 666], [16, 716], [17, 753], [18, 793], [19, 828], [20, 859], [21, 897], [22, 935], [23, 949], [24, 986], [25, 1019], [26, 1051], [27, 1074], [28, 1098], [29, 1133], [30, 1174], [31, 1216], [32, 1251], [33, 1280], [34, 1313], [35, 1350], [36, 1381], [37, 1406], [38, 1431], [39, 1459], [40, 1492], [41, 1551], [42, 1595], [43, 1636], [44, 1694], [45, 1729], [46, 1754], [47, 1808], [48, 1852], [49, 1905], [50, 1938], [51, 2023], [52, 2062], [53, 2099]],
+      "viewer_series": [[0, 5], [1, 34], [2, 130], [3, 196], [4, 214], [5, 273], [6, 321], [7, 355], [8, 401], [9, 437], [10, 471], [11, 516], [12, 565], [13, 603], [14, 631], [15, 666], [16, 716], [17, 753], [18, 793], [19, 828], [20, 859], [21, 897], [22, 935], [23, 949], [24, 986], [25, 1019], [26, 1051], [27, 1074], [28, 1098], [29, 1133], [30, 1174], [31, 1216], [32, 1251], [33, 1280], [34, 1313], [35, 1350], [36, 1381], [37, 1406], [38, 1431], [39, 1459], [40, 1492], [41, 1551], [42, 1595], [43, 1636], [44, 1694], [45, 1729], [46, 1754], [47, 1808], [48, 1852], [49, 1905], [50, 1938], [51, 2023], [52, 2062], [53, 2099], [54, 2145], [55, 2177], [56, 2208], [57, 2231], [58, 2263], [59, 2306]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oZ1CtRIp43zh",
-      "gift_gold": 367,
-      "estimated_gift_value_idr": 917500,
+      "gift_gold": 374,
+      "estimated_gift_value_idr": 935000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -190,13 +199,13 @@
       "url": "https://www.idn.app/jkt48_fahira/live/ada-apa-261118162035",
       "image": "https://cdn.idn.app/livestream/3543edebbb2e28536c2525fbda6e24dc.webp",
       "started_at": "2026-11-18T09:20:41.000Z",
-      "viewers": 1302,
-      "last_seen_at": "2026-11-18T09:44:37.110Z",
-      "peak_viewers": 1302,
+      "viewers": 1486,
+      "last_seen_at": "2026-11-18T09:49:45.636Z",
+      "peak_viewers": 1486,
       "gifts": 6,
       "gift_points": 144,
       "stars": 0,
-      "comments": 691,
+      "comments": 855,
       "gift_breakdown": {
         "Kompas": 2,
         "Cold Water": 2,
@@ -235,7 +244,7 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b007bf2ac0b4e831002ae77d50bac452.webp?v=1793964061"
         }
       ],
-      "viewer_series": [[0, 1], [1, 33], [2, 140], [3, 192], [4, 244], [5, 299], [6, 332], [7, 370], [8, 404], [9, 439], [10, 457], [11, 545], [12, 612], [13, 689], [14, 760], [15, 814], [16, 860], [17, 919], [18, 965], [19, 1027], [20, 1074], [21, 1131], [22, 1196], [23, 1250], [24, 1302]],
+      "viewer_series": [[0, 1], [1, 33], [2, 140], [3, 192], [4, 244], [5, 299], [6, 332], [7, 370], [8, 404], [9, 439], [10, 457], [11, 545], [12, 612], [13, 689], [14, 760], [15, 814], [16, 860], [17, 919], [18, 965], [19, 1027], [20, 1074], [21, 1131], [22, 1196], [23, 1250], [24, 1302], [25, 1337], [26, 1354], [27, 1383], [28, 1426], [29, 1466]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/DHkd7c5kKLxY",
       "gift_gold": 36,
       "estimated_gift_value_idr": 90000,
@@ -254,19 +263,19 @@
       "url": "https://www.idn.app/jkt48_sona/live/haihaiahi-261118163118",
       "image": "https://cdn.idn.app/livestream/fb55b64321c35631b6ceed9fe8f5ae1c.webp",
       "started_at": "2026-11-18T09:31:24.000Z",
-      "viewers": 829,
-      "last_seen_at": "2026-11-18T09:44:37.110Z",
-      "peak_viewers": 829,
-      "gifts": 6,
-      "gift_points": 116,
+      "viewers": 1052,
+      "last_seen_at": "2026-11-18T09:49:45.636Z",
+      "peak_viewers": 1052,
+      "gifts": 8,
+      "gift_points": 160,
       "stars": 0,
-      "comments": 458,
+      "comments": 682,
       "gift_breakdown": {
         "HADIIIRRR!!": 1,
         "Mawar": 1,
-        "Cold Water": 1,
+        "Cold Water": 2,
         "Es Kelapa": 1,
-        "Pumpkin": 1,
+        "Pumpkin": 2,
         "Kompas": 1
       },
       "top_gifters": [
@@ -278,33 +287,45 @@
         },
         {
           "rank": 2,
+          "name": "Geeul .",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/72ca8698af051ba379d1e7916fb31438.webp?v=1779361849"
+        },
+        {
+          "rank": 3,
           "name": "~y ~",
           "points": 28,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f6313232d5cc7e0131761ff2f5adc18.webp?v=1794379127"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "khaii zzx",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Farhat #wongkalahan",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b69d2c152ae4c09b4825931ad2919b1e.webp?v=1794476820"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Rafy Rapyra",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef9045c37b4d9b4f41b67b1f48580aa4.webp?v=1792973310"
+        },
+        {
+          "rank": 7,
+          "name": "Naruto _48",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4179c54697e5a77fd8879626d8a1bbb0.webp?v=1761747008"
         }
       ],
-      "viewer_series": [[0, 3], [1, 62], [2, 188], [3, 287], [4, 347], [5, 397], [6, 421], [7, 468], [8, 517], [9, 581], [10, 629], [11, 707], [12, 754], [13, 809]],
+      "viewer_series": [[0, 3], [1, 62], [2, 188], [3, 287], [4, 347], [5, 397], [6, 421], [7, 468], [8, 517], [9, 581], [10, 629], [11, 707], [12, 754], [13, 809], [14, 850], [15, 897], [16, 935], [17, 977], [18, 1032]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/XTx9Djrnh3Cm",
-      "gift_gold": 29,
-      "estimated_gift_value_idr": 72500,
+      "gift_gold": 40,
+      "estimated_gift_value_idr": 100000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
