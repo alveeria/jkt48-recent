@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:04:05.781Z",
+  "updated_at": "2026-11-18T02:09:13.318Z",
   "lives": [
     {
       "id": "idn:erin-boss-261118085802",
@@ -13,17 +13,20 @@
       "url": "https://www.idn.app/jkt48_erine/live/erin-boss-261118085802",
       "image": "https://cdn.idn.app/livestream/e7822a505dc40599db820a808e0f36de.webp",
       "started_at": "2026-11-18T01:58:08.000Z",
-      "viewers": 1442,
-      "last_seen_at": "2026-11-18T02:04:04.861Z",
-      "peak_viewers": 1442,
-      "gifts": 3,
-      "gift_points": 336,
+      "viewers": 3431,
+      "last_seen_at": "2026-11-18T02:09:12.396Z",
+      "peak_viewers": 3431,
+      "gifts": 6,
+      "gift_points": 404,
       "stars": 0,
-      "comments": 266,
+      "comments": 836,
       "gift_breakdown": {
         "Happy B-Day!": 1,
         "Kompas": 1,
-        "Emas Batang": 1
+        "Emas Batang": 1,
+        "Toa": 1,
+        "Pumpkin": 1,
+        "Lemon Tea": 1
       },
       "top_gifters": [
         {
@@ -40,15 +43,33 @@
         },
         {
           "rank": 3,
+          "name": "RCakra",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2cd003705e6edea1717aa126a02347e4.webp?v=1734753100"
+        },
+        {
+          "rank": 4,
           "name": "cpy .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cca476b7b1190b898a917c1bd3dba8fc.webp?v=1794410867"
+        },
+        {
+          "rank": 5,
+          "name": "ZUUNNIIIII 🦈🦈🦈",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc927b29c58fc99ed88fcc79c62ddecf.webp?v=1770141205"
+        },
+        {
+          "rank": 6,
+          "name": "jeefa .",
+          "points": 8,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c5c46ce48b5170cfd4133dee4e8cb42e.webp?v=1794644199"
         }
       ],
-      "viewer_series": [[0, 3], [1, 67], [2, 326], [3, 538], [4, 792], [5, 1042], [6, 1442]],
+      "viewer_series": [[0, 3], [1, 67], [2, 326], [3, 538], [4, 792], [5, 1042], [6, 1442], [7, 1946], [8, 2318], [9, 2764], [10, 3062], [11, 3332]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/6hjihgZ20wwR",
-      "gift_gold": 84,
-      "estimated_gift_value_idr": 210000,
+      "gift_gold": 101,
+      "estimated_gift_value_idr": 252500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -64,16 +85,17 @@
       "url": "https://www.idn.app/jkt48_aralie/live/hi-261118085806",
       "image": "https://cdn.idn.app/livestream/29396ee6b3a5457ea8e0417d08a94fe7.webp",
       "started_at": "2026-11-18T01:58:11.000Z",
-      "viewers": 755,
-      "last_seen_at": "2026-11-18T02:04:04.861Z",
-      "peak_viewers": 755,
-      "gifts": 2,
-      "gift_points": 200,
+      "viewers": 2104,
+      "last_seen_at": "2026-11-18T02:09:12.396Z",
+      "peak_viewers": 2104,
+      "gifts": 4,
+      "gift_points": 436,
       "stars": 0,
-      "comments": 131,
+      "comments": 344,
       "gift_breakdown": {
-        "Emas Batang": 1,
-        "Cold Water": 1
+        "Emas Batang": 2,
+        "Cold Water": 1,
+        "Pumpkin": 1
       },
       "top_gifters": [
         {
@@ -81,12 +103,24 @@
           "name": "ULIMA WKWKWK",
           "points": 200,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/58352ca810f50dbb1c218ad50698073b.webp?v=1794747398"
+        },
+        {
+          "rank": 2,
+          "name": "hhhhbam 👾",
+          "points": 196,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5174107e61e8fb5c6e9e40a42e4aceb6.webp?v=1772965549"
+        },
+        {
+          "rank": 3,
+          "name": "Nauu. ",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7b4f8a64d969d1edf762796d82226ed1.webp?v=1771257012"
         }
       ],
-      "viewer_series": [[0, 5], [1, 32], [2, 174], [3, 303], [4, 437], [5, 577], [6, 755]],
+      "viewer_series": [[0, 5], [1, 32], [2, 174], [3, 303], [4, 437], [5, 577], [6, 755], [7, 1029], [8, 1442], [9, 1724], [10, 1936], [11, 2028]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E0I7e29Eqkw6",
-      "gift_gold": 50,
-      "estimated_gift_value_idr": 125000,
+      "gift_gold": 109,
+      "estimated_gift_value_idr": 272500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
