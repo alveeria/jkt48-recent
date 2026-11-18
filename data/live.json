@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T06:08:42.504Z",
+  "updated_at": "2026-11-18T06:13:50.475Z",
   "lives": [
     {
       "id": "idn:bubbb-261118121912",
@@ -13,18 +13,18 @@
       "url": "https://www.idn.app/jkt48_intan/live/bubbb-261118121912",
       "image": "https://cdn.idn.app/livestream/9b0ac6f9a2053db85d12893a68934a0a.webp",
       "started_at": "2026-11-18T05:19:16.000Z",
-      "viewers": 4096,
-      "last_seen_at": "2026-11-18T06:08:41.452Z",
-      "peak_viewers": 4096,
-      "gifts": 43,
-      "gift_points": 4068,
+      "viewers": 4534,
+      "last_seen_at": "2026-11-18T06:13:49.554Z",
+      "peak_viewers": 4534,
+      "gifts": 45,
+      "gift_points": 4092,
       "stars": 0,
-      "comments": 3014,
+      "comments": 3381,
       "gift_breakdown": {
         "Toa": 6,
         "JKT48 Show": 3,
         "Water": 1,
-        "Cold Water": 3,
+        "Cold Water": 4,
         "Paling Ramah": 1,
         "INTAN": 3,
         "Mawar": 1,
@@ -32,7 +32,7 @@
         "Angklung": 3,
         "Matcha": 1,
         "Ikan Bakar": 1,
-        "Kompas": 6,
+        "Kompas": 7,
         "FREYA": 4,
         "Pumpkin": 3,
         "GREESEL": 1,
@@ -104,10 +104,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f3f1c6d63b144db8bb473492178b2763.webp?v=1779364532"
         }
       ],
-      "viewer_series": [[0, 0], [1, 20], [2, 232], [3, 465], [4, 635], [5, 771], [6, 900], [7, 1009], [8, 1099], [9, 1177], [10, 1266], [11, 1348], [12, 1426], [13, 1510], [14, 1611], [15, 1658], [16, 1747], [17, 1809], [18, 1848], [19, 1992], [20, 2069], [21, 2130], [22, 2186], [23, 2233], [24, 2287], [25, 2341], [26, 2391], [27, 2440], [28, 2497], [29, 2540], [30, 2587], [31, 2633], [32, 2714], [33, 2768], [34, 2872], [35, 3043], [36, 3146], [37, 3236], [38, 3323], [39, 3402], [40, 3458], [41, 3525], [42, 3588], [43, 3649], [44, 3708], [45, 3775], [46, 3847], [47, 3923], [48, 4007], [49, 4071]],
+      "viewer_series": [[0, 0], [1, 20], [2, 232], [3, 465], [4, 635], [5, 771], [6, 900], [7, 1009], [8, 1099], [9, 1177], [10, 1266], [11, 1348], [12, 1426], [13, 1510], [14, 1611], [15, 1658], [16, 1747], [17, 1809], [18, 1848], [19, 1992], [20, 2069], [21, 2130], [22, 2186], [23, 2233], [24, 2287], [25, 2341], [26, 2391], [27, 2440], [28, 2497], [29, 2540], [30, 2587], [31, 2633], [32, 2714], [33, 2768], [34, 2872], [35, 3043], [36, 3146], [37, 3236], [38, 3323], [39, 3402], [40, 3458], [41, 3525], [42, 3588], [43, 3649], [44, 3708], [45, 3775], [46, 3847], [47, 3923], [48, 4007], [49, 4071], [50, 4132], [51, 4271], [52, 4353], [53, 4386], [54, 4461], [55, 4534]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-      "gift_gold": 1017,
-      "estimated_gift_value_idr": 2542500,
+      "gift_gold": 1023,
+      "estimated_gift_value_idr": 2557500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -123,20 +123,30 @@
       "url": "https://www.idn.app/jkt48_daisy/live/hi-261118130351",
       "image": "https://cdn.idn.app/livestream/9c2c8c198b3962ff3a63ebed3035d4f7.webp",
       "started_at": "2026-11-18T06:03:57.000Z",
-      "viewers": 203,
-      "last_seen_at": "2026-11-18T06:08:41.452Z",
-      "peak_viewers": 203,
-      "gifts": 0,
-      "gift_points": 0,
+      "viewers": 618,
+      "last_seen_at": "2026-11-18T06:13:49.554Z",
+      "peak_viewers": 618,
+      "gifts": 1,
+      "gift_points": 100,
       "stars": 0,
-      "comments": 35,
-      "gift_breakdown": {},
-      "top_gifters": [],
-      "viewer_series": [[0, 0], [1, 17], [2, 73], [3, 130], [4, 169], [5, 203]],
+      "comments": 129,
+      "gift_breakdown": {
+        "Lightstick": 1
+      },
+      "top_gifters": [
+        {
+          "rank": 1,
+          "name": "I P U N .",
+          "points": 100,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53245f592c84bab98c9e779f98820451.webp?v=1786319945"
+        }
+      ],
+      "viewer_series": [[0, 0], [1, 17], [2, 73], [3, 130], [4, 169], [5, 203], [6, 335], [7, 429], [8, 498], [9, 569], [10, 618]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
-      "estimated_gift_value_idr": null,
-      "gift_rate_idr": null,
-      "gift_value_basis": null
+      "gift_gold": 25,
+      "estimated_gift_value_idr": 62500,
+      "gift_rate_idr": 2500,
+      "gift_value_basis": "gold"
     }
   ]
 }
