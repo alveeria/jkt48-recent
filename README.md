@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 16.03 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 16.08 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Ralyne | IDN Live | HAIII | 18 Nov 2026, 14.56 | 2.652 |
-| Jazzy | IDN Live | bogor hujang | 18 Nov 2026, 15.30 | 1.812 |
-| Fera | IDN Live | Ayo masuk | 18 Nov 2026, 15.32 | 1.379 |
-| Oniel | IDN Live | saya kembali | 18 Nov 2026, 15.36 | 2.497 |
-| Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 590 |
+| Jazzy | IDN Live | bogor hujang | 18 Nov 2026, 15.30 | 2.071 |
+| Fera | IDN Live | Ayo masuk | 18 Nov 2026, 15.32 | 1.576 |
+| Oniel | IDN Live | saya kembali | 18 Nov 2026, 15.36 | 2.850 |
+| Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 771 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Ralyne | IDN Live | HAIII | 18 Nov 2026, 14.56 | 69m | 2.712 | 37 | 606 | — | 1.338 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 13.42 | 60m | 2.384 | 42 | 1.554 | — | 1.003 |
 | Daisy | IDN Live | Hi | 18 Nov 2026, 13.03 | 62m | 2.248 | 9 | 393 | — | 555 |
 | Intan | IDN Live | bubbb | 18 Nov 2026, 12.19 | 77m | 5.630 | 80 | 3.241 | — | 4.564 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Jazzy | IDN Live | jejita | 17 Nov 2026, 13.56 | 81m | 5.225 | 67 | 1.222 | — | 2.670 |
 | Maxine | IDN Live | hi | 17 Nov 2026, 13.46 | 43m | 2.207 | 36 | 517 | — | 1.686 |
 | Daisy | IDN Live | haii | 17 Nov 2026, 13.20 | 61m | 2.140 | 13 | 268 | — | 360 |
-| Danella | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 13.13 | 67m | 2.444 | 21 | 399 | — | 538 |
 
 ## Lisensi
 
