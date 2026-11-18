@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 21.31 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 21.36 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Michie | IDN Live | live  aja | 18 Nov 2026, 20.40 | 9.033 |
-| Eli | IDN Live | Ngapain ya ? | 18 Nov 2026, 20.40 | 4.439 |
-| Kathrina | IDN Live | wazzap | 18 Nov 2026, 20.25 | 7.850 |
-| Ella | IDN Live | aloo | 18 Nov 2026, 20.57 | 5.242 |
-| Greesel | IDN Live | hi | 18 Nov 2026, 20.57 | 5.167 |
-| Gracie | IDN Live | hiii | 18 Nov 2026, 21.01 | 3.907 |
+| Michie | IDN Live | live  aja | 18 Nov 2026, 20.40 | 9.678 |
+| Eli | IDN Live | Ngapain ya ? | 18 Nov 2026, 20.40 | 4.882 |
+| Ella | IDN Live | aloo | 18 Nov 2026, 20.57 | 5.869 |
+| Greesel | IDN Live | hi | 18 Nov 2026, 20.57 | 5.842 |
+| Gracie | IDN Live | hiii | 18 Nov 2026, 21.01 | 4.588 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Kathrina | IDN Live | wazzap | 18 Nov 2026, 20.25 | 69m | 8.068 | 63 | 701 | — | 1.866 |
 | Danella | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 19.55 | 67m | 3.441 | 6 | 211 | — | 188 |
 | JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/18 | 18 Nov 2026, 18.51 | 126m | 596 | 0 | — | — | 84 |
 | Sona | IDN Live | haihaiahi | 18 Nov 2026, 16.31 | 19m | 1.078 | 9 | 50 | — | 729 |
@@ -96,7 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Giaa | IDN Live | p | 17 Nov 2026, 14.49 | 65m | 3.362 | 27 | 551 | — | 521 |
 | Ralyne | IDN Live | HAIII | 17 Nov 2026, 14.37 | 87m | 6.088 | 36 | 888 | — | 714 |
 | Sona | IDN Live | haihaiahi | 17 Nov 2026, 14.28 | 66m | 3.804 | 51 | 1.262 | — | 1.578 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 14.24 | 68m | 4.723 | 59 | 1.453 | — | 3.072 |
 
 ## Lisensi
 
