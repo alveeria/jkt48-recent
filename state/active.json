@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/grwm-261118112448",
     "image": "https://cdn.idn.app/livestream/ae41049aeea767ba056ca188320f0b47.webp",
     "started_at": "2026-11-18T04:24:56.000Z",
-    "viewers": 2535,
-    "last_seen_at": "2026-11-18T04:56:45.339Z",
-    "peak_viewers": 2535,
-    "gifts": 14,
-    "gift_points": 3044,
+    "viewers": 2768,
+    "last_seen_at": "2026-11-18T05:01:53.441Z",
+    "peak_viewers": 2768,
+    "gifts": 20,
+    "gift_points": 3508,
     "stars": 0,
-    "comments": 1918,
+    "comments": 2195,
     "gift_breakdown": {
       "Konfeti": 1,
       "JKT48 Show": 1,
@@ -29,7 +29,12 @@
       "HADIIIRRR!!": 1,
       "Lemon Tea": 1,
       "Kotak Kado": 1,
-      "FRITZY": 1
+      "FRITZY": 2,
+      "GRACIE": 1,
+      "CYNTHIA": 1,
+      "DANELLA": 1,
+      "FIONY": 1,
+      "Jari Hati": 1
     },
     "gifters": {
       "4e6499f6-4bf9-4681-91c9-46b255d5e02e": "Danis Fritzy Only",
@@ -41,12 +46,13 @@
       "16bb4533-e964-40cd-a346-cc6eadd97908": "Arrayyy ",
       "6d334e77-0e4c-4a1a-820c-4d93f783639c": "Reyvon Adhie",
       "7606434b-461b-4900-b732-bc71b50ad9f1": "Jasuke Keju",
-      "9978428d-efb5-47a2-826c-6d597fdfd919": "Denza Lian"
+      "9978428d-efb5-47a2-826c-6d597fdfd919": "Denza Lian",
+      "97f7ec89-2d2f-4685-86b4-4f5a434574c2": "Steven Kelvin Anggara"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214], [12, 1324], [13, 1408], [14, 1487], [15, 1566], [16, 1638], [17, 1733], [18, 1810], [19, 1870], [20, 1903], [21, 1969], [22, 2024], [23, 2085], [24, 2148], [25, 2204], [26, 2248], [27, 2295], [28, 2337], [29, 2390], [30, 2448], [31, 2490], [32, 2535]],
+    "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214], [12, 1324], [13, 1408], [14, 1487], [15, 1566], [16, 1638], [17, 1733], [18, 1810], [19, 1870], [20, 1903], [21, 1969], [22, 2024], [23, 2085], [24, 2148], [25, 2204], [26, 2248], [27, 2295], [28, 2337], [29, 2390], [30, 2448], [31, 2490], [32, 2535], [33, 2600], [34, 2643], [35, 2687], [36, 2727], [37, 2768]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 761,
+    "gift_gold": 877,
     "idn_gifters": {
       "4e6499f6-4bf9-4681-91c9-46b255d5e02e": {
         "name": "Danis Fritzy Only",
@@ -96,10 +102,15 @@
       "9978428d-efb5-47a2-826c-6d597fdfd919": {
         "name": "Denza Lian",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc2e9989edecc20ff0e5d795a4ae6bb8.webp?v=1787304156",
-        "points": 80
+        "points": 144
+      },
+      "97f7ec89-2d2f-4685-86b4-4f5a434574c2": {
+        "name": "Steven Kelvin Anggara",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f860a4a28fc039574a85601975597c23.webp?v=1794384627",
+        "points": 400
       }
     },
-    "estimated_gift_value_idr": 1902500,
+    "estimated_gift_value_idr": 2192500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
