@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 20.55 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 21.01 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Danella | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 19.55 | 2.900 |
-| Michie | IDN Live | live  aja | 18 Nov 2026, 20.40 | 3.327 |
-| Eli | IDN Live | Ngapain ya ? | 18 Nov 2026, 20.40 | 1.255 |
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/18 | 18 Nov 2026, 18.51 | 593 |
-| Kathrina | IDN Live | wazzap | 18 Nov 2026, 20.25 | 3.659 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 19.55 | 3.345 |
+| Michie | IDN Live | live  aja | 18 Nov 2026, 20.40 | 4.453 |
+| Eli | IDN Live | Ngapain ya ? | 18 Nov 2026, 20.40 | 1.693 |
+| Kathrina | IDN Live | wazzap | 18 Nov 2026, 20.25 | 4.208 |
+| Ella | IDN Live | aloo | 18 Nov 2026, 20.57 | 590 |
+| Greesel | IDN Live | hi | 18 Nov 2026, 20.57 | 500 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/18 | 18 Nov 2026, 18.51 | 126m | 596 | 0 | — | — | 84 |
 | Sona | IDN Live | haihaiahi | 18 Nov 2026, 16.31 | 19m | 1.078 | 9 | 50 | — | 729 |
 | Fahira | IDN Live | ada apa??? | 18 Nov 2026, 16.20 | 30m | 1.511 | 7 | 46 | — | 884 |
 | Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 59m | 2.328 | 12 | 382 | — | 867 |
@@ -95,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Sona | IDN Live | haihaiahi | 17 Nov 2026, 14.28 | 66m | 3.804 | 51 | 1.262 | — | 1.578 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 17 Nov 2026, 14.24 | 68m | 4.723 | 59 | 1.453 | — | 3.072 |
 | Greesel | IDN Live | hi | 17 Nov 2026, 14.13 | 64m | 5.259 | 52 | 537 | — | 1.415 |
-| Greesel | IDN Live | hi | 17 Nov 2026, 14.11 | 1m | 160 | 0 | — | — | 83 |
 
 ## Lisensi
 
