@@ -1,5 +1,111 @@
 [
   {
+    "id": "idn:alveeria-3025",
+    "platform": "idn",
+    "member": {
+      "name": "Nayla",
+      "username": "jkt48_nayla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/910f26252548bf370c7492e9ec668250.webp?v=1778761743"
+    },
+    "title": "N",
+    "url": "https://www.idn.app/jkt48_nayla/live/n-261119002223",
+    "image": "https://cdn.idn.app/livestream/8e14f20ec60a69e0f1ecdb55bbfbb634.webp",
+    "started_at": "2026-11-18T17:22:29.000Z",
+    "last_seen_at": "2026-11-18T18:20:19.966Z",
+    "peak_viewers": 1177,
+    "gifts": 27,
+    "gift_points": 1764,
+    "stars": 0,
+    "comments": 831,
+    "gift_breakdown": {
+      "Toa": 3,
+      "Cold Water": 4,
+      "SSETAAAN": 1,
+      "NAYLA": 3,
+      "Mawar": 1,
+      "Emas Batang": 2,
+      "Pumpkin": 6,
+      "Kucing": 1,
+      "Angklung": 2,
+      "Panjat": 1,
+      "GIAA": 1,
+      "Lightstick": 2
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Calon.Imam",
+        "points": 560,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5cf4511dbc41ccf47b3fcd925f61f8c7.webp?v=1731377546"
+      },
+      {
+        "rank": 2,
+        "name": "Viki (DWQ) ",
+        "points": 496,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cd13dcca23a94bb98be01be9bc6412a1.webp?v=1762444439"
+      },
+      {
+        "rank": 3,
+        "name": "Aufa Suka Nayla. ",
+        "points": 332,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e271223a8cb5172104adfb07ffa8a91.webp?v=1784305157"
+      },
+      {
+        "rank": 4,
+        "name": "hamzäh⁰⁶ ハムザ⁰⁶",
+        "points": 200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b1decefdcd2b7be90fbb1c4387aaa3ad.webp?v=1794924234"
+      },
+      {
+        "rank": 5,
+        "name": "Baskara",
+        "points": 108,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 6,
+        "name": "Riyan Cinta Nayla",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3026207813055a612093f844ea0e03a4.webp?v=1785933994"
+      },
+      {
+        "rank": 7,
+        "name": "Kumamon-kun 🐻 ◌⑅⃝●♡⋆♡LOVE♡⋆♡●⑅⃝◌",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0baca787a00da4cf7eebeb220ba0cd25.webp?v=1784564531"
+      },
+      {
+        "rank": 8,
+        "name": "eM .",
+        "points": 12,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
+      },
+      {
+        "rank": 9,
+        "name": "Maxi AD Utomo",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 10,
+        "name": "Ka Fajri eS",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38f3e217980beea3e64e6b284dbc2e51.webp?v=1789291734"
+      }
+    ],
+    "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581], [15, 605], [16, 623], [17, 646], [18, 665], [19, 684], [20, 699], [21, 722], [22, 731], [23, 750], [24, 767], [25, 783], [26, 794], [27, 814], [28, 830], [29, 839], [30, 855], [31, 868], [32, 885], [33, 903], [34, 923], [35, 942], [36, 955], [37, 970], [38, 982], [39, 991], [40, 998], [41, 1008], [42, 1018], [43, 1024], [44, 1027], [45, 1036], [46, 1044], [47, 1056], [48, 1067], [49, 1077], [50, 1089], [51, 1099], [52, 1109], [53, 1128], [54, 1136], [55, 1149], [56, 1161], [57, 1169], [58, 1177]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
+    "gift_gold": 441,
+    "estimated_gift_value_idr": 1102500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-18T18:20:19.966Z",
+    "duration_minutes": 58,
+    "last_viewers": 1177,
+    "unique_gifters": 10,
+    "source_id": "idn:n-261119002223"
+  },
+  {
     "id": "idn:alveeria-3024",
     "platform": "idn",
     "member": {
