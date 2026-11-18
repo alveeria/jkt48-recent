@@ -11,20 +11,23 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/grwm-261118112448",
     "image": "https://cdn.idn.app/livestream/ae41049aeea767ba056ca188320f0b47.webp",
     "started_at": "2026-11-18T04:24:56.000Z",
-    "viewers": 1686,
-    "last_seen_at": "2026-11-18T04:41:20.921Z",
-    "peak_viewers": 1686,
-    "gifts": 9,
-    "gift_points": 2836,
+    "viewers": 2024,
+    "last_seen_at": "2026-11-18T04:46:29.299Z",
+    "peak_viewers": 2024,
+    "gifts": 12,
+    "gift_points": 2892,
     "stars": 0,
-    "comments": 881,
+    "comments": 1187,
     "gift_breakdown": {
       "Konfeti": 1,
       "JKT48 Show": 1,
       "Water": 2,
       "Cold Water": 3,
       "Heart": 1,
-      "Ikan Bakar": 1
+      "Ikan Bakar": 1,
+      "Toa": 1,
+      "HADIIIRRR!!": 1,
+      "Lemon Tea": 1
     },
     "gifters": {
       "4e6499f6-4bf9-4681-91c9-46b255d5e02e": "Danis Fritzy Only",
@@ -32,12 +35,14 @@
       "4e0bf61e-2b35-4489-8056-f9746768c182": "Idham ",
       "b75bbe41-b923-4937-ae2e-a1c1e9dd9e8a": "SobatcakLele Bali",
       "28f6f053-7ee1-4533-b985-d0aedd6b9511": "Indra 🐹",
-      "fe2230a3-3c8b-4809-b185-6e22453d7271": "Zain Nur Ramadhian"
+      "fe2230a3-3c8b-4809-b185-6e22453d7271": "Zain Nur Ramadhian",
+      "16bb4533-e964-40cd-a346-cc6eadd97908": "Arrayyy ",
+      "6d334e77-0e4c-4a1a-820c-4d93f783639c": "Reyvon Adhie"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214], [12, 1324], [13, 1408], [14, 1487], [15, 1566], [16, 1638]],
+    "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214], [12, 1324], [13, 1408], [14, 1487], [15, 1566], [16, 1638], [17, 1733], [18, 1810], [19, 1870], [20, 1903], [21, 1969], [22, 2024]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 709,
+    "gift_gold": 723,
     "idn_gifters": {
       "4e6499f6-4bf9-4681-91c9-46b255d5e02e": {
         "name": "Danis Fritzy Only",
@@ -62,15 +67,25 @@
       "28f6f053-7ee1-4533-b985-d0aedd6b9511": {
         "name": "Indra 🐹",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036",
-        "points": 4
+        "points": 12
       },
       "fe2230a3-3c8b-4809-b185-6e22453d7271": {
         "name": "Zain Nur Ramadhian",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fdb717bd5eb546bf0a642a990bc92d9a.webp?v=1731319645",
         "points": 4
+      },
+      "16bb4533-e964-40cd-a346-cc6eadd97908": {
+        "name": "Arrayyy ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7790bb66ee430a2b5ddab2d2b9010feb.webp?v=1751041502",
+        "points": 20
+      },
+      "6d334e77-0e4c-4a1a-820c-4d93f783639c": {
+        "name": "Reyvon Adhie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/95b7c714ab9832e2785dfeaff1a35b1a.webp?v=1784299971",
+        "points": 28
       }
     },
-    "estimated_gift_value_idr": 1772500,
+    "estimated_gift_value_idr": 1807500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
