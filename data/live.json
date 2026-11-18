@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:01:55.120Z",
+  "updated_at": "2026-11-18T18:07:01.878Z",
   "lives": [
     {
       "id": "idn:n-261119002223",
@@ -13,27 +13,28 @@
       "url": "https://www.idn.app/jkt48_nayla/live/n-261119002223",
       "image": "https://cdn.idn.app/livestream/8e14f20ec60a69e0f1ecdb55bbfbb634.webp",
       "started_at": "2026-11-18T17:22:29.000Z",
-      "viewers": 993,
-      "last_seen_at": "2026-11-18T18:01:54.115Z",
-      "peak_viewers": 993,
-      "gifts": 11,
-      "gift_points": 484,
+      "viewers": 1036,
+      "last_seen_at": "2026-11-18T18:07:01.317Z",
+      "peak_viewers": 1036,
+      "gifts": 14,
+      "gift_points": 596,
       "stars": 0,
-      "comments": 606,
+      "comments": 674,
       "gift_breakdown": {
         "Toa": 2,
-        "Cold Water": 3,
+        "Cold Water": 4,
         "SSETAAAN": 1,
         "NAYLA": 2,
         "Mawar": 1,
         "Emas Batang": 1,
-        "Pumpkin": 1
+        "Pumpkin": 2,
+        "Kucing": 1
       },
       "top_gifters": [
         {
           "rank": 1,
           "name": "Viki (DWQ) ",
-          "points": 196,
+          "points": 200,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cd13dcca23a94bb98be01be9bc6412a1.webp?v=1762444439"
         },
         {
@@ -44,45 +45,51 @@
         },
         {
           "rank": 3,
+          "name": "Baskara",
+          "points": 108,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+        },
+        {
+          "rank": 4,
           "name": "Aufa Suka Nayla. ",
           "points": 100,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e271223a8cb5172104adfb07ffa8a91.webp?v=1784305157"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Riyan Cinta Nayla",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3026207813055a612093f844ea0e03a4.webp?v=1785933994"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Kumamon-kun 🐻 ◌⑅⃝●♡⋆♡LOVE♡⋆♡●⑅⃝◌",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0baca787a00da4cf7eebeb220ba0cd25.webp?v=1784564531"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "eM .",
           "points": 12,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Maxi AD Utomo",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Ka Fajri eS",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38f3e217980beea3e64e6b284dbc2e51.webp?v=1789291734"
         }
       ],
-      "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581], [15, 605], [16, 623], [17, 646], [18, 665], [19, 684], [20, 699], [21, 722], [22, 731], [23, 750], [24, 767], [25, 783], [26, 794], [27, 814], [28, 830], [29, 839], [30, 855], [31, 868], [32, 885], [33, 903], [34, 923], [35, 942], [36, 955], [37, 970], [38, 982], [39, 991]],
+      "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581], [15, 605], [16, 623], [17, 646], [18, 665], [19, 684], [20, 699], [21, 722], [22, 731], [23, 750], [24, 767], [25, 783], [26, 794], [27, 814], [28, 830], [29, 839], [30, 855], [31, 868], [32, 885], [33, 903], [34, 923], [35, 942], [36, 955], [37, 970], [38, 982], [39, 991], [40, 998], [41, 1008], [42, 1018], [43, 1024], [44, 1027], [45, 1036]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
-      "gift_gold": 121,
-      "estimated_gift_value_idr": 302500,
+      "gift_gold": 149,
+      "estimated_gift_value_idr": 372500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
