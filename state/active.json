@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_daisy/live/hi-261118130351",
     "image": "https://cdn.idn.app/livestream/9c2c8c198b3962ff3a63ebed3035d4f7.webp",
     "started_at": "2026-11-18T06:03:57.000Z",
-    "viewers": 1507,
-    "last_seen_at": "2026-11-18T06:39:30.486Z",
-    "peak_viewers": 1507,
+    "viewers": 1650,
+    "last_seen_at": "2026-11-18T06:44:39.699Z",
+    "peak_viewers": 1650,
     "gifts": 6,
     "gift_points": 1272,
     "stars": 0,
-    "comments": 371,
+    "comments": 413,
     "gift_breakdown": {
       "Lightstick": 2,
       "Angklung": 1,
@@ -32,7 +32,7 @@
       "77e75cb8-ad25-44b3-bc6e-e93c82f9f475": "Hakimar ."
     },
     "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 17], [2, 73], [3, 130], [4, 169], [5, 203], [6, 335], [7, 429], [8, 498], [9, 569], [10, 618], [11, 669], [12, 695], [13, 729], [14, 762], [15, 793], [16, 812], [17, 844], [18, 879], [19, 909], [20, 938], [21, 968], [22, 1003], [23, 1039], [24, 1077], [25, 1099], [26, 1129], [27, 1160], [28, 1195], [29, 1227], [30, 1250], [31, 1287], [32, 1319], [33, 1437], [34, 1458], [35, 1490], [36, 1507]],
+    "viewer_series": [[0, 0], [1, 17], [2, 73], [3, 130], [4, 169], [5, 203], [6, 335], [7, 429], [8, 498], [9, 569], [10, 618], [11, 669], [12, 695], [13, 729], [14, 762], [15, 793], [16, 812], [17, 844], [18, 879], [19, 909], [20, 938], [21, 968], [22, 1003], [23, 1039], [24, 1077], [25, 1099], [26, 1129], [27, 1160], [28, 1195], [29, 1227], [30, 1250], [31, 1287], [32, 1319], [33, 1437], [34, 1458], [35, 1490], [36, 1507], [37, 1531], [38, 1563], [39, 1594], [40, 1624], [41, 1650]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
     "gift_gold": 318,
     "idn_gifters": {
@@ -60,5 +60,33 @@
     "estimated_gift_value_idr": 795000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
+  },
+  "idn:ayo-ngobrol-bareng-261118134200": {
+    "id": "idn:ayo-ngobrol-bareng-261118134200",
+    "platform": "idn",
+    "member": {
+      "name": "Lia",
+      "username": "jkt48_lia",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/774813dd4e183c97cb589eecb765b034.webp?v=1778761632"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261118134200",
+    "image": "https://cdn.idn.app/livestream/51692299d8f90e4dc932bf79c540d9ba.webp",
+    "started_at": "2026-11-18T06:42:07.000Z",
+    "viewers": 175,
+    "last_seen_at": "2026-11-18T06:44:39.699Z",
+    "peak_viewers": 175,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 70,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 17], [1, 69], [2, 109], [3, 175]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
   }
 }
