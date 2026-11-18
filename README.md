@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 22.59 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 23.04 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Olla | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.55 | 8.250 |
-| Jessi | IDN Live | hi | 18 Nov 2026, 21.55 | 5.202 |
-| Muthe | IDN Live | Hi | 18 Nov 2026, 21.56 | 6.732 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.56 | 12.284 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.22 | 1.317 |
-| Lulu | IDN Live | mlm | 18 Nov 2026, 22.22 | 1.944 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.23 | 2.512 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.55 | 8.653 |
+| Jessi | IDN Live | hi | 18 Nov 2026, 21.55 | 5.477 |
+| Muthe | IDN Live | Hi | 18 Nov 2026, 21.56 | 7.055 |
+| Christy | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 21.56 | 12.825 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.22 | 1.445 |
+| Lulu | IDN Live | mlm | 18 Nov 2026, 22.22 | 2.160 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.23 | 2.768 |
 
 ## Live terakhir — Nov 2026
 
