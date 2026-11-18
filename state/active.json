@@ -11,22 +11,23 @@
     "url": "https://www.idn.app/jkt48_nayla/live/n-261119002223",
     "image": "https://cdn.idn.app/livestream/8e14f20ec60a69e0f1ecdb55bbfbb634.webp",
     "started_at": "2026-11-18T17:22:29.000Z",
-    "viewers": 1036,
-    "last_seen_at": "2026-11-18T18:07:01.317Z",
-    "peak_viewers": 1036,
-    "gifts": 14,
-    "gift_points": 596,
+    "viewers": 1089,
+    "last_seen_at": "2026-11-18T18:12:07.677Z",
+    "peak_viewers": 1089,
+    "gifts": 16,
+    "gift_points": 908,
     "stars": 0,
-    "comments": 674,
+    "comments": 732,
     "gift_breakdown": {
       "Toa": 2,
       "Cold Water": 4,
       "SSETAAAN": 1,
       "NAYLA": 2,
       "Mawar": 1,
-      "Emas Batang": 1,
+      "Emas Batang": 2,
       "Pumpkin": 2,
-      "Kucing": 1
+      "Kucing": 1,
+      "Angklung": 1
     },
     "gifters": {
       "d3d4ffe5-0548-41d8-a49e-bf71f5b9f2f9": "Aufa Suka Nayla. ",
@@ -40,14 +41,14 @@
       "7b2f6afc-0e0e-40f2-b32f-69f56812c3e8": "Baskara"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581], [15, 605], [16, 623], [17, 646], [18, 665], [19, 684], [20, 699], [21, 722], [22, 731], [23, 750], [24, 767], [25, 783], [26, 794], [27, 814], [28, 830], [29, 839], [30, 855], [31, 868], [32, 885], [33, 903], [34, 923], [35, 942], [36, 955], [37, 970], [38, 982], [39, 991], [40, 998], [41, 1008], [42, 1018], [43, 1024], [44, 1027], [45, 1036]],
+    "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581], [15, 605], [16, 623], [17, 646], [18, 665], [19, 684], [20, 699], [21, 722], [22, 731], [23, 750], [24, 767], [25, 783], [26, 794], [27, 814], [28, 830], [29, 839], [30, 855], [31, 868], [32, 885], [33, 903], [34, 923], [35, 942], [36, 955], [37, 970], [38, 982], [39, 991], [40, 998], [41, 1008], [42, 1018], [43, 1024], [44, 1027], [45, 1036], [46, 1044], [47, 1056], [48, 1067], [49, 1077], [50, 1089]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
-    "gift_gold": 149,
+    "gift_gold": 227,
     "idn_gifters": {
       "d3d4ffe5-0548-41d8-a49e-bf71f5b9f2f9": {
         "name": "Aufa Suka Nayla. ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e271223a8cb5172104adfb07ffa8a91.webp?v=1784305157",
-        "points": 100
+        "points": 216
       },
       "6cf26294-c335-4400-8ced-b0d5e473b9e1": {
         "name": "Riyan Cinta Nayla",
@@ -67,7 +68,7 @@
       "eda73436-2213-42e4-aec2-b30f4b61fe00": {
         "name": "Viki (DWQ) ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cd13dcca23a94bb98be01be9bc6412a1.webp?v=1762444439",
-        "points": 200
+        "points": 396
       },
       "cc3a2366-0dc8-4023-b24f-cbc8d0cfd4c7": {
         "name": "Maxi AD Utomo",
@@ -90,7 +91,7 @@
         "points": 108
       }
     },
-    "estimated_gift_value_idr": 372500,
+    "estimated_gift_value_idr": 567500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
