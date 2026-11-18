@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261118134200",
     "image": "https://cdn.idn.app/livestream/51692299d8f90e4dc932bf79c540d9ba.webp",
     "started_at": "2026-11-18T06:42:07.000Z",
-    "viewers": 1759,
-    "last_seen_at": "2026-11-18T07:15:29.143Z",
-    "peak_viewers": 1759,
-    "gifts": 18,
-    "gift_points": 1056,
+    "viewers": 1885,
+    "last_seen_at": "2026-11-18T07:20:37.465Z",
+    "peak_viewers": 1885,
+    "gifts": 22,
+    "gift_points": 2524,
     "stars": 0,
-    "comments": 615,
+    "comments": 703,
     "gift_breakdown": {
       "Cold Water": 1,
       "TC-LIA": 1,
@@ -31,8 +31,11 @@
       "Matcha": 2,
       "Jakarta": 1,
       "Kompas": 2,
-      "Emas Batang": 2,
-      "Toa": 1
+      "Emas Batang": 3,
+      "Toa": 1,
+      "JKT48 Show": 1,
+      "Sky Dive": 1,
+      "Semarang": 1
     },
     "gifters": {
       "99016bc2-9c35-4a4d-a364-c82ae107fbba": "Addthoriq",
@@ -43,12 +46,14 @@
       "c4cce2e7-c425-4b99-97f4-54d8d677cb4d": "Tegar Fityanto",
       "61bbef87-0fc6-4ae5-899f-9b200320cbeb": "git. 💎",
       "de36842a-a22d-4613-b8d9-5f5d6250a992": "Kreestee 👍",
-      "024ce140-30f0-4c44-82bd-775ef526fa93": "Abisha Hardiaswara"
+      "024ce140-30f0-4c44-82bd-775ef526fa93": "Abisha Hardiaswara",
+      "40ac1a94-4526-4a66-8261-39c508015101": "Sashihara 莉乃",
+      "32350e40-fff6-47bd-802d-1d39c42569f6": "Syahiran ."
     },
     "top_gifters": [],
-    "viewer_series": [[0, 17], [1, 69], [2, 109], [3, 175], [4, 229], [5, 272], [6, 318], [7, 381], [8, 456], [9, 531], [10, 580], [11, 616], [12, 785], [13, 862], [14, 930], [15, 991], [16, 1044], [17, 1087], [18, 1129], [19, 1171], [20, 1193], [21, 1240], [22, 1290], [23, 1335], [24, 1384], [25, 1430], [26, 1472], [27, 1518], [28, 1555], [29, 1590], [30, 1624], [31, 1661], [32, 1690], [33, 1736]],
+    "viewer_series": [[0, 17], [1, 69], [2, 109], [3, 175], [4, 229], [5, 272], [6, 318], [7, 381], [8, 456], [9, 531], [10, 580], [11, 616], [12, 785], [13, 862], [14, 930], [15, 991], [16, 1044], [17, 1087], [18, 1129], [19, 1171], [20, 1193], [21, 1240], [22, 1290], [23, 1335], [24, 1384], [25, 1430], [26, 1472], [27, 1518], [28, 1555], [29, 1590], [30, 1624], [31, 1661], [32, 1690], [33, 1736], [34, 1778], [35, 1808], [36, 1831], [37, 1854], [38, 1877], [39, 1885]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
-    "gift_gold": 264,
+    "gift_gold": 631,
     "idn_gifters": {
       "99016bc2-9c35-4a4d-a364-c82ae107fbba": {
         "name": "Addthoriq",
@@ -78,7 +83,7 @@
       "c4cce2e7-c425-4b99-97f4-54d8d677cb4d": {
         "name": "Tegar Fityanto",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
-        "points": 168
+        "points": 480
       },
       "61bbef87-0fc6-4ae5-899f-9b200320cbeb": {
         "name": "git. 💎",
@@ -94,9 +99,19 @@
         "name": "Abisha Hardiaswara",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 40
+      },
+      "40ac1a94-4526-4a66-8261-39c508015101": {
+        "name": "Sashihara 莉乃",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6420f95627a5734e4810b8471f100622.webp?v=1785052730",
+        "points": 400
+      },
+      "32350e40-fff6-47bd-802d-1d39c42569f6": {
+        "name": "Syahiran .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc9f6896a9cb840d737c48e58de00ef7.webp?v=1748157669",
+        "points": 756
       }
     },
-    "estimated_gift_value_idr": 660000,
+    "estimated_gift_value_idr": 1577500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
