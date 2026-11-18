@@ -11,31 +11,46 @@
     "url": "https://www.idn.app/jkt48_nayla/live/n-261119002223",
     "image": "https://cdn.idn.app/livestream/8e14f20ec60a69e0f1ecdb55bbfbb634.webp",
     "started_at": "2026-11-18T17:22:29.000Z",
-    "viewers": 153,
-    "last_seen_at": "2026-11-18T17:26:04.709Z",
-    "peak_viewers": 153,
-    "gifts": 1,
-    "gift_points": 20,
+    "viewers": 431,
+    "last_seen_at": "2026-11-18T17:31:09.865Z",
+    "peak_viewers": 431,
+    "gifts": 4,
+    "gift_points": 128,
     "stars": 0,
-    "comments": 58,
+    "comments": 185,
     "gift_breakdown": {
-      "Toa": 1
+      "Toa": 1,
+      "Cold Water": 1,
+      "SSETAAAN": 1,
+      "NAYLA": 1
     },
     "gifters": {
-      "d3d4ffe5-0548-41d8-a49e-bf71f5b9f2f9": "Aufa Suka Nayla. "
+      "d3d4ffe5-0548-41d8-a49e-bf71f5b9f2f9": "Aufa Suka Nayla. ",
+      "6cf26294-c335-4400-8ced-b0d5e473b9e1": "Riyan Cinta Nayla",
+      "140b7809-5653-4598-aa35-676f469492ef": "Kumamon-kun 🐻 ◌⑅⃝●♡⋆♡LOVE♡⋆♡●⑅⃝◌"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153]],
+    "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
-    "gift_gold": 5,
+    "gift_gold": 32,
     "idn_gifters": {
       "d3d4ffe5-0548-41d8-a49e-bf71f5b9f2f9": {
         "name": "Aufa Suka Nayla. ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e271223a8cb5172104adfb07ffa8a91.webp?v=1784305157",
-        "points": 20
+        "points": 100
+      },
+      "6cf26294-c335-4400-8ced-b0d5e473b9e1": {
+        "name": "Riyan Cinta Nayla",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3026207813055a612093f844ea0e03a4.webp?v=1785933994",
+        "points": 4
+      },
+      "140b7809-5653-4598-aa35-676f469492ef": {
+        "name": "Kumamon-kun 🐻 ◌⑅⃝●♡⋆♡LOVE♡⋆♡●⑅⃝◌",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0baca787a00da4cf7eebeb220ba0cd25.webp?v=1784564531",
+        "points": 24
       }
     },
-    "estimated_gift_value_idr": 12500,
+    "estimated_gift_value_idr": 80000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
