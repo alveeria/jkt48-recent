@@ -1,5 +1,120 @@
 [
   {
+    "id": "idn:alveeria-3004",
+    "platform": "idn",
+    "member": {
+      "name": "Oniel",
+      "username": "jkt48_oniel",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b00afb482407c122800161b0bab0d04b.webp?v=1778755673"
+    },
+    "title": "saya kembali",
+    "url": "https://www.idn.app/jkt48_oniel/live/saya-kembali-261118153625",
+    "image": "https://cdn.idn.app/livestream/e8b6fc95c4a55eb755e8a536705ee6a4.webp",
+    "started_at": "2026-11-18T08:36:32.000Z",
+    "last_seen_at": "2026-11-18T09:40:31.419Z",
+    "peak_viewers": 4787,
+    "gifts": 59,
+    "gift_points": 7796,
+    "stars": 0,
+    "comments": 2299,
+    "gift_breakdown": {
+      "JKT48 Show": 2,
+      "Kompas": 4,
+      "ONIEL": 8,
+      "Mawar": 2,
+      "HAHAHA": 1,
+      "Matcha": 8,
+      "Toa": 11,
+      "Cendrawasih": 4,
+      "Lato-Lato": 1,
+      "Pumpkin": 3,
+      "Bubble Gun": 2,
+      "Angklung": 3,
+      "Semangat kak": 1,
+      "Emas Batang": 2,
+      "Konfeti": 1,
+      "Tumpeng": 1,
+      "Cold Water": 1,
+      "Es Kelapa": 1,
+      "JKT48 Stage": 1,
+      "Nasi Goreng": 1,
+      "Lightstick": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "I P U N .",
+        "points": 2148,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53245f592c84bab98c9e779f98820451.webp?v=1786319945"
+      },
+      {
+        "rank": 2,
+        "name": "Laila Akrima -",
+        "points": 1872,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe7e70fb7573985d9341453ceb3363bb.webp?v=1782291575"
+      },
+      {
+        "rank": 3,
+        "name": "Wuhan .",
+        "points": 1596,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bfb1df8ffceddff29b32c6963e48e0e2.webp?v=1793719284"
+      },
+      {
+        "rank": 4,
+        "name": "Satrya DS",
+        "points": 1132,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4ef54d929c60a4acc62b269fa8b0fc65.webp?v=1734803130"
+      },
+      {
+        "rank": 5,
+        "name": "geminii Citra",
+        "points": 140,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b21f71fa50d54bc4083075dc39f8661c.webp?v=1794471146"
+      },
+      {
+        "rank": 6,
+        "name": "Riaaa. dhlln",
+        "points": 104,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cd6a44f2f92728818b36f1dc6792a3ae.webp?v=1794140513"
+      },
+      {
+        "rank": 7,
+        "name": "Indri. In77",
+        "points": 100,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/633fe1f7a3ccd97ceae2b1143af1b7c5.webp?v=1794740524"
+      },
+      {
+        "rank": 8,
+        "name": "Lhm Kbr",
+        "points": 92,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cdc074ae9a09e36d89e089af32a0165c.webp?v=1789571615"
+      },
+      {
+        "rank": 9,
+        "name": "MJ PassiONiel",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b61f55b8ed919890bd59a4ccedcf31e.webp?v=1794377496"
+      },
+      {
+        "rank": 10,
+        "name": "Mux nihon",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f0375ed5e8483a2066491aecd10a2fc4.webp?v=1794731663"
+      }
+    ],
+    "viewer_series": [[0, 1], [1, 21], [2, 158], [3, 240], [4, 316], [5, 405], [6, 494], [7, 588], [8, 684], [9, 849], [10, 1051], [11, 1168], [12, 1295], [13, 1349], [14, 1428], [15, 1518], [16, 1603], [17, 1729], [18, 1825], [19, 1903], [20, 1991], [21, 2060], [22, 2134], [23, 2220], [24, 2295], [25, 2374], [26, 2436], [27, 2497], [28, 2575], [29, 2650], [30, 2691], [31, 2762], [32, 2826], [33, 2882], [34, 2925], [35, 2982], [36, 3040], [37, 3091], [38, 3148], [39, 3208], [40, 3249], [41, 3303], [42, 3358], [43, 3408], [44, 3462], [45, 3523], [46, 3600], [47, 3657], [48, 3685], [49, 3746], [50, 3802], [51, 3837], [52, 3895], [53, 3962], [54, 4008], [55, 4157], [56, 4232], [57, 4315], [58, 4381], [59, 4469], [60, 4537], [61, 4609], [62, 4675], [63, 4730], [64, 4787]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBL7dppkk6VQ",
+    "gift_gold": 1949,
+    "estimated_gift_value_idr": 4872500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-18T09:40:31.419Z",
+    "duration_minutes": 64,
+    "last_viewers": 4787,
+    "unique_gifters": 21,
+    "source_id": "idn:saya-kembali-261118153625"
+  },
+  {
     "id": "idn:alveeria-3003",
     "platform": "idn",
     "member": {
@@ -20672,113 +20787,6 @@
     "unique_gifters": 13,
     "source_id": "idn:malms-bosku-261112220417",
     "estimated_gift_value_idr": 3495000,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold"
-  },
-  {
-    "id": "idn:alveeria-2804",
-    "platform": "idn",
-    "member": {
-      "name": "Nala",
-      "username": "jkt48_nala",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/23ec81c50947a98e513e2371ccd140e5.webp?v=1778756416"
-    },
-    "title": "hai ehek",
-    "url": "https://www.idn.app/jkt48_nala/live/hai-ehek-261112220255",
-    "image": "https://cdn.idn.app/livestream/ba689b5cd1aec73e5499ea822204b2b5.webp",
-    "started_at": "2026-11-12T15:03:01.000Z",
-    "last_seen_at": "2026-11-12T16:06:18.735Z",
-    "peak_viewers": 11398,
-    "gifts": 36,
-    "gift_points": 3372,
-    "stars": 0,
-    "comments": 1189,
-    "gift_breakdown": {
-      "Emas Batang": 7,
-      "NALA": 2,
-      "Angklung": 3,
-      "Mawar": 5,
-      "Kompas": 5,
-      "Water": 4,
-      "Padang": 1,
-      "Cold Water": 3,
-      "Toa": 1,
-      "Bubble Gun": 1,
-      "Pumpkin": 1,
-      "Orange Syrup": 1,
-      "Siomay": 1,
-      "JKT48 Show": 1
-    },
-    "top_gifters": [
-      {
-        "rank": 1,
-        "name": "FS .",
-        "points": 700,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b2c53240e8f19001f22769fa770486d2.webp?v=1787846642"
-      },
-      {
-        "rank": 2,
-        "name": ". ite",
-        "points": 432,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d43c194e3bb62d3c9cdf14e6537d1203.webp?v=1793624980"
-      },
-      {
-        "rank": 3,
-        "name": "Bang Alex Yo!",
-        "points": 420,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a7da3ec351ab69c1cea93eccf2307d59.webp?v=1779715042"
-      },
-      {
-        "rank": 4,
-        "name": "Abbasseu 🔵⚫",
-        "points": 400,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/aa2ce7e62e2a6d3fa7af75b3179a9b92.webp?v=1794411116"
-      },
-      {
-        "rank": 5,
-        "name": "Martha _",
-        "points": 400,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/76d08d4195369dbb41102433d1b2bf54.webp?v=1791296343"
-      },
-      {
-        "rank": 6,
-        "name": "Ihsan .",
-        "points": 312,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5918e7b95aca43a1cb4eb2efd22dcaea.webp?v=1791808791"
-      },
-      {
-        "rank": 7,
-        "name": "Robin. ",
-        "points": 216,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1c87616bcd11fd7339014e752cad1666.webp?v=1779267244"
-      },
-      {
-        "rank": 8,
-        "name": "_Dillaaa🦁",
-        "points": 120,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/76ddd5324142cd67e7f4298378d91333.webp?v=1790505521"
-      },
-      {
-        "rank": 9,
-        "name": "Im",
-        "points": 116,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/52724c9689b59c0d9342094ce379b0c2.webp?v=1791358862"
-      },
-      {
-        "rank": 10,
-        "name": "ara panegar",
-        "points": 80,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/67f988a5223f6487ba39547660aa0339.webp?v=1788688635"
-      }
-    ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/Pqb57KR18YXr",
-    "gift_gold": 843,
-    "ended_at": "2026-11-12T16:06:18.735Z",
-    "duration_minutes": 63,
-    "last_viewers": 11398,
-    "unique_gifters": 19,
-    "source_id": "idn:hai-ehek-261112220255",
-    "estimated_gift_value_idr": 2107500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }

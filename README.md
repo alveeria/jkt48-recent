@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 16.39 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 16.44 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fera | IDN Live | Ayo masuk | 18 Nov 2026, 15.32 | 2.783 |
-| Oniel | IDN Live | saya kembali | 18 Nov 2026, 15.36 | 4.730 |
-| Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 1.877 |
-| Fahira | IDN Live | ada apa??? | 18 Nov 2026, 16.20 | 1.027 |
-| Sona | IDN Live | haihaiahi | 18 Nov 2026, 16.31 | 547 |
+| Fera | IDN Live | Ayo masuk | 18 Nov 2026, 15.32 | 3.027 |
+| Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 2.124 |
+| Fahira | IDN Live | ada apa??? | 18 Nov 2026, 16.20 | 1.302 |
+| Sona | IDN Live | haihaiahi | 18 Nov 2026, 16.31 | 829 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Oniel | IDN Live | saya kembali | 18 Nov 2026, 15.36 | 64m | 4.787 | 59 | 1.949 | — | 2.299 |
 | Jazzy | IDN Live | bogor hujang | 18 Nov 2026, 15.30 | 63m | 3.275 | 56 | 911 | — | 4.398 |
 | Ralyne | IDN Live | HAIII | 18 Nov 2026, 14.56 | 69m | 2.712 | 37 | 606 | — | 1.338 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 13.42 | 60m | 2.384 | 42 | 1.554 | — | 1.003 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Carissa | IDN Live | Ready ready sama aku siniii 😽 | 17 Nov 2026, 14.03 | 71m | 3.653 | 30 | 672 | — | 1.453 |
 | Fera | IDN Live | Ayo masuk | 17 Nov 2026, 13.57 | 77m | 3.924 | 31 | 523 | — | 641 |
 | Jazzy | IDN Live | jejita | 17 Nov 2026, 13.56 | 81m | 5.225 | 67 | 1.222 | — | 2.670 |
-| Maxine | IDN Live | hi | 17 Nov 2026, 13.46 | 43m | 2.207 | 36 | 517 | — | 1.686 |
 
 ## Lisensi
 
