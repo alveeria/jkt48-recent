@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T04:36:13.910Z",
+  "updated_at": "2026-11-18T04:41:21.944Z",
   "lives": [
     {
       "id": "idn:grwm-261118112448",
@@ -13,18 +13,18 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/grwm-261118112448",
       "image": "https://cdn.idn.app/livestream/ae41049aeea767ba056ca188320f0b47.webp",
       "started_at": "2026-11-18T04:24:56.000Z",
-      "viewers": 1270,
-      "last_seen_at": "2026-11-18T04:36:13.002Z",
-      "peak_viewers": 1270,
-      "gifts": 7,
-      "gift_points": 2828,
+      "viewers": 1686,
+      "last_seen_at": "2026-11-18T04:41:20.921Z",
+      "peak_viewers": 1686,
+      "gifts": 9,
+      "gift_points": 2836,
       "stars": 0,
-      "comments": 640,
+      "comments": 881,
       "gift_breakdown": {
         "Konfeti": 1,
         "JKT48 Show": 1,
-        "Water": 1,
-        "Cold Water": 2,
+        "Water": 2,
+        "Cold Water": 3,
         "Heart": 1,
         "Ikan Bakar": 1
       },
@@ -52,12 +52,24 @@
           "name": "Olivia ​Dark",
           "points": 8,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81698c88f3acf76a9845e0f4238809af.webp?v=1772444473"
+        },
+        {
+          "rank": 5,
+          "name": "Indra 🐹",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3942f947389bd7cad5e0847e40270b99.webp?v=1782055036"
+        },
+        {
+          "rank": 6,
+          "name": "Zain Nur Ramadhian",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fdb717bd5eb546bf0a642a990bc92d9a.webp?v=1731319645"
         }
       ],
-      "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214]],
+      "viewer_series": [[0, 23], [1, 117], [2, 187], [3, 268], [4, 354], [5, 422], [6, 474], [7, 531], [8, 588], [9, 922], [10, 1091], [11, 1214], [12, 1324], [13, 1408], [14, 1487], [15, 1566], [16, 1638]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-      "gift_gold": 707,
-      "estimated_gift_value_idr": 1767500,
+      "gift_gold": 709,
+      "estimated_gift_value_idr": 1772500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
