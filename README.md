@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 16.34 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 18 Nov 2026, 16.39 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jazzy | IDN Live | bogor hujang | 18 Nov 2026, 15.30 | 3.275 |
-| Fera | IDN Live | Ayo masuk | 18 Nov 2026, 15.32 | 2.525 |
-| Oniel | IDN Live | saya kembali | 18 Nov 2026, 15.36 | 4.381 |
-| Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 1.673 |
-| Fahira | IDN Live | ada apa??? | 18 Nov 2026, 16.20 | 760 |
-| Sona | IDN Live | haihaiahi | 18 Nov 2026, 16.31 | 287 |
+| Fera | IDN Live | Ayo masuk | 18 Nov 2026, 15.32 | 2.783 |
+| Oniel | IDN Live | saya kembali | 18 Nov 2026, 15.36 | 4.730 |
+| Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 1.877 |
+| Fahira | IDN Live | ada apa??? | 18 Nov 2026, 16.20 | 1.027 |
+| Sona | IDN Live | haihaiahi | 18 Nov 2026, 16.31 | 547 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Jazzy | IDN Live | bogor hujang | 18 Nov 2026, 15.30 | 63m | 3.275 | 56 | 911 | — | 4.398 |
 | Ralyne | IDN Live | HAIII | 18 Nov 2026, 14.56 | 69m | 2.712 | 37 | 606 | — | 1.338 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 13.42 | 60m | 2.384 | 42 | 1.554 | — | 1.003 |
 | Daisy | IDN Live | Hi | 18 Nov 2026, 13.03 | 62m | 2.248 | 9 | 393 | — | 555 |
@@ -96,7 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Fera | IDN Live | Ayo masuk | 17 Nov 2026, 13.57 | 77m | 3.924 | 31 | 523 | — | 641 |
 | Jazzy | IDN Live | jejita | 17 Nov 2026, 13.56 | 81m | 5.225 | 67 | 1.222 | — | 2.670 |
 | Maxine | IDN Live | hi | 17 Nov 2026, 13.46 | 43m | 2.207 | 36 | 517 | — | 1.686 |
-| Daisy | IDN Live | haii | 17 Nov 2026, 13.20 | 61m | 2.140 | 13 | 268 | — | 360 |
 
 ## Lisensi
 
