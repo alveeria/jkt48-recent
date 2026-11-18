@@ -1,5 +1,68 @@
 [
   {
+    "id": "idn:alveeria-3010",
+    "platform": "idn",
+    "member": {
+      "name": "Danella",
+      "username": "jkt48_danella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/be61050d0a932e43131b95020de99eb5.webp?v=1778755347"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_danella/live/ayo-ngobrol-bareng-261118195516",
+    "image": "https://cdn.idn.app/livestream/7e1a3c3c95ab25ac49ccb0045268e68c.webp",
+    "started_at": "2026-11-18T12:55:21.000Z",
+    "last_seen_at": "2026-11-18T14:02:04.083Z",
+    "peak_viewers": 3441,
+    "gifts": 6,
+    "gift_points": 844,
+    "stars": 0,
+    "comments": 188,
+    "gift_breakdown": {
+      "Motor Sport": 1,
+      "Sop Buntut": 1,
+      "Martabak": 1,
+      "Matcha": 1,
+      "Emas Batang": 2
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Irfan",
+        "points": 576,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ced80dbfcbc57223884359c2e0958441.webp?v=1784823086"
+      },
+      {
+        "rank": 2,
+        "name": "kirana a",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6c2c9e96f2789de9aa2551b175b99ac8.webp?v=1784558638"
+      },
+      {
+        "rank": 3,
+        "name": "Kevin Duka",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/74ee7ca4224a990b460a0948567918ff.webp?v=1793884336"
+      },
+      {
+        "rank": 4,
+        "name": "nasip .",
+        "points": 32,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/91dd07ad26442e0055a1718166a3c6bb.webp?v=1794743871"
+      }
+    ],
+    "viewer_series": [[55, 2549], [56, 2586], [57, 2661], [58, 2729], [59, 2795], [60, 2859], [61, 2900], [62, 2950], [63, 3023], [64, 3131], [65, 3237], [66, 3345], [67, 3441]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/oVyfRQMZJsNA",
+    "gift_gold": 211,
+    "estimated_gift_value_idr": 527500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-18T14:02:04.083Z",
+    "duration_minutes": 67,
+    "last_viewers": 3441,
+    "unique_gifters": 4,
+    "source_id": "idn:ayo-ngobrol-bareng-261118195516"
+  },
+  {
     "id": "idn:alveeria-3009",
     "platform": "idn",
     "member": {
