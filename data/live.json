@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:09:13.318Z",
+  "updated_at": "2026-11-18T02:14:20.953Z",
   "lives": [
     {
       "id": "idn:erin-boss-261118085802",
@@ -13,20 +13,22 @@
       "url": "https://www.idn.app/jkt48_erine/live/erin-boss-261118085802",
       "image": "https://cdn.idn.app/livestream/e7822a505dc40599db820a808e0f36de.webp",
       "started_at": "2026-11-18T01:58:08.000Z",
-      "viewers": 3431,
-      "last_seen_at": "2026-11-18T02:09:12.396Z",
-      "peak_viewers": 3431,
-      "gifts": 6,
-      "gift_points": 404,
+      "viewers": 4427,
+      "last_seen_at": "2026-11-18T02:14:20.011Z",
+      "peak_viewers": 4427,
+      "gifts": 11,
+      "gift_points": 476,
       "stars": 0,
-      "comments": 836,
+      "comments": 1211,
       "gift_breakdown": {
         "Happy B-Day!": 1,
-        "Kompas": 1,
+        "Kompas": 2,
         "Emas Batang": 1,
         "Toa": 1,
         "Pumpkin": 1,
-        "Lemon Tea": 1
+        "Lemon Tea": 1,
+        "Cold Water": 3,
+        "Matcha": 1
       },
       "top_gifters": [
         {
@@ -43,15 +45,15 @@
         },
         {
           "rank": 3,
-          "name": "RCakra",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2cd003705e6edea1717aa126a02347e4.webp?v=1734753100"
+          "name": "cpy .",
+          "points": 60,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cca476b7b1190b898a917c1bd3dba8fc.webp?v=1794410867"
         },
         {
           "rank": 4,
-          "name": "cpy .",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cca476b7b1190b898a917c1bd3dba8fc.webp?v=1794410867"
+          "name": "RCakra",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2cd003705e6edea1717aa126a02347e4.webp?v=1734753100"
         },
         {
           "rank": 5,
@@ -61,15 +63,39 @@
         },
         {
           "rank": 6,
+          "name": "R F Dorable .",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/edfa5e3a75922aa3f7f03f532d1ff4ee.webp?v=1790144974"
+        },
+        {
+          "rank": 7,
           "name": "jeefa .",
           "points": 8,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c5c46ce48b5170cfd4133dee4e8cb42e.webp?v=1794644199"
+        },
+        {
+          "rank": 8,
+          "name": "putrii ch2 only",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/02de62896420fb6572d6439339748f34.webp?v=1794923532"
+        },
+        {
+          "rank": 9,
+          "name": "Albert Camus",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5ad5b59969fbd3922e68c511477190bd.webp?v=1794317449"
+        },
+        {
+          "rank": 10,
+          "name": "Rahma 🦭",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d55506ddbe5f80fc991491a1f3cebea5.webp?v=1789806141"
         }
       ],
-      "viewer_series": [[0, 3], [1, 67], [2, 326], [3, 538], [4, 792], [5, 1042], [6, 1442], [7, 1946], [8, 2318], [9, 2764], [10, 3062], [11, 3332]],
+      "viewer_series": [[0, 3], [1, 67], [2, 326], [3, 538], [4, 792], [5, 1042], [6, 1442], [7, 1946], [8, 2318], [9, 2764], [10, 3062], [11, 3332], [12, 3540], [13, 3771], [14, 3952], [15, 4141], [16, 4344]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/6hjihgZ20wwR",
-      "gift_gold": 101,
-      "estimated_gift_value_idr": 252500,
+      "gift_gold": 119,
+      "estimated_gift_value_idr": 297500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -85,17 +111,19 @@
       "url": "https://www.idn.app/jkt48_aralie/live/hi-261118085806",
       "image": "https://cdn.idn.app/livestream/29396ee6b3a5457ea8e0417d08a94fe7.webp",
       "started_at": "2026-11-18T01:58:11.000Z",
-      "viewers": 2104,
-      "last_seen_at": "2026-11-18T02:09:12.396Z",
-      "peak_viewers": 2104,
-      "gifts": 4,
-      "gift_points": 436,
+      "viewers": 2832,
+      "last_seen_at": "2026-11-18T02:14:20.011Z",
+      "peak_viewers": 2832,
+      "gifts": 7,
+      "gift_points": 676,
       "stars": 0,
-      "comments": 344,
+      "comments": 509,
       "gift_breakdown": {
-        "Emas Batang": 2,
+        "Emas Batang": 3,
         "Cold Water": 1,
-        "Pumpkin": 1
+        "Pumpkin": 1,
+        "HAHAHA": 1,
+        "Kompas": 1
       },
       "top_gifters": [
         {
@@ -112,15 +140,33 @@
         },
         {
           "rank": 3,
+          "name": "intan 🦭",
+          "points": 196,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6e67c89f5a773188e062b8513b5fdbaf.webp?v=1793714536"
+        },
+        {
+          "rank": 4,
           "name": "Nauu. ",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7b4f8a64d969d1edf762796d82226ed1.webp?v=1771257012"
+        },
+        {
+          "rank": 5,
+          "name": "Nela udah agit ;)",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/37f622f24869d330dcd2a74a4fa3261c.webp?v=1794840153"
+        },
+        {
+          "rank": 6,
+          "name": "R F Dorable .",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/edfa5e3a75922aa3f7f03f532d1ff4ee.webp?v=1790144974"
         }
       ],
-      "viewer_series": [[0, 5], [1, 32], [2, 174], [3, 303], [4, 437], [5, 577], [6, 755], [7, 1029], [8, 1442], [9, 1724], [10, 1936], [11, 2028]],
+      "viewer_series": [[0, 5], [1, 32], [2, 174], [3, 303], [4, 437], [5, 577], [6, 755], [7, 1029], [8, 1442], [9, 1724], [10, 1936], [11, 2028], [12, 2185], [13, 2350], [14, 2495], [15, 2643], [16, 2774]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E0I7e29Eqkw6",
-      "gift_gold": 109,
-      "estimated_gift_value_idr": 272500,
+      "gift_gold": 169,
+      "estimated_gift_value_idr": 422500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
