@@ -11,16 +11,16 @@
     "url": "https://www.idn.app/jkt48_nayla/live/n-261119002223",
     "image": "https://cdn.idn.app/livestream/8e14f20ec60a69e0f1ecdb55bbfbb634.webp",
     "started_at": "2026-11-18T17:22:29.000Z",
-    "viewers": 775,
-    "last_seen_at": "2026-11-18T17:46:32.888Z",
-    "peak_viewers": 775,
-    "gifts": 7,
-    "gift_points": 356,
+    "viewers": 846,
+    "last_seen_at": "2026-11-18T17:51:38.635Z",
+    "peak_viewers": 846,
+    "gifts": 8,
+    "gift_points": 360,
     "stars": 0,
-    "comments": 463,
+    "comments": 514,
     "gift_breakdown": {
       "Toa": 2,
-      "Cold Water": 1,
+      "Cold Water": 2,
       "SSETAAAN": 1,
       "NAYLA": 1,
       "Mawar": 1,
@@ -31,12 +31,13 @@
       "6cf26294-c335-4400-8ced-b0d5e473b9e1": "Riyan Cinta Nayla",
       "140b7809-5653-4598-aa35-676f469492ef": "Kumamon-kun 🐻 ◌⑅⃝●♡⋆♡LOVE♡⋆♡●⑅⃝◌",
       "34f3e1cf-7d26-485c-b796-0e17dd1a447b": "eM .",
-      "eda73436-2213-42e4-aec2-b30f4b61fe00": "Viki (DWQ) "
+      "eda73436-2213-42e4-aec2-b30f4b61fe00": "Viki (DWQ) ",
+      "cc3a2366-0dc8-4023-b24f-cbc8d0cfd4c7": "Maxi AD Utomo"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581], [15, 605], [16, 623], [17, 646], [18, 665], [19, 684], [20, 699], [21, 722], [22, 731], [23, 750], [24, 767]],
+    "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581], [15, 605], [16, 623], [17, 646], [18, 665], [19, 684], [20, 699], [21, 722], [22, 731], [23, 750], [24, 767], [25, 783], [26, 794], [27, 814], [28, 830], [29, 839]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
-    "gift_gold": 89,
+    "gift_gold": 90,
     "idn_gifters": {
       "d3d4ffe5-0548-41d8-a49e-bf71f5b9f2f9": {
         "name": "Aufa Suka Nayla. ",
@@ -62,9 +63,14 @@
         "name": "Viki (DWQ) ",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cd13dcca23a94bb98be01be9bc6412a1.webp?v=1762444439",
         "points": 196
+      },
+      "cc3a2366-0dc8-4023-b24f-cbc8d0cfd4c7": {
+        "name": "Maxi AD Utomo",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 4
       }
     },
-    "estimated_gift_value_idr": 222500,
+    "estimated_gift_value_idr": 225000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
