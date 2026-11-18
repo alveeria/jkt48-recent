@@ -1,5 +1,69 @@
 [
   {
+    "id": "idn:alveeria-3000",
+    "platform": "idn",
+    "member": {
+      "name": "Daisy",
+      "username": "jkt48_daisy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d067c899ba88ed2f4ca8f09d384501b.webp?v=1778755316"
+    },
+    "title": "Hi",
+    "url": "https://www.idn.app/jkt48_daisy/live/hi-261118130351",
+    "image": "https://cdn.idn.app/livestream/9c2c8c198b3962ff3a63ebed3035d4f7.webp",
+    "started_at": "2026-11-18T06:03:57.000Z",
+    "last_seen_at": "2026-11-18T07:05:44.908Z",
+    "peak_viewers": 2248,
+    "gifts": 9,
+    "gift_points": 1572,
+    "stars": 0,
+    "comments": 555,
+    "gift_breakdown": {
+      "Lightstick": 3,
+      "Angklung": 1,
+      "Cendrawasih": 1,
+      "JKT48 Show": 1,
+      "DAISY": 2,
+      "Happy B-Day!": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Hakimar .",
+        "points": 580,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/62d32f0d5c092c0ab699a9198ac0ddd1.webp?v=1790944207"
+      },
+      {
+        "rank": 2,
+        "name": "yusuf ucup marucup",
+        "points": 476,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4dad5f71fff7c9e4298291b0e81c73e.webp?v=1794737631"
+      },
+      {
+        "rank": 3,
+        "name": "Munier Jaid",
+        "points": 316,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/74a8dc7100862a33d2ff2b71f14d1849.webp?v=1788791939"
+      },
+      {
+        "rank": 4,
+        "name": "I P U N .",
+        "points": 200,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53245f592c84bab98c9e779f98820451.webp?v=1786319945"
+      }
+    ],
+    "viewer_series": [[0, 0], [1, 17], [2, 73], [3, 130], [4, 169], [5, 203], [6, 335], [7, 429], [8, 498], [9, 569], [10, 618], [11, 669], [12, 695], [13, 729], [14, 762], [15, 793], [16, 812], [17, 844], [18, 879], [19, 909], [20, 938], [21, 968], [22, 1003], [23, 1039], [24, 1077], [25, 1099], [26, 1129], [27, 1160], [28, 1195], [29, 1227], [30, 1250], [31, 1287], [32, 1319], [33, 1437], [34, 1458], [35, 1490], [36, 1507], [37, 1531], [38, 1563], [39, 1594], [40, 1624], [41, 1650], [42, 1679], [43, 1692], [44, 1718], [45, 1747], [46, 1770], [47, 1807], [48, 1835], [49, 1855], [50, 1920], [51, 1959], [52, 1980], [53, 2023], [54, 2055], [55, 2076], [56, 2093], [57, 2110], [58, 2137], [59, 2164], [60, 2196], [61, 2221], [62, 2248]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
+    "gift_gold": 393,
+    "estimated_gift_value_idr": 982500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-18T07:05:44.908Z",
+    "duration_minutes": 62,
+    "last_viewers": 2248,
+    "unique_gifters": 4,
+    "source_id": "idn:hi-261118130351"
+  },
+  {
     "id": "idn:alveeria-2999",
     "platform": "idn",
     "member": {
@@ -20693,96 +20757,6 @@
     "unique_gifters": 38,
     "source_id": "idn:ayo-ngobrol-bareng-261112220247",
     "estimated_gift_value_idr": 1437500,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold"
-  },
-  {
-    "id": "idn:alveeria-2803",
-    "platform": "idn",
-    "member": {
-      "name": "Daisy",
-      "username": "jkt48_daisy",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d067c899ba88ed2f4ca8f09d384501b.webp?v=1778755316"
-    },
-    "title": "Hi",
-    "url": "https://www.idn.app/jkt48_daisy/live/hi-261112204800",
-    "image": "https://cdn.idn.app/livestream/253f0fa5f906ca2a6cea12d2a8d858a5.webp",
-    "started_at": "2026-11-12T13:48:06.000Z",
-    "last_seen_at": "2026-11-12T14:50:50.677Z",
-    "peak_viewers": 1839,
-    "gifts": 13,
-    "gift_points": 380,
-    "stars": 0,
-    "comments": 242,
-    "gift_breakdown": {
-      "DAISY": 2,
-      "Cold Water": 1,
-      "Semangat kak": 1,
-      "Kompas": 2,
-      "Toa": 3,
-      "Pumpkin": 1,
-      "Water": 1,
-      "GGWP!": 1,
-      "Lemonade": 1
-    },
-    "top_gifters": [
-      {
-        "rank": 1,
-        "name": "Munier Jaid",
-        "points": 200,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/74a8dc7100862a33d2ff2b71f14d1849.webp?v=1788791939"
-      },
-      {
-        "rank": 2,
-        "name": "Salma Maharani",
-        "points": 44,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cce6beb85a6dfce666fea569c476040c.webp?v=1731934192"
-      },
-      {
-        "rank": 3,
-        "name": "David Jonathan Hariyanto",
-        "points": 40,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-      },
-      {
-        "rank": 4,
-        "name": "RoyZy 🤙💜",
-        "points": 40,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfb91ac8c224a8984d706474dd961eb3.webp?v=1794420038"
-      },
-      {
-        "rank": 5,
-        "name": "FiiiF .",
-        "points": 28,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e6166cd21d2bcf79297718fea1bbae6f.webp?v=1791851969"
-      },
-      {
-        "rank": 6,
-        "name": "Alfian 98",
-        "points": 20,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/524e6a4c5c163b3dca3bf1128f7f4daa.webp?v=1791723862"
-      },
-      {
-        "rank": 7,
-        "name": "Mirukuuuuuu ?",
-        "points": 4,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/98ee79ca049ba4c1109622328f47e91e.webp?v=1751209598"
-      },
-      {
-        "rank": 8,
-        "name": "Reinhard Hamonangan",
-        "points": 4,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/187401236c8b4e91e992847078e6d16c.webp?v=1793628746"
-      }
-    ],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
-    "gift_gold": 95,
-    "ended_at": "2026-11-12T14:50:50.677Z",
-    "duration_minutes": 63,
-    "last_viewers": 1839,
-    "unique_gifters": 8,
-    "source_id": "idn:hi-261112204800",
-    "estimated_gift_value_idr": 237500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }

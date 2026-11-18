@@ -1,67 +1,4 @@
 {
-  "idn:hi-261118130351": {
-    "id": "idn:hi-261118130351",
-    "platform": "idn",
-    "member": {
-      "name": "Daisy",
-      "username": "jkt48_daisy",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d067c899ba88ed2f4ca8f09d384501b.webp?v=1778755316"
-    },
-    "title": "Hi",
-    "url": "https://www.idn.app/jkt48_daisy/live/hi-261118130351",
-    "image": "https://cdn.idn.app/livestream/9c2c8c198b3962ff3a63ebed3035d4f7.webp",
-    "started_at": "2026-11-18T06:03:57.000Z",
-    "viewers": 2232,
-    "last_seen_at": "2026-11-18T07:05:12.680Z",
-    "peak_viewers": 2232,
-    "gifts": 9,
-    "gift_points": 1572,
-    "stars": 0,
-    "comments": 544,
-    "gift_breakdown": {
-      "Lightstick": 3,
-      "Angklung": 1,
-      "Cendrawasih": 1,
-      "JKT48 Show": 1,
-      "DAISY": 2,
-      "Happy B-Day!": 1
-    },
-    "gifters": {
-      "6196732f-fb3e-4281-a31f-ded65fe5ed8b": "I P U N .",
-      "b2835d8f-413d-4808-94de-78bfd2ae0f66": "Munier Jaid",
-      "cc3e6ff4-94ec-4d81-95d4-17961a154ca4": "yusuf ucup marucup",
-      "77e75cb8-ad25-44b3-bc6e-e93c82f9f475": "Hakimar ."
-    },
-    "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 17], [2, 73], [3, 130], [4, 169], [5, 203], [6, 335], [7, 429], [8, 498], [9, 569], [10, 618], [11, 669], [12, 695], [13, 729], [14, 762], [15, 793], [16, 812], [17, 844], [18, 879], [19, 909], [20, 938], [21, 968], [22, 1003], [23, 1039], [24, 1077], [25, 1099], [26, 1129], [27, 1160], [28, 1195], [29, 1227], [30, 1250], [31, 1287], [32, 1319], [33, 1437], [34, 1458], [35, 1490], [36, 1507], [37, 1531], [38, 1563], [39, 1594], [40, 1624], [41, 1650], [42, 1679], [43, 1692], [44, 1718], [45, 1747], [46, 1770], [47, 1807], [48, 1835], [49, 1855], [50, 1920], [51, 1959], [52, 1980], [53, 2023], [54, 2055], [55, 2076], [56, 2093], [57, 2110], [58, 2137], [59, 2164], [60, 2196], [61, 2221]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
-    "gift_gold": 393,
-    "idn_gifters": {
-      "6196732f-fb3e-4281-a31f-ded65fe5ed8b": {
-        "name": "I P U N .",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53245f592c84bab98c9e779f98820451.webp?v=1786319945",
-        "points": 200
-      },
-      "b2835d8f-413d-4808-94de-78bfd2ae0f66": {
-        "name": "Munier Jaid",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/74a8dc7100862a33d2ff2b71f14d1849.webp?v=1788791939",
-        "points": 316
-      },
-      "cc3e6ff4-94ec-4d81-95d4-17961a154ca4": {
-        "name": "yusuf ucup marucup",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c4dad5f71fff7c9e4298291b0e81c73e.webp?v=1794737631",
-        "points": 476
-      },
-      "77e75cb8-ad25-44b3-bc6e-e93c82f9f475": {
-        "name": "Hakimar .",
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/62d32f0d5c092c0ab699a9198ac0ddd1.webp?v=1790944207",
-        "points": 580
-      }
-    },
-    "estimated_gift_value_idr": 982500,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold"
-  },
   "idn:ayo-ngobrol-bareng-261118134200": {
     "id": "idn:ayo-ngobrol-bareng-261118134200",
     "platform": "idn",
@@ -74,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261118134200",
     "image": "https://cdn.idn.app/livestream/51692299d8f90e4dc932bf79c540d9ba.webp",
     "started_at": "2026-11-18T06:42:07.000Z",
-    "viewers": 1363,
-    "last_seen_at": "2026-11-18T07:05:12.680Z",
-    "peak_viewers": 1363,
-    "gifts": 12,
-    "gift_points": 564,
+    "viewers": 1570,
+    "last_seen_at": "2026-11-18T07:10:20.774Z",
+    "peak_viewers": 1570,
+    "gifts": 15,
+    "gift_points": 800,
     "stars": 0,
-    "comments": 488,
+    "comments": 557,
     "gift_breakdown": {
       "Cold Water": 1,
       "TC-LIA": 1,
@@ -92,7 +29,10 @@
       "Lemonade": 1,
       "Mawar": 1,
       "Matcha": 1,
-      "Jakarta": 1
+      "Jakarta": 1,
+      "Kompas": 1,
+      "Emas Batang": 1,
+      "Toa": 1
     },
     "gifters": {
       "99016bc2-9c35-4a4d-a364-c82ae107fbba": "Addthoriq",
@@ -100,12 +40,14 @@
       "dddd7e6b-c4b3-4d15-a6dd-f273f4f1b453": "Iyan",
       "8c3ff30d-13cb-4f66-a76d-38ecb21e21e5": "William Blackone",
       "29b5323e-c8b6-44bf-a329-e89279a28337": "SH1F4 🌛",
-      "c4cce2e7-c425-4b99-97f4-54d8d677cb4d": "Tegar Fityanto"
+      "c4cce2e7-c425-4b99-97f4-54d8d677cb4d": "Tegar Fityanto",
+      "61bbef87-0fc6-4ae5-899f-9b200320cbeb": "git. 💎",
+      "de36842a-a22d-4613-b8d9-5f5d6250a992": "Kreestee 👍"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 17], [1, 69], [2, 109], [3, 175], [4, 229], [5, 272], [6, 318], [7, 381], [8, 456], [9, 531], [10, 580], [11, 616], [12, 785], [13, 862], [14, 930], [15, 991], [16, 1044], [17, 1087], [18, 1129], [19, 1171], [20, 1193], [21, 1240], [22, 1290], [23, 1335]],
+    "viewer_series": [[0, 17], [1, 69], [2, 109], [3, 175], [4, 229], [5, 272], [6, 318], [7, 381], [8, 456], [9, 531], [10, 580], [11, 616], [12, 785], [13, 862], [14, 930], [15, 991], [16, 1044], [17, 1087], [18, 1129], [19, 1171], [20, 1193], [21, 1240], [22, 1290], [23, 1335], [24, 1384], [25, 1430], [26, 1472], [27, 1518], [28, 1555]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
-    "gift_gold": 141,
+    "gift_gold": 200,
     "idn_gifters": {
       "99016bc2-9c35-4a4d-a364-c82ae107fbba": {
         "name": "Addthoriq",
@@ -115,7 +57,7 @@
       "34f3e1cf-7d26-485c-b796-0e17dd1a447b": {
         "name": "eM .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893",
-        "points": 120
+        "points": 316
       },
       "dddd7e6b-c4b3-4d15-a6dd-f273f4f1b453": {
         "name": "Iyan",
@@ -136,9 +78,19 @@
         "name": "Tegar Fityanto",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
         "points": 168
+      },
+      "61bbef87-0fc6-4ae5-899f-9b200320cbeb": {
+        "name": "git. 💎",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b07b5ffd11d38aa26b41bd58a5bbd31d.webp?v=1791127432",
+        "points": 20
+      },
+      "de36842a-a22d-4613-b8d9-5f5d6250a992": {
+        "name": "Kreestee 👍",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f7f27ddbebffc519f7d05478fa1fcdd7.webp?v=1794903525",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 352500,
+    "estimated_gift_value_idr": 500000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
