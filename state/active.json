@@ -11,16 +11,16 @@
     "url": "https://www.idn.app/jkt48_ralyne/live/haiii-261118145603",
     "image": "https://cdn.idn.app/livestream/137a8bcd7ebec19fb0b50c1591d99bff.webp",
     "started_at": "2026-11-18T07:56:10.000Z",
-    "viewers": 1459,
-    "last_seen_at": "2026-11-18T08:27:24.743Z",
-    "peak_viewers": 1459,
-    "gifts": 13,
-    "gift_points": 668,
+    "viewers": 1633,
+    "last_seen_at": "2026-11-18T08:32:33.945Z",
+    "peak_viewers": 1633,
+    "gifts": 15,
+    "gift_points": 704,
     "stars": 0,
-    "comments": 787,
+    "comments": 911,
     "gift_breakdown": {
       "Toa": 2,
-      "Kompas": 3,
+      "Kompas": 4,
       "Water": 1,
       "Semangat kak": 1,
       "Paling Ramah": 1,
@@ -28,7 +28,8 @@
       "JKT48 Show": 1,
       "Mawar": 1,
       "Rempeyek": 1,
-      "HAHAHA": 1
+      "HAHAHA": 1,
+      "Masker": 1
     },
     "gifters": {
       "4974612f-5a3b-4f35-92a4-c4ebc50b9513": "Reza Gilang",
@@ -40,12 +41,13 @@
       "265c3c8f-c663-46ee-b38c-9e3136ebb216": "innocent ×⁷",
       "6a904f6b-9a01-4964-a3b3-dc0efdc814b9": "Farhat #wongkalahan",
       "9e7914d6-0d05-4335-8842-e60d1ab48911": "WQ .",
-      "589eb6ee-b6c4-46ea-bd16-12bb795691fd": "Riziq Shihab"
+      "589eb6ee-b6c4-46ea-bd16-12bb795691fd": "Riziq Shihab",
+      "c07f3da9-c26b-4997-882e-4ecaa945504f": "Baldwii ."
     },
     "top_gifters": [],
-    "viewer_series": [[0, 11], [1, 76], [2, 184], [3, 238], [4, 251], [5, 301], [6, 344], [7, 383], [8, 534], [9, 604], [10, 657], [11, 696], [12, 741], [13, 773], [14, 824], [15, 873], [16, 918], [17, 963], [18, 1000], [19, 1041], [20, 1076], [21, 1109], [22, 1126], [23, 1165], [24, 1200], [25, 1236], [26, 1266], [27, 1305], [28, 1334], [29, 1378], [30, 1414], [31, 1446]],
+    "viewer_series": [[0, 11], [1, 76], [2, 184], [3, 238], [4, 251], [5, 301], [6, 344], [7, 383], [8, 534], [9, 604], [10, 657], [11, 696], [12, 741], [13, 773], [14, 824], [15, 873], [16, 918], [17, 963], [18, 1000], [19, 1041], [20, 1076], [21, 1109], [22, 1126], [23, 1165], [24, 1200], [25, 1236], [26, 1266], [27, 1305], [28, 1334], [29, 1378], [30, 1414], [31, 1446], [32, 1486], [33, 1515], [34, 1544], [35, 1569], [36, 1617]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/IkkRMUVBqeCM",
-    "gift_gold": 167,
+    "gift_gold": 176,
     "idn_gifters": {
       "4974612f-5a3b-4f35-92a4-c4ebc50b9513": {
         "name": "Reza Gilang",
@@ -55,7 +57,7 @@
       "8dfc4d33-1144-4c86-a3e2-436bef17fae7": {
         "name": "Arrifai",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
-        "points": 20
+        "points": 36
       },
       "832a8374-fcb6-4b3a-bd24-d6b08d09e9d8": {
         "name": "naupal aulia",
@@ -96,10 +98,90 @@
         "name": "Riziq Shihab",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f91c5cc6b80394e1f6e91f7a9b6596a.webp?v=1794929870",
         "points": 20
+      },
+      "c07f3da9-c26b-4997-882e-4ecaa945504f": {
+        "name": "Baldwii .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5354fba549439276222252789014a5e4.webp?v=1794061373",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 417500,
+    "estimated_gift_value_idr": 440000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
+  },
+  "idn:bogor-hujang-261118153035": {
+    "id": "idn:bogor-hujang-261118153035",
+    "platform": "idn",
+    "member": {
+      "name": "Jazzy",
+      "username": "jkt48_jazzy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3295fea28675bc331f3a2138013693d5.webp?v=1786712915"
+    },
+    "title": "bogor hujang",
+    "url": "https://www.idn.app/jkt48_jazzy/live/bogor-hujang-261118153035",
+    "image": "https://cdn.idn.app/livestream/60e2cfc8dc1a703e2188e9a58a6bda04.webp",
+    "started_at": "2026-11-18T08:30:41.000Z",
+    "viewers": 180,
+    "last_seen_at": "2026-11-18T08:32:33.945Z",
+    "peak_viewers": 180,
+    "gifts": 3,
+    "gift_points": 764,
+    "stars": 0,
+    "comments": 78,
+    "gift_breakdown": {
+      "Bubble Gun": 1,
+      "Sop Buntut": 2
+    },
+    "gifters": {
+      "bc2a296b-f9e7-4222-8ffb-871dce9152f4": "dagdigdugdeerr .",
+      "c021af41-211f-43c3-90a4-09f5d75ec9d5": "Ricky -"
+    },
+    "top_gifters": [],
+    "viewer_series": [[0, 6], [1, 71], [2, 180]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/AxffR6zxB39X",
+    "gift_gold": 191,
+    "idn_gifters": {
+      "bc2a296b-f9e7-4222-8ffb-871dce9152f4": {
+        "name": "dagdigdugdeerr .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a265d8588c4b140a34250ca9937442ea.webp?v=1792413558",
+        "points": 700
+      },
+      "c021af41-211f-43c3-90a4-09f5d75ec9d5": {
+        "name": "Ricky -",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ac7bcf7aa14631518c638a9874571e52.webp?v=1791293832",
+        "points": 64
+      }
+    },
+    "estimated_gift_value_idr": 477500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
+  },
+  "idn:ayo-masuk-261118153226": {
+    "id": "idn:ayo-masuk-261118153226",
+    "platform": "idn",
+    "member": {
+      "name": "Fera",
+      "username": "jkt48_fera",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d66f83efb55bc65f61f4a3943dfd6c95.webp?v=1779088009"
+    },
+    "title": "Ayo masuk",
+    "url": "https://www.idn.app/jkt48_fera/live/ayo-masuk-261118153226",
+    "image": "https://cdn.idn.app/livestream/d3bd22b2520ca81aa34aa356414877fb.webp",
+    "started_at": "2026-11-18T08:32:31.000Z",
+    "viewers": 0,
+    "last_seen_at": "2026-11-18T08:32:33.945Z",
+    "peak_viewers": 0,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/POC6D488qiQY",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
   }
 }
