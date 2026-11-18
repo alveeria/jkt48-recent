@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T17:36:18.879Z",
+  "updated_at": "2026-11-18T17:41:26.380Z",
   "lives": [
     {
       "id": "idn:n-261119002223",
@@ -13,15 +13,15 @@
       "url": "https://www.idn.app/jkt48_nayla/live/n-261119002223",
       "image": "https://cdn.idn.app/livestream/8e14f20ec60a69e0f1ecdb55bbfbb634.webp",
       "started_at": "2026-11-18T17:22:29.000Z",
-      "viewers": 581,
-      "last_seen_at": "2026-11-18T17:36:18.353Z",
-      "peak_viewers": 581,
-      "gifts": 5,
-      "gift_points": 140,
+      "viewers": 684,
+      "last_seen_at": "2026-11-18T17:41:25.404Z",
+      "peak_viewers": 684,
+      "gifts": 6,
+      "gift_points": 160,
       "stars": 0,
-      "comments": 293,
+      "comments": 391,
       "gift_breakdown": {
-        "Toa": 1,
+        "Toa": 2,
         "Cold Water": 1,
         "SSETAAAN": 1,
         "NAYLA": 1,
@@ -36,27 +36,27 @@
         },
         {
           "rank": 2,
+          "name": "Riyan Cinta Nayla",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3026207813055a612093f844ea0e03a4.webp?v=1785933994"
+        },
+        {
+          "rank": 3,
           "name": "Kumamon-kun 🐻 ◌⑅⃝●♡⋆♡LOVE♡⋆♡●⑅⃝◌",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0baca787a00da4cf7eebeb220ba0cd25.webp?v=1784564531"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "eM .",
           "points": 12,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
-        },
-        {
-          "rank": 4,
-          "name": "Riyan Cinta Nayla",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3026207813055a612093f844ea0e03a4.webp?v=1785933994"
         }
       ],
-      "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581]],
+      "viewer_series": [[0, 0], [1, 18], [2, 76], [3, 105], [4, 153], [5, 224], [6, 311], [7, 354], [8, 394], [9, 431], [10, 465], [11, 495], [12, 529], [13, 555], [14, 581], [15, 605], [16, 623], [17, 646], [18, 665], [19, 684]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
-      "gift_gold": 35,
-      "estimated_gift_value_idr": 87500,
+      "gift_gold": 40,
+      "estimated_gift_value_idr": 100000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }
