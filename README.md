@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 19 Nov 2026, 20.08 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 19 Nov 2026, 20.13 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,12 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.26 | 2.873 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 1.763 |
-| Elin | IDN Live | Hai | 19 Nov 2026, 19.33 | 1.578 |
-| Gracie | IDN Live | hiii | 19 Nov 2026, 19.32 | 3.325 |
-| Nayla | IDN Live | N | 19 Nov 2026, 19.32 | 2.531 |
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 391 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.26 | 3.200 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 2.134 |
+| Elin | IDN Live | Hai | 19 Nov 2026, 19.33 | 1.828 |
+| Gracie | IDN Live | hiii | 19 Nov 2026, 19.32 | 3.724 |
+| Nayla | IDN Live | N | 19 Nov 2026, 19.32 | 2.860 |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 409 |
 
 ## Live terakhir — Nov 2026
 
