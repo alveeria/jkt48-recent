@@ -1,5 +1,110 @@
 [
   {
+    "id": "idn:alveeria-3037",
+    "platform": "idn",
+    "member": {
+      "name": "Lia",
+      "username": "jkt48_lia",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/774813dd4e183c97cb589eecb765b034.webp?v=1778761632"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261119142205",
+    "image": "https://cdn.idn.app/livestream/840f0de1634b2ceb8c2b9f73b26e08a2.webp",
+    "started_at": "2026-11-19T07:22:11.000Z",
+    "last_seen_at": "2026-11-19T08:23:22.839Z",
+    "peak_viewers": 2930,
+    "gifts": 28,
+    "gift_points": 1716,
+    "stars": 0,
+    "comments": 793,
+    "gift_breakdown": {
+      "Emas Batang": 5,
+      "Cold Water": 5,
+      "Matcha": 4,
+      "TC-LIA": 2,
+      "LIA": 1,
+      "Toa": 5,
+      "Kompas": 2,
+      "Puding": 1,
+      "Kupu-Kupu": 1,
+      "Orange Syrup": 1,
+      "Team Hype": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Lazzu ",
+        "points": 456,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3131b816d5a5f2fc7b4d12c1866d75f5.webp?v=1793303703"
+      },
+      {
+        "rank": 2,
+        "name": "Elriemo Muda",
+        "points": 396,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/283fdcbe88799b9a0545d093ddf4db35.webp?v=1793886960"
+      },
+      {
+        "rank": 3,
+        "name": "Tegar Fityanto",
+        "points": 296,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      },
+      {
+        "rank": 4,
+        "name": "eM .",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20d0953edccee396344635ea1353b640.webp?v=1794144893"
+      },
+      {
+        "rank": 5,
+        "name": "Dova .",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c9ddd371ef4d6c9b541d38d092b9dce4.webp?v=1794467083"
+      },
+      {
+        "rank": 6,
+        "name": "Franko ...",
+        "points": 80,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
+      },
+      {
+        "rank": 7,
+        "name": "Angelia J.R",
+        "points": 72,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/413881dd784b8f2e515f6c5094effc25.webp?v=1794483856"
+      },
+      {
+        "rank": 8,
+        "name": "ASDI .",
+        "points": 60,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c03c4b7a836db9b95de6776f48f4cb67.webp?v=1794061270"
+      },
+      {
+        "rank": 9,
+        "name": "jihan aj",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/572608c011931b52db100d6ea68a5352.webp?v=1794486707"
+      },
+      {
+        "rank": 10,
+        "name": "Atsuko",
+        "points": 24,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
+      }
+    ],
+    "viewer_series": [[0, 0], [1, 9], [2, 85], [3, 162], [4, 237], [5, 326], [6, 389], [7, 451], [8, 517], [9, 581], [10, 632], [11, 696], [12, 884], [13, 974], [14, 1040], [15, 1090], [16, 1117], [17, 1173], [18, 1216], [19, 1260], [20, 1307], [21, 1352], [22, 1402], [23, 1453], [24, 1509], [25, 1560], [26, 1605], [27, 1640], [28, 1680], [29, 1737], [30, 1775], [31, 1814], [32, 1846], [33, 1886], [34, 1936], [35, 1953], [36, 1994], [37, 2023], [38, 2055], [39, 2088], [40, 2145], [41, 2174], [42, 2214], [43, 2254], [44, 2280], [45, 2317], [46, 2361], [47, 2395], [48, 2430], [49, 2472], [50, 2505], [51, 2535], [52, 2565], [53, 2589], [54, 2604], [55, 2628], [56, 2660], [57, 2690], [58, 2722], [59, 2785], [60, 2873], [61, 2915]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
+    "gift_gold": 429,
+    "estimated_gift_value_idr": 1072500,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-19T08:23:22.839Z",
+    "duration_minutes": 61,
+    "last_viewers": 2930,
+    "unique_gifters": 13,
+    "source_id": "idn:ayo-ngobrol-bareng-261119142205"
+  },
+  {
     "id": "idn:alveeria-3033",
     "platform": "idn",
     "member": {
