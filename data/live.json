@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T05:34:13.359Z",
+  "updated_at": "2026-11-19T05:39:20.058Z",
   "lives": [
     {
       "id": "idn:hiii-261119121615",
@@ -13,31 +13,32 @@
       "url": "https://www.idn.app/jkt48_gracie/live/hiii-261119121615",
       "image": "https://cdn.idn.app/livestream/073c274305e90854bde857a48ba6e241.webp",
       "started_at": "2026-11-19T05:16:21.000Z",
-      "viewers": 2776,
-      "last_seen_at": "2026-11-19T05:34:12.728Z",
-      "peak_viewers": 2776,
-      "gifts": 17,
-      "gift_points": 2184,
+      "viewers": 3125,
+      "last_seen_at": "2026-11-19T05:39:19.481Z",
+      "peak_viewers": 3125,
+      "gifts": 25,
+      "gift_points": 3088,
       "stars": 0,
-      "comments": 699,
+      "comments": 882,
       "gift_breakdown": {
         "HAHAHA": 1,
         "HADIIIRRR!!": 1,
-        "Cold Water": 2,
-        "Toa": 4,
+        "Cold Water": 4,
+        "Toa": 8,
         "Lightstick": 1,
         "Jet Pribadi": 1,
         "Makan ya kak": 1,
         "Water": 1,
         "Mawar": 2,
         "Tumpeng": 1,
-        "Kompas": 2
+        "Kompas": 3,
+        "Kastil Hantu": 1
       },
       "top_gifters": [
         {
           "rank": 1,
           "name": "Julian",
-          "points": 1596,
+          "points": 2392,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bba8aa5a553dc5031c629f14a59f61dd.webp?v=1731412467"
         },
         {
@@ -60,45 +61,45 @@
         },
         {
           "rank": 5,
+          "name": "Grand W",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e3bc06e2d700f751db1dd3afbe5ef266.webp?v=1787237450"
+        },
+        {
+          "rank": 6,
+          "name": "Kyta Orang Baek",
+          "points": 36,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/59628b2252a5355b1606ba944365608f.webp?v=1794114090"
+        },
+        {
+          "rank": 7,
           "name": "Reza Gilang",
           "points": 24,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/480798d149c63cda95e3605b20f40cd8.webp?v=1792505964"
         },
         {
-          "rank": 6,
+          "rank": 8,
+          "name": "Desti Nurpadilah",
+          "points": 24,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/86f8c3562ebc1f2e2418e5a2552d7536.webp?v=1789728644"
+        },
+        {
+          "rank": 9,
           "name": "flein orang BAEK .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/10fb97c5fa263751db2102cc12809905.webp?v=1794731903"
         },
         {
-          "rank": 7,
+          "rank": 10,
           "name": "Ryn ^-^",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d78838d6635d82c50df7a85cc6e98aa.webp?v=1780412714"
-        },
-        {
-          "rank": 8,
-          "name": "Fahrul Hulalata",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0949650af1f5dcf468623a80a6fa9369.webp?v=1765241393"
-        },
-        {
-          "rank": 9,
-          "name": "Kyta Orang Baek",
-          "points": 12,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/59628b2252a5355b1606ba944365608f.webp?v=1794114090"
-        },
-        {
-          "rank": 10,
-          "name": "Naruto _48",
-          "points": 4,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4179c54697e5a77fd8879626d8a1bbb0.webp?v=1761747008"
         }
       ],
-      "viewer_series": [[0, 10], [1, 53], [2, 155], [3, 262], [4, 319], [5, 419], [6, 533], [7, 637], [8, 755], [9, 1000], [10, 1252], [11, 1743], [12, 1972], [13, 2090], [14, 2410], [15, 2533], [16, 2635], [17, 2705], [18, 2776]],
+      "viewer_series": [[0, 10], [1, 53], [2, 155], [3, 262], [4, 319], [5, 419], [6, 533], [7, 637], [8, 755], [9, 1000], [10, 1252], [11, 1743], [12, 1972], [13, 2090], [14, 2410], [15, 2533], [16, 2635], [17, 2705], [18, 2776], [19, 2863], [20, 2931], [21, 3002], [22, 3067], [23, 3125]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-      "gift_gold": 546,
-      "estimated_gift_value_idr": 1365000,
+      "gift_gold": 772,
+      "estimated_gift_value_idr": 1930000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }

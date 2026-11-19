@@ -11,25 +11,26 @@
     "url": "https://www.idn.app/jkt48_gracie/live/hiii-261119121615",
     "image": "https://cdn.idn.app/livestream/073c274305e90854bde857a48ba6e241.webp",
     "started_at": "2026-11-19T05:16:21.000Z",
-    "viewers": 2776,
-    "last_seen_at": "2026-11-19T05:34:12.728Z",
-    "peak_viewers": 2776,
-    "gifts": 17,
-    "gift_points": 2184,
+    "viewers": 3125,
+    "last_seen_at": "2026-11-19T05:39:19.481Z",
+    "peak_viewers": 3125,
+    "gifts": 25,
+    "gift_points": 3088,
     "stars": 0,
-    "comments": 699,
+    "comments": 882,
     "gift_breakdown": {
       "HAHAHA": 1,
       "HADIIIRRR!!": 1,
-      "Cold Water": 2,
-      "Toa": 4,
+      "Cold Water": 4,
+      "Toa": 8,
       "Lightstick": 1,
       "Jet Pribadi": 1,
       "Makan ya kak": 1,
       "Water": 1,
       "Mawar": 2,
       "Tumpeng": 1,
-      "Kompas": 2
+      "Kompas": 3,
+      "Kastil Hantu": 1
     },
     "gifters": {
       "4974612f-5a3b-4f35-92a4-c4ebc50b9513": "Reza Gilang",
@@ -43,12 +44,15 @@
       "2a5fc154-b0f5-447b-97af-c73176575764": "Kenken",
       "3c57bc54-b7bb-45a6-80f3-00b577200e6e": "flein orang BAEK .",
       "a4459c76-1151-4ae6-b791-37b8092e2c18": "Kyta Orang Baek",
-      "460836a4-de1a-4d01-868a-7f4e5616e5f6": "Ryn ^-^"
+      "460836a4-de1a-4d01-868a-7f4e5616e5f6": "Ryn ^-^",
+      "b8c953f6-6f8a-47a7-99fe-ecf8e809dfe4": "Grand W",
+      "68514043-112a-4184-85ac-e2a65bd3fbc0": "Desti Nurpadilah",
+      "7c697c54-04b6-4afe-8bd7-fd57e390caad": "DiNDD _"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 10], [1, 53], [2, 155], [3, 262], [4, 319], [5, 419], [6, 533], [7, 637], [8, 755], [9, 1000], [10, 1252], [11, 1743], [12, 1972], [13, 2090], [14, 2410], [15, 2533], [16, 2635], [17, 2705], [18, 2776]],
+    "viewer_series": [[0, 10], [1, 53], [2, 155], [3, 262], [4, 319], [5, 419], [6, 533], [7, 637], [8, 755], [9, 1000], [10, 1252], [11, 1743], [12, 1972], [13, 2090], [14, 2410], [15, 2533], [16, 2635], [17, 2705], [18, 2776], [19, 2863], [20, 2931], [21, 3002], [22, 3067], [23, 3125]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "gift_gold": 546,
+    "gift_gold": 772,
     "idn_gifters": {
       "4974612f-5a3b-4f35-92a4-c4ebc50b9513": {
         "name": "Reza Gilang",
@@ -73,7 +77,7 @@
       "56616044-0c08-45b5-a6d8-48e61bc5a215": {
         "name": "Julian",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bba8aa5a553dc5031c629f14a59f61dd.webp?v=1731412467",
-        "points": 1596
+        "points": 2392
       },
       "fe2230a3-3c8b-4809-b185-6e22453d7271": {
         "name": "Zain Nur Ramadhian",
@@ -103,15 +107,30 @@
       "a4459c76-1151-4ae6-b791-37b8092e2c18": {
         "name": "Kyta Orang Baek",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/59628b2252a5355b1606ba944365608f.webp?v=1794114090",
-        "points": 12
+        "points": 36
       },
       "460836a4-de1a-4d01-868a-7f4e5616e5f6": {
         "name": "Ryn ^-^",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d78838d6635d82c50df7a85cc6e98aa.webp?v=1780412714",
         "points": 20
+      },
+      "b8c953f6-6f8a-47a7-99fe-ecf8e809dfe4": {
+        "name": "Grand W",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e3bc06e2d700f751db1dd3afbe5ef266.webp?v=1787237450",
+        "points": 40
+      },
+      "68514043-112a-4184-85ac-e2a65bd3fbc0": {
+        "name": "Desti Nurpadilah",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/86f8c3562ebc1f2e2418e5a2552d7536.webp?v=1789728644",
+        "points": 24
+      },
+      "7c697c54-04b6-4afe-8bd7-fd57e390caad": {
+        "name": "DiNDD _",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5fc39a0df15c476523abb1016c74b994.webp?v=1782560869",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 1365000,
+    "estimated_gift_value_idr": 1930000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
