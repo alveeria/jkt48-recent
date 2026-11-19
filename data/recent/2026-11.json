@@ -1,5 +1,93 @@
 [
   {
+    "id": "idn:alveeria-3029",
+    "platform": "idn",
+    "member": {
+      "name": "Lulu",
+      "username": "jkt48_lulu",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/36ba8026da4af74247c2a8ddf919b6d3.webp?v=1778755600"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_lulu/live/hi-261119132210",
+    "image": "https://cdn.idn.app/livestream/3474f2cca91e3812abcc83ab2640c96e.webp",
+    "started_at": "2026-11-19T06:22:15.000Z",
+    "last_seen_at": "2026-11-19T06:59:40.986Z",
+    "peak_viewers": 2484,
+    "gifts": 8,
+    "gift_points": 800,
+    "stars": 0,
+    "comments": 553,
+    "gift_breakdown": {
+      "Cold Water": 1,
+      "Toa": 2,
+      "Pumpkin": 2,
+      "Cendrawasih": 1,
+      "Water": 1,
+      "Emas Batang": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Syahiran .",
+        "points": 476,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc9f6896a9cb840d737c48e58de00ef7.webp?v=1748157669"
+      },
+      {
+        "rank": 2,
+        "name": "ibnoeee ee",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c58aeb570b0b2750aabb559363f67a6d.webp?v=1794237347"
+      },
+      {
+        "rank": 3,
+        "name": "Panduu",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/502368382a46fe355ceec34f02111953.webp?v=1731395787"
+      },
+      {
+        "rank": 4,
+        "name": "Damarsabdo 🦕",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1895511e003911e045711fd33299e616.webp?v=1765205391"
+      },
+      {
+        "rank": 5,
+        "name": "Bintang (bibin)",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f9397f7d81dbe4a5637a7ef4c9e26bb8.webp?v=1789748189"
+      },
+      {
+        "rank": 6,
+        "name": "Dwi Refa #4thDescender",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f07fd548dd8b9b98d45839e91b477d56.webp?v=1793719774"
+      },
+      {
+        "rank": 7,
+        "name": "Gale Dwiii",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7d30c972b33ab39cee8b27f8e698b4ec.webp?v=1784553992"
+      },
+      {
+        "rank": 8,
+        "name": "Narendra _",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6eb2a0d65bc11567564731f6dc661062.webp?v=1788773646"
+      }
+    ],
+    "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817], [9, 918], [10, 1008], [11, 1067], [12, 1143], [13, 1210], [14, 1270], [15, 1324], [16, 1402], [17, 1463], [18, 1497], [19, 1546], [20, 1606], [21, 1667], [22, 1712], [23, 1772], [24, 1832], [25, 1897], [26, 1932], [27, 1971], [28, 2016], [29, 2064], [30, 2124], [31, 2178], [32, 2228], [33, 2270], [34, 2318], [35, 2365], [36, 2408], [37, 2463]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
+    "gift_gold": 200,
+    "estimated_gift_value_idr": 500000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-19T06:59:40.986Z",
+    "duration_minutes": 37,
+    "last_viewers": 2484,
+    "unique_gifters": 8,
+    "source_id": "idn:hi-261119132210"
+  },
+  {
     "id": "idn:alveeria-3028",
     "platform": "idn",
     "member": {

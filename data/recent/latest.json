@@ -1,5 +1,93 @@
 [
   {
+    "id": "idn:alveeria-3029",
+    "platform": "idn",
+    "member": {
+      "name": "Lulu",
+      "username": "jkt48_lulu",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/36ba8026da4af74247c2a8ddf919b6d3.webp?v=1778755600"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_lulu/live/hi-261119132210",
+    "image": "https://cdn.idn.app/livestream/3474f2cca91e3812abcc83ab2640c96e.webp",
+    "started_at": "2026-11-19T06:22:15.000Z",
+    "last_seen_at": "2026-11-19T06:59:40.986Z",
+    "peak_viewers": 2484,
+    "gifts": 8,
+    "gift_points": 800,
+    "stars": 0,
+    "comments": 553,
+    "gift_breakdown": {
+      "Cold Water": 1,
+      "Toa": 2,
+      "Pumpkin": 2,
+      "Cendrawasih": 1,
+      "Water": 1,
+      "Emas Batang": 1
+    },
+    "top_gifters": [
+      {
+        "rank": 1,
+        "name": "Syahiran .",
+        "points": 476,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc9f6896a9cb840d737c48e58de00ef7.webp?v=1748157669"
+      },
+      {
+        "rank": 2,
+        "name": "ibnoeee ee",
+        "points": 196,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c58aeb570b0b2750aabb559363f67a6d.webp?v=1794237347"
+      },
+      {
+        "rank": 3,
+        "name": "Panduu",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/502368382a46fe355ceec34f02111953.webp?v=1731395787"
+      },
+      {
+        "rank": 4,
+        "name": "Damarsabdo 🦕",
+        "points": 40,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1895511e003911e045711fd33299e616.webp?v=1765205391"
+      },
+      {
+        "rank": 5,
+        "name": "Bintang (bibin)",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f9397f7d81dbe4a5637a7ef4c9e26bb8.webp?v=1789748189"
+      },
+      {
+        "rank": 6,
+        "name": "Dwi Refa #4thDescender",
+        "points": 20,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f07fd548dd8b9b98d45839e91b477d56.webp?v=1793719774"
+      },
+      {
+        "rank": 7,
+        "name": "Gale Dwiii",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7d30c972b33ab39cee8b27f8e698b4ec.webp?v=1784553992"
+      },
+      {
+        "rank": 8,
+        "name": "Narendra _",
+        "points": 4,
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6eb2a0d65bc11567564731f6dc661062.webp?v=1788773646"
+      }
+    ],
+    "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817], [9, 918], [10, 1008], [11, 1067], [12, 1143], [13, 1210], [14, 1270], [15, 1324], [16, 1402], [17, 1463], [18, 1497], [19, 1546], [20, 1606], [21, 1667], [22, 1712], [23, 1772], [24, 1832], [25, 1897], [26, 1932], [27, 1971], [28, 2016], [29, 2064], [30, 2124], [31, 2178], [32, 2228], [33, 2270], [34, 2318], [35, 2365], [36, 2408], [37, 2463]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
+    "gift_gold": 200,
+    "estimated_gift_value_idr": 500000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold",
+    "ended_at": "2026-11-19T06:59:40.986Z",
+    "duration_minutes": 37,
+    "last_viewers": 2484,
+    "unique_gifters": 8,
+    "source_id": "idn:hi-261119132210"
+  },
+  {
     "id": "idn:alveeria-3028",
     "platform": "idn",
     "member": {
@@ -20943,50 +21031,6 @@
     "unique_gifters": 21,
     "source_id": "idn:hai-261113184616",
     "estimated_gift_value_idr": 2745000,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold"
-  },
-  {
-    "id": "idn:alveeria-2837",
-    "platform": "idn",
-    "member": {
-      "name": "JKT48",
-      "username": "jkt48-official",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82baca53b222467300863a9f63b08d1b.webp?v=1731060895"
-    },
-    "title": "Pajama Drive - 2026/11/13",
-    "url": "https://www.idn.app/jkt48-official/live/pajama-drive-2026-11-13-261105215553",
-    "image": "https://cdn.idn.app/livestream/4134c28e7ccc276f44dfb5e60b4ee6dc.webp",
-    "started_at": "2026-11-13T11:46:04.000Z",
-    "last_seen_at": "2026-11-13T14:04:23.779Z",
-    "peak_viewers": 380,
-    "gifts": 4,
-    "gift_points": 416,
-    "stars": 0,
-    "comments": 528,
-    "gift_breakdown": {
-      "Angklung": 1,
-      "Happy B-Day!": 1,
-      "JEMIMA": 1,
-      "Lightstick": 1
-    },
-    "top_gifters": [
-      {
-        "rank": 1,
-        "name": "Iwan",
-        "points": 416,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ad17381716d1d0403fbd61e6abd3776c.webp?v=1730665723"
-      }
-    ],
-    "viewer_series": [[0, 8], [1, 12], [2, 21], [3, 27], [4, 34], [5, 41], [6, 44], [7, 51], [8, 55], [9, 58], [10, 62], [11, 67], [12, 73], [13, 79], [14, 89], [15, 100], [16, 108], [17, 110], [18, 115], [19, 120], [20, 121], [21, 125], [22, 128], [23, 136], [24, 146], [25, 149], [26, 150], [27, 151], [28, 154], [29, 155], [30, 158], [31, 159], [32, 162], [33, 163], [34, 165], [35, 166], [36, 169], [37, 173], [38, 177], [39, 179], [40, 182], [41, 184], [42, 184], [43, 185], [44, 186], [45, 188], [46, 190], [47, 192], [48, 193], [49, 194], [50, 198], [51, 199], [52, 200], [53, 203], [54, 204], [55, 206], [56, 209], [57, 213], [58, 214], [59, 215], [60, 218], [61, 218], [62, 219], [63, 221], [64, 224], [65, 226], [66, 228], [67, 230], [68, 231], [69, 231], [70, 233], [71, 235], [72, 236], [73, 238], [74, 240], [75, 241], [76, 243], [77, 247], [78, 248], [79, 252], [80, 258], [81, 260], [82, 266], [83, 270], [84, 272], [85, 274], [86, 276], [87, 278], [88, 278], [89, 282], [90, 285], [91, 287], [92, 288], [93, 295], [94, 300], [95, 306], [96, 312], [97, 313], [98, 314], [99, 316], [100, 317], [101, 318], [102, 321], [103, 322], [104, 323], [105, 324], [106, 324], [107, 327], [108, 327], [109, 328], [110, 332], [111, 333], [112, 334], [113, 336], [114, 338], [115, 339], [116, 341], [117, 344], [118, 346], [119, 347], [120, 350], [121, 351], [122, 353], [123, 355], [124, 355], [125, 358], [126, 359], [127, 361], [128, 362], [129, 365], [130, 365], [131, 366], [132, 368], [133, 369], [134, 371], [135, 372], [136, 375], [137, 376], [138, 377]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
-    "gift_gold": 104,
-    "ended_at": "2026-11-13T14:04:23.779Z",
-    "duration_minutes": 138,
-    "last_viewers": 380,
-    "unique_gifters": 1,
-    "source_id": "idn:pajama-drive-2026-11-13-261105215553",
-    "estimated_gift_value_idr": 260000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
