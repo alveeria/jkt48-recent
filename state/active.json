@@ -11,17 +11,17 @@
     "url": "https://www.idn.app/jkt48_gracie/live/hiii-261119121615",
     "image": "https://cdn.idn.app/livestream/073c274305e90854bde857a48ba6e241.webp",
     "started_at": "2026-11-19T05:16:21.000Z",
-    "viewers": 3125,
-    "last_seen_at": "2026-11-19T05:39:19.481Z",
-    "peak_viewers": 3125,
-    "gifts": 25,
-    "gift_points": 3088,
+    "viewers": 3413,
+    "last_seen_at": "2026-11-19T05:44:27.816Z",
+    "peak_viewers": 3413,
+    "gifts": 28,
+    "gift_points": 3120,
     "stars": 0,
-    "comments": 882,
+    "comments": 1060,
     "gift_breakdown": {
       "HAHAHA": 1,
       "HADIIIRRR!!": 1,
-      "Cold Water": 4,
+      "Cold Water": 6,
       "Toa": 8,
       "Lightstick": 1,
       "Jet Pribadi": 1,
@@ -30,7 +30,8 @@
       "Mawar": 2,
       "Tumpeng": 1,
       "Kompas": 3,
-      "Kastil Hantu": 1
+      "Kastil Hantu": 1,
+      "Offside!!": 1
     },
     "gifters": {
       "4974612f-5a3b-4f35-92a4-c4ebc50b9513": "Reza Gilang",
@@ -47,12 +48,13 @@
       "460836a4-de1a-4d01-868a-7f4e5616e5f6": "Ryn ^-^",
       "b8c953f6-6f8a-47a7-99fe-ecf8e809dfe4": "Grand W",
       "68514043-112a-4184-85ac-e2a65bd3fbc0": "Desti Nurpadilah",
-      "7c697c54-04b6-4afe-8bd7-fd57e390caad": "DiNDD _"
+      "7c697c54-04b6-4afe-8bd7-fd57e390caad": "DiNDD _",
+      "e45ec6b8-7c8a-4927-843d-e63ae9ef0feb": "Hilman Azis"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 10], [1, 53], [2, 155], [3, 262], [4, 319], [5, 419], [6, 533], [7, 637], [8, 755], [9, 1000], [10, 1252], [11, 1743], [12, 1972], [13, 2090], [14, 2410], [15, 2533], [16, 2635], [17, 2705], [18, 2776], [19, 2863], [20, 2931], [21, 3002], [22, 3067], [23, 3125]],
+    "viewer_series": [[0, 10], [1, 53], [2, 155], [3, 262], [4, 319], [5, 419], [6, 533], [7, 637], [8, 755], [9, 1000], [10, 1252], [11, 1743], [12, 1972], [13, 2090], [14, 2410], [15, 2533], [16, 2635], [17, 2705], [18, 2776], [19, 2863], [20, 2931], [21, 3002], [22, 3067], [23, 3125], [24, 3155], [25, 3216], [26, 3265], [27, 3325], [28, 3387]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "gift_gold": 772,
+    "gift_gold": 780,
     "idn_gifters": {
       "4974612f-5a3b-4f35-92a4-c4ebc50b9513": {
         "name": "Reza Gilang",
@@ -112,7 +114,7 @@
       "460836a4-de1a-4d01-868a-7f4e5616e5f6": {
         "name": "Ryn ^-^",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2d78838d6635d82c50df7a85cc6e98aa.webp?v=1780412714",
-        "points": 20
+        "points": 28
       },
       "b8c953f6-6f8a-47a7-99fe-ecf8e809dfe4": {
         "name": "Grand W",
@@ -128,10 +130,43 @@
         "name": "DiNDD _",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5fc39a0df15c476523abb1016c74b994.webp?v=1782560869",
         "points": 20
+      },
+      "e45ec6b8-7c8a-4927-843d-e63ae9ef0feb": {
+        "name": "Hilman Azis",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/360dc9ef9bf998ff6322a85eee1b0dea.webp?v=1790568771",
+        "points": 24
       }
     },
-    "estimated_gift_value_idr": 1930000,
+    "estimated_gift_value_idr": 1950000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
+  },
+  "idn:hi-261119124327": {
+    "id": "idn:hi-261119124327",
+    "platform": "idn",
+    "member": {
+      "name": "Muthe",
+      "username": "jkt48_muthe",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c80aa74f8816d0b98562d912d6e9ac1.webp?v=1778755639"
+    },
+    "title": "Hi",
+    "url": "https://www.idn.app/jkt48_muthe/live/hi-261119124327",
+    "image": "https://cdn.idn.app/livestream/b366b2393eb2aef0946c8fe5651938fc.webp",
+    "started_at": "2026-11-19T05:43:32.000Z",
+    "viewers": 44,
+    "last_seen_at": "2026-11-19T05:44:27.816Z",
+    "peak_viewers": 44,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 8,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 5], [1, 44]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
   }
 }
