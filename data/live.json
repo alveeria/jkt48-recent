@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T06:30:33.875Z",
+  "updated_at": "2026-11-19T06:35:40.391Z",
   "lives": [
     {
       "id": "idn:barbang-261119130637",
@@ -13,18 +13,20 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/barbang-261119130637",
       "image": "https://cdn.idn.app/livestream/9018919f02c2c26a2c3e593effcc20ce.webp",
       "started_at": "2026-11-19T06:06:44.000Z",
-      "viewers": 2839,
-      "last_seen_at": "2026-11-19T06:30:33.231Z",
-      "peak_viewers": 2839,
-      "gifts": 4,
-      "gift_points": 728,
+      "viewers": 3250,
+      "last_seen_at": "2026-11-19T06:35:39.255Z",
+      "peak_viewers": 3250,
+      "gifts": 7,
+      "gift_points": 788,
       "stars": 0,
-      "comments": 952,
+      "comments": 1361,
       "gift_breakdown": {
         "Water": 1,
         "Kompas": 1,
         "Bubble Gun": 1,
-        "Cold Water": 1
+        "Cold Water": 1,
+        "Siomay": 1,
+        "Toa": 2
       },
       "top_gifters": [
         {
@@ -41,21 +43,39 @@
         },
         {
           "rank": 3,
+          "name": "Hadyan R",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c1d9529f7d468f1a5b023287cae5a9e9.webp?v=1784215749"
+        },
+        {
+          "rank": 4,
+          "name": "Kezia Novellika",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b7fc02ca3b7b5ac7a5b2a7a95c2f64f8.webp?v=1789909020"
+        },
+        {
+          "rank": 5,
+          "name": "Arrayyy ",
+          "points": 20,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7790bb66ee430a2b5ddab2d2b9010feb.webp?v=1794980058"
+        },
+        {
+          "rank": 6,
           "name": "Zanciyy Cyrus",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b0c4bae3ff0631c463c011784b3f992a.webp?v=1794748384"
         },
         {
-          "rank": 4,
+          "rank": 7,
           "name": "argaa ",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/df28c3f9358874dabf78b01134b3f1ed.webp?v=1766588287"
         }
       ],
-      "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332], [20, 2413], [21, 2503], [22, 2605], [23, 2744], [24, 2839]],
+      "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332], [20, 2413], [21, 2503], [22, 2605], [23, 2744], [24, 2839], [25, 2940], [26, 3020], [27, 3102], [28, 3184], [29, 3250]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-      "gift_gold": 182,
-      "estimated_gift_value_idr": 455000,
+      "gift_gold": 197,
+      "estimated_gift_value_idr": 492500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -71,13 +91,13 @@
       "url": "https://www.idn.app/jkt48_lulu/live/hi-261119132210",
       "image": "https://cdn.idn.app/livestream/3474f2cca91e3812abcc83ab2640c96e.webp",
       "started_at": "2026-11-19T06:22:15.000Z",
-      "viewers": 867,
-      "last_seen_at": "2026-11-19T06:30:33.231Z",
-      "peak_viewers": 867,
+      "viewers": 1240,
+      "last_seen_at": "2026-11-19T06:35:39.255Z",
+      "peak_viewers": 1240,
       "gifts": 3,
       "gift_points": 64,
       "stars": 0,
-      "comments": 129,
+      "comments": 203,
       "gift_breakdown": {
         "Cold Water": 1,
         "Toa": 1,
@@ -103,7 +123,7 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7d30c972b33ab39cee8b27f8e698b4ec.webp?v=1784553992"
         }
       ],
-      "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817]],
+      "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817], [9, 918], [10, 1008], [11, 1067], [12, 1143], [13, 1210]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
       "gift_gold": 16,
       "estimated_gift_value_idr": 40000,
