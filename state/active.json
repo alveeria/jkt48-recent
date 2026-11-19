@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_michie/live/live-aja-261119112754",
     "image": "https://cdn.idn.app/livestream/acdc9717b2fe57b969bc789f52455fbd.webp",
     "started_at": "2026-11-19T04:28:00.000Z",
-    "viewers": 2445,
-    "last_seen_at": "2026-11-19T04:42:55.079Z",
-    "peak_viewers": 2445,
-    "gifts": 16,
-    "gift_points": 640,
+    "viewers": 3039,
+    "last_seen_at": "2026-11-19T04:48:03.098Z",
+    "peak_viewers": 3039,
+    "gifts": 22,
+    "gift_points": 820,
     "stars": 0,
-    "comments": 1093,
+    "comments": 1366,
     "gift_breakdown": {
       "Matcha": 1,
       "Lemon Tea": 1,
@@ -25,10 +25,13 @@
       "Pumpkin": 2,
       "Gift Card": 1,
       "JKT48 Stage": 1,
-      "Toa": 2,
+      "Toa": 3,
       "Angklung": 1,
-      "Semangat kak": 1,
-      "Water": 1
+      "Semangat kak": 2,
+      "Water": 1,
+      "Kompas": 2,
+      "Mawar": 1,
+      "MICHIE": 1
     },
     "gifters": {
       "29c1dd6e-19ca-45ec-a3d4-07f1a6b6a5f8": "Kak Mayong",
@@ -43,12 +46,15 @@
       "b8c953f6-6f8a-47a7-99fe-ecf8e809dfe4": "Grand W",
       "83142028-48dc-485d-9b48-8130a0af14bf": "tirrrr _",
       "265c3c8f-c663-46ee-b38c-9e3136ebb216": "innocent ×⁷",
-      "b38bc850-2aeb-4d4c-8b4e-87b4afa0efc0": "Dodo Richardo"
+      "b38bc850-2aeb-4d4c-8b4e-87b4afa0efc0": "Dodo Richardo",
+      "ce7f5a6d-ca42-4743-b82a-ccffe1e1bd7e": "MuJiiBB PassiONiel",
+      "80bf5946-e8a9-4cc4-b1b9-04a8b9277533": "Aksel Ghailan Putra",
+      "503d4c21-5259-49dd-ac24-7146e9f82134": "Elno Oscar"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445]],
+    "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 160,
+    "gift_gold": 205,
     "idn_gifters": {
       "29c1dd6e-19ca-45ec-a3d4-07f1a6b6a5f8": {
         "name": "Kak Mayong",
@@ -93,7 +99,7 @@
       "82c80408-06ad-47e0-a399-910a3cca4f35": {
         "name": "Aris",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
-        "points": 32
+        "points": 60
       },
       "b8c953f6-6f8a-47a7-99fe-ecf8e809dfe4": {
         "name": "Grand W",
@@ -113,10 +119,25 @@
       "b38bc850-2aeb-4d4c-8b4e-87b4afa0efc0": {
         "name": "Dodo Richardo",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8d5a69770df1f56c671b71a93b36fd4b.webp?v=1787829000",
+        "points": 40
+      },
+      "ce7f5a6d-ca42-4743-b82a-ccffe1e1bd7e": {
+        "name": "MuJiiBB PassiONiel",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b61f55b8ed919890bd59a4ccedcf31e.webp?v=1794991836",
+        "points": 20
+      },
+      "80bf5946-e8a9-4cc4-b1b9-04a8b9277533": {
+        "name": "Aksel Ghailan Putra",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 92
+      },
+      "503d4c21-5259-49dd-ac24-7146e9f82134": {
+        "name": "Elno Oscar",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ffc1393d7793637e27e2b7fa0a150382.webp?v=1785845161",
         "points": 20
       }
     },
-    "estimated_gift_value_idr": 400000,
+    "estimated_gift_value_idr": 512500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
