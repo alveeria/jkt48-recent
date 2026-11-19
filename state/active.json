@@ -11,27 +11,88 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/barbang-261119130637",
     "image": "https://cdn.idn.app/livestream/9018919f02c2c26a2c3e593effcc20ce.webp",
     "started_at": "2026-11-19T06:06:44.000Z",
-    "viewers": 1875,
-    "last_seen_at": "2026-11-19T06:20:17.308Z",
-    "peak_viewers": 1875,
-    "gifts": 1,
-    "gift_points": 4,
+    "viewers": 2332,
+    "last_seen_at": "2026-11-19T06:25:25.651Z",
+    "peak_viewers": 2332,
+    "gifts": 4,
+    "gift_points": 728,
     "stars": 0,
-    "comments": 445,
+    "comments": 682,
     "gift_breakdown": {
-      "Water": 1
+      "Water": 1,
+      "Kompas": 1,
+      "Bubble Gun": 1,
+      "Cold Water": 1
     },
     "gifters": {
-      "8299a8fe-762a-4519-ab19-5b3720b09e84": "Zanciyy Cyrus"
+      "8299a8fe-762a-4519-ab19-5b3720b09e84": "Zanciyy Cyrus",
+      "bb379225-16aa-48ae-8962-855179dd455d": "Ifann Kus",
+      "4e0bf61e-2b35-4489-8056-f9746768c182": "Idham ",
+      "0a6fd6dd-d2af-407b-abf3-2abb8fe9b69c": "argaa "
     },
     "top_gifters": [],
-    "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875]],
+    "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 1,
+    "gift_gold": 182,
     "idn_gifters": {
       "8299a8fe-762a-4519-ab19-5b3720b09e84": {
         "name": "Zanciyy Cyrus",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b0c4bae3ff0631c463c011784b3f992a.webp?v=1794748384",
+        "points": 4
+      },
+      "bb379225-16aa-48ae-8962-855179dd455d": {
+        "name": "Ifann Kus",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7243fd7eae3237e9c5ff66b62b615146.webp?v=1784980727",
+        "points": 20
+      },
+      "4e0bf61e-2b35-4489-8056-f9746768c182": {
+        "name": "Idham ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417",
+        "points": 700
+      },
+      "0a6fd6dd-d2af-407b-abf3-2abb8fe9b69c": {
+        "name": "argaa ",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/df28c3f9358874dabf78b01134b3f1ed.webp?v=1766588287",
+        "points": 4
+      }
+    },
+    "estimated_gift_value_idr": 455000,
+    "gift_rate_idr": 2500,
+    "gift_value_basis": "gold"
+  },
+  "idn:hi-261119132210": {
+    "id": "idn:hi-261119132210",
+    "platform": "idn",
+    "member": {
+      "name": "Lulu",
+      "username": "jkt48_lulu",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/36ba8026da4af74247c2a8ddf919b6d3.webp?v=1778755600"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_lulu/live/hi-261119132210",
+    "image": "https://cdn.idn.app/livestream/3474f2cca91e3812abcc83ab2640c96e.webp",
+    "started_at": "2026-11-19T06:22:15.000Z",
+    "viewers": 242,
+    "last_seen_at": "2026-11-19T06:25:25.651Z",
+    "peak_viewers": 242,
+    "gifts": 1,
+    "gift_points": 4,
+    "stars": 0,
+    "comments": 33,
+    "gift_breakdown": {
+      "Cold Water": 1
+    },
+    "gifters": {
+      "798693ce-03c5-46d4-a9f3-dddf455e4fab": "Gale Dwiii"
+    },
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
+    "gift_gold": 1,
+    "idn_gifters": {
+      "798693ce-03c5-46d4-a9f3-dddf455e4fab": {
+        "name": "Gale Dwiii",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7d30c972b33ab39cee8b27f8e698b4ec.webp?v=1784553992",
         "points": 4
       }
     },
