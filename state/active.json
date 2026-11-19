@@ -11,32 +11,35 @@
     "url": "https://www.idn.app/jkt48_muthe/live/hi-261119124327",
     "image": "https://cdn.idn.app/livestream/b366b2393eb2aef0946c8fe5651938fc.webp",
     "started_at": "2026-11-19T05:43:32.000Z",
-    "viewers": 2261,
-    "last_seen_at": "2026-11-19T06:04:56.911Z",
-    "peak_viewers": 2261,
-    "gifts": 11,
-    "gift_points": 244,
+    "viewers": 2577,
+    "last_seen_at": "2026-11-19T06:10:04.766Z",
+    "peak_viewers": 2577,
+    "gifts": 13,
+    "gift_points": 256,
     "stars": 0,
-    "comments": 243,
+    "comments": 285,
     "gift_breakdown": {
       "Cold Water": 3,
       "Semangat kak": 2,
       "Matcha": 3,
       "Mawar": 1,
       "Nasi Goreng": 1,
-      "Combat": 1
+      "Combat": 1,
+      "Orange Syrup": 1,
+      "Water": 1
     },
     "gifters": {
       "68488ddb-4b3f-4179-a64c-bf5ecb6b1a44": "ㅤ ㅤ",
       "ce7f5a6d-ca42-4743-b82a-ccffe1e1bd7e": "MuJiiBB PassiONiel",
       "ec5ae455-1261-4f44-abb2-fd04b51923d1": "Winanda .",
       "5420ab47-cdc0-4780-8fea-52d8b02625b9": "Priantino",
-      "d4c6aec0-f1b7-457e-97cd-b47d86afee33": "Afriza Z"
+      "d4c6aec0-f1b7-457e-97cd-b47d86afee33": "Afriza Z",
+      "f11d76ae-33da-42d4-adde-6cd9148ecf54": "Gabriella Ika"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 5], [1, 44], [2, 100], [3, 174], [4, 246], [5, 281], [6, 347], [7, 416], [8, 530], [9, 677], [10, 848], [11, 947], [12, 1024], [13, 1095], [14, 1181], [15, 1269], [16, 1415], [17, 1650], [18, 1795], [19, 1913], [20, 2118], [21, 2222]],
+    "viewer_series": [[0, 5], [1, 44], [2, 100], [3, 174], [4, 246], [5, 281], [6, 347], [7, 416], [8, 530], [9, 677], [10, 848], [11, 947], [12, 1024], [13, 1095], [14, 1181], [15, 1269], [16, 1415], [17, 1650], [18, 1795], [19, 1913], [20, 2118], [21, 2222], [22, 2311], [23, 2385], [24, 2422], [25, 2481], [26, 2502], [27, 2577]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
-    "gift_gold": 61,
+    "gift_gold": 64,
     "idn_gifters": {
       "68488ddb-4b3f-4179-a64c-bf5ecb6b1a44": {
         "name": "ㅤ ㅤ",
@@ -62,10 +65,43 @@
         "name": "Afriza Z",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/06e714ccc23933076d811745606c2884.webp?v=1747744244",
         "points": 20
+      },
+      "f11d76ae-33da-42d4-adde-6cd9148ecf54": {
+        "name": "Gabriella Ika",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c0106c364c12f22b0308f5a00d07e58.webp?v=1781289174",
+        "points": 12
       }
     },
-    "estimated_gift_value_idr": 152500,
+    "estimated_gift_value_idr": 160000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
+  },
+  "idn:barbang-261119130637": {
+    "id": "idn:barbang-261119130637",
+    "platform": "idn",
+    "member": {
+      "name": "Fritzy",
+      "username": "jkt48_fritzy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4d25811b1b50effd560fb480cac8ba0.webp?v=1778761438"
+    },
+    "title": "barbang",
+    "url": "https://www.idn.app/jkt48_fritzy/live/barbang-261119130637",
+    "image": "https://cdn.idn.app/livestream/9018919f02c2c26a2c3e593effcc20ce.webp",
+    "started_at": "2026-11-19T06:06:44.000Z",
+    "viewers": 341,
+    "last_seen_at": "2026-11-19T06:10:04.766Z",
+    "peak_viewers": 341,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 62,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
   }
 }
