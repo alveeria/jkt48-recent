@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 19 Nov 2026, 20.03 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 19 Nov 2026, 20.08 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.26 | 2.481 |
-| Indah | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.34 | 3.103 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 1.428 |
-| Elin | IDN Live | Hai | 19 Nov 2026, 19.33 | 1.383 |
-| Gracie | IDN Live | hiii | 19 Nov 2026, 19.32 | 2.799 |
-| Nayla | IDN Live | N | 19 Nov 2026, 19.32 | 2.142 |
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 385 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.26 | 2.873 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 1.763 |
+| Elin | IDN Live | Hai | 19 Nov 2026, 19.33 | 1.578 |
+| Gracie | IDN Live | hiii | 19 Nov 2026, 19.32 | 3.325 |
+| Nayla | IDN Live | N | 19 Nov 2026, 19.32 | 2.531 |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 391 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Indah | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.34 | 32m | 3.424 | 0 | — | — | 0 |
 | Sona | IDN Live | makan | 19 Nov 2026, 16.04 | 6m | 322 | 1 | 5 | — | 103 |
 | Rilly | IDN Live | Ngobss sma kannuy | 19 Nov 2026, 15.59 | 11m | 803 | 2 | 51 | — | 110 |
 | Intan | IDN Live | ayo temeninn aku sm bonggg | 19 Nov 2026, 15.59 | 12m | 1.723 | 6 | 38 | — | 532 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 59m | 2.328 | 12 | 382 | — | 867 |
 | Oniel | IDN Live | saya kembali | 18 Nov 2026, 15.36 | 64m | 4.787 | 59 | 1.949 | — | 2.299 |
 | Fera | IDN Live | Ayo masuk | 18 Nov 2026, 15.32 | 78m | 3.175 | 33 | 366 | — | 1.607 |
-| Jazzy | IDN Live | bogor hujang | 18 Nov 2026, 15.30 | 63m | 3.275 | 56 | 911 | — | 4.398 |
 
 ## Lisensi
 

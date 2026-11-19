@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3043",
+    "platform": "idn",
+    "member": {
+      "name": "Indah",
+      "username": "jkt48_indah",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/909548d57b8bc9ce5b7784107fa36858.webp?v=1778761549"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261119193427",
+    "image": "https://cdn.idn.app/livestream/88a50486f9d2b8bd1a3411585452f693.webp",
+    "started_at": "2026-11-19T12:34:31.000Z",
+    "last_seen_at": "2026-11-19T13:06:43.454Z",
+    "peak_viewers": 3424,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[18, 1830], [19, 1927], [20, 2213], [21, 2333], [22, 2442], [23, 2563], [24, 2687], [25, 2736], [26, 2833], [27, 2923], [28, 3005], [29, 3103], [30, 3188], [31, 3270], [32, 3349]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-19T13:06:43.454Z",
+    "duration_minutes": 32,
+    "last_viewers": 3424,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261119193427"
+  },
+  {
     "id": "idn:alveeria-3040",
     "platform": "idn",
     "member": {
