@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 19 Nov 2026, 21.04 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 19 Nov 2026, 21.09 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 5.440 |
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 484 |
-| Fahira | IDN Live | ada apa??? | 19 Nov 2026, 20.42 | 1.344 |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 493 |
+| Fahira | IDN Live | ada apa??? | 19 Nov 2026, 20.42 | 1.650 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Anindya | IDN Live | HALO!! | 19 Nov 2026, 20.24 | 34m | 1.968 | 0 | — | — | 0 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 82m | 5.440 | 0 | — | — | 0 |
 | Indah | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.34 | 32m | 3.424 | 0 | — | — | 0 |
 | Elin | IDN Live | Hai | 19 Nov 2026, 19.33 | 63m | 2.886 | 0 | — | — | 0 |
 | Nayla | IDN Live | N | 19 Nov 2026, 19.32 | 64m | 4.284 | 0 | — | — | 0 |
@@ -93,7 +93,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Eli | IDN Live | Ngapain ya ? | 18 Nov 2026, 20.40 | 98m | 7.340 | 17 | 59 | — | 499 |
 | Kathrina | IDN Live | wazzap | 18 Nov 2026, 20.25 | 69m | 8.068 | 63 | 701 | — | 1.866 |
 | Danella | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 19.55 | 67m | 3.441 | 6 | 211 | — | 188 |
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/18 | 18 Nov 2026, 18.51 | 126m | 596 | 0 | — | — | 84 |
 
 ## Lisensi
 
