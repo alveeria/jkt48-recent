@@ -11,31 +11,33 @@
     "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261119145941",
     "image": "https://cdn.idn.app/livestream/0a67495f122fc9d57379be2aeaf85221.webp",
     "started_at": "2026-11-19T07:59:46.000Z",
-    "viewers": 1244,
-    "last_seen_at": "2026-11-19T08:43:56.436Z",
-    "peak_viewers": 1244,
-    "gifts": 9,
-    "gift_points": 472,
+    "viewers": 1348,
+    "last_seen_at": "2026-11-19T08:49:04.725Z",
+    "peak_viewers": 1348,
+    "gifts": 10,
+    "gift_points": 476,
     "stars": 0,
-    "comments": 224,
+    "comments": 258,
     "gift_breakdown": {
       "Toa": 1,
       "Makan ya kak": 4,
       "Nasi Goreng": 1,
       "Angklung": 2,
-      "Matcha": 1
+      "Matcha": 1,
+      "Cold Water": 1
     },
     "gifters": {
       "b8a9536d-6d96-43ed-aeec-5daad1523a84": "Nathannn_ ",
       "4459b80f-9343-46a5-bdc3-b94d5e8edf93": "Tefie-nya Lyn",
       "3b2bae0c-538e-4b13-bf3e-af4c663c28ab": "Fynnn ",
       "6f38d283-400f-4849-b630-ddd689f19bc7": "OqYn (☞ ಠ_ಠ)☞",
-      "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": "Franko ..."
+      "b9bc3bc2-d6f3-4d1f-8ffe-177432c09826": "Franko ...",
+      "e2821530-fc4c-402a-b126-8d95cbe535ba": "rama fadilla"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 9], [2, 57], [3, 77], [4, 104], [5, 140], [6, 168], [7, 203], [8, 242], [9, 284], [10, 312], [11, 345], [12, 371], [13, 395], [14, 414], [15, 432], [16, 455], [17, 481], [18, 500], [19, 528], [20, 539], [21, 562], [22, 602], [23, 645], [24, 679], [25, 708], [26, 742], [27, 765], [28, 790], [29, 811], [30, 844], [31, 873], [32, 900], [33, 931], [34, 966], [35, 1000], [36, 1025], [37, 1069], [38, 1098], [39, 1107], [40, 1130], [41, 1155], [42, 1184], [43, 1211], [44, 1233]],
+    "viewer_series": [[0, 0], [1, 9], [2, 57], [3, 77], [4, 104], [5, 140], [6, 168], [7, 203], [8, 242], [9, 284], [10, 312], [11, 345], [12, 371], [13, 395], [14, 414], [15, 432], [16, 455], [17, 481], [18, 500], [19, 528], [20, 539], [21, 562], [22, 602], [23, 645], [24, 679], [25, 708], [26, 742], [27, 765], [28, 790], [29, 811], [30, 844], [31, 873], [32, 900], [33, 931], [34, 966], [35, 1000], [36, 1025], [37, 1069], [38, 1098], [39, 1107], [40, 1130], [41, 1155], [42, 1184], [43, 1211], [44, 1233], [45, 1254], [46, 1280], [47, 1299], [48, 1318], [49, 1339]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
-    "gift_gold": 118,
+    "gift_gold": 119,
     "idn_gifters": {
       "b8a9536d-6d96-43ed-aeec-5daad1523a84": {
         "name": "Nathannn_ ",
@@ -61,9 +63,14 @@
         "name": "Franko ...",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626",
         "points": 40
+      },
+      "e2821530-fc4c-402a-b126-8d95cbe535ba": {
+        "name": "rama fadilla",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/20730496286e27ef9b2e258842be0958.webp?v=1786540564",
+        "points": 4
       }
     },
-    "estimated_gift_value_idr": 295000,
+    "estimated_gift_value_idr": 297500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
