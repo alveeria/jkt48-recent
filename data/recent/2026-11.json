@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3031",
+    "platform": "idn",
+    "member": {
+      "name": "Bella",
+      "username": "jkt48_bella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7dba9f66e9e74856ced7c5d6b674b2.webp?v=1779088114"
+    },
+    "title": "Hellooo",
+    "url": "https://www.idn.app/jkt48_bella/live/hellooo-261119141344",
+    "image": "https://cdn.idn.app/livestream/d6b93b0dfc0bdaa5f635c5e9a2cb7473.webp",
+    "started_at": "2026-11-19T07:13:55.000Z",
+    "last_seen_at": "2026-11-19T07:14:02.271Z",
+    "peak_viewers": 0,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 3,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/z9BVDVnpFbGq",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-19T07:14:02.271Z",
+    "duration_minutes": 0,
+    "last_viewers": 0,
+    "unique_gifters": 0,
+    "source_id": "idn:hellooo-261119141344"
+  },
+  {
     "id": "idn:alveeria-3030",
     "platform": "idn",
     "member": {

@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3031",
+    "platform": "idn",
+    "member": {
+      "name": "Bella",
+      "username": "jkt48_bella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc7dba9f66e9e74856ced7c5d6b674b2.webp?v=1779088114"
+    },
+    "title": "Hellooo",
+    "url": "https://www.idn.app/jkt48_bella/live/hellooo-261119141344",
+    "image": "https://cdn.idn.app/livestream/d6b93b0dfc0bdaa5f635c5e9a2cb7473.webp",
+    "started_at": "2026-11-19T07:13:55.000Z",
+    "last_seen_at": "2026-11-19T07:14:02.271Z",
+    "peak_viewers": 0,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 3,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/z9BVDVnpFbGq",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-19T07:14:02.271Z",
+    "duration_minutes": 0,
+    "last_viewers": 0,
+    "unique_gifters": 0,
+    "source_id": "idn:hellooo-261119141344"
+  },
+  {
     "id": "idn:alveeria-3029",
     "platform": "idn",
     "member": {
@@ -20918,116 +20949,6 @@
     "unique_gifters": 18,
     "source_id": "idn:manadooo-261113193531",
     "estimated_gift_value_idr": 1482500,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold"
-  },
-  {
-    "id": "idn:alveeria-2834",
-    "platform": "idn",
-    "member": {
-      "name": "Elin",
-      "username": "jkt48_elin",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0fb5a0de260626f7c1319567ce5e7f39.webp?v=1778761360"
-    },
-    "title": "Hai",
-    "url": "https://www.idn.app/jkt48_elin/live/hai-261113193253",
-    "image": "https://cdn.idn.app/livestream/62133a590dfac0067efdc11221a12b16.webp",
-    "started_at": "2026-11-13T12:33:00.000Z",
-    "last_seen_at": "2026-11-13T13:45:25.965Z",
-    "peak_viewers": 5541,
-    "gifts": 24,
-    "gift_points": 1004,
-    "stars": 0,
-    "comments": 908,
-    "gift_breakdown": {
-      "Motor Sport": 1,
-      "HAHAHA": 1,
-      "HADIIIRRR!!": 1,
-      "Water": 3,
-      "Jikoshoukai": 1,
-      "ELIN": 1,
-      "Kompas": 1,
-      "Toa": 2,
-      "Matcha": 2,
-      "Cold Water": 2,
-      "Lemonade": 1,
-      "Lemon Tea": 1,
-      "Kupu-Kupu": 2,
-      "Cupid": 1,
-      "Orange Syrup": 1,
-      "Mawar": 3
-    },
-    "top_gifters": [
-      {
-        "rank": 1,
-        "name": "dagdigdugdeerr .",
-        "points": 352,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a265d8588c4b140a34250ca9937442ea.webp?v=1792413558"
-      },
-      {
-        "rank": 2,
-        "name": "Mahendra Pramudita",
-        "points": 200,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a89881c43cc1daba78f08718217622c9.webp?v=1789239454"
-      },
-      {
-        "rank": 3,
-        "name": "Yosua",
-        "points": 176,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c158de5e62c4b462b4d60d096a709ee8.webp?v=1742378030"
-      },
-      {
-        "rank": 4,
-        "name": "Fa jr.",
-        "points": 88,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
-      },
-      {
-        "rank": 5,
-        "name": "Tegar Aja29",
-        "points": 40,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/105add69b6e30d974628347e3f1ed9cf.webp?v=1765097789"
-      },
-      {
-        "rank": 6,
-        "name": "Kei😴. ᅠ",
-        "points": 32,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec30492bb9d618a0302004d5282dd79a.webp?v=1794118263"
-      },
-      {
-        "rank": 7,
-        "name": "Fauzanputra028 ",
-        "points": 28,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b7c10e8f1c694cb7ad5c17d2e6ece1c4.webp?v=1765450697"
-      },
-      {
-        "rank": 8,
-        "name": "liaaa aaaja",
-        "points": 24,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1f83f8a5b1842245f9a88bae81746bc7.webp?v=1761489357"
-      },
-      {
-        "rank": 9,
-        "name": "Heggyss Septian",
-        "points": 20,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/28036b579674116f70da81484450a53a.webp?v=1793711683"
-      },
-      {
-        "rank": 10,
-        "name": "VRISKY LATIEF",
-        "points": 20,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d85ec96bdef63051aa3351320c46b414.webp?v=1786652484"
-      }
-    ],
-    "viewer_series": [[0, 1], [1, 18], [2, 91], [3, 168], [4, 229], [5, 312], [6, 398], [7, 513], [8, 656], [9, 823], [10, 1003], [11, 1155], [12, 1271], [13, 1374], [14, 1483], [15, 1574], [16, 1667], [17, 1720], [18, 1809], [19, 1893], [20, 1981], [21, 2066], [22, 2152], [23, 2242], [24, 2319], [25, 2397], [26, 2467], [27, 2550], [28, 2630], [29, 2716], [30, 2786], [31, 2853], [32, 2935], [33, 2965], [34, 3027], [35, 3092], [36, 3173], [37, 3231], [38, 3297], [39, 3374], [40, 3452], [41, 3507], [42, 3563], [43, 3627], [44, 3672], [45, 3724], [46, 3776], [47, 3854], [48, 3917], [49, 3959], [50, 4017], [51, 4081], [52, 4141], [53, 4199], [54, 4244], [55, 4266], [56, 4342], [57, 4389], [58, 4446], [59, 4517], [60, 4577], [61, 4642], [62, 4718], [63, 4812], [64, 4886], [65, 4943], [66, 5010], [67, 5075], [68, 5139], [69, 5234], [70, 5305], [71, 5419], [72, 5501]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBuGTLoLJOCV",
-    "gift_gold": 251,
-    "ended_at": "2026-11-13T13:45:25.965Z",
-    "duration_minutes": 72,
-    "last_viewers": 5541,
-    "unique_gifters": 13,
-    "source_id": "idn:hai-261113193253",
-    "estimated_gift_value_idr": 627500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
