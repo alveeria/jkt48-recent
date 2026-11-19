@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 19 Nov 2026, 20.33 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 19 Nov 2026, 20.39 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 3.643 |
-| Elin | IDN Live | Hai | 19 Nov 2026, 19.33 | 2.770 |
-| Nayla | IDN Live | N | 19 Nov 2026, 19.32 | 4.183 |
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 448 |
-| Anindya | IDN Live | HALO!! | 19 Nov 2026, 20.24 | 549 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 3.963 |
+| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 452 |
+| Anindya | IDN Live | HALO!! | 19 Nov 2026, 20.24 | 885 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Indah | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.34 | 32m | 3.424 | 0 | — | — | 0 |
+| Elin | IDN Live | Hai | 19 Nov 2026, 19.33 | 63m | 2.886 | 0 | — | — | 0 |
+| Nayla | IDN Live | N | 19 Nov 2026, 19.32 | 64m | 4.284 | 0 | — | — | 0 |
 | Gracie | IDN Live | hiii | 19 Nov 2026, 19.32 | 48m | 4.248 | 0 | — | — | 0 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.26 | 61m | 4.103 | 0 | — | — | 0 |
 | Sona | IDN Live | makan | 19 Nov 2026, 16.04 | 6m | 322 | 1 | 5 | — | 103 |
@@ -94,8 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Danella | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 19.55 | 67m | 3.441 | 6 | 211 | — | 188 |
 | JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/18 | 18 Nov 2026, 18.51 | 126m | 596 | 0 | — | — | 84 |
 | Sona | IDN Live | haihaiahi | 18 Nov 2026, 16.31 | 19m | 1.078 | 9 | 50 | — | 729 |
-| Fahira | IDN Live | ada apa??? | 18 Nov 2026, 16.20 | 30m | 1.511 | 7 | 46 | — | 884 |
-| Rilly | IDN Live | GEREEEMMM | 18 Nov 2026, 15.51 | 59m | 2.328 | 12 | 382 | — | 867 |
 
 ## Lisensi
 
