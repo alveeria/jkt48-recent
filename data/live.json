@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T04:48:03.683Z",
+  "updated_at": "2026-11-19T04:53:10.355Z",
   "lives": [
     {
       "id": "idn:live-aja-261119112754",
@@ -13,25 +13,25 @@
       "url": "https://www.idn.app/jkt48_michie/live/live-aja-261119112754",
       "image": "https://cdn.idn.app/livestream/acdc9717b2fe57b969bc789f52455fbd.webp",
       "started_at": "2026-11-19T04:28:00.000Z",
-      "viewers": 3039,
-      "last_seen_at": "2026-11-19T04:48:03.098Z",
-      "peak_viewers": 3039,
-      "gifts": 22,
-      "gift_points": 820,
+      "viewers": 3529,
+      "last_seen_at": "2026-11-19T04:53:09.502Z",
+      "peak_viewers": 3529,
+      "gifts": 26,
+      "gift_points": 940,
       "stars": 0,
-      "comments": 1366,
+      "comments": 1565,
       "gift_breakdown": {
-        "Matcha": 1,
+        "Matcha": 2,
         "Lemon Tea": 1,
         "Cold Water": 5,
-        "Pumpkin": 2,
+        "Pumpkin": 3,
         "Gift Card": 1,
         "JKT48 Stage": 1,
         "Toa": 3,
         "Angklung": 1,
         "Semangat kak": 2,
         "Water": 1,
-        "Kompas": 2,
+        "Kompas": 4,
         "Mawar": 1,
         "MICHIE": 1
       },
@@ -45,7 +45,7 @@
         {
           "rank": 2,
           "name": "elvin",
-          "points": 116,
+          "points": 156,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ddc562aa29fa1dd0c1aae75cfac73caa.webp?v=1794414907"
         },
         {
@@ -80,27 +80,27 @@
         },
         {
           "rank": 8,
+          "name": "Ajibb .ski",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/add93f3cc8ba52547dc4c156d7709731.webp?v=1787671914"
+        },
+        {
+          "rank": 9,
           "name": "ASDI .",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c03c4b7a836db9b95de6776f48f4cb67.webp?v=1794061270"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "MuJiiBB PassiONiel",
           "points": 20,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b61f55b8ed919890bd59a4ccedcf31e.webp?v=1794991836"
-        },
-        {
-          "rank": 10,
-          "name": "Elno Oscar",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ffc1393d7793637e27e2b7fa0a150382.webp?v=1785845161"
         }
       ],
-      "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980]],
+      "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980], [21, 3098], [22, 3202], [23, 3304], [24, 3392], [25, 3479]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-      "gift_gold": 205,
-      "estimated_gift_value_idr": 512500,
+      "gift_gold": 235,
+      "estimated_gift_value_idr": 587500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }

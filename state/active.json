@@ -11,25 +11,25 @@
     "url": "https://www.idn.app/jkt48_michie/live/live-aja-261119112754",
     "image": "https://cdn.idn.app/livestream/acdc9717b2fe57b969bc789f52455fbd.webp",
     "started_at": "2026-11-19T04:28:00.000Z",
-    "viewers": 3039,
-    "last_seen_at": "2026-11-19T04:48:03.098Z",
-    "peak_viewers": 3039,
-    "gifts": 22,
-    "gift_points": 820,
+    "viewers": 3529,
+    "last_seen_at": "2026-11-19T04:53:09.502Z",
+    "peak_viewers": 3529,
+    "gifts": 26,
+    "gift_points": 940,
     "stars": 0,
-    "comments": 1366,
+    "comments": 1565,
     "gift_breakdown": {
-      "Matcha": 1,
+      "Matcha": 2,
       "Lemon Tea": 1,
       "Cold Water": 5,
-      "Pumpkin": 2,
+      "Pumpkin": 3,
       "Gift Card": 1,
       "JKT48 Stage": 1,
       "Toa": 3,
       "Angklung": 1,
       "Semangat kak": 2,
       "Water": 1,
-      "Kompas": 2,
+      "Kompas": 4,
       "Mawar": 1,
       "MICHIE": 1
     },
@@ -49,12 +49,15 @@
       "b38bc850-2aeb-4d4c-8b4e-87b4afa0efc0": "Dodo Richardo",
       "ce7f5a6d-ca42-4743-b82a-ccffe1e1bd7e": "MuJiiBB PassiONiel",
       "80bf5946-e8a9-4cc4-b1b9-04a8b9277533": "Aksel Ghailan Putra",
-      "503d4c21-5259-49dd-ac24-7146e9f82134": "Elno Oscar"
+      "503d4c21-5259-49dd-ac24-7146e9f82134": "Elno Oscar",
+      "8f2c27c0-3637-4a35-af12-6aae5fabebb2": "Ajibb .ski",
+      "d88b65ae-bbea-484d-b4e2-e3e735da0336": "diki .",
+      "fa35031d-bea4-4209-9346-102c61434969": "Bbonyo Kim"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980]],
+    "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980], [21, 3098], [22, 3202], [23, 3304], [24, 3392], [25, 3479]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 205,
+    "gift_gold": 235,
     "idn_gifters": {
       "29c1dd6e-19ca-45ec-a3d4-07f1a6b6a5f8": {
         "name": "Kak Mayong",
@@ -89,7 +92,7 @@
       "5bdfa8ab-f46d-470b-93f4-0b772e728062": {
         "name": "elvin",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ddc562aa29fa1dd0c1aae75cfac73caa.webp?v=1794414907",
-        "points": 116
+        "points": 156
       },
       "1812ccaf-843a-4aa1-b1d3-65c124bc28f5": {
         "name": "khaira rashifa",
@@ -135,9 +138,24 @@
         "name": "Elno Oscar",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ffc1393d7793637e27e2b7fa0a150382.webp?v=1785845161",
         "points": 20
+      },
+      "8f2c27c0-3637-4a35-af12-6aae5fabebb2": {
+        "name": "Ajibb .ski",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/add93f3cc8ba52547dc4c156d7709731.webp?v=1787671914",
+        "points": 40
+      },
+      "d88b65ae-bbea-484d-b4e2-e3e735da0336": {
+        "name": "diki .",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1066a5a44f30d37ed55239affd2cad93.webp?v=1795060220",
+        "points": 20
+      },
+      "fa35031d-bea4-4209-9346-102c61434969": {
+        "name": "Bbonyo Kim",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ccf1a607fc7a50d307f532c59c00683f.webp?v=1794662671",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 512500,
+    "estimated_gift_value_idr": 587500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
