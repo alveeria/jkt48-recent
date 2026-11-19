@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T06:51:01.313Z",
+  "updated_at": "2026-11-19T06:56:06.401Z",
   "lives": [
     {
       "id": "idn:barbang-261119130637",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_fritzy/live/barbang-261119130637",
       "image": "https://cdn.idn.app/livestream/9018919f02c2c26a2c3e593effcc20ce.webp",
       "started_at": "2026-11-19T06:06:44.000Z",
-      "viewers": 4262,
-      "last_seen_at": "2026-11-19T06:51:00.641Z",
-      "peak_viewers": 4262,
-      "gifts": 14,
-      "gift_points": 1072,
+      "viewers": 4585,
+      "last_seen_at": "2026-11-19T06:56:05.842Z",
+      "peak_viewers": 4585,
+      "gifts": 15,
+      "gift_points": 1136,
       "stars": 0,
-      "comments": 2168,
+      "comments": 2311,
       "gift_breakdown": {
         "Water": 1,
         "Kompas": 2,
@@ -29,7 +29,8 @@
         "Toa": 2,
         "Pumpkin": 1,
         "Matcha": 1,
-        "FRITZY": 2
+        "FRITZY": 2,
+        "Jari Hati": 1
       },
       "top_gifters": [
         {
@@ -40,27 +41,27 @@
         },
         {
           "rank": 2,
+          "name": "Denza Lian",
+          "points": 104,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc2e9989edecc20ff0e5d795a4ae6bb8.webp?v=1787304156"
+        },
+        {
+          "rank": 3,
           "name": "Irfan",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ced80dbfcbc57223884359c2e0958441.webp?v=1784823086"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Mantankalkun 💫",
           "points": 80,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ef29cdfdd4d75e6606b0709dd2b56183.webp?v=1783506877"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Calon.Imam .",
           "points": 60,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/5cf4511dbc41ccf47b3fcd925f61f8c7.webp?v=1795026292"
-        },
-        {
-          "rank": 5,
-          "name": "Denza Lian",
-          "points": 40,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc2e9989edecc20ff0e5d795a4ae6bb8.webp?v=1787304156"
         },
         {
           "rank": 6,
@@ -93,10 +94,10 @@
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7790bb66ee430a2b5ddab2d2b9010feb.webp?v=1794980058"
         }
       ],
-      "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332], [20, 2413], [21, 2503], [22, 2605], [23, 2744], [24, 2839], [25, 2940], [26, 3020], [27, 3102], [28, 3184], [29, 3250], [30, 3324], [31, 3399], [32, 3470], [33, 3510], [34, 3578], [35, 3640], [36, 3703], [37, 3780], [38, 3853], [39, 3910], [40, 3977], [41, 4046], [42, 4105], [43, 4160], [44, 4222]],
+      "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332], [20, 2413], [21, 2503], [22, 2605], [23, 2744], [24, 2839], [25, 2940], [26, 3020], [27, 3102], [28, 3184], [29, 3250], [30, 3324], [31, 3399], [32, 3470], [33, 3510], [34, 3578], [35, 3640], [36, 3703], [37, 3780], [38, 3853], [39, 3910], [40, 3977], [41, 4046], [42, 4105], [43, 4160], [44, 4222], [45, 4304], [46, 4363], [47, 4434], [48, 4495], [49, 4542]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-      "gift_gold": 268,
-      "estimated_gift_value_idr": 670000,
+      "gift_gold": 284,
+      "estimated_gift_value_idr": 710000,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     },
@@ -112,18 +113,19 @@
       "url": "https://www.idn.app/jkt48_lulu/live/hi-261119132210",
       "image": "https://cdn.idn.app/livestream/3474f2cca91e3812abcc83ab2640c96e.webp",
       "started_at": "2026-11-19T06:22:15.000Z",
-      "viewers": 2064,
-      "last_seen_at": "2026-11-19T06:51:00.641Z",
-      "peak_viewers": 2064,
-      "gifts": 5,
-      "gift_points": 560,
+      "viewers": 2318,
+      "last_seen_at": "2026-11-19T06:56:05.842Z",
+      "peak_viewers": 2318,
+      "gifts": 6,
+      "gift_points": 564,
       "stars": 0,
-      "comments": 453,
+      "comments": 497,
       "gift_breakdown": {
         "Cold Water": 1,
         "Toa": 2,
         "Pumpkin": 1,
-        "Cendrawasih": 1
+        "Cendrawasih": 1,
+        "Water": 1
       },
       "top_gifters": [
         {
@@ -155,12 +157,18 @@
           "name": "Gale Dwiii",
           "points": 4,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7d30c972b33ab39cee8b27f8e698b4ec.webp?v=1784553992"
+        },
+        {
+          "rank": 6,
+          "name": "Narendra _",
+          "points": 4,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6eb2a0d65bc11567564731f6dc661062.webp?v=1788773646"
         }
       ],
-      "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817], [9, 918], [10, 1008], [11, 1067], [12, 1143], [13, 1210], [14, 1270], [15, 1324], [16, 1402], [17, 1463], [18, 1497], [19, 1546], [20, 1606], [21, 1667], [22, 1712], [23, 1772], [24, 1832], [25, 1897], [26, 1932], [27, 1971], [28, 2016], [29, 2064]],
+      "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817], [9, 918], [10, 1008], [11, 1067], [12, 1143], [13, 1210], [14, 1270], [15, 1324], [16, 1402], [17, 1463], [18, 1497], [19, 1546], [20, 1606], [21, 1667], [22, 1712], [23, 1772], [24, 1832], [25, 1897], [26, 1932], [27, 1971], [28, 2016], [29, 2064], [30, 2124], [31, 2178], [32, 2228], [33, 2270], [34, 2318]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
-      "gift_gold": 140,
-      "estimated_gift_value_idr": 350000,
+      "gift_gold": 141,
+      "estimated_gift_value_idr": 352500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }

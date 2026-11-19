@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/barbang-261119130637",
     "image": "https://cdn.idn.app/livestream/9018919f02c2c26a2c3e593effcc20ce.webp",
     "started_at": "2026-11-19T06:06:44.000Z",
-    "viewers": 4262,
-    "last_seen_at": "2026-11-19T06:51:00.641Z",
-    "peak_viewers": 4262,
-    "gifts": 14,
-    "gift_points": 1072,
+    "viewers": 4585,
+    "last_seen_at": "2026-11-19T06:56:05.842Z",
+    "peak_viewers": 4585,
+    "gifts": 15,
+    "gift_points": 1136,
     "stars": 0,
-    "comments": 2168,
+    "comments": 2311,
     "gift_breakdown": {
       "Water": 1,
       "Kompas": 2,
@@ -27,7 +27,8 @@
       "Toa": 2,
       "Pumpkin": 1,
       "Matcha": 1,
-      "FRITZY": 2
+      "FRITZY": 2,
+      "Jari Hati": 1
     },
     "gifters": {
       "8299a8fe-762a-4519-ab19-5b3720b09e84": "Zanciyy Cyrus",
@@ -44,9 +45,9 @@
       "3c720c01-a13d-4c58-9a77-22023a4370ba": "Mantankalkun 💫"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332], [20, 2413], [21, 2503], [22, 2605], [23, 2744], [24, 2839], [25, 2940], [26, 3020], [27, 3102], [28, 3184], [29, 3250], [30, 3324], [31, 3399], [32, 3470], [33, 3510], [34, 3578], [35, 3640], [36, 3703], [37, 3780], [38, 3853], [39, 3910], [40, 3977], [41, 4046], [42, 4105], [43, 4160], [44, 4222]],
+    "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332], [20, 2413], [21, 2503], [22, 2605], [23, 2744], [24, 2839], [25, 2940], [26, 3020], [27, 3102], [28, 3184], [29, 3250], [30, 3324], [31, 3399], [32, 3470], [33, 3510], [34, 3578], [35, 3640], [36, 3703], [37, 3780], [38, 3853], [39, 3910], [40, 3977], [41, 4046], [42, 4105], [43, 4160], [44, 4222], [45, 4304], [46, 4363], [47, 4434], [48, 4495], [49, 4542]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 268,
+    "gift_gold": 284,
     "idn_gifters": {
       "8299a8fe-762a-4519-ab19-5b3720b09e84": {
         "name": "Zanciyy Cyrus",
@@ -91,7 +92,7 @@
       "9978428d-efb5-47a2-826c-6d597fdfd919": {
         "name": "Denza Lian",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cc2e9989edecc20ff0e5d795a4ae6bb8.webp?v=1787304156",
-        "points": 40
+        "points": 104
       },
       "8952524a-fb4f-4c1b-8aee-95a8087fe900": {
         "name": "Irfan",
@@ -109,7 +110,7 @@
         "points": 80
       }
     },
-    "estimated_gift_value_idr": 670000,
+    "estimated_gift_value_idr": 710000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   },
@@ -125,30 +126,32 @@
     "url": "https://www.idn.app/jkt48_lulu/live/hi-261119132210",
     "image": "https://cdn.idn.app/livestream/3474f2cca91e3812abcc83ab2640c96e.webp",
     "started_at": "2026-11-19T06:22:15.000Z",
-    "viewers": 2064,
-    "last_seen_at": "2026-11-19T06:51:00.641Z",
-    "peak_viewers": 2064,
-    "gifts": 5,
-    "gift_points": 560,
+    "viewers": 2318,
+    "last_seen_at": "2026-11-19T06:56:05.842Z",
+    "peak_viewers": 2318,
+    "gifts": 6,
+    "gift_points": 564,
     "stars": 0,
-    "comments": 453,
+    "comments": 497,
     "gift_breakdown": {
       "Cold Water": 1,
       "Toa": 2,
       "Pumpkin": 1,
-      "Cendrawasih": 1
+      "Cendrawasih": 1,
+      "Water": 1
     },
     "gifters": {
       "798693ce-03c5-46d4-a9f3-dddf455e4fab": "Gale Dwiii",
       "f850a7e6-60a0-437d-aace-d1566ede360e": "Bintang (bibin)",
       "abfa7f23-3e1a-495c-870a-92a01e939c0c": "Panduu",
       "bd11be3d-d507-4160-af9e-e4abc29de78e": "Dwi Refa #4thDescender",
-      "32350e40-fff6-47bd-802d-1d39c42569f6": "Syahiran ."
+      "32350e40-fff6-47bd-802d-1d39c42569f6": "Syahiran .",
+      "87ba5cf5-bf13-47c4-921d-becb0ce8728e": "Narendra _"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817], [9, 918], [10, 1008], [11, 1067], [12, 1143], [13, 1210], [14, 1270], [15, 1324], [16, 1402], [17, 1463], [18, 1497], [19, 1546], [20, 1606], [21, 1667], [22, 1712], [23, 1772], [24, 1832], [25, 1897], [26, 1932], [27, 1971], [28, 2016], [29, 2064]],
+    "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817], [9, 918], [10, 1008], [11, 1067], [12, 1143], [13, 1210], [14, 1270], [15, 1324], [16, 1402], [17, 1463], [18, 1497], [19, 1546], [20, 1606], [21, 1667], [22, 1712], [23, 1772], [24, 1832], [25, 1897], [26, 1932], [27, 1971], [28, 2016], [29, 2064], [30, 2124], [31, 2178], [32, 2228], [33, 2270], [34, 2318]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
-    "gift_gold": 140,
+    "gift_gold": 141,
     "idn_gifters": {
       "798693ce-03c5-46d4-a9f3-dddf455e4fab": {
         "name": "Gale Dwiii",
@@ -174,9 +177,14 @@
         "name": "Syahiran .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bc9f6896a9cb840d737c48e58de00ef7.webp?v=1748157669",
         "points": 476
+      },
+      "87ba5cf5-bf13-47c4-921d-becb0ce8728e": {
+        "name": "Narendra _",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6eb2a0d65bc11567564731f6dc661062.webp?v=1788773646",
+        "points": 4
       }
     },
-    "estimated_gift_value_idr": 350000,
+    "estimated_gift_value_idr": 352500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
