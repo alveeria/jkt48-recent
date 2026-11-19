@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T04:53:10.355Z",
+  "updated_at": "2026-11-19T04:58:18.449Z",
   "lives": [
     {
       "id": "idn:live-aja-261119112754",
@@ -13,13 +13,13 @@
       "url": "https://www.idn.app/jkt48_michie/live/live-aja-261119112754",
       "image": "https://cdn.idn.app/livestream/acdc9717b2fe57b969bc789f52455fbd.webp",
       "started_at": "2026-11-19T04:28:00.000Z",
-      "viewers": 3529,
-      "last_seen_at": "2026-11-19T04:53:09.502Z",
-      "peak_viewers": 3529,
-      "gifts": 26,
-      "gift_points": 940,
+      "viewers": 3927,
+      "last_seen_at": "2026-11-19T04:58:17.490Z",
+      "peak_viewers": 3927,
+      "gifts": 31,
+      "gift_points": 1164,
       "stars": 0,
-      "comments": 1565,
+      "comments": 1752,
       "gift_breakdown": {
         "Matcha": 2,
         "Lemon Tea": 1,
@@ -27,13 +27,15 @@
         "Pumpkin": 3,
         "Gift Card": 1,
         "JKT48 Stage": 1,
-        "Toa": 3,
+        "Toa": 4,
         "Angklung": 1,
         "Semangat kak": 2,
         "Water": 1,
         "Kompas": 4,
-        "Mawar": 1,
-        "MICHIE": 1
+        "Mawar": 2,
+        "MICHIE": 2,
+        "Jikoshoukai": 1,
+        "Paling Ramah": 1
       },
       "top_gifters": [
         {
@@ -45,7 +47,7 @@
         {
           "rank": 2,
           "name": "elvin",
-          "points": 156,
+          "points": 232,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ddc562aa29fa1dd0c1aae75cfac73caa.webp?v=1794414907"
         },
         {
@@ -56,51 +58,51 @@
         },
         {
           "rank": 4,
+          "name": "Christy Chrst",
+          "points": 80,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/879a22c04641510070be8601b921debb.webp?v=1795014001"
+        },
+        {
+          "rank": 5,
           "name": "Aris",
           "points": 60,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Faisal _",
           "points": 56,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/38d8a2e01ce2b1bdc76d3eca31818da1.webp?v=1790269810"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Grand W",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e3bc06e2d700f751db1dd3afbe5ef266.webp?v=1787237450"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Dodo Richardo",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8d5a69770df1f56c671b71a93b36fd4b.webp?v=1787829000"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Ajibb .ski",
           "points": 40,
           "avatar": "https://cdn.idn.media/idnaccount/avatar/500/add93f3cc8ba52547dc4c156d7709731.webp?v=1787671914"
         },
         {
-          "rank": 9,
-          "name": "ASDI .",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c03c4b7a836db9b95de6776f48f4cb67.webp?v=1794061270"
-        },
-        {
           "rank": 10,
-          "name": "MuJiiBB PassiONiel",
-          "points": 20,
-          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9b61f55b8ed919890bd59a4ccedcf31e.webp?v=1794991836"
+          "name": "Bbonyo Kim",
+          "points": 40,
+          "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ccf1a607fc7a50d307f532c59c00683f.webp?v=1794662671"
         }
       ],
-      "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980], [21, 3098], [22, 3202], [23, 3304], [24, 3392], [25, 3479]],
+      "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980], [21, 3098], [22, 3202], [23, 3304], [24, 3392], [25, 3479], [26, 3579], [27, 3655], [28, 3735], [29, 3803], [30, 3888]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-      "gift_gold": 235,
-      "estimated_gift_value_idr": 587500,
+      "gift_gold": 291,
+      "estimated_gift_value_idr": 727500,
       "gift_rate_idr": 2500,
       "gift_value_basis": "gold"
     }

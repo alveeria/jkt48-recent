@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_michie/live/live-aja-261119112754",
     "image": "https://cdn.idn.app/livestream/acdc9717b2fe57b969bc789f52455fbd.webp",
     "started_at": "2026-11-19T04:28:00.000Z",
-    "viewers": 3529,
-    "last_seen_at": "2026-11-19T04:53:09.502Z",
-    "peak_viewers": 3529,
-    "gifts": 26,
-    "gift_points": 940,
+    "viewers": 3927,
+    "last_seen_at": "2026-11-19T04:58:17.490Z",
+    "peak_viewers": 3927,
+    "gifts": 31,
+    "gift_points": 1164,
     "stars": 0,
-    "comments": 1565,
+    "comments": 1752,
     "gift_breakdown": {
       "Matcha": 2,
       "Lemon Tea": 1,
@@ -25,13 +25,15 @@
       "Pumpkin": 3,
       "Gift Card": 1,
       "JKT48 Stage": 1,
-      "Toa": 3,
+      "Toa": 4,
       "Angklung": 1,
       "Semangat kak": 2,
       "Water": 1,
       "Kompas": 4,
-      "Mawar": 1,
-      "MICHIE": 1
+      "Mawar": 2,
+      "MICHIE": 2,
+      "Jikoshoukai": 1,
+      "Paling Ramah": 1
     },
     "gifters": {
       "29c1dd6e-19ca-45ec-a3d4-07f1a6b6a5f8": "Kak Mayong",
@@ -52,12 +54,15 @@
       "503d4c21-5259-49dd-ac24-7146e9f82134": "Elno Oscar",
       "8f2c27c0-3637-4a35-af12-6aae5fabebb2": "Ajibb .ski",
       "d88b65ae-bbea-484d-b4e2-e3e735da0336": "diki .",
-      "fa35031d-bea4-4209-9346-102c61434969": "Bbonyo Kim"
+      "fa35031d-bea4-4209-9346-102c61434969": "Bbonyo Kim",
+      "14c852b6-78d8-464f-a78e-3c150a7e0b38": "Christy Chrst",
+      "1433564f-4db7-459e-a11c-d5387e173b2e": "dede nya kaka rachel lll",
+      "6a69fef8-85d2-409f-8ada-6f0cc312992b": "alphyoo bestie Michelle??"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980], [21, 3098], [22, 3202], [23, 3304], [24, 3392], [25, 3479]],
+    "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445], [16, 2570], [17, 2693], [18, 2819], [19, 2870], [20, 2980], [21, 3098], [22, 3202], [23, 3304], [24, 3392], [25, 3479], [26, 3579], [27, 3655], [28, 3735], [29, 3803], [30, 3888]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 235,
+    "gift_gold": 291,
     "idn_gifters": {
       "29c1dd6e-19ca-45ec-a3d4-07f1a6b6a5f8": {
         "name": "Kak Mayong",
@@ -92,7 +97,7 @@
       "5bdfa8ab-f46d-470b-93f4-0b772e728062": {
         "name": "elvin",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ddc562aa29fa1dd0c1aae75cfac73caa.webp?v=1794414907",
-        "points": 156
+        "points": 232
       },
       "1812ccaf-843a-4aa1-b1d3-65c124bc28f5": {
         "name": "khaira rashifa",
@@ -152,10 +157,25 @@
       "fa35031d-bea4-4209-9346-102c61434969": {
         "name": "Bbonyo Kim",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ccf1a607fc7a50d307f532c59c00683f.webp?v=1794662671",
-        "points": 20
+        "points": 40
+      },
+      "14c852b6-78d8-464f-a78e-3c150a7e0b38": {
+        "name": "Christy Chrst",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/879a22c04641510070be8601b921debb.webp?v=1795014001",
+        "points": 80
+      },
+      "1433564f-4db7-459e-a11c-d5387e173b2e": {
+        "name": "dede nya kaka rachel lll",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/570bea6ee1864e893c1922fa56cba87a.webp?v=1792470719",
+        "points": 12
+      },
+      "6a69fef8-85d2-409f-8ada-6f0cc312992b": {
+        "name": "alphyoo bestie Michelle??",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4cfbfc2989c936e8449f55307cebd2ff.webp?v=1794215278",
+        "points": 36
       }
     },
-    "estimated_gift_value_idr": 587500,
+    "estimated_gift_value_idr": 727500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
