@@ -11,13 +11,13 @@
     "url": "https://www.idn.app/jkt48_fritzy/live/barbang-261119130637",
     "image": "https://cdn.idn.app/livestream/9018919f02c2c26a2c3e593effcc20ce.webp",
     "started_at": "2026-11-19T06:06:44.000Z",
-    "viewers": 2332,
-    "last_seen_at": "2026-11-19T06:25:25.651Z",
-    "peak_viewers": 2332,
+    "viewers": 2839,
+    "last_seen_at": "2026-11-19T06:30:33.231Z",
+    "peak_viewers": 2839,
     "gifts": 4,
     "gift_points": 728,
     "stars": 0,
-    "comments": 682,
+    "comments": 952,
     "gift_breakdown": {
       "Water": 1,
       "Kompas": 1,
@@ -31,7 +31,7 @@
       "0a6fd6dd-d2af-407b-abf3-2abb8fe9b69c": "argaa "
     },
     "top_gifters": [],
-    "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332]],
+    "viewer_series": [[0, 3], [1, 62], [2, 181], [3, 292], [4, 389], [5, 513], [6, 682], [7, 831], [8, 938], [9, 1048], [10, 1154], [11, 1237], [12, 1586], [13, 1772], [14, 1875], [15, 1970], [16, 2067], [17, 2147], [18, 2237], [19, 2332], [20, 2413], [21, 2503], [22, 2605], [23, 2744], [24, 2839]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
     "gift_gold": 182,
     "idn_gifters": {
@@ -72,31 +72,45 @@
     "url": "https://www.idn.app/jkt48_lulu/live/hi-261119132210",
     "image": "https://cdn.idn.app/livestream/3474f2cca91e3812abcc83ab2640c96e.webp",
     "started_at": "2026-11-19T06:22:15.000Z",
-    "viewers": 242,
-    "last_seen_at": "2026-11-19T06:25:25.651Z",
-    "peak_viewers": 242,
-    "gifts": 1,
-    "gift_points": 4,
+    "viewers": 867,
+    "last_seen_at": "2026-11-19T06:30:33.231Z",
+    "peak_viewers": 867,
+    "gifts": 3,
+    "gift_points": 64,
     "stars": 0,
-    "comments": 33,
+    "comments": 129,
     "gift_breakdown": {
-      "Cold Water": 1
+      "Cold Water": 1,
+      "Toa": 1,
+      "Pumpkin": 1
     },
     "gifters": {
-      "798693ce-03c5-46d4-a9f3-dddf455e4fab": "Gale Dwiii"
+      "798693ce-03c5-46d4-a9f3-dddf455e4fab": "Gale Dwiii",
+      "f850a7e6-60a0-437d-aace-d1566ede360e": "Bintang (bibin)",
+      "abfa7f23-3e1a-495c-870a-92a01e939c0c": "Panduu"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199]],
+    "viewer_series": [[0, 0], [1, 23], [2, 122], [3, 199], [4, 270], [5, 335], [6, 420], [7, 696], [8, 817]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
-    "gift_gold": 1,
+    "gift_gold": 16,
     "idn_gifters": {
       "798693ce-03c5-46d4-a9f3-dddf455e4fab": {
         "name": "Gale Dwiii",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7d30c972b33ab39cee8b27f8e698b4ec.webp?v=1784553992",
         "points": 4
+      },
+      "f850a7e6-60a0-437d-aace-d1566ede360e": {
+        "name": "Bintang (bibin)",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f9397f7d81dbe4a5637a7ef4c9e26bb8.webp?v=1789748189",
+        "points": 20
+      },
+      "abfa7f23-3e1a-495c-870a-92a01e939c0c": {
+        "name": "Panduu",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/502368382a46fe355ceec34f02111953.webp?v=1731395787",
+        "points": 40
       }
     },
-    "estimated_gift_value_idr": 2500,
+    "estimated_gift_value_idr": 40000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
