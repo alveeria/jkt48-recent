@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3048",
+    "platform": "idn",
+    "member": {
+      "name": "Anindya",
+      "username": "jkt48_anindya",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf258bddd53add17931bcd75a810831c.webp?v=1778761256"
+    },
+    "title": "HALO!!",
+    "url": "https://www.idn.app/jkt48_anindya/live/halo-261119202427",
+    "image": "https://cdn.idn.app/livestream/d950e08410b7dcecd732802c2c4c012b.webp",
+    "started_at": "2026-11-19T13:24:32.000Z",
+    "last_seen_at": "2026-11-19T13:58:40.067Z",
+    "peak_viewers": 1968,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 14], [2, 76], [3, 141], [4, 211], [5, 262], [6, 316], [7, 360], [8, 451], [9, 520], [10, 571], [11, 636], [12, 697], [13, 728], [14, 810], [15, 885], [16, 957], [17, 1028], [18, 1093], [19, 1152], [20, 1230], [21, 1294], [22, 1356], [23, 1419], [24, 1474], [25, 1521], [26, 1566], [27, 1612], [28, 1661], [29, 1701], [30, 1740], [31, 1783], [32, 1833], [33, 1888], [34, 1936]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/nWIQ166byDzM",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-19T13:58:40.067Z",
+    "duration_minutes": 34,
+    "last_viewers": 1968,
+    "unique_gifters": 0,
+    "source_id": "idn:halo-261119202427"
+  },
+  {
     "id": "idn:alveeria-3046",
     "platform": "idn",
     "member": {

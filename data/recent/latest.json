@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3048",
+    "platform": "idn",
+    "member": {
+      "name": "Anindya",
+      "username": "jkt48_anindya",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf258bddd53add17931bcd75a810831c.webp?v=1778761256"
+    },
+    "title": "HALO!!",
+    "url": "https://www.idn.app/jkt48_anindya/live/halo-261119202427",
+    "image": "https://cdn.idn.app/livestream/d950e08410b7dcecd732802c2c4c012b.webp",
+    "started_at": "2026-11-19T13:24:32.000Z",
+    "last_seen_at": "2026-11-19T13:58:40.067Z",
+    "peak_viewers": 1968,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 14], [2, 76], [3, 141], [4, 211], [5, 262], [6, 316], [7, 360], [8, 451], [9, 520], [10, 571], [11, 636], [12, 697], [13, 728], [14, 810], [15, 885], [16, 957], [17, 1028], [18, 1093], [19, 1152], [20, 1230], [21, 1294], [22, 1356], [23, 1419], [24, 1474], [25, 1521], [26, 1566], [27, 1612], [28, 1661], [29, 1701], [30, 1740], [31, 1783], [32, 1833], [33, 1888], [34, 1936]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/nWIQ166byDzM",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-19T13:58:40.067Z",
+    "duration_minutes": 34,
+    "last_viewers": 1968,
+    "unique_gifters": 0,
+    "source_id": "idn:halo-261119202427"
+  },
+  {
     "id": "idn:alveeria-3043",
     "platform": "idn",
     "member": {
@@ -20529,126 +20560,6 @@
     "unique_gifters": 13,
     "source_id": "idn:261114115022",
     "estimated_gift_value_idr": 1722500,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold"
-  },
-  {
-    "id": "idn:alveeria-2851",
-    "platform": "idn",
-    "member": {
-      "name": "Mikaela",
-      "username": "jkt48_mikaela",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b58d5d3823f1ec33c15f9495dc491e53.webp?v=1743097539"
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261114051705",
-    "image": "https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp",
-    "started_at": "2026-11-13T22:17:11.000Z",
-    "last_seen_at": "2026-11-13T23:27:59.891Z",
-    "peak_viewers": 2962,
-    "gifts": 54,
-    "gift_points": 4588,
-    "stars": 0,
-    "comments": 4146,
-    "gift_breakdown": {
-      "Emas Batang": 5,
-      "Cold Water": 4,
-      "Angklung": 1,
-      "Toa": 4,
-      "JKT48 Show": 2,
-      "Buket Mawar": 1,
-      "Semangat kak": 2,
-      "Kompas": 6,
-      "Panjat": 3,
-      "MIKAELA": 1,
-      "Water": 2,
-      "Puding": 1,
-      "Tumpeng": 1,
-      "Hii Takut": 1,
-      "Gift Card": 1,
-      "Matcha": 5,
-      "Siomay": 2,
-      "Nasi Goreng": 1,
-      "Tulip Flower": 2,
-      "Rempeyek": 2,
-      "Rendang": 1,
-      "Pumpkin": 1,
-      "Mawar": 1,
-      "HAHAHA": 2,
-      "Ngeri Banget": 1,
-      "Bubble Gun": 1
-    },
-    "top_gifters": [
-      {
-        "rank": 1,
-        "name": "Alfan Ma’arif",
-        "points": 1216,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a701006ef70132668e0029b0d470714c.webp?v=1789565671"
-      },
-      {
-        "rank": 2,
-        "name": "Khalif Nazar Arafat",
-        "points": 888,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/49750de42f8d7090389e032e9e687cad.webp?v=1766229958"
-      },
-      {
-        "rank": 3,
-        "name": "iSocial Bae",
-        "points": 852,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/797151ebf02422360dd8cdb07379b2ad.webp?v=1780227664"
-      },
-      {
-        "rank": 4,
-        "name": "Izii .",
-        "points": 840,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a888726e5da50d28b2c69e38957bc966.webp?v=1789750384"
-      },
-      {
-        "rank": 5,
-        "name": "Franko ...",
-        "points": 260,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/53824cca46894c201276e1a89b6f3ff0.webp?v=1788533626"
-      },
-      {
-        "rank": 6,
-        "name": "Reii Wijaya",
-        "points": 100,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/81f57005edefe2b5eb1ff708445fd01e.webp?v=1786806414"
-      },
-      {
-        "rank": 7,
-        "name": "alep ᅠ",
-        "points": 96,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/978e811f0dab508fc8f38bdd2b41bb49.webp?v=1786811923"
-      },
-      {
-        "rank": 8,
-        "name": "Annisa Nurul",
-        "points": 88,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2a6ff1c94d4eefe02f68058b1fdfd755.webp?v=1746092135"
-      },
-      {
-        "rank": 9,
-        "name": "afra aja",
-        "points": 48,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/99d34200a0f7f0e984685796b9af7350.webp?v=1784298227"
-      },
-      {
-        "rank": 10,
-        "name": "Ameeek .",
-        "points": 40,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c7f399d02e1bf729106455ca6e83d80a.webp?v=1794307593"
-      }
-    ],
-    "viewer_series": [[0, 18], [1, 160], [2, 438], [3, 522], [4, 616], [5, 707], [6, 772], [7, 821], [8, 868], [9, 905], [15, 1178], [16, 1219], [17, 1256], [18, 1289], [19, 1326], [20, 1365], [21, 1417], [22, 1454], [23, 1498], [24, 1531], [25, 1575], [26, 1617], [27, 1643], [28, 1683], [29, 1714], [30, 1731], [31, 1771], [32, 1800], [33, 1837], [34, 1886], [35, 1926], [36, 1959], [37, 1990], [38, 2025], [39, 2062], [40, 2114], [41, 2144], [42, 2159], [43, 2188], [44, 2215], [45, 2245], [46, 2263], [47, 2287], [48, 2317], [49, 2353], [50, 2377], [51, 2409], [52, 2450], [53, 2484], [54, 2514], [55, 2554], [56, 2571], [57, 2603], [58, 2632], [59, 2660], [60, 2693], [61, 2709], [62, 2739], [63, 2767], [64, 2776], [65, 2807], [66, 2838], [67, 2867], [68, 2898], [69, 2916], [70, 2939], [71, 2962]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
-    "gift_gold": 1147,
-    "ended_at": "2026-11-13T23:27:59.891Z",
-    "duration_minutes": 71,
-    "last_viewers": 2962,
-    "unique_gifters": 19,
-    "source_id": "idn:ayo-ngobrol-bareng-261114051705",
-    "estimated_gift_value_idr": 2867500,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
