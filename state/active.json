@@ -11,33 +11,44 @@
     "url": "https://www.idn.app/jkt48_michie/live/live-aja-261119112754",
     "image": "https://cdn.idn.app/livestream/acdc9717b2fe57b969bc789f52455fbd.webp",
     "started_at": "2026-11-19T04:28:00.000Z",
-    "viewers": 1206,
-    "last_seen_at": "2026-11-19T04:37:47.534Z",
-    "peak_viewers": 1206,
-    "gifts": 7,
-    "gift_points": 416,
+    "viewers": 2445,
+    "last_seen_at": "2026-11-19T04:42:55.079Z",
+    "peak_viewers": 2445,
+    "gifts": 16,
+    "gift_points": 640,
     "stars": 0,
-    "comments": 737,
+    "comments": 1093,
     "gift_breakdown": {
       "Matcha": 1,
       "Lemon Tea": 1,
-      "Cold Water": 1,
-      "Pumpkin": 1,
+      "Cold Water": 5,
+      "Pumpkin": 2,
       "Gift Card": 1,
       "JKT48 Stage": 1,
-      "Toa": 1
+      "Toa": 2,
+      "Angklung": 1,
+      "Semangat kak": 1,
+      "Water": 1
     },
     "gifters": {
       "29c1dd6e-19ca-45ec-a3d4-07f1a6b6a5f8": "Kak Mayong",
       "907936a5-ac4d-4dda-a4af-f364527f97fd": "warn4 rej",
       "28fc60fe-f83f-4ffa-ba6d-1b6d71dceede": "Fannyhel pake hel",
       "7ec4367b-130d-4cf5-a710-05dfe1e288aa": "Faisal _",
-      "9330ef40-f0ab-438e-a9b6-405baf412f5e": "ASDI ."
+      "9330ef40-f0ab-438e-a9b6-405baf412f5e": "ASDI .",
+      "7c493bac-b6e8-4e02-b2c3-0db6b675bf6f": "tamaaa",
+      "5bdfa8ab-f46d-470b-93f4-0b772e728062": "elvin",
+      "1812ccaf-843a-4aa1-b1d3-65c124bc28f5": "khaira rashifa",
+      "82c80408-06ad-47e0-a399-910a3cca4f35": "Aris",
+      "b8c953f6-6f8a-47a7-99fe-ecf8e809dfe4": "Grand W",
+      "83142028-48dc-485d-9b48-8130a0af14bf": "tirrrr _",
+      "265c3c8f-c663-46ee-b38c-9e3136ebb216": "innocent ×⁷",
+      "b38bc850-2aeb-4d4c-8b4e-87b4afa0efc0": "Dodo Richardo"
     },
     "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206]],
+    "viewer_series": [[0, 2], [1, 95], [2, 266], [3, 373], [4, 477], [5, 577], [6, 690], [7, 767], [8, 856], [9, 990], [10, 1206], [11, 1411], [12, 1897], [13, 2115], [14, 2290], [15, 2445]],
     "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
-    "gift_gold": 104,
+    "gift_gold": 160,
     "idn_gifters": {
       "29c1dd6e-19ca-45ec-a3d4-07f1a6b6a5f8": {
         "name": "Kak Mayong",
@@ -63,9 +74,49 @@
         "name": "ASDI .",
         "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c03c4b7a836db9b95de6776f48f4cb67.webp?v=1794061270",
         "points": 20
+      },
+      "7c493bac-b6e8-4e02-b2c3-0db6b675bf6f": {
+        "name": "tamaaa",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b5fa5f9b750c99ff01c632b40f6f3667.webp?v=1794888954",
+        "points": 4
+      },
+      "5bdfa8ab-f46d-470b-93f4-0b772e728062": {
+        "name": "elvin",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ddc562aa29fa1dd0c1aae75cfac73caa.webp?v=1794414907",
+        "points": 116
+      },
+      "1812ccaf-843a-4aa1-b1d3-65c124bc28f5": {
+        "name": "khaira rashifa",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 4
+      },
+      "82c80408-06ad-47e0-a399-910a3cca4f35": {
+        "name": "Aris",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/default.png",
+        "points": 32
+      },
+      "b8c953f6-6f8a-47a7-99fe-ecf8e809dfe4": {
+        "name": "Grand W",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/e3bc06e2d700f751db1dd3afbe5ef266.webp?v=1787237450",
+        "points": 40
+      },
+      "83142028-48dc-485d-9b48-8130a0af14bf": {
+        "name": "tirrrr _",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c9772dfe0caab76f707391ae6a8ba44.webp?v=1777364593",
+        "points": 4
+      },
+      "265c3c8f-c663-46ee-b38c-9e3136ebb216": {
+        "name": "innocent ×⁷",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0e531c087e94fac095e3fe09e9651d18.webp?v=1794587398",
+        "points": 4
+      },
+      "b38bc850-2aeb-4d4c-8b4e-87b4afa0efc0": {
+        "name": "Dodo Richardo",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/8d5a69770df1f56c671b71a93b36fd4b.webp?v=1787829000",
+        "points": 20
       }
     },
-    "estimated_gift_value_idr": 260000,
+    "estimated_gift_value_idr": 400000,
     "gift_rate_idr": 2500,
     "gift_value_basis": "gold"
   }
