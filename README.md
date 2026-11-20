@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 20 Nov 2026, 19.20 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 20 Nov 2026, 19.25 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Gracie | IDN Live | hiii | 20 Nov 2026, 18.14 | 6.135 |
-| JKT48 | IDN Live | Pajama Drive - 2026/11/20 | 20 Nov 2026, 18.45 | 106 |
-| Intan | IDN Live | aku sendirian | 20 Nov 2026, 18.45 | 3.602 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.18 | 137 |
+| JKT48 | IDN Live | Pajama Drive - 2026/11/20 | 20 Nov 2026, 18.45 | 113 |
+| Intan | IDN Live | aku sendirian | 20 Nov 2026, 18.45 | 4.051 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.18 | 699 |
+| Heidi | IDN Live | malemmm | 20 Nov 2026, 19.20 | 354 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Gracie | IDN Live | hiii | 20 Nov 2026, 18.14 | 64m | 6.135 | 0 | — | — | 0 |
 | Nala | IDN Live | MALAMin | 20 Nov 2026, 18.12 | 62m | 8.474 | 0 | — | — | 0 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 18.12 | 65m | 6.768 | 0 | — | — | 0 |
 | Carissa | IDN Live | P lagi ngapain nihh | 20 Nov 2026, 17.30 | 75m | 4.604 | 0 | — | — | 0 |
@@ -94,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Bella | IDN Live | Hellooo | 19 Nov 2026, 14.13 | 66m | 3.577 | 41 | 1.576 | — | 377 |
 | Ralyne | IDN Live | HAIII | 19 Nov 2026, 14.13 | 65m | 3.801 | 23 | 686 | — | 262 |
 | Virgi | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 13.59 | 80m | 5.823 | 25 | 905 | — | 1.110 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 13.59 | 81m | 6.474 | 34 | 793 | — | 1.866 |
 
 ## Lisensi
 
