@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3063",
+    "platform": "idn",
+    "member": {
+      "name": "Sona",
+      "username": "jkt48_sona",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6f1bd93a2a91dc2008c833dc724f8298.webp?v=1779088328"
+    },
+    "title": "hii",
+    "url": "https://www.idn.app/jkt48_sona/live/hii-261120143428",
+    "image": "https://cdn.idn.app/livestream/909efe0260cd27995162bec7f05b41e6.webp",
+    "started_at": "2026-11-20T07:34:34.000Z",
+    "last_seen_at": "2026-11-20T08:25:18.803Z",
+    "peak_viewers": 4126,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 5], [1, 47], [2, 153], [3, 256], [4, 346], [5, 401], [6, 457], [7, 524], [8, 635], [9, 755], [10, 838], [11, 925], [12, 1046], [13, 1139], [14, 1222], [15, 1304], [16, 1384], [17, 1451], [18, 1511], [19, 1587], [20, 1647], [21, 1701], [22, 1751], [23, 1825], [24, 1894], [25, 1969], [26, 2035], [27, 2128], [28, 2244], [29, 2343], [30, 2461], [31, 2542], [32, 2608], [33, 2678], [34, 2750], [35, 2850], [36, 2960], [37, 3067], [38, 3133], [39, 3214], [40, 3281], [41, 3368], [42, 3472], [43, 3546], [44, 3590], [45, 3689], [46, 3783], [47, 3844], [48, 3900], [49, 3970], [50, 4051], [51, 4126]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/XTx9Djrnh3Cm",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-20T08:25:18.803Z",
+    "duration_minutes": 51,
+    "last_viewers": 4126,
+    "unique_gifters": 0,
+    "source_id": "idn:hii-261120143428"
+  },
+  {
     "id": "idn:alveeria-3062",
     "platform": "idn",
     "member": {
