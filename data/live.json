@@ -1,4 +1,32 @@
 {
-  "updated_at": "2026-11-20T04:37:40.914Z",
-  "lives": []
+  "updated_at": "2026-11-20T04:42:48.118Z",
+  "lives": [
+    {
+      "id": "idn:grwm-261120113923",
+      "platform": "idn",
+      "member": {
+        "name": "Muthe",
+        "username": "jkt48_muthe",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c80aa74f8816d0b98562d912d6e9ac1.webp?v=1778755639"
+      },
+      "title": "#GRWM",
+      "url": "https://www.idn.app/jkt48_muthe/live/grwm-261120113923",
+      "image": "https://cdn.idn.app/livestream/754da0fe83f1b22998c4931204bc2435.webp",
+      "started_at": "2026-11-20T04:39:28.000Z",
+      "viewers": 98,
+      "last_seen_at": "2026-11-20T04:42:47.340Z",
+      "peak_viewers": 98,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 2], [1, 25], [2, 63], [3, 87]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
