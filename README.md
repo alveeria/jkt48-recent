@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 21 Nov 2026, 00.03 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 21 Nov 2026, 03.05 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Elin | IDN Live | Hai | 20 Nov 2026, 22.58 | 2.741 |
-| Nayla | IDN Live | N | 20 Nov 2026, 23.22 | 1.289 |
-| Eli | IDN Live | Ngapain ya ? | 20 Nov 2026, 23.25 | 1.157 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.33 | 1.409 |
+| _Belum ada yang live_ | | | | |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Olla | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.33 | 30m | 1.409 | 0 | — | — | 0 |
+| Eli | IDN Live | Ngapain ya ? | 20 Nov 2026, 23.25 | 37m | 1.157 | 0 | — | — | 0 |
+| Nayla | IDN Live | N | 20 Nov 2026, 23.22 | 41m | 1.289 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.09 | 31m | 1.276 | 0 | — | — | 0 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.01 | 32m | 1.738 | 0 | — | — | 0 |
+| Elin | IDN Live | Hai | 20 Nov 2026, 22.58 | 64m | 2.741 | 0 | — | — | 0 |
 | Erine | IDN Live | havefunnnnn | 20 Nov 2026, 21.50 | 65m | 8.643 | 0 | — | — | 0 |
 | Fritzy | IDN Live | hi gaiss | 20 Nov 2026, 21.06 | 73m | 5.582 | 0 | — | — | 0 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.42 | 67m | 3.563 | 0 | — | — | 0 |
@@ -91,10 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Cynthia | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.41 | 82m | 5.440 | 0 | — | — | 0 |
 | Indah | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.34 | 32m | 3.424 | 0 | — | — | 0 |
 | Elin | IDN Live | Hai | 19 Nov 2026, 19.33 | 63m | 2.886 | 0 | — | — | 0 |
-| Nayla | IDN Live | N | 19 Nov 2026, 19.32 | 64m | 4.284 | 0 | — | — | 0 |
-| Gracie | IDN Live | hiii | 19 Nov 2026, 19.32 | 48m | 4.248 | 0 | — | — | 0 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.26 | 61m | 4.103 | 0 | — | — | 0 |
-| JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 155m | 509 | 0 | — | — | 0 |
 
 ## Lisensi
 
