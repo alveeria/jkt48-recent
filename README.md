@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 20 Nov 2026, 23.37 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 20 Nov 2026, 23.42 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Elin | IDN Live | Hai | 20 Nov 2026, 22.58 | 1.816 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.09 | 1.131 |
-| Nayla | IDN Live | N | 20 Nov 2026, 23.22 | 489 |
-| Eli | IDN Live | Ngapain ya ? | 20 Nov 2026, 23.25 | 393 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.33 | 303 |
+| Elin | IDN Live | Hai | 20 Nov 2026, 22.58 | 2.043 |
+| Nayla | IDN Live | N | 20 Nov 2026, 23.22 | 693 |
+| Eli | IDN Live | Ngapain ya ? | 20 Nov 2026, 23.25 | 596 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.33 | 606 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lia | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.09 | 31m | 1.276 | 0 | — | — | 0 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.01 | 32m | 1.738 | 0 | — | — | 0 |
 | Erine | IDN Live | havefunnnnn | 20 Nov 2026, 21.50 | 65m | 8.643 | 0 | — | — | 0 |
 | Fritzy | IDN Live | hi gaiss | 20 Nov 2026, 21.06 | 73m | 5.582 | 0 | — | — | 0 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Gracie | IDN Live | hiii | 19 Nov 2026, 19.32 | 48m | 4.248 | 0 | — | — | 0 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 19 Nov 2026, 19.26 | 61m | 4.103 | 0 | — | — | 0 |
 | JKT48 | IDN Live | Sambil Menggandeng Erat Tanganku - 2026/11/19 | 19 Nov 2026, 18.46 | 155m | 509 | 0 | — | — | 0 |
-| Sona | IDN Live | makan | 19 Nov 2026, 16.04 | 6m | 322 | 1 | 5 | — | 103 |
 
 ## Lisensi
 
