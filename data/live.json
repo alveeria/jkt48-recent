@@ -1,4 +1,32 @@
 {
-  "updated_at": "2026-11-20T06:19:58.712Z",
-  "lives": []
+  "updated_at": "2026-11-20T06:25:06.229Z",
+  "lives": [
+    {
+      "id": "idn:haii-261120132245",
+      "platform": "idn",
+      "member": {
+        "name": "Lana",
+        "username": "jkt48_lana",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a390f0bed11a773710648af657470bb8.webp?v=1778761589"
+      },
+      "title": "Haii",
+      "url": "https://www.idn.app/jkt48_lana/live/haii-261120132245",
+      "image": "https://cdn.idn.app/livestream/97b374af69ff330e4ea9927d6dee7bdb.webp",
+      "started_at": "2026-11-20T06:22:50.000Z",
+      "viewers": 193,
+      "last_seen_at": "2026-11-20T06:25:05.605Z",
+      "peak_viewers": 193,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 6], [1, 39], [2, 155]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
