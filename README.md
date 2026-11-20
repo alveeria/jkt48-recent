@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 20 Nov 2026, 19.56 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 20 Nov 2026, 20.01 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Pajama Drive - 2026/11/20 | 20 Nov 2026, 18.45 | 152 |
-| Intan | IDN Live | aku sendirian | 20 Nov 2026, 18.45 | 6.385 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.18 | 3.211 |
-| Heidi | IDN Live | malemmm | 20 Nov 2026, 19.20 | 2.537 |
-| Rilly | IDN Live | Ngobss sma kannuy | 20 Nov 2026, 19.30 | 1.188 |
-| Danella | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.35 | 544 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.42 | 788 |
+| JKT48 | IDN Live | Pajama Drive - 2026/11/20 | 20 Nov 2026, 18.45 | 162 |
+| Intan | IDN Live | aku sendirian | 20 Nov 2026, 18.45 | 6.688 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.18 | 3.536 |
+| Heidi | IDN Live | malemmm | 20 Nov 2026, 19.20 | 2.823 |
+| Rilly | IDN Live | Ngobss sma kannuy | 20 Nov 2026, 19.30 | 1.373 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.35 | 643 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.42 | 1.039 |
 
 ## Live terakhir — Nov 2026
 
