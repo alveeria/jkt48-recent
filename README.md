@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 20 Nov 2026, 15.12 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 20 Nov 2026, 15.18 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Aralie | IDN Live | hi | 20 Nov 2026, 14.27 | 7.892 |
-| Sona | IDN Live | hii | 20 Nov 2026, 14.34 | 3.166 |
-| Jazzy | IDN Live | before pujumjum | 20 Nov 2026, 14.37 | 2.438 |
-| Greesel | IDN Live | hi | 20 Nov 2026, 14.39 | 6.211 |
-| Michie | IDN Live | live  aja | 20 Nov 2026, 14.41 | 8.180 |
-| Maxine | IDN Live | dordordor | 20 Nov 2026, 14.30 | 2.939 |
-| Bella | IDN Live | Hellooo | 20 Nov 2026, 14.30 | 3.735 |
+| Aralie | IDN Live | hi | 20 Nov 2026, 14.27 | 8.684 |
+| Sona | IDN Live | hii | 20 Nov 2026, 14.34 | 3.590 |
+| Greesel | IDN Live | hi | 20 Nov 2026, 14.39 | 6.917 |
+| Michie | IDN Live | live  aja | 20 Nov 2026, 14.41 | 9.147 |
+| Maxine | IDN Live | dordordor | 20 Nov 2026, 14.30 | 3.424 |
+| Bella | IDN Live | Hellooo | 20 Nov 2026, 14.30 | 4.172 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Jazzy | IDN Live | before pujumjum | 20 Nov 2026, 14.37 | 36m | 2.519 | 0 | — | — | 0 |
 | Bella | IDN Live | Hellooo | 20 Nov 2026, 14.30 | 28m | 3.087 | 0 | — | — | 0 |
 | Ralyne | IDN Live | HAIII | 20 Nov 2026, 14.30 | 37m | 3.291 | 0 | — | — | 0 |
 | Maxine | IDN Live | dordordor | 20 Nov 2026, 14.30 | 29m | 2.409 | 0 | — | — | 0 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Nayla | IDN Live | N | 19 Nov 2026, 00.22 | 58m | 1.177 | 27 | 441 | — | 831 |
 | Cynthia | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.23 | 80m | 4.654 | 66 | 1.298 | — | 1.812 |
 | Lulu | IDN Live | mlm | 18 Nov 2026, 22.22 | 69m | 3.530 | 22 | 1.432 | — | 1.361 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 18 Nov 2026, 22.22 | 63m | 2.141 | 47 | 1.052 | — | 946 |
 
 ## Lisensi
 
