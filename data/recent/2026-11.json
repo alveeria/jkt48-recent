@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3101",
+    "platform": "idn",
+    "member": {
+      "name": "Daisy",
+      "username": "jkt48_daisy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d067c899ba88ed2f4ca8f09d384501b.webp?v=1778755316"
+    },
+    "title": "Hi",
+    "url": "https://www.idn.app/jkt48_daisy/live/hi-261121175945",
+    "image": "https://cdn.idn.app/livestream/b30297e40e7d8365695ae386c56f1417.webp",
+    "started_at": "2026-11-21T10:59:53.000Z",
+    "last_seen_at": "2026-11-21T12:01:50.704Z",
+    "peak_viewers": 2271,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 22], [2, 51], [3, 80], [4, 103], [5, 173], [6, 240], [7, 279], [8, 313], [9, 349], [10, 385], [11, 395], [12, 446], [13, 478], [14, 503], [15, 544], [16, 589], [17, 615], [18, 637], [19, 673], [20, 705], [21, 741], [22, 773], [23, 807], [24, 830], [25, 866], [26, 903], [27, 939], [28, 959], [29, 988], [30, 1014], [31, 1039], [32, 1065], [33, 1097], [34, 1125], [35, 1145], [36, 1174], [37, 1264], [38, 1360], [39, 1436], [40, 1524], [41, 1613], [42, 1655], [43, 1716], [44, 1770], [45, 1801], [46, 1821], [47, 1877], [48, 1902], [49, 1926], [50, 1951], [51, 1982], [52, 2019], [53, 2036], [54, 2068], [55, 2096], [56, 2120], [57, 2144], [58, 2178], [59, 2202], [60, 2228], [61, 2249], [62, 2271]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-21T12:01:50.704Z",
+    "duration_minutes": 62,
+    "last_viewers": 2271,
+    "unique_gifters": 0,
+    "source_id": "idn:hi-261121175945"
+  },
+  {
     "id": "idn:alveeria-3100",
     "platform": "idn",
     "member": {
