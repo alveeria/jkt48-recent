@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 21 Nov 2026, 14.21 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 21 Nov 2026, 16.43 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jemima | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 13.31 | 3.601 |
-| Giaa | IDN Live | p | 21 Nov 2026, 13.39 | 1.975 |
-| Intan | IDN Live | ama jemima giaa | 21 Nov 2026, 13.40 | 3.608 |
-| Fera | IDN Live | Ayo masuk | 21 Nov 2026, 14.09 | 598 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 14.14 | 395 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 16.06 | 1.109 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 14.14 | 6m | 395 | 0 | — | — | 0 |
+| Fera | IDN Live | Ayo masuk | 21 Nov 2026, 14.09 | 11m | 598 | 0 | — | — | 0 |
+| Intan | IDN Live | ama jemima giaa | 21 Nov 2026, 13.40 | 40m | 3.608 | 0 | — | — | 0 |
+| Giaa | IDN Live | p | 21 Nov 2026, 13.39 | 41m | 1.975 | 0 | — | — | 0 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 13.31 | 49m | 3.601 | 0 | — | — | 0 |
 | Michie | IDN Live | live  aja | 21 Nov 2026, 12.49 | 34m | 6.549 | 0 | — | — | 0 |
 | Lana | IDN Live | Hii | 21 Nov 2026, 12.15 | 81m | 10.429 | 0 | — | — | 0 |
 | Rilly | IDN Live | GEREEEMMM | 21 Nov 2026, 12.04 | 68m | 5.441 | 0 | — | — | 0 |
@@ -91,11 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Ralyne | IDN Live | HAIII | 20 Nov 2026, 14.30 | 37m | 3.291 | 0 | — | — | 0 |
 | Maxine | IDN Live | dordordor | 20 Nov 2026, 14.30 | 54m | 3.757 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 14.28 | 38m | 3.358 | 0 | — | — | 0 |
-| Aralie | IDN Live | hi | 20 Nov 2026, 14.27 | 78m | 12.733 | 0 | — | — | 0 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 14.00 | 62m | 3.819 | 0 | — | — | 0 |
-| Lana | IDN Live | Haii | 20 Nov 2026, 13.22 | 67m | 4.252 | 0 | — | — | 0 |
-| Oniel | IDN Live | saya kembali | 20 Nov 2026, 12.09 | 62m | 3.895 | 0 | — | — | 0 |
-| Muthe | IDN Live | #GRWM | 20 Nov 2026, 11.39 | 64m | 3.373 | 0 | — | — | 0 |
 
 ## Lisensi
 
