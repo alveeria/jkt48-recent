@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 21 Nov 2026, 21.00 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 21 Nov 2026, 21.06 WIB.
 
 ## Interval pembaruan
 
@@ -46,11 +46,10 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Eli | IDN Live | Ngapain ya ? | 21 Nov 2026, 19.18 | 6.162 |
-| Muthe | IDN Live | Bersama JC n CH | 21 Nov 2026, 20.24 | 4.108 |
-| Jessi | IDN Live | laper | 21 Nov 2026, 20.24 | 3.627 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.35 | 2.552 |
-| Aralie | IDN Live | hai  | 21 Nov 2026, 20.42 | 2.438 |
+| Muthe | IDN Live | Bersama JC n CH | 21 Nov 2026, 20.24 | 4.514 |
+| Jessi | IDN Live | laper | 21 Nov 2026, 20.24 | 4.078 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.35 | 2.957 |
+| Aralie | IDN Live | hai  | 21 Nov 2026, 20.42 | 2.961 |
 
 ## Live terakhir — Nov 2026
 
@@ -60,6 +59,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Fritzy | IDN Live | Hi | 21 Nov 2026, 19.49 | 61m | 6.905 | 0 | — | — | 0 |
 | Danella | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 19.48 | 61m | 3.324 | 0 | — | — | 0 |
 | Marsha | IDN Live | Plisss | 21 Nov 2026, 19.46 | 63m | 8.290 | 0 | — | — | 0 |
+| Eli | IDN Live | Ngapain ya ? | 21 Nov 2026, 19.18 | 101m | 6.162 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 18.14 | 78m | 3.909 | 0 | — | — | 0 |
 | Daisy | IDN Live | Hi | 21 Nov 2026, 17.59 | 62m | 2.271 | 0 | — | — | 0 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 16.06 | 63m | 1.727 | 0 | — | — | 0 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Raisha | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 18.12 | 65m | 6.768 | 0 | — | — | 0 |
 | Carissa | IDN Live | P lagi ngapain nihh | 20 Nov 2026, 17.30 | 75m | 4.604 | 0 | — | — | 0 |
 | Daisy | IDN Live | Hi | 20 Nov 2026, 15.29 | 16m | 698 | 0 | — | — | 0 |
-| Michie | IDN Live | live  aja | 20 Nov 2026, 14.41 | 64m | 13.440 | 0 | — | — | 0 |
 
 ## Lisensi
 
