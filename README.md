@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 21 Nov 2026, 20.40 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 21 Nov 2026, 20.45 WIB.
 
 ## Interval pembaruan
 
@@ -46,14 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Eli | IDN Live | Ngapain ya ? | 21 Nov 2026, 19.18 | 5.121 |
-| Marsha | IDN Live | Plisss | 21 Nov 2026, 19.46 | 7.338 |
-| Danella | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 19.48 | 2.780 |
-| Fritzy | IDN Live | Hi | 21 Nov 2026, 19.49 | 5.999 |
-| Muthe | IDN Live | Bersama JC n CH | 21 Nov 2026, 20.24 | 1.577 |
-| Jessi | IDN Live | laper | 21 Nov 2026, 20.24 | 1.329 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.27 | 2.182 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.35 | 437 |
+| Eli | IDN Live | Ngapain ya ? | 21 Nov 2026, 19.18 | 5.411 |
+| Marsha | IDN Live | Plisss | 21 Nov 2026, 19.46 | 7.871 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 19.48 | 3.041 |
+| Fritzy | IDN Live | Hi | 21 Nov 2026, 19.49 | 6.434 |
+| Muthe | IDN Live | Bersama JC n CH | 21 Nov 2026, 20.24 | 2.314 |
+| Jessi | IDN Live | laper | 21 Nov 2026, 20.24 | 1.898 |
+| Christy | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.27 | 3.349 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.35 | 923 |
+| Aralie | IDN Live | hai  | 21 Nov 2026, 20.42 | 345 |
 
 ## Live terakhir — Nov 2026
 
