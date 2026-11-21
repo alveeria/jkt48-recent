@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3108",
+    "platform": "idn",
+    "member": {
+      "name": "Jessi",
+      "username": "jkt48_jessi",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dfa51cbb14d8a3185c35228f1f765ae5.webp?v=1778755467"
+    },
+    "title": "laper",
+    "url": "https://www.idn.app/jkt48_jessi/live/laper-261121202440",
+    "image": "https://cdn.idn.app/livestream/7889d2bb1d9d185a5c21862328523745.webp",
+    "started_at": "2026-11-21T13:24:45.000Z",
+    "last_seen_at": "2026-11-21T14:31:55.118Z",
+    "peak_viewers": 6990,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 16], [2, 106], [3, 241], [4, 367], [5, 487], [6, 594], [7, 665], [8, 762], [9, 846], [10, 926], [11, 993], [12, 1054], [13, 1128], [14, 1165], [15, 1243], [16, 1329], [17, 1429], [18, 1562], [19, 1665], [20, 1791], [21, 1898], [22, 2100], [23, 2227], [24, 2334], [25, 2444], [26, 2575], [27, 2741], [28, 2877], [29, 2979], [30, 3029], [31, 3127], [32, 3256], [33, 3344], [34, 3441], [35, 3519], [36, 3603], [37, 3676], [38, 3774], [39, 3845], [40, 3930], [41, 4038], [42, 4120], [43, 4233], [44, 4361], [45, 4467], [46, 4542], [47, 4687], [48, 4822], [49, 4929], [50, 5036], [51, 5150], [52, 5246], [53, 5352], [54, 5462], [55, 5563], [56, 5653], [57, 5737], [58, 5839], [59, 5948], [60, 6083], [61, 6221], [62, 6515], [63, 6594], [64, 6692], [65, 6761], [66, 6854], [67, 6936]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/DB4L56nemB2B",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-21T14:31:55.118Z",
+    "duration_minutes": 67,
+    "last_viewers": 6990,
+    "unique_gifters": 0,
+    "source_id": "idn:laper-261121202440"
+  },
+  {
     "id": "idn:alveeria-3107",
     "platform": "idn",
     "member": {
