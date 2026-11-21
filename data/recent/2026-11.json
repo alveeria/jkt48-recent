@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3107",
+    "platform": "idn",
+    "member": {
+      "name": "Muthe",
+      "username": "jkt48_muthe",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c80aa74f8816d0b98562d912d6e9ac1.webp?v=1778755639"
+    },
+    "title": "Bersama JC n CH",
+    "url": "https://www.idn.app/jkt48_muthe/live/bersama-jc-n-ch-261121202355",
+    "image": "https://cdn.idn.app/livestream/02ed9a748d4f6ee3b375a323895543dc.webp",
+    "started_at": "2026-11-21T13:24:00.000Z",
+    "last_seen_at": "2026-11-21T14:25:43.723Z",
+    "peak_viewers": 6571,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 4], [1, 30], [2, 142], [3, 264], [4, 404], [5, 531], [6, 648], [7, 692], [8, 767], [9, 875], [10, 963], [11, 1067], [12, 1151], [13, 1250], [14, 1338], [15, 1427], [16, 1526], [17, 1644], [18, 1776], [19, 1960], [20, 2111], [21, 2263], [22, 2444], [23, 2499], [24, 2643], [25, 2766], [26, 2858], [27, 3033], [28, 3203], [29, 3317], [30, 3445], [31, 3537], [32, 3661], [33, 3735], [34, 3834], [35, 3922], [36, 4013], [37, 4108], [38, 4157], [39, 4246], [40, 4321], [41, 4399], [42, 4480], [43, 4553], [44, 4669], [45, 4790], [46, 4932], [47, 5059], [48, 5204], [49, 5334], [50, 5417], [51, 5514], [52, 5602], [53, 5691], [54, 5806], [55, 5854], [56, 5948], [57, 6050], [58, 6163], [59, 6268], [60, 6373], [61, 6473], [62, 6571]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-21T14:25:43.723Z",
+    "duration_minutes": 62,
+    "last_viewers": 6571,
+    "unique_gifters": 0,
+    "source_id": "idn:bersama-jc-n-ch-261121202355"
+  },
+  {
     "id": "idn:alveeria-3106",
     "platform": "idn",
     "member": {
