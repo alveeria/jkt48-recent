@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3090",
+    "platform": "idn",
+    "member": {
+      "name": "Indah",
+      "username": "jkt48_indah",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/909548d57b8bc9ce5b7784107fa36858.webp?v=1778761549"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261121115509",
+    "image": "https://cdn.idn.app/livestream/9debc65cb46741da2de78d9374bfcbcf.webp",
+    "started_at": "2026-11-21T04:55:14.000Z",
+    "last_seen_at": "2026-11-21T05:58:43.377Z",
+    "peak_viewers": 6702,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[1, 11], [2, 183], [3, 254], [4, 328], [5, 404], [6, 481], [7, 559], [8, 617], [9, 683], [10, 756], [11, 864], [12, 964], [13, 1048], [14, 1136], [15, 1211], [16, 1302], [17, 1338], [18, 1412], [19, 1748], [20, 2017], [21, 2169], [22, 2346], [23, 2519], [24, 2727], [25, 2871], [26, 3032], [27, 3158], [28, 3266], [29, 3394], [30, 3484], [31, 3570], [32, 3671], [33, 3705], [34, 3792], [35, 3881], [36, 3970], [37, 4040], [38, 4111], [39, 4197], [40, 4263], [41, 4339], [42, 4410], [43, 4491], [44, 4567], [45, 4645], [46, 4727], [47, 4805], [48, 4902], [49, 4929], [50, 5067], [51, 5189], [52, 5324], [53, 5437], [54, 5545], [55, 5673], [56, 5826], [57, 5964], [58, 6091], [59, 6206], [60, 6307], [61, 6448], [62, 6556], [63, 6639]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-21T05:58:43.377Z",
+    "duration_minutes": 63,
+    "last_viewers": 6702,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261121115509"
+  },
+  {
     "id": "idn:alveeria-3089",
     "platform": "idn",
     "member": {
