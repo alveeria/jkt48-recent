@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3139",
+    "platform": "idn",
+    "member": {
+      "name": "Gita",
+      "username": "jkt48_gita",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/449dae836a829fdd6767c3268ac51d93.webp?v=1778756058"
+    },
+    "title": "Gits",
+    "url": "https://www.idn.app/jkt48_gita/live/gits-261122202314",
+    "image": "https://cdn.idn.app/livestream/e5cc83b9da5081aec482045451dd8b45.webp",
+    "started_at": "2026-11-22T13:23:20.000Z",
+    "last_seen_at": "2026-11-22T14:25:25.573Z",
+    "peak_viewers": 4146,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 29], [2, 127], [3, 205], [4, 290], [5, 372], [6, 452], [7, 548], [8, 623], [9, 700], [10, 775], [11, 852], [12, 933], [13, 1008], [14, 1083], [15, 1146], [16, 1216], [17, 1268], [18, 1297], [19, 1359], [20, 1422], [21, 1481], [22, 1552], [23, 1626], [24, 1673], [25, 1736], [26, 1785], [27, 1840], [28, 1909], [29, 1979], [30, 2053], [31, 2121], [32, 2195], [33, 2265], [34, 2333], [35, 2407], [36, 2476], [37, 2550], [38, 2643], [39, 2680], [40, 2744], [41, 2807], [42, 2859], [43, 2931], [44, 2998], [45, 3063], [46, 3129], [47, 3186], [48, 3262], [49, 3327], [50, 3384], [51, 3441], [52, 3500], [53, 3566], [54, 3625], [55, 3696], [56, 3752], [57, 3846], [58, 3926], [59, 3977], [60, 4006], [61, 4063], [62, 4119]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-22T14:25:25.573Z",
+    "duration_minutes": 62,
+    "last_viewers": 4146,
+    "unique_gifters": 0,
+    "source_id": "idn:gits-261122202314"
+  },
+  {
     "id": "idn:alveeria-3138",
     "platform": "idn",
     "member": {
