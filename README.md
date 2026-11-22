@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 10.17 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 10.22 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fritzy | IDN Live | grem in sunday | 22 Nov 2026, 09.02 | 2.551 |
+| _Belum ada yang live_ | | | | |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Fritzy | IDN Live | grem in sunday | 22 Nov 2026, 09.02 | 76m | 2.612 | 0 | — | — | 0 |
 | Erine | IDN Live | havefunnnnn | 21 Nov 2026, 21.34 | 44m | 7.883 | 0 | — | — | 0 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 21.06 | 68m | 6.066 | 0 | — | — | 0 |
 | Aralie | IDN Live | hai  | 21 Nov 2026, 20.42 | 66m | 8.332 | 0 | — | — | 0 |
@@ -91,7 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Rilly | IDN Live | Ngobss sma kannuy | 20 Nov 2026, 19.30 | 65m | 2.496 | 0 | — | — | 0 |
 | Heidi | IDN Live | malemmm | 20 Nov 2026, 19.20 | 74m | 4.679 | 0 | — | — | 0 |
 | Ribka | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 19.18 | 72m | 5.350 | 0 | — | — | 0 |
-| Intan | IDN Live | aku sendirian | 20 Nov 2026, 18.45 | 110m | 8.737 | 0 | — | — | 0 |
 
 ## Lisensi
 
