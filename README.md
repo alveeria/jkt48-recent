@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 18.41 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 18.46 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fahira | IDN Live | ada apa??? | 22 Nov 2026, 17.34 | 4.586 |
-| Jazzy | IDN Live | ehhhh rame nic | 22 Nov 2026, 17.37 | 3.386 |
-| Maxine | IDN Live | haaaii | 22 Nov 2026, 17.30 | 4.573 |
-| Muthe | IDN Live | Hi | 22 Nov 2026, 18.29 | 852 |
+| Fahira | IDN Live | ada apa??? | 22 Nov 2026, 17.34 | 5.056 |
+| Maxine | IDN Live | haaaii | 22 Nov 2026, 17.30 | 5.057 |
+| Muthe | IDN Live | Hi | 22 Nov 2026, 18.29 | 1.809 |
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/22 | 22 Nov 2026, 18.44 | 51 |
+| Sona | IDN Live | HMMMM | 22 Nov 2026, 18.45 | 137 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Sona | IDN Live | HMMMM | 22 Nov 2026, 18.44 | 0m | 0 | 0 | — | — | 0 |
+| Jazzy | IDN Live | ehhhh rame nic | 22 Nov 2026, 17.37 | 67m | 3.689 | 0 | — | — | 0 |
 | Aralie | IDN Live | hai  | 22 Nov 2026, 16.18 | 68m | 5.333 | 0 | — | — | 0 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 16.00 | 63m | 3.128 | 0 | — | — | 0 |
 | Carissa | IDN Live | Lagi apa cuyy | 22 Nov 2026, 15.30 | 46m | 2.956 | 0 | — | — | 0 |
@@ -93,8 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Giaa | IDN Live | p | 21 Nov 2026, 13.39 | 41m | 1.975 | 0 | — | — | 0 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 13.31 | 49m | 3.601 | 0 | — | — | 0 |
 | Michie | IDN Live | live  aja | 21 Nov 2026, 12.49 | 34m | 6.549 | 0 | — | — | 0 |
-| Lana | IDN Live | Hii | 21 Nov 2026, 12.15 | 81m | 10.429 | 0 | — | — | 0 |
-| Rilly | IDN Live | GEREEEMMM | 21 Nov 2026, 12.04 | 68m | 5.441 | 0 | — | — | 0 |
 
 ## Lisensi
 
