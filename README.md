@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 21.20 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 21.25 WIB.
 
 ## Interval pembaruan
 
@@ -46,8 +46,9 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/22 | 22 Nov 2026, 18.44 | 906 |
-| Gita | IDN Live | Gits | 22 Nov 2026, 20.23 | 3.846 |
+| Gita | IDN Live | Gits | 22 Nov 2026, 20.23 | 4.146 |
+| Nayla | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 21.20 | 292 |
+| Ribka | IDN Live | P | 22 Nov 2026, 21.23 | 182 |
 
 ## Live terakhir — Nov 2026
 
@@ -55,6 +56,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 |---|---|---|---|---|---|---|---|---|---|
 | Olla | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 18.57 | 33m | 1.747 | 0 | — | — | 0 |
 | Sona | IDN Live | HMMMM | 22 Nov 2026, 18.45 | 61m | 4.056 | 0 | — | — | 0 |
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/22 | 22 Nov 2026, 18.44 | 155m | 906 | 0 | — | — | 0 |
 | Sona | IDN Live | HMMMM | 22 Nov 2026, 18.44 | 0m | 0 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 22 Nov 2026, 18.29 | 66m | 5.833 | 0 | — | — | 0 |
 | Jazzy | IDN Live | ehhhh rame nic | 22 Nov 2026, 17.37 | 67m | 3.689 | 0 | — | — | 0 |
@@ -92,7 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Lia | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 18.14 | 78m | 3.909 | 0 | — | — | 0 |
 | Daisy | IDN Live | Hi | 21 Nov 2026, 17.59 | 62m | 2.271 | 0 | — | — | 0 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 16.06 | 63m | 1.727 | 0 | — | — | 0 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 14.14 | 6m | 395 | 0 | — | — | 0 |
 
 ## Lisensi
 
