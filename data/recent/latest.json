@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3122",
+    "platform": "idn",
+    "member": {
+      "name": "Lana",
+      "username": "jkt48_lana",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a390f0bed11a773710648af657470bb8.webp?v=1778761589"
+    },
+    "title": "Haii",
+    "url": "https://www.idn.app/jkt48_lana/live/haii-261122140037",
+    "image": "https://cdn.idn.app/livestream/c2a4b3b21d5d2bcb49cca0ab5f65ed41.webp",
+    "started_at": "2026-11-22T07:00:42.000Z",
+    "last_seen_at": "2026-11-22T08:03:57.756Z",
+    "peak_viewers": 4554,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 40], [2, 178], [3, 285], [4, 388], [5, 482], [6, 551], [7, 633], [8, 695], [9, 766], [10, 826], [11, 892], [12, 957], [13, 1016], [14, 1048], [15, 1112], [16, 1188], [17, 1256], [18, 1299], [19, 1363], [20, 1436], [21, 1518], [22, 1585], [23, 1665], [24, 1713], [25, 1861], [26, 2099], [27, 2220], [28, 2310], [29, 2400], [30, 2488], [31, 2564], [32, 2612], [33, 2687], [34, 2721], [35, 2794], [36, 2871], [37, 2939], [38, 2997], [39, 3067], [40, 3128], [41, 3203], [42, 3281], [43, 3340], [44, 3401], [45, 3466], [46, 3533], [47, 3596], [48, 3638], [49, 3689], [50, 3750], [51, 3820], [52, 3885], [53, 3963], [54, 4000], [55, 4100], [56, 4152], [57, 4210], [58, 4267], [59, 4321], [60, 4393], [61, 4444], [62, 4489], [63, 4532]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-22T08:03:57.756Z",
+    "duration_minutes": 63,
+    "last_viewers": 4554,
+    "unique_gifters": 0,
+    "source_id": "idn:haii-261122140037"
+  },
+  {
     "id": "idn:alveeria-3121",
     "platform": "idn",
     "member": {
@@ -14895,66 +14926,5 @@
     "last_viewers": 779,
     "unique_gifters": 7,
     "source_id": "idn:yowww-261115222821"
-  },
-  {
-    "id": "idn:alveeria-2925",
-    "platform": "idn",
-    "member": {
-      "name": "Cynthia",
-      "username": "jkt48_cynthia",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cd9c4688b4d2fd6b3e7ef43465826dc2.webp?v=1778761324"
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_cynthia/live/ayo-ngobrol-bareng-261115222355",
-    "image": "https://cdn.idn.app/livestream/55ba389d3fa39194175496c11009ac84.webp",
-    "started_at": "2026-11-15T15:24:01.000Z",
-    "last_seen_at": "2026-11-15T15:40:43.221Z",
-    "peak_viewers": 2069,
-    "gifts": 4,
-    "gift_points": 72,
-    "stars": 0,
-    "comments": 431,
-    "gift_breakdown": {
-      "Mawar": 2,
-      "Semangat kak": 1,
-      "Toa": 1
-    },
-    "top_gifters": [
-      {
-        "rank": 1,
-        "name": "Savirr Kangen Cynthia",
-        "points": 28,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f44d65297a56f0d95bedb4845c20a582.webp?v=1794671795"
-      },
-      {
-        "rank": 2,
-        "name": "Aisyah Nashihah",
-        "points": 20,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dead4fcb013aab402564bcd54df96814.webp?v=1794579516"
-      },
-      {
-        "rank": 3,
-        "name": "Tommy '(",
-        "points": 12,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ec61c7b81e86b713c14d0ca12d1d8174.webp?v=1794325969"
-      },
-      {
-        "rank": 4,
-        "name": "Enrico .",
-        "points": 12,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b6678e8ef308ee95f2a1271561820ad5.webp?v=1759842475"
-      }
-    ],
-    "viewer_series": [[0, 3], [1, 53], [2, 212], [3, 371], [4, 537], [5, 640], [6, 772], [7, 899], [8, 1052], [9, 1187], [10, 1323], [11, 1468], [12, 1526], [13, 1638], [14, 1736], [15, 1849], [16, 1952], [17, 2069]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/5VlmuaxElVot",
-    "gift_gold": 18,
-    "estimated_gift_value_idr": 45000,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold",
-    "ended_at": "2026-11-15T15:40:43.221Z",
-    "duration_minutes": 17,
-    "last_viewers": 2069,
-    "unique_gifters": 4,
-    "source_id": "idn:ayo-ngobrol-bareng-261115222355"
   }
 ]

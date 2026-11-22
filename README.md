@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 15.01 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 15.06 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lana | IDN Live | Haii | 22 Nov 2026, 14.00 | 4.444 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.06 | 0 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lana | IDN Live | Haii | 22 Nov 2026, 14.00 | 63m | 4.554 | 0 | — | — | 0 |
 | Ralyne | IDN Live | HAIII | 22 Nov 2026, 13.46 | 67m | 3.394 | 0 | — | — | 0 |
 | Eli | IDN Live | Get ready with ECEU BUDHE | 22 Nov 2026, 13.23 | 89m | 3.595 | 0 | — | — | 0 |
 | Eli | IDN Live | Get ready with ECEU BUDHE | 22 Nov 2026, 13.19 | 4m | 70 | 0 | — | — | 0 |
@@ -91,7 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Eli | IDN Live | Ngapain ya ? | 20 Nov 2026, 23.25 | 37m | 1.157 | 0 | — | — | 0 |
 | Nayla | IDN Live | N | 20 Nov 2026, 23.22 | 41m | 1.289 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.09 | 31m | 1.276 | 0 | — | — | 0 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.01 | 32m | 1.738 | 0 | — | — | 0 |
 
 ## Lisensi
 
