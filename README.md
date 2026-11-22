@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 23.50 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 02.33 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Michie | IDN Live | hello | 22 Nov 2026, 22.40 | 10.107 |
-| Ella | IDN Live | yey | 22 Nov 2026, 22.47 | 6.940 |
-| Anindya | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.03 | 4.335 |
-| Erine | IDN Live | hai | 22 Nov 2026, 23.11 | 5.917 |
-| Delynn | IDN Live | Hello | 22 Nov 2026, 23.17 | 3.548 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.47 | 89 |
+| _Belum ada yang live_ | | | | |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lyn | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.47 | 3m | 89 | 0 | — | — | 0 |
+| Delynn | IDN Live | Hello | 22 Nov 2026, 23.17 | 32m | 3.548 | 0 | — | — | 0 |
+| Erine | IDN Live | hai | 22 Nov 2026, 23.11 | 38m | 5.917 | 0 | — | — | 0 |
+| Anindya | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.03 | 46m | 4.335 | 0 | — | — | 0 |
+| Ella | IDN Live | yey | 22 Nov 2026, 22.47 | 62m | 6.940 | 0 | — | — | 0 |
+| Michie | IDN Live | hello | 22 Nov 2026, 22.40 | 69m | 10.107 | 0 | — | — | 0 |
 | Greesel | IDN Live | hi | 22 Nov 2026, 22.38 | 63m | 8.820 | 0 | — | — | 0 |
 | Indah | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 22.34 | 62m | 9.109 | 0 | — | — | 0 |
 | Oniel | IDN Live | saya kembali | 22 Nov 2026, 22.33 | 64m | 9.363 | 0 | — | — | 0 |
@@ -91,12 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Daisy | IDN Live | Hi | 22 Nov 2026, 10.46 | 63m | 2.245 | 0 | — | — | 0 |
 | Fritzy | IDN Live | grem in sunday | 22 Nov 2026, 09.02 | 59m | 2.123 | 0 | — | — | 0 |
 | Erine | IDN Live | havefunnnnn | 21 Nov 2026, 21.34 | 44m | 7.883 | 0 | — | — | 0 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 21.06 | 68m | 6.066 | 0 | — | — | 0 |
-| Aralie | IDN Live | hai  | 21 Nov 2026, 20.42 | 66m | 8.332 | 0 | — | — | 0 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.35 | 72m | 6.871 | 0 | — | — | 0 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.27 | 18m | 3.349 | 0 | — | — | 0 |
-| Jessi | IDN Live | laper | 21 Nov 2026, 20.24 | 67m | 6.990 | 0 | — | — | 0 |
-| Muthe | IDN Live | Bersama JC n CH | 21 Nov 2026, 20.24 | 62m | 6.571 | 0 | — | — | 0 |
 
 ## Lisensi
 
