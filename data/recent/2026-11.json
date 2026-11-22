@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3129",
+    "platform": "idn",
+    "member": {
+      "name": "Mikaela",
+      "username": "jkt48_mikaela",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b58d5d3823f1ec33c15f9495dc491e53.webp?v=1743097539"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_mikaela/live/ayo-ngobrol-bareng-261122155955",
+    "image": "https://cdn.idn.app/livestream/9e0a49c00aeaa736b56e83e9e6df7031.webp",
+    "started_at": "2026-11-22T09:00:00.000Z",
+    "last_seen_at": "2026-11-22T10:03:09.713Z",
+    "peak_viewers": 3128,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[1, 14], [2, 90], [3, 153], [4, 220], [5, 290], [6, 346], [7, 408], [8, 450], [9, 492], [10, 538], [11, 592], [12, 641], [13, 699], [14, 753], [15, 794], [16, 835], [17, 897], [18, 980], [19, 1033], [20, 1061], [21, 1118], [22, 1167], [23, 1258], [24, 1401], [25, 1491], [26, 1543], [27, 1585], [28, 1647], [29, 1700], [30, 1741], [31, 1786], [32, 1821], [33, 1870], [34, 1913], [35, 1957], [36, 1995], [37, 2038], [38, 2061], [39, 2117], [40, 2162], [41, 2196], [42, 2236], [43, 2273], [44, 2293], [45, 2327], [46, 2371], [47, 2411], [48, 2458], [49, 2499], [50, 2547], [51, 2583], [52, 2645], [53, 2687], [54, 2733], [55, 2770], [56, 2810], [57, 2838], [58, 2901], [59, 2938], [60, 3002], [61, 3049], [62, 3081], [63, 3117]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/9CSt22Hi6AIV",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-22T10:03:09.713Z",
+    "duration_minutes": 63,
+    "last_viewers": 3128,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261122155955"
+  },
+  {
     "id": "idn:alveeria-3128",
     "platform": "idn",
     "member": {
