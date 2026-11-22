@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 15.37 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 15.42 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,12 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lia | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.06 | 1.572 |
-| Intan | IDN Live | ama mimaaa | 22 Nov 2026, 15.11 | 2.235 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.11 | 2.091 |
-| Giaa | IDN Live | p | 22 Nov 2026, 15.14 | 947 |
-| Fera | IDN Live | Ayo masuk | 22 Nov 2026, 15.29 | 436 |
-| Carissa | IDN Live | Lagi apa cuyy | 22 Nov 2026, 15.30 | 473 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.06 | 2.059 |
+| Intan | IDN Live | ama mimaaa | 22 Nov 2026, 15.11 | 2.983 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.11 | 2.831 |
+| Giaa | IDN Live | p | 22 Nov 2026, 15.14 | 1.279 |
+| Fera | IDN Live | Ayo masuk | 22 Nov 2026, 15.29 | 776 |
+| Carissa | IDN Live | Lagi apa cuyy | 22 Nov 2026, 15.30 | 915 |
 
 ## Live terakhir — Nov 2026
 
