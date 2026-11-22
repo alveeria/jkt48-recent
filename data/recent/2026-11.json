@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3145",
+    "platform": "idn",
+    "member": {
+      "name": "Greesel",
+      "username": "jkt48_greesel",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/44057259b756c4d190b2283ebfb952b6.webp?v=1778756088"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_greesel/live/hi-261122223827",
+    "image": "https://cdn.idn.app/livestream/91bf48f9eaa74877162b41caa30f9f25.webp",
+    "started_at": "2026-11-22T15:38:33.000Z",
+    "last_seen_at": "2026-11-22T16:41:08.696Z",
+    "peak_viewers": 8820,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 45], [1, 142], [2, 385], [3, 858], [4, 1133], [5, 1307], [6, 1622], [7, 1896], [8, 2123], [9, 2343], [10, 2563], [11, 2758], [12, 2963], [13, 3199], [14, 3387], [15, 3544], [16, 3676], [17, 3803], [18, 3951], [19, 4075], [20, 4207], [21, 4342], [22, 4468], [23, 4531], [24, 4665], [25, 4793], [26, 4920], [27, 5058], [28, 5217], [29, 5378], [30, 5515], [31, 5659], [32, 5786], [33, 5911], [34, 6035], [35, 6130], [36, 6249], [37, 6341], [38, 6439], [39, 6548], [40, 6657], [41, 6707], [42, 6813], [43, 6900], [44, 6994], [45, 7077], [46, 7182], [47, 7264], [48, 7341], [49, 7427], [50, 7522], [51, 7636], [52, 7727], [53, 7806], [54, 7882], [55, 7959], [56, 8030], [57, 8113], [58, 8208], [59, 8362], [60, 8503], [61, 8650], [62, 8736], [63, 8820]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/N7Y0Yn2baCsg",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-22T16:41:08.696Z",
+    "duration_minutes": 63,
+    "last_viewers": 8820,
+    "unique_gifters": 0,
+    "source_id": "idn:hi-261122223827"
+  },
+  {
     "id": "idn:alveeria-3142",
     "platform": "idn",
     "member": {

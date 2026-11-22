@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 23.39 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 23.44 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Greesel | IDN Live | hi | 22 Nov 2026, 22.38 | 8.650 |
-| Michie | IDN Live | hello | 22 Nov 2026, 22.40 | 9.269 |
-| Ella | IDN Live | yey | 22 Nov 2026, 22.47 | 5.897 |
-| Anindya | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.03 | 3.451 |
-| Erine | IDN Live | hai | 22 Nov 2026, 23.11 | 4.569 |
-| Delynn | IDN Live | Hello | 22 Nov 2026, 23.17 | 2.548 |
+| Michie | IDN Live | hello | 22 Nov 2026, 22.40 | 9.737 |
+| Ella | IDN Live | yey | 22 Nov 2026, 22.47 | 6.476 |
+| Anindya | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.03 | 3.946 |
+| Erine | IDN Live | hai | 22 Nov 2026, 23.11 | 5.279 |
+| Delynn | IDN Live | Hello | 22 Nov 2026, 23.17 | 3.076 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Greesel | IDN Live | hi | 22 Nov 2026, 22.38 | 63m | 8.820 | 0 | — | — | 0 |
 | Indah | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 22.34 | 62m | 9.109 | 0 | — | — | 0 |
 | Oniel | IDN Live | saya kembali | 22 Nov 2026, 22.33 | 64m | 9.363 | 0 | — | — | 0 |
 | Marsha | IDN Live | Plisss | 22 Nov 2026, 22.32 | 64m | 9.089 | 0 | — | — | 0 |
@@ -96,7 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Christy | IDN Live | Ayo ngobrol bareng! | 21 Nov 2026, 20.27 | 18m | 3.349 | 0 | — | — | 0 |
 | Jessi | IDN Live | laper | 21 Nov 2026, 20.24 | 67m | 6.990 | 0 | — | — | 0 |
 | Muthe | IDN Live | Bersama JC n CH | 21 Nov 2026, 20.24 | 62m | 6.571 | 0 | — | — | 0 |
-| Fritzy | IDN Live | Hi | 21 Nov 2026, 19.49 | 61m | 6.905 | 0 | — | — | 0 |
 
 ## Lisensi
 
