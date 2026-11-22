@@ -1,4 +1,32 @@
 {
-  "updated_at": "2026-11-22T02:00:21.260Z",
-  "lives": []
+  "updated_at": "2026-11-22T02:05:30.065Z",
+  "lives": [
+    {
+      "id": "idn:grem-in-sunday-261122090251",
+      "platform": "idn",
+      "member": {
+        "name": "Fritzy",
+        "username": "jkt48_fritzy",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4d25811b1b50effd560fb480cac8ba0.webp?v=1778761438"
+      },
+      "title": "grem in sunday",
+      "url": "https://www.idn.app/jkt48_fritzy/live/grem-in-sunday-261122090251",
+      "image": "https://cdn.idn.app/livestream/41709453725abf2da8fbf3848d813491.webp",
+      "started_at": "2026-11-22T02:02:57.000Z",
+      "viewers": 196,
+      "last_seen_at": "2026-11-22T02:05:29.080Z",
+      "peak_viewers": 196,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 27], [1, 87], [2, 123], [3, 196]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
