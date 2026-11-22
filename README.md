@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 16.03 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 16.08 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lia | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.06 | 3.135 |
-| Intan | IDN Live | ama mimaaa | 22 Nov 2026, 15.11 | 4.487 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.11 | 4.471 |
-| Giaa | IDN Live | p | 22 Nov 2026, 15.14 | 2.048 |
-| Fera | IDN Live | Ayo masuk | 22 Nov 2026, 15.29 | 1.675 |
-| Carissa | IDN Live | Lagi apa cuyy | 22 Nov 2026, 15.30 | 2.162 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 16.00 | 186 |
+| Intan | IDN Live | ama mimaaa | 22 Nov 2026, 15.11 | 4.799 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.11 | 4.796 |
+| Giaa | IDN Live | p | 22 Nov 2026, 15.14 | 2.282 |
+| Fera | IDN Live | Ayo masuk | 22 Nov 2026, 15.29 | 1.939 |
+| Carissa | IDN Live | Lagi apa cuyy | 22 Nov 2026, 15.30 | 2.423 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 16.00 | 469 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lia | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 15.06 | 59m | 3.248 | 0 | — | — | 0 |
 | Lana | IDN Live | Haii | 22 Nov 2026, 14.00 | 63m | 4.554 | 0 | — | — | 0 |
 | Ralyne | IDN Live | HAIII | 22 Nov 2026, 13.46 | 67m | 3.394 | 0 | — | — | 0 |
 | Eli | IDN Live | Get ready with ECEU BUDHE | 22 Nov 2026, 13.23 | 89m | 3.595 | 0 | — | — | 0 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Olla | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.33 | 30m | 1.409 | 0 | — | — | 0 |
 | Eli | IDN Live | Ngapain ya ? | 20 Nov 2026, 23.25 | 37m | 1.157 | 0 | — | — | 0 |
 | Nayla | IDN Live | N | 20 Nov 2026, 23.22 | 41m | 1.289 | 0 | — | — | 0 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 20 Nov 2026, 23.09 | 31m | 1.276 | 0 | — | — | 0 |
 
 ## Lisensi
 
