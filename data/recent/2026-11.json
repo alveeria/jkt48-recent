@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3128",
+    "platform": "idn",
+    "member": {
+      "name": "Intan",
+      "username": "jkt48_intan",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8906cd39a85bd0a92a38e1dc0733182.webp?v=1743097568"
+    },
+    "title": "ama mimaaa",
+    "url": "https://www.idn.app/jkt48_intan/live/ama-mimaaa-261122151103",
+    "image": "https://cdn.idn.app/livestream/c2fe596ba253a591d895e970ff9abd39.webp",
+    "started_at": "2026-11-22T08:11:08.000Z",
+    "last_seen_at": "2026-11-22T09:22:36.805Z",
+    "peak_viewers": 5748,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 46], [2, 192], [3, 301], [4, 410], [5, 531], [6, 669], [7, 764], [8, 851], [9, 932], [10, 1016], [11, 1082], [12, 1158], [13, 1229], [14, 1292], [15, 1360], [16, 1419], [17, 1459], [18, 1524], [19, 1611], [20, 1676], [21, 1787], [22, 1886], [23, 1966], [24, 2055], [25, 2125], [26, 2194], [27, 2272], [28, 2522], [29, 2695], [30, 2829], [31, 2943], [32, 3025], [33, 3129], [34, 3206], [35, 3269], [36, 3321], [37, 3391], [38, 3462], [39, 3526], [40, 3596], [41, 3671], [42, 3765], [43, 3861], [44, 3946], [45, 4009], [46, 4082], [47, 4139], [48, 4211], [49, 4282], [50, 4351], [51, 4425], [52, 4487], [53, 4539], [54, 4576], [55, 4646], [56, 4682], [57, 4758], [58, 4842], [59, 4915], [60, 5001], [61, 5062], [62, 5125], [63, 5181], [64, 5240], [65, 5295], [66, 5369], [67, 5449], [68, 5521], [69, 5578], [70, 5627], [71, 5693]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-22T09:22:36.805Z",
+    "duration_minutes": 71,
+    "last_viewers": 5748,
+    "unique_gifters": 0,
+    "source_id": "idn:ama-mimaaa-261122151103"
+  },
+  {
     "id": "idn:alveeria-3126",
     "platform": "idn",
     "member": {
