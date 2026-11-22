@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3116",
+    "platform": "idn",
+    "member": {
+      "name": "Olla",
+      "username": "jkt48_olla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/76a2fcff460e27571b5abe640d269819.webp?v=1778755935"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261122124549",
+    "image": "https://cdn.idn.app/livestream/68e925ee5b0a11b6f8c59691305699fb.webp",
+    "started_at": "2026-11-22T05:45:56.000Z",
+    "last_seen_at": "2026-11-22T05:49:57.089Z",
+    "peak_viewers": 179,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 6], [1, 34], [2, 81], [3, 112], [4, 145]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-22T05:49:57.089Z",
+    "duration_minutes": 4,
+    "last_viewers": 179,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261122124549"
+  },
+  {
     "id": "idn:alveeria-3115",
     "platform": "idn",
     "member": {
