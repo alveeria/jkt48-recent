@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 23.08 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 22 Nov 2026, 23.13 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,14 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Marsha | IDN Live | Plisss | 22 Nov 2026, 22.32 | 5.853 |
-| Oniel | IDN Live | saya kembali | 22 Nov 2026, 22.33 | 5.967 |
-| Indah | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 22.34 | 5.918 |
-| Greesel | IDN Live | hi | 22 Nov 2026, 22.38 | 5.515 |
-| Michie | IDN Live | hello | 22 Nov 2026, 22.40 | 5.096 |
-| Ella | IDN Live | yey | 22 Nov 2026, 22.47 | 2.381 |
-| Anindya | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.03 | 364 |
+| Marsha | IDN Live | Plisss | 22 Nov 2026, 22.32 | 6.516 |
+| Oniel | IDN Live | saya kembali | 22 Nov 2026, 22.33 | 6.640 |
+| Indah | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 22.34 | 6.595 |
+| Greesel | IDN Live | hi | 22 Nov 2026, 22.38 | 6.130 |
+| Michie | IDN Live | hello | 22 Nov 2026, 22.40 | 5.826 |
+| Ella | IDN Live | yey | 22 Nov 2026, 22.47 | 3.038 |
+| Anindya | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.03 | 770 |
+| Erine | IDN Live | hai | 22 Nov 2026, 23.11 | 423 |
 
 ## Live terakhir — Nov 2026
 
