@@ -1,4 +1,32 @@
 {
-  "updated_at": "2026-11-22T05:11:56.281Z",
-  "lives": []
+  "updated_at": "2026-11-22T05:17:04.904Z",
+  "lives": [
+    {
+      "id": "idn:hihu-261122121624",
+      "platform": "idn",
+      "member": {
+        "name": "Rara",
+        "username": "jkt48_rara",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1c1ced380ede33a7e1f493b00b877630.webp?v=1779088190"
+      },
+      "title": "Hihu",
+      "url": "https://www.idn.app/jkt48_rara/live/hihu-261122121624",
+      "image": "https://cdn.idn.app/livestream/3d6ef98bdbd0f924b00850fb44de49f0.webp",
+      "started_at": "2026-11-22T05:16:31.000Z",
+      "viewers": 12,
+      "last_seen_at": "2026-11-22T05:17:04.275Z",
+      "peak_viewers": 12,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 0], [1, 12]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
