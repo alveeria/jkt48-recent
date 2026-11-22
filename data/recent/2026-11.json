@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3141",
+    "platform": "idn",
+    "member": {
+      "name": "Nayla",
+      "username": "jkt48_nayla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/910f26252548bf370c7492e9ec668250.webp?v=1778761743"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_nayla/live/ayo-ngobrol-bareng-261122212017",
+    "image": "https://cdn.idn.app/livestream/45cf45ade53662a245858de13c3677b4.webp",
+    "started_at": "2026-11-22T14:20:23.000Z",
+    "last_seen_at": "2026-11-22T15:32:11.221Z",
+    "peak_viewers": 4185,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 4], [1, 39], [2, 115], [3, 168], [4, 196], [5, 262], [6, 357], [7, 427], [8, 481], [9, 530], [10, 595], [11, 662], [12, 713], [13, 858], [14, 926], [15, 1001], [16, 1068], [17, 1131], [18, 1194], [19, 1251], [20, 1309], [21, 1364], [22, 1392], [23, 1426], [24, 1478], [25, 1538], [26, 1585], [27, 1631], [28, 1676], [29, 1725], [30, 1890], [31, 1969], [32, 2059], [33, 2130], [34, 2184], [35, 2252], [36, 2305], [37, 2373], [38, 2437], [39, 2501], [40, 2557], [41, 2615], [42, 2641], [43, 2745], [44, 2802], [45, 2858], [46, 2915], [47, 2957], [48, 2999], [49, 3030], [50, 3073], [51, 3124], [52, 3169], [53, 3217], [54, 3254], [55, 3290], [56, 3341], [57, 3378], [58, 3416], [59, 3469], [60, 3495], [61, 3537], [62, 3588], [63, 3634], [64, 3684], [65, 3709], [66, 3751], [67, 3802], [68, 3853], [69, 3899], [70, 3971], [71, 4091], [72, 4185]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-22T15:32:11.221Z",
+    "duration_minutes": 72,
+    "last_viewers": 4185,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261122212017"
+  },
+  {
     "id": "idn:alveeria-3140",
     "platform": "idn",
     "member": {
