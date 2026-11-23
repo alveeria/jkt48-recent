@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 16.06 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 16.11 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Ella | IDN Live | yey | 23 Nov 2026, 16.01 | 293 |
-| Jessi | IDN Live | hi | 23 Nov 2026, 16.04 | 102 |
+| Ella | IDN Live | yey | 23 Nov 2026, 16.01 | 1.168 |
+| Jessi | IDN Live | hi | 23 Nov 2026, 16.04 | 1.107 |
+| Greesel | IDN Live | hi | 23 Nov 2026, 16.08 | 547 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Greesel | IDN Live | hi | 23 Nov 2026, 16.07 | 1m | 135 | 0 | — | — | 0 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.47 | 3m | 89 | 0 | — | — | 0 |
 | Delynn | IDN Live | Hello | 22 Nov 2026, 23.17 | 32m | 3.548 | 0 | — | — | 0 |
 | Erine | IDN Live | hai | 22 Nov 2026, 23.11 | 38m | 5.917 | 0 | — | — | 0 |
@@ -92,7 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Danella | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 10.56 | 67m | 2.620 | 0 | — | — | 0 |
 | Daisy | IDN Live | Hi | 22 Nov 2026, 10.46 | 63m | 2.245 | 0 | — | — | 0 |
 | Fritzy | IDN Live | grem in sunday | 22 Nov 2026, 09.02 | 59m | 2.123 | 0 | — | — | 0 |
-| Erine | IDN Live | havefunnnnn | 21 Nov 2026, 21.34 | 44m | 7.883 | 0 | — | — | 0 |
 
 ## Lisensi
 
