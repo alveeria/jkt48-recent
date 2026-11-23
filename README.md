@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 21.30 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 21.35 WIB.
 
 ## Interval pembaruan
 
@@ -46,19 +46,19 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fahira | IDN Live | ada apa??? | 23 Nov 2026, 20.31 | 4.620 |
-| Fera | IDN Live | Ayo masuk | 23 Nov 2026, 20.36 | 3.515 |
-| Michie | IDN Live | hello | 23 Nov 2026, 20.43 | 7.139 |
-| Rara | IDN Live | Hayy hihu | 23 Nov 2026, 20.45 | 2.204 |
-| Carissa | IDN Live | HIHUUUU 👍🏻 | 23 Nov 2026, 20.50 | 2.896 |
-| Maxine | IDN Live | makan | 23 Nov 2026, 20.50 | 2.568 |
-| Ekin | IDN Live | hai | 23 Nov 2026, 20.56 | 4.956 |
-| Ralyne | IDN Live | HAIII | 23 Nov 2026, 20.58 | 1.971 |
-| Intan | IDN Live | aku lg pake batik pekalongan? | 23 Nov 2026, 21.06 | 3.796 |
-| Sona | IDN Live | maap ngaret | 23 Nov 2026, 21.07 | 1.544 |
-| Jazzy | IDN Live | ehhhh rame nic | 23 Nov 2026, 21.11 | 1.471 |
-| Gracie | IDN Live | hiii | 23 Nov 2026, 21.18 | 1.305 |
-| Virgi | IDN Live | iya | 23 Nov 2026, 21.29 | 10 |
+| Fahira | IDN Live | ada apa??? | 23 Nov 2026, 20.31 | 4.910 |
+| Fera | IDN Live | Ayo masuk | 23 Nov 2026, 20.36 | 3.738 |
+| Michie | IDN Live | hello | 23 Nov 2026, 20.43 | 7.679 |
+| Rara | IDN Live | Hayy hihu | 23 Nov 2026, 20.45 | 2.393 |
+| Carissa | IDN Live | HIHUUUU 👍🏻 | 23 Nov 2026, 20.50 | 3.119 |
+| Maxine | IDN Live | makan | 23 Nov 2026, 20.50 | 2.798 |
+| Ekin | IDN Live | hai | 23 Nov 2026, 20.56 | 5.461 |
+| Ralyne | IDN Live | HAIII | 23 Nov 2026, 20.58 | 2.194 |
+| Intan | IDN Live | aku lg pake batik pekalongan? | 23 Nov 2026, 21.06 | 4.277 |
+| Sona | IDN Live | maap ngaret | 23 Nov 2026, 21.07 | 1.790 |
+| Jazzy | IDN Live | ehhhh rame nic | 23 Nov 2026, 21.11 | 1.845 |
+| Gracie | IDN Live | hiii | 23 Nov 2026, 21.18 | 1.770 |
+| Virgi | IDN Live | iya | 23 Nov 2026, 21.29 | 291 |
 
 ## Live terakhir — Nov 2026
 
