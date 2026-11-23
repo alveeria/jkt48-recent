@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 20.38 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 20.44 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Ribka | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 19.30 | 6.247 |
-| Lulu | IDN Live | mlm | 23 Nov 2026, 19.41 | 3.961 |
-| Daisy | IDN Live | Hi | 23 Nov 2026, 19.58 | 1.565 |
-| Danella | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 20.00 | 1.385 |
-| Fahira | IDN Live | ada apa??? | 23 Nov 2026, 20.31 | 701 |
-| Fera | IDN Live | Ayo masuk | 23 Nov 2026, 20.36 | 165 |
+| Daisy | IDN Live | Hi | 23 Nov 2026, 19.58 | 1.822 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 20.00 | 1.645 |
+| Fahira | IDN Live | ada apa??? | 23 Nov 2026, 20.31 | 1.161 |
+| Fera | IDN Live | Ayo masuk | 23 Nov 2026, 20.36 | 481 |
+| Michie | IDN Live | hello | 23 Nov 2026, 20.43 | 73 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lulu | IDN Live | mlm | 23 Nov 2026, 19.41 | 60m | 4.112 | 0 | — | — | 0 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 19.30 | 67m | 6.247 | 0 | — | — | 0 |
 | Oniel | IDN Live | saya kembali | 23 Nov 2026, 18.50 | 60m | 9.110 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 18.47 | 60m | 5.742 | 0 | — | — | 0 |
 | Indah | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 18.46 | 61m | 9.301 | 0 | — | — | 0 |
@@ -95,8 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/22 | 22 Nov 2026, 18.44 | 155m | 906 | 0 | — | — | 0 |
 | Sona | IDN Live | HMMMM | 22 Nov 2026, 18.44 | 0m | 0 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 22 Nov 2026, 18.29 | 66m | 5.833 | 0 | — | — | 0 |
-| Jazzy | IDN Live | ehhhh rame nic | 22 Nov 2026, 17.37 | 67m | 3.689 | 0 | — | — | 0 |
-| Fahira | IDN Live | ada apa??? | 22 Nov 2026, 17.34 | 78m | 5.457 | 0 | — | — | 0 |
 
 ## Lisensi
 
