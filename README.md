@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 19.52 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 19.57 WIB.
 
 ## Interval pembaruan
 
@@ -46,9 +46,8 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Marsha | IDN Live | Plisss | 23 Nov 2026, 18.46 | 10.626 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 19.30 | 2.329 |
-| Lulu | IDN Live | mlm | 23 Nov 2026, 19.41 | 828 |
+| Ribka | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 19.30 | 2.893 |
+| Lulu | IDN Live | mlm | 23 Nov 2026, 19.41 | 1.239 |
 
 ## Live terakhir — Nov 2026
 
@@ -57,6 +56,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Oniel | IDN Live | saya kembali | 23 Nov 2026, 18.50 | 60m | 9.110 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 18.47 | 60m | 5.742 | 0 | — | — | 0 |
 | Indah | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 18.46 | 61m | 9.301 | 0 | — | — | 0 |
+| Marsha | IDN Live | Plisss | 23 Nov 2026, 18.46 | 65m | 10.626 | 0 | — | — | 0 |
 | Nala | IDN Live | MALAMin | 23 Nov 2026, 18.42 | 63m | 9.496 | 0 | — | — | 0 |
 | Kathrina | IDN Live | w nala | 23 Nov 2026, 18.41 | 61m | 8.973 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 23 Nov 2026, 18.20 | 80m | 6.565 | 0 | — | — | 0 |
@@ -93,7 +93,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Muthe | IDN Live | Hi | 22 Nov 2026, 18.29 | 66m | 5.833 | 0 | — | — | 0 |
 | Jazzy | IDN Live | ehhhh rame nic | 22 Nov 2026, 17.37 | 67m | 3.689 | 0 | — | — | 0 |
 | Fahira | IDN Live | ada apa??? | 22 Nov 2026, 17.34 | 78m | 5.457 | 0 | — | — | 0 |
-| Maxine | IDN Live | haaaii | 22 Nov 2026, 17.30 | 78m | 5.189 | 0 | — | — | 0 |
 
 ## Lisensi
 
