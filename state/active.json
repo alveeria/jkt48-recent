@@ -1,1 +1,58 @@
-{}
+{
+  "idn:yey-261123160058": {
+    "id": "idn:yey-261123160058",
+    "platform": "idn",
+    "member": {
+      "name": "Ella",
+      "username": "jkt48_ella",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/9e5114433fc13ada649ff70b6bba8784.webp?v=1778756003"
+    },
+    "title": "yey",
+    "url": "https://www.idn.app/jkt48_ella/live/yey-261123160058",
+    "image": "https://cdn.idn.app/livestream/17940a41eddd20c57c3583a8870558b8.webp",
+    "started_at": "2026-11-23T09:01:02.000Z",
+    "viewers": 293,
+    "last_seen_at": "2026-11-23T09:06:05.916Z",
+    "peak_viewers": 293,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 10], [1, 37], [2, 122], [3, 151], [4, 208], [5, 256]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/i5RIo9CuCp8b",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
+  },
+  "idn:hi-261123160359": {
+    "id": "idn:hi-261123160359",
+    "platform": "idn",
+    "member": {
+      "name": "Jessi",
+      "username": "jkt48_jessi",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dfa51cbb14d8a3185c35228f1f765ae5.webp?v=1778755467"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_jessi/live/hi-261123160359",
+    "image": "https://cdn.idn.app/livestream/d8107880fb8af7a21b96259309786f1a.webp",
+    "started_at": "2026-11-23T09:04:05.000Z",
+    "viewers": 102,
+    "last_seen_at": "2026-11-23T09:06:05.916Z",
+    "peak_viewers": 102,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 8], [1, 29], [2, 67]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/DB4L56nemB2B",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
+  }
+}
