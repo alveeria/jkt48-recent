@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T11:24:54.184Z",
+  "updated_at": "2026-11-23T11:30:02.456Z",
   "lives": [
     {
       "id": "idn:hi-261123182052",
@@ -13,16 +13,16 @@
       "url": "https://www.idn.app/jkt48_muthe/live/hi-261123182052",
       "image": "https://cdn.idn.app/livestream/7655b1121ba827a03c55ab0411ea9fdc.webp",
       "started_at": "2026-11-23T11:20:57.000Z",
-      "viewers": 309,
-      "last_seen_at": "2026-11-23T11:24:53.134Z",
-      "peak_viewers": 309,
+      "viewers": 612,
+      "last_seen_at": "2026-11-23T11:30:01.566Z",
+      "peak_viewers": 612,
       "gifts": 0,
       "gift_points": 0,
       "stars": 0,
       "comments": 0,
       "gift_breakdown": {},
       "top_gifters": [],
-      "viewer_series": [[0, 1], [1, 45], [2, 113], [3, 228], [4, 309]],
+      "viewer_series": [[0, 1], [1, 45], [2, 113], [3, 228], [4, 309], [5, 383], [6, 417], [7, 475], [8, 534], [9, 590]],
       "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
       "estimated_gift_value_idr": null,
       "gift_rate_idr": null,
