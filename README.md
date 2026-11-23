@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 20.59 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 21.04 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Daisy | IDN Live | Hi | 23 Nov 2026, 19.58 | 2.432 |
-| Danella | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 20.00 | 2.377 |
-| Fahira | IDN Live | ada apa??? | 23 Nov 2026, 20.31 | 2.279 |
-| Fera | IDN Live | Ayo masuk | 23 Nov 2026, 20.36 | 1.554 |
-| Michie | IDN Live | hello | 23 Nov 2026, 20.43 | 2.952 |
-| Rara | IDN Live | Hayy hihu | 23 Nov 2026, 20.45 | 612 |
-| Carissa | IDN Live | HIHUUUU 👍🏻 | 23 Nov 2026, 20.50 | 782 |
-| Maxine | IDN Live | makan | 23 Nov 2026, 20.50 | 609 |
-| Ekin | IDN Live | hai | 23 Nov 2026, 20.56 | 550 |
-| Ralyne | IDN Live | HAIII | 23 Nov 2026, 20.58 | 84 |
+| Daisy | IDN Live | Hi | 23 Nov 2026, 19.58 | 2.711 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 20.00 | 2.574 |
+| Fahira | IDN Live | ada apa??? | 23 Nov 2026, 20.31 | 2.612 |
+| Fera | IDN Live | Ayo masuk | 23 Nov 2026, 20.36 | 1.867 |
+| Michie | IDN Live | hello | 23 Nov 2026, 20.43 | 3.659 |
+| Rara | IDN Live | Hayy hihu | 23 Nov 2026, 20.45 | 926 |
+| Carissa | IDN Live | HIHUUUU 👍🏻 | 23 Nov 2026, 20.50 | 1.127 |
+| Maxine | IDN Live | makan | 23 Nov 2026, 20.50 | 959 |
+| Ekin | IDN Live | hai | 23 Nov 2026, 20.56 | 1.310 |
+| Ralyne | IDN Live | HAIII | 23 Nov 2026, 20.58 | 435 |
 
 ## Live terakhir — Nov 2026
 
