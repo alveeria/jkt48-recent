@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 21.20 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 21.25 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fahira | IDN Live | ada apa??? | 23 Nov 2026, 20.31 | 3.873 |
-| Fera | IDN Live | Ayo masuk | 23 Nov 2026, 20.36 | 2.903 |
-| Michie | IDN Live | hello | 23 Nov 2026, 20.43 | 5.715 |
-| Rara | IDN Live | Hayy hihu | 23 Nov 2026, 20.45 | 1.786 |
-| Carissa | IDN Live | HIHUUUU 👍🏻 | 23 Nov 2026, 20.50 | 2.244 |
-| Maxine | IDN Live | makan | 23 Nov 2026, 20.50 | 1.994 |
-| Ekin | IDN Live | hai | 23 Nov 2026, 20.56 | 3.620 |
-| Ralyne | IDN Live | HAIII | 23 Nov 2026, 20.58 | 1.496 |
-| Intan | IDN Live | aku lg pake batik pekalongan? | 23 Nov 2026, 21.06 | 2.518 |
-| Sona | IDN Live | maap ngaret | 23 Nov 2026, 21.07 | 991 |
-| Jazzy | IDN Live | ehhhh rame nic | 23 Nov 2026, 21.11 | 661 |
-| Gracie | IDN Live | hiii | 23 Nov 2026, 21.18 | 143 |
+| Fahira | IDN Live | ada apa??? | 23 Nov 2026, 20.31 | 4.247 |
+| Fera | IDN Live | Ayo masuk | 23 Nov 2026, 20.36 | 3.207 |
+| Michie | IDN Live | hello | 23 Nov 2026, 20.43 | 6.386 |
+| Rara | IDN Live | Hayy hihu | 23 Nov 2026, 20.45 | 1.984 |
+| Carissa | IDN Live | HIHUUUU 👍🏻 | 23 Nov 2026, 20.50 | 2.560 |
+| Maxine | IDN Live | makan | 23 Nov 2026, 20.50 | 2.288 |
+| Ekin | IDN Live | hai | 23 Nov 2026, 20.56 | 4.248 |
+| Ralyne | IDN Live | HAIII | 23 Nov 2026, 20.58 | 1.737 |
+| Intan | IDN Live | aku lg pake batik pekalongan? | 23 Nov 2026, 21.06 | 3.113 |
+| Sona | IDN Live | maap ngaret | 23 Nov 2026, 21.07 | 1.259 |
+| Jazzy | IDN Live | ehhhh rame nic | 23 Nov 2026, 21.11 | 1.064 |
+| Gracie | IDN Live | hiii | 23 Nov 2026, 21.18 | 729 |
 
 ## Live terakhir — Nov 2026
 
