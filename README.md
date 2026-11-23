@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 17.07 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 23 Nov 2026, 17.13 WIB.
 
 ## Interval pembaruan
 
@@ -46,14 +46,11 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Ella | IDN Live | yey | 23 Nov 2026, 16.01 | 6.756 |
-| Jessi | IDN Live | hi | 23 Nov 2026, 16.04 | 5.998 |
-| Greesel | IDN Live | hi | 23 Nov 2026, 16.08 | 6.809 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.27 | 4.043 |
-| Levi | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.27 | 4.412 |
-| Nayla | IDN Live | Hai | 23 Nov 2026, 16.31 | 2.458 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.43 | 1.944 |
-| Raisha | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 17.03 | 236 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.27 | 4.468 |
+| Levi | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.27 | 4.841 |
+| Nayla | IDN Live | Hai | 23 Nov 2026, 16.31 | 2.788 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.43 | 2.518 |
+| Raisha | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 17.03 | 570 |
 
 ## Live terakhir — Nov 2026
 
@@ -63,7 +60,10 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Nayla | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.23 | 0m | 7 | 0 | — | — | 0 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.22 | 1m | 81 | 0 | — | — | 0 |
 | Levi | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.22 | 2m | 191 | 0 | — | — | 0 |
+| Greesel | IDN Live | hi | 23 Nov 2026, 16.08 | 62m | 6.961 | 0 | — | — | 0 |
 | Greesel | IDN Live | hi | 23 Nov 2026, 16.07 | 1m | 135 | 0 | — | — | 0 |
+| Jessi | IDN Live | hi | 23 Nov 2026, 16.04 | 67m | 6.297 | 0 | — | — | 0 |
+| Ella | IDN Live | yey | 23 Nov 2026, 16.01 | 69m | 6.909 | 0 | — | — | 0 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.47 | 3m | 89 | 0 | — | — | 0 |
 | Delynn | IDN Live | Hello | 22 Nov 2026, 23.17 | 32m | 3.548 | 0 | — | — | 0 |
 | Erine | IDN Live | hai | 22 Nov 2026, 23.11 | 38m | 5.917 | 0 | — | — | 0 |
@@ -96,9 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Lana | IDN Live | Haii | 22 Nov 2026, 14.00 | 63m | 4.554 | 0 | — | — | 0 |
 | Ralyne | IDN Live | HAIII | 22 Nov 2026, 13.46 | 67m | 3.394 | 0 | — | — | 0 |
 | Eli | IDN Live | Get ready with ECEU BUDHE | 22 Nov 2026, 13.23 | 89m | 3.595 | 0 | — | — | 0 |
-| Eli | IDN Live | Get ready with ECEU BUDHE | 22 Nov 2026, 13.19 | 4m | 70 | 0 | — | — | 0 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 12.50 | 33m | 2.918 | 0 | — | — | 0 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 12.45 | 4m | 179 | 0 | — | — | 0 |
 
 ## Lisensi
 
