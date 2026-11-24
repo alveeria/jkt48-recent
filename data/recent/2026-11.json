@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3205",
+    "platform": "idn",
+    "member": {
+      "name": "Greesel",
+      "username": "jkt48_greesel",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/44057259b756c4d190b2283ebfb952b6.webp?v=1778756088"
+    },
+    "title": "temenin icel nugas",
+    "url": "https://www.idn.app/jkt48_greesel/live/temenin-icel-nugas-261124172523",
+    "image": "https://cdn.idn.app/livestream/bdbc3062075d83c3ba4c8d5dbec33a34.webp",
+    "started_at": "2026-11-24T10:25:29.000Z",
+    "last_seen_at": "2026-11-24T11:26:59.539Z",
+    "peak_viewers": 5178,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 42], [2, 152], [3, 248], [4, 341], [5, 455], [6, 611], [7, 724], [8, 834], [9, 929], [10, 1035], [11, 1133], [12, 1213], [13, 1302], [14, 1409], [15, 1457], [16, 1523], [17, 1621], [18, 1706], [19, 1789], [20, 1865], [21, 1972], [22, 2047], [23, 2124], [24, 2221], [25, 2315], [26, 2422], [27, 2498], [28, 2597], [29, 2678], [30, 2786], [31, 2841], [32, 2941], [33, 3033], [34, 3142], [35, 3253], [36, 3341], [37, 3425], [38, 3506], [39, 3585], [40, 3651], [41, 3715], [42, 3776], [43, 3824], [44, 3880], [45, 3933], [46, 4010], [47, 4036], [48, 4111], [49, 4194], [50, 4246], [51, 4306], [52, 4379], [53, 4463], [54, 4555], [55, 4647], [56, 4718], [57, 4800], [58, 4887], [59, 4971], [60, 5057], [61, 5138], [62, 5178]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/N7Y0Yn2baCsg",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-24T11:26:59.539Z",
+    "duration_minutes": 62,
+    "last_viewers": 5178,
+    "unique_gifters": 0,
+    "source_id": "idn:temenin-icel-nugas-261124172523"
+  },
+  {
     "id": "idn:alveeria-3204",
     "platform": "idn",
     "member": {

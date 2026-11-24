@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 18.26 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 18.31 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jessi | IDN Live | baxo | 24 Nov 2026, 17.23 | 4.904 |
-| Greesel | IDN Live | temenin icel nugas | 24 Nov 2026, 17.25 | 5.138 |
-| Kathrina | IDN Live | w nala | 24 Nov 2026, 17.29 | 5.167 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 17.47 | 5.358 |
-| Muthe | IDN Live | Hi | 24 Nov 2026, 18.01 | 1.473 |
-| Maira | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 18.06 | 775 |
+| Jessi | IDN Live | baxo | 24 Nov 2026, 17.23 | 5.316 |
+| Kathrina | IDN Live | w nala | 24 Nov 2026, 17.29 | 5.731 |
+| Christy | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 17.47 | 6.011 |
+| Muthe | IDN Live | Hi | 24 Nov 2026, 18.01 | 1.851 |
+| Maira | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 18.06 | 949 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Greesel | IDN Live | temenin icel nugas | 24 Nov 2026, 17.25 | 62m | 5.178 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 24 Nov 2026, 17.21 | 40m | 4.012 | 0 | — | — | 0 |
 | Carissa | IDN Live | HAIIII | 24 Nov 2026, 17.05 | 67m | 3.527 | 0 | — | — | 0 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 16.43 | 62m | 3.046 | 0 | — | — | 0 |
@@ -96,7 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Marsha | IDN Live | Plisss | 23 Nov 2026, 18.46 | 65m | 10.626 | 0 | — | — | 0 |
 | Nala | IDN Live | MALAMin | 23 Nov 2026, 18.42 | 63m | 9.496 | 0 | — | — | 0 |
 | Kathrina | IDN Live | w nala | 23 Nov 2026, 18.41 | 61m | 8.973 | 0 | — | — | 0 |
-| Muthe | IDN Live | Hi | 23 Nov 2026, 18.20 | 80m | 6.565 | 0 | — | — | 0 |
 
 ## Lisensi
 
