@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3189",
+    "platform": "idn",
+    "member": {
+      "name": "Raisha",
+      "username": "jkt48_raisha",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7646a44d606dc17fedf5f425a8df2c96.webp?v=1778755793"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_raisha/live/ayo-ngobrol-bareng-261124140018",
+    "image": "https://cdn.idn.app/livestream/08b0076f2c87713203c38629542c9e4f.webp",
+    "started_at": "2026-11-24T07:00:24.000Z",
+    "last_seen_at": "2026-11-24T07:13:01.892Z",
+    "peak_viewers": 942,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 3], [1, 22], [2, 75], [3, 150], [4, 262], [5, 326], [6, 395], [7, 443], [8, 479], [9, 494], [10, 662], [11, 785], [12, 863], [13, 942]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/OL2DbmrJcGdi",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-24T07:13:01.892Z",
+    "duration_minutes": 13,
+    "last_viewers": 942,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261124140018"
+  },
+  {
     "id": "idn:alveeria-3188",
     "platform": "idn",
     "member": {
@@ -9846,128 +9877,5 @@
     "last_viewers": 1226,
     "unique_gifters": 10,
     "source_id": "idn:aloo-261117215009"
-  },
-  {
-    "id": "idn:alveeria-2991",
-    "platform": "idn",
-    "member": {
-      "name": "Fritzy",
-      "username": "jkt48_fritzy",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4d25811b1b50effd560fb480cac8ba0.webp?v=1778761438"
-    },
-    "title": "g(u)rwm",
-    "url": "https://www.idn.app/jkt48_fritzy/live/g-u-rwm-261117213701",
-    "image": "https://cdn.idn.app/livestream/e447db4c90870b36a2f7d6b68e892651.webp",
-    "started_at": "2026-11-17T14:37:08.000Z",
-    "last_seen_at": "2026-11-17T15:42:22.048Z",
-    "peak_viewers": 6948,
-    "gifts": 76,
-    "gift_points": 8644,
-    "stars": 0,
-    "comments": 3718,
-    "gift_breakdown": {
-      "FRITZY": 5,
-      "Water": 7,
-      "Kompas": 8,
-      "Toa": 12,
-      "Yuk bisa yuk": 2,
-      "HADIIIRRR!!": 1,
-      "Cold Water": 5,
-      "Matcha": 5,
-      "HAHAHA": 1,
-      "Kucing": 1,
-      "Semangat kak": 1,
-      "Mawar": 3,
-      "Pumpkin": 2,
-      "Emas Batang": 2,
-      "Kembang Api": 1,
-      "LILY": 1,
-      "Lemonade": 2,
-      "Bubble Gun": 3,
-      "Lightstick": 2,
-      "Rempeyek": 1,
-      "Buket Mawar": 2,
-      "INTAN": 1,
-      "GGWP!": 1,
-      "NACHIA": 1,
-      "Ngeri Banget": 1,
-      "JKT48 Stage": 2,
-      "Jet Pribadi": 1,
-      "Puding": 1,
-      "Graffiti": 1
-    },
-    "top_gifters": [
-      {
-        "rank": 1,
-        "name": "Idham ",
-        "points": 2816,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/08688b7bc55ad303d04349ce78ab5b65.webp?v=1789121417"
-      },
-      {
-        "rank": 2,
-        "name": "Heni Rahmawati",
-        "points": 1960,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/c293dac45daf8e1c952ac3ed8eec0727.webp?v=1779362332"
-      },
-      {
-        "rank": 3,
-        "name": "Naufal Reyhan",
-        "points": 1256,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0e17c1199231895f71c93d58a2ed957a.webp?v=1786961413"
-      },
-      {
-        "rank": 4,
-        "name": "Rizkum .",
-        "points": 956,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a02fc0d61352d9733e606a523813168e.webp?v=1791723343"
-      },
-      {
-        "rank": 5,
-        "name": "aldi kebun duren",
-        "points": 316,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fe45c5b8593e4df9ed40cc261575b0d2.webp?v=1778857342"
-      },
-      {
-        "rank": 6,
-        "name": "Felix Gary",
-        "points": 144,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3566b6c0b1c1a9724cceb456eb9c4f16.webp?v=1753362807"
-      },
-      {
-        "rank": 7,
-        "name": "HaNin (Roy) 🤙💜",
-        "points": 132,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/cfb91ac8c224a8984d706474dd961eb3.webp?v=1794738355"
-      },
-      {
-        "rank": 8,
-        "name": "Razka _fairel #Fritzyonly",
-        "points": 124,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/630900a6b282c45b1c46d6dbeaa373de.webp?v=1794191401"
-      },
-      {
-        "rank": 9,
-        "name": "Arrayyy ",
-        "points": 120,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7790bb66ee430a2b5ddab2d2b9010feb.webp?v=1751041502"
-      },
-      {
-        "rank": 10,
-        "name": "Riziq Shihab",
-        "points": 120,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7f91c5cc6b80394e1f6e91f7a9b6596a.webp?v=1793542058"
-      }
-    ],
-    "viewer_series": [[0, 7], [1, 67], [2, 211], [3, 353], [4, 465], [5, 627], [6, 833], [7, 1070], [8, 1181], [9, 1379], [10, 1532], [11, 1669], [12, 1791], [13, 1970], [14, 2110], [15, 2226], [16, 2326], [17, 2424], [18, 2553], [19, 2652], [20, 2758], [21, 2859], [22, 2964], [23, 3044], [24, 3168], [25, 3312], [26, 3417], [27, 3508], [28, 3612], [29, 3700], [30, 3803], [31, 3897], [32, 3999], [33, 4109], [34, 4197], [35, 4295], [36, 4417], [37, 4516], [38, 4620], [39, 4737], [40, 4826], [41, 4865], [42, 4973], [43, 5057], [44, 5155], [45, 5301], [46, 5416], [47, 5503], [48, 5631], [49, 5715], [50, 5772], [51, 5843], [52, 5923], [53, 5989], [54, 6060], [55, 6136], [56, 6212], [57, 6299], [58, 6369], [59, 6407], [60, 6487], [61, 6571], [62, 6639], [63, 6726], [64, 6804], [65, 6914]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
-    "gift_gold": 2161,
-    "estimated_gift_value_idr": 5402500,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold",
-    "ended_at": "2026-11-17T15:42:22.048Z",
-    "duration_minutes": 65,
-    "last_viewers": 6948,
-    "unique_gifters": 26,
-    "source_id": "idn:g-u-rwm-261117213701"
   }
 ]
