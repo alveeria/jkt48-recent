@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 18.10 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 18.16 WIB.
 
 ## Interval pembaruan
 
@@ -46,19 +46,19 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Carissa | IDN Live | HAIIII | 24 Nov 2026, 17.05 | 3.477 |
-| Jessi | IDN Live | baxo | 24 Nov 2026, 17.23 | 3.880 |
-| Greesel | IDN Live | temenin icel nugas | 24 Nov 2026, 17.25 | 3.978 |
-| Kathrina | IDN Live | w nala | 24 Nov 2026, 17.29 | 4.038 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 17.47 | 3.388 |
-| Muthe | IDN Live | Hi | 24 Nov 2026, 18.01 | 506 |
-| Maira | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 18.06 | 168 |
+| Jessi | IDN Live | baxo | 24 Nov 2026, 17.23 | 4.208 |
+| Greesel | IDN Live | temenin icel nugas | 24 Nov 2026, 17.25 | 4.306 |
+| Kathrina | IDN Live | w nala | 24 Nov 2026, 17.29 | 4.396 |
+| Christy | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 17.47 | 4.037 |
+| Muthe | IDN Live | Hi | 24 Nov 2026, 18.01 | 789 |
+| Maira | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 18.06 | 362 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Muthe | IDN Live | Hi | 24 Nov 2026, 17.21 | 40m | 4.012 | 0 | — | — | 0 |
+| Carissa | IDN Live | HAIIII | 24 Nov 2026, 17.05 | 67m | 3.527 | 0 | — | — | 0 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 16.43 | 62m | 3.046 | 0 | — | — | 0 |
 | Rara | IDN Live | Sama ralynee | 24 Nov 2026, 16.32 | 66m | 2.096 | 0 | — | — | 0 |
 | Ralyne | IDN Live | HAIII | 24 Nov 2026, 16.31 | 33m | 1.345 | 0 | — | — | 0 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Nala | IDN Live | MALAMin | 23 Nov 2026, 18.42 | 63m | 9.496 | 0 | — | — | 0 |
 | Kathrina | IDN Live | w nala | 23 Nov 2026, 18.41 | 61m | 8.973 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 23 Nov 2026, 18.20 | 80m | 6.565 | 0 | — | — | 0 |
-| Raisha | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 17.03 | 79m | 3.747 | 0 | — | — | 0 |
 
 ## Lisensi
 

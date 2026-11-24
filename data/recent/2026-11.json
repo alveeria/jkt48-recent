@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3204",
+    "platform": "idn",
+    "member": {
+      "name": "Carissa",
+      "username": "jkt48_carissa",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/be7df69330e6c87a93d6b484dad4620c.webp?v=1779706174"
+    },
+    "title": "HAIIII",
+    "url": "https://www.idn.app/jkt48_carissa/live/haiiii-261124170523",
+    "image": "https://cdn.idn.app/livestream/ee0509e570c72a328e7d95bf7e34a9f8.webp",
+    "started_at": "2026-11-24T10:05:29.000Z",
+    "last_seen_at": "2026-11-24T11:12:01.844Z",
+    "peak_viewers": 3527,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 12], [1, 52], [2, 142], [3, 185], [4, 204], [5, 261], [6, 306], [7, 355], [8, 402], [9, 448], [10, 516], [11, 584], [12, 661], [13, 716], [14, 763], [15, 802], [16, 855], [17, 894], [18, 926], [19, 983], [20, 1000], [21, 1051], [22, 1105], [23, 1164], [24, 1206], [25, 1251], [26, 1290], [27, 1337], [28, 1374], [29, 1405], [30, 1450], [31, 1491], [32, 1524], [33, 1572], [34, 1628], [35, 1660], [36, 1693], [37, 1760], [38, 1821], [39, 1877], [40, 1942], [41, 2030], [42, 2100], [43, 2148], [44, 2225], [45, 2306], [46, 2374], [47, 2426], [48, 2485], [49, 2540], [50, 2617], [51, 2653], [52, 2714], [53, 2787], [54, 2856], [55, 2921], [56, 2971], [57, 3022], [58, 3092], [59, 3142], [60, 3205], [61, 3272], [62, 3321], [63, 3376], [64, 3415], [65, 3453], [66, 3506], [67, 3527]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/uFfgGxueaWlO",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-24T11:12:01.844Z",
+    "duration_minutes": 67,
+    "last_viewers": 3527,
+    "unique_gifters": 0,
+    "source_id": "idn:haiiii-261124170523"
+  },
+  {
     "id": "idn:alveeria-3203",
     "platform": "idn",
     "member": {
