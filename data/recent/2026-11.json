@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3201",
+    "platform": "idn",
+    "member": {
+      "name": "Rara",
+      "username": "jkt48_rara",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1c1ced380ede33a7e1f493b00b877630.webp?v=1779088190"
+    },
+    "title": "Sama ralynee",
+    "url": "https://www.idn.app/jkt48_rara/live/sama-ralynee-261124163237",
+    "image": "https://cdn.idn.app/livestream/9d849402be34b3384262da3e74daeda4.webp",
+    "started_at": "2026-11-24T09:32:42.000Z",
+    "last_seen_at": "2026-11-24T10:38:57.098Z",
+    "peak_viewers": 2096,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 20], [2, 77], [3, 110], [4, 141], [5, 172], [6, 207], [7, 231], [8, 267], [9, 294], [10, 322], [11, 343], [12, 364], [13, 372], [14, 400], [15, 425], [16, 453], [17, 470], [18, 498], [19, 518], [20, 550], [21, 572], [22, 607], [23, 638], [24, 657], [25, 694], [26, 716], [27, 740], [28, 753], [29, 780], [30, 809], [31, 831], [32, 877], [33, 918], [34, 954], [35, 992], [36, 1034], [37, 1066], [38, 1100], [39, 1145], [40, 1181], [41, 1212], [42, 1254], [43, 1295], [44, 1345], [45, 1407], [46, 1446], [47, 1486], [48, 1505], [49, 1530], [50, 1560], [51, 1590], [52, 1641], [53, 1673], [54, 1712], [55, 1763], [56, 1797], [57, 1832], [58, 1846], [59, 1879], [60, 1919], [61, 1947], [62, 1972], [63, 2010], [64, 2039], [65, 2061], [66, 2084]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-24T10:38:57.098Z",
+    "duration_minutes": 66,
+    "last_viewers": 2096,
+    "unique_gifters": 0,
+    "source_id": "idn:sama-ralynee-261124163237"
+  },
+  {
     "id": "idn:alveeria-3200",
     "platform": "idn",
     "member": {
