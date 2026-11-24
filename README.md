@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 18.36 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 00.37 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jessi | IDN Live | baxo | 24 Nov 2026, 17.23 | 5.699 |
-| Kathrina | IDN Live | w nala | 24 Nov 2026, 17.29 | 6.238 |
-| Christy | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 17.47 | 6.640 |
-| Muthe | IDN Live | Hi | 24 Nov 2026, 18.01 | 2.233 |
-| Maira | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 18.06 | 1.160 |
+| _Belum ada yang live_ | | | | |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Maira | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 18.06 | 30m | 1.160 | 0 | — | — | 0 |
+| Muthe | IDN Live | Hi | 24 Nov 2026, 18.01 | 34m | 2.233 | 0 | — | — | 0 |
+| Christy | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 17.47 | 49m | 6.640 | 0 | — | — | 0 |
+| Kathrina | IDN Live | w nala | 24 Nov 2026, 17.29 | 67m | 6.238 | 0 | — | — | 0 |
 | Greesel | IDN Live | temenin icel nugas | 24 Nov 2026, 17.25 | 62m | 5.178 | 0 | — | — | 0 |
+| Jessi | IDN Live | baxo | 24 Nov 2026, 17.23 | 73m | 5.699 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 24 Nov 2026, 17.21 | 40m | 4.012 | 0 | — | — | 0 |
 | Carissa | IDN Live | HAIIII | 24 Nov 2026, 17.05 | 67m | 3.527 | 0 | — | — | 0 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 16.43 | 62m | 3.046 | 0 | — | — | 0 |
@@ -91,11 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Lulu | IDN Live | mlm | 23 Nov 2026, 19.41 | 60m | 4.112 | 0 | — | — | 0 |
 | Ribka | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 19.30 | 67m | 6.247 | 0 | — | — | 0 |
 | Oniel | IDN Live | saya kembali | 23 Nov 2026, 18.50 | 60m | 9.110 | 0 | — | — | 0 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 18.47 | 60m | 5.742 | 0 | — | — | 0 |
-| Indah | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 18.46 | 61m | 9.301 | 0 | — | — | 0 |
-| Marsha | IDN Live | Plisss | 23 Nov 2026, 18.46 | 65m | 10.626 | 0 | — | — | 0 |
-| Nala | IDN Live | MALAMin | 23 Nov 2026, 18.42 | 63m | 9.496 | 0 | — | — | 0 |
-| Kathrina | IDN Live | w nala | 23 Nov 2026, 18.41 | 61m | 8.973 | 0 | — | — | 0 |
 
 ## Lisensi
 
