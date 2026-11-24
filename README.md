@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 17.24 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 17.29 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,14 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Eli | IDN Live | Get ready with ECEU BUDHE | 24 Nov 2026, 16.29 | 2.552 |
-| Rara | IDN Live | Sama ralynee | 24 Nov 2026, 16.32 | 1.641 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 16.43 | 2.122 |
-| Carissa | IDN Live | HAIIII | 24 Nov 2026, 17.05 | 983 |
-| Muthe | IDN Live | Hi | 24 Nov 2026, 17.21 | 175 |
-| Jessi | IDN Live | baxo | 24 Nov 2026, 17.23 | 89 |
+| Eli | IDN Live | Get ready with ECEU BUDHE | 24 Nov 2026, 16.29 | 2.934 |
+| Rara | IDN Live | Sama ralynee | 24 Nov 2026, 16.32 | 1.832 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 16.43 | 2.390 |
+| Carissa | IDN Live | HAIIII | 24 Nov 2026, 17.05 | 1.227 |
+| Muthe | IDN Live | Hi | 24 Nov 2026, 17.21 | 913 |
+| Jessi | IDN Live | baxo | 24 Nov 2026, 17.23 | 578 |
+| Greesel | IDN Live | temenin icel nugas | 24 Nov 2026, 17.25 | 379 |
+| Kathrina | IDN Live | w nala | 24 Nov 2026, 17.29 | 8 |
 
 ## Live terakhir — Nov 2026
 
