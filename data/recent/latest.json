@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3193",
+    "platform": "idn",
+    "member": {
+      "name": "Oniel",
+      "username": "jkt48_oniel",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b00afb482407c122800161b0bab0d04b.webp?v=1778755673"
+    },
+    "title": "saya kembali",
+    "url": "https://www.idn.app/jkt48_oniel/live/saya-kembali-261124152613",
+    "image": "https://cdn.idn.app/livestream/c772cce23a2f207113b518e6b9cddf90.webp",
+    "started_at": "2026-11-24T08:26:18.000Z",
+    "last_seen_at": "2026-11-24T08:58:13.570Z",
+    "peak_viewers": 2947,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 8], [1, 54], [2, 108], [3, 223], [4, 342], [5, 438], [6, 547], [7, 636], [8, 732], [9, 805], [10, 887], [11, 955], [12, 1016], [13, 1087], [14, 1144], [15, 1210], [16, 1273], [17, 1341], [18, 1662], [19, 1796], [20, 1851], [21, 1971], [22, 2100], [23, 2216], [24, 2319], [25, 2406], [26, 2488], [27, 2575], [28, 2647], [29, 2723], [30, 2797], [31, 2872], [32, 2947]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBL7dppkk6VQ",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-24T08:58:13.570Z",
+    "duration_minutes": 32,
+    "last_viewers": 2947,
+    "unique_gifters": 0,
+    "source_id": "idn:saya-kembali-261124152613"
+  },
+  {
     "id": "idn:alveeria-3192",
     "platform": "idn",
     "member": {
@@ -9557,73 +9588,5 @@
     "last_viewers": 4188,
     "unique_gifters": 74,
     "source_id": "showroom:510065:1794933564"
-  },
-  {
-    "id": "idn:alveeria-2994",
-    "platform": "idn",
-    "member": {
-      "name": "Ribka",
-      "username": "jkt48_ribka",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c3e9142730d1eb21db56de1eaa161d2.webp?v=1778755827"
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261117225816",
-    "image": "https://cdn.idn.app/livestream/8b14b630cdc00fef1a978ae66c68e0b1.webp",
-    "started_at": "2026-11-17T15:58:21.000Z",
-    "last_seen_at": "2026-11-17T16:05:32.724Z",
-    "peak_viewers": 602,
-    "gifts": 5,
-    "gift_points": 32,
-    "stars": 0,
-    "comments": 177,
-    "gift_breakdown": {
-      "Cold Water": 1,
-      "Water": 2,
-      "Lemon Tea": 1,
-      "Mawar": 1
-    },
-    "top_gifters": [
-      {
-        "rank": 1,
-        "name": "FADLY PRATAMA",
-        "points": 12,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/760004db2e8144bc9a16367f381f3f55.webp?v=1794904990"
-      },
-      {
-        "rank": 2,
-        "name": "Alif Lajim",
-        "points": 8,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6bd90af47d17b774dede9cf21d5b006b.webp?v=1783963204"
-      },
-      {
-        "rank": 3,
-        "name": "ㅤ ㅤ",
-        "points": 4,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/93740188af89cc51b18e960d2c42e943.webp?v=1791458472"
-      },
-      {
-        "rank": 4,
-        "name": "Octa .",
-        "points": 4,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/48651d71711234cb39731ebe1fd9ce70.webp?v=1794326851"
-      },
-      {
-        "rank": 5,
-        "name": "Arya Sutanto",
-        "points": 4,
-        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/576c634c83a0f5a040f0f760c42e7362.webp?v=1794805194"
-      }
-    ],
-    "viewer_series": [[1, 13], [2, 120], [3, 182], [4, 275], [5, 401], [6, 510], [7, 576]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
-    "gift_gold": 8,
-    "estimated_gift_value_idr": 20000,
-    "gift_rate_idr": 2500,
-    "gift_value_basis": "gold",
-    "ended_at": "2026-11-17T16:05:32.724Z",
-    "duration_minutes": 7,
-    "last_viewers": 602,
-    "unique_gifters": 5,
-    "source_id": "idn:ayo-ngobrol-bareng-261117225816"
   }
 ]
