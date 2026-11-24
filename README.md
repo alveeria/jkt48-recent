@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 16.07 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 16.12 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jemima | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.02 | 4.597 |
-| Intan | IDN Live | temenin grwm  | 24 Nov 2026, 15.02 | 5.474 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.24 | 2.005 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 16.03 | 209 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.24 | 2.344 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 16.03 | 606 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Oniel | IDN Live | saya kembali | 24 Nov 2026, 15.26 | 32m | 2.947 | 0 | — | — | 0 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.02 | 65m | 4.687 | 0 | — | — | 0 |
+| Intan | IDN Live | temenin grwm  | 24 Nov 2026, 15.02 | 65m | 5.547 | 0 | — | — | 0 |
 | Rilly | IDN Live | GEREEEMMM | 24 Nov 2026, 14.34 | 70m | 2.904 | 0 | — | — | 0 |
 | Fera | IDN Live | Ayo masuk | 24 Nov 2026, 14.30 | 70m | 2.911 | 0 | — | — | 0 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 14.16 | 58m | 2.328 | 0 | — | — | 0 |
@@ -93,8 +93,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Nayla | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.23 | 0m | 7 | 0 | — | — | 0 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.22 | 1m | 81 | 0 | — | — | 0 |
 | Levi | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 16.22 | 2m | 191 | 0 | — | — | 0 |
-| Greesel | IDN Live | hi | 23 Nov 2026, 16.08 | 62m | 6.961 | 0 | — | — | 0 |
-| Greesel | IDN Live | hi | 23 Nov 2026, 16.07 | 1m | 135 | 0 | — | — | 0 |
 
 ## Lisensi
 
