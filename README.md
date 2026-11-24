@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 15.15 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 15.20 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Raisha | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 14.16 | 2.328 |
-| Fera | IDN Live | Ayo masuk | 24 Nov 2026, 14.30 | 2.029 |
-| Rilly | IDN Live | GEREEEMMM | 24 Nov 2026, 14.34 | 1.660 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.02 | 999 |
-| Intan | IDN Live | temenin grwm  | 24 Nov 2026, 15.02 | 1.498 |
+| Fera | IDN Live | Ayo masuk | 24 Nov 2026, 14.30 | 2.174 |
+| Rilly | IDN Live | GEREEEMMM | 24 Nov 2026, 14.34 | 1.845 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.02 | 1.358 |
+| Intan | IDN Live | temenin grwm  | 24 Nov 2026, 15.02 | 2.001 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Raisha | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 14.16 | 58m | 2.328 | 0 | — | — | 0 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 14.00 | 13m | 942 | 0 | — | — | 0 |
 | Virgi | IDN Live | iya | 23 Nov 2026, 21.29 | 6m | 291 | 0 | — | — | 0 |
 | Gracie | IDN Live | hiii | 23 Nov 2026, 21.18 | 17m | 1.770 | 0 | — | — | 0 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Jessi | IDN Live | hi | 23 Nov 2026, 16.04 | 67m | 6.297 | 0 | — | — | 0 |
 | Ella | IDN Live | yey | 23 Nov 2026, 16.01 | 69m | 6.909 | 0 | — | — | 0 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.47 | 3m | 89 | 0 | — | — | 0 |
-| Delynn | IDN Live | Hello | 22 Nov 2026, 23.17 | 32m | 3.548 | 0 | — | — | 0 |
 
 ## Lisensi
 
