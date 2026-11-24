@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3191",
+    "platform": "idn",
+    "member": {
+      "name": "Fera",
+      "username": "jkt48_fera",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d66f83efb55bc65f61f4a3943dfd6c95.webp?v=1779088009"
+    },
+    "title": "Ayo masuk",
+    "url": "https://www.idn.app/jkt48_fera/live/ayo-masuk-261124143043",
+    "image": "https://cdn.idn.app/livestream/67a121c9543a0cbfc3513f72bd0d0b29.webp",
+    "started_at": "2026-11-24T07:30:48.000Z",
+    "last_seen_at": "2026-11-24T08:40:40.246Z",
+    "peak_viewers": 2911,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 2], [1, 50], [2, 155], [3, 212], [4, 250], [5, 298], [6, 365], [7, 426], [8, 442], [9, 507], [10, 621], [11, 689], [12, 733], [13, 792], [14, 834], [15, 880], [16, 935], [17, 978], [18, 1037], [19, 1089], [20, 1138], [21, 1187], [22, 1210], [23, 1255], [24, 1288], [25, 1304], [26, 1344], [27, 1373], [28, 1410], [29, 1442], [30, 1467], [31, 1501], [32, 1542], [33, 1576], [34, 1613], [35, 1652], [36, 1705], [37, 1750], [38, 1785], [39, 1827], [40, 1865], [41, 1881], [42, 1910], [43, 1941], [44, 1984], [45, 2029], [46, 2069], [47, 2096], [48, 2117], [49, 2131], [50, 2174], [51, 2226], [52, 2247], [53, 2271], [54, 2309], [55, 2356], [56, 2407], [57, 2433], [58, 2444], [59, 2511], [60, 2559], [61, 2600], [62, 2648], [63, 2682], [64, 2714], [65, 2757], [66, 2786], [67, 2818], [68, 2846], [69, 2878], [70, 2911]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/POC6D488qiQY",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-24T08:40:40.246Z",
+    "duration_minutes": 70,
+    "last_viewers": 2911,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-masuk-261124143043"
+  },
+  {
     "id": "idn:alveeria-3190",
     "platform": "idn",
     "member": {

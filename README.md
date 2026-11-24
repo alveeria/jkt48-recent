@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 15.41 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 24 Nov 2026, 15.46 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fera | IDN Live | Ayo masuk | 24 Nov 2026, 14.30 | 2.911 |
-| Rilly | IDN Live | GEREEEMMM | 24 Nov 2026, 14.34 | 2.699 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.02 | 2.726 |
-| Intan | IDN Live | temenin grwm  | 24 Nov 2026, 15.02 | 3.626 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.24 | 712 |
-| Oniel | IDN Live | saya kembali | 24 Nov 2026, 15.26 | 1.210 |
+| Rilly | IDN Live | GEREEEMMM | 24 Nov 2026, 14.34 | 2.904 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.02 | 3.125 |
+| Intan | IDN Live | temenin grwm  | 24 Nov 2026, 15.02 | 4.050 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.24 | 1.031 |
+| Oniel | IDN Live | saya kembali | 24 Nov 2026, 15.26 | 1.920 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Fera | IDN Live | Ayo masuk | 24 Nov 2026, 14.30 | 70m | 2.911 | 0 | — | — | 0 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 14.16 | 58m | 2.328 | 0 | — | — | 0 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 14.00 | 13m | 942 | 0 | — | — | 0 |
 | Virgi | IDN Live | iya | 23 Nov 2026, 21.29 | 6m | 291 | 0 | — | — | 0 |
@@ -96,7 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Greesel | IDN Live | hi | 23 Nov 2026, 16.07 | 1m | 135 | 0 | — | — | 0 |
 | Jessi | IDN Live | hi | 23 Nov 2026, 16.04 | 67m | 6.297 | 0 | — | — | 0 |
 | Ella | IDN Live | yey | 23 Nov 2026, 16.01 | 69m | 6.909 | 0 | — | — | 0 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 22 Nov 2026, 23.47 | 3m | 89 | 0 | — | — | 0 |
 
 ## Lisensi
 
