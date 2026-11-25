@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 14.13 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 14.18 WIB.
 
 ## Interval pembaruan
 
@@ -46,8 +46,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Daisy | IDN Live | Hi | 25 Nov 2026, 12.27 | 2.510 |
-| Lulu | IDN Live | makeupp | 25 Nov 2026, 13.44 | 1.572 |
+| Lulu | IDN Live | makeupp | 25 Nov 2026, 13.44 | 1.738 |
 
 ## Live terakhir — Nov 2026
 
@@ -55,7 +54,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 |---|---|---|---|---|---|---|---|---|---|
 | Lia | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 13.15 | 40m | 2.175 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 25 Nov 2026, 13.00 | 65m | 4.712 | 0 | — | — | 0 |
-| Daisy | IDN Live | Hi | 25 Nov 2026, 12.27 | 31m | 1.184 | 0 | — | — | 0 |
+| Daisy | IDN Live | Hi | 25 Nov 2026, 12.27 | 107m | 2.542 | 0 | — | — | 0 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 12.02 | 90m | 8.344 | 0 | — | — | 0 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 11.36 | 78m | 5.962 | 0 | — | — | 0 |
 | Intan | IDN Live | grwm bntar | 25 Nov 2026, 11.12 | 82m | 8.057 | 0 | — | — | 0 |
