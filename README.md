@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 12.35 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 12.40 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Intan | IDN Live | grwm bntar | 25 Nov 2026, 11.12 | 8.057 |
-| Virgi | IDN Live | iya | 25 Nov 2026, 11.12 | 7.746 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 11.36 | 4.662 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 12.02 | 3.117 |
-| Daisy | IDN Live | Hi | 25 Nov 2026, 12.27 | 291 |
+| Virgi | IDN Live | iya | 25 Nov 2026, 11.12 | 8.165 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 11.36 | 5.061 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 12.02 | 3.625 |
+| Daisy | IDN Live | Hi | 25 Nov 2026, 12.27 | 559 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Intan | IDN Live | grwm bntar | 25 Nov 2026, 11.12 | 82m | 8.057 | 0 | — | — | 0 |
 | Oniel | IDN Live | saya kembali | 25 Nov 2026, 10.24 | 63m | 4.460 | 0 | — | — | 0 |
 | Maira | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 18.06 | 30m | 1.160 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 24 Nov 2026, 18.01 | 34m | 2.233 | 0 | — | — | 0 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Danella | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 20.00 | 64m | 2.574 | 0 | — | — | 0 |
 | Daisy | IDN Live | Hi | 23 Nov 2026, 19.58 | 66m | 2.711 | 0 | — | — | 0 |
 | Lulu | IDN Live | mlm | 23 Nov 2026, 19.41 | 60m | 4.112 | 0 | — | — | 0 |
-| Ribka | IDN Live | Ayo ngobrol bareng! | 23 Nov 2026, 19.30 | 67m | 6.247 | 0 | — | — | 0 |
 
 ## Lisensi
 
