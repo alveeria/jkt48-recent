@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3231",
+    "platform": "idn",
+    "member": {
+      "name": "Kathrina",
+      "username": "jkt48_kathrina",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4be4288584db41e48aad4777ce9fa167.webp?v=1778755501"
+    },
+    "title": "yipyip",
+    "url": "https://www.idn.app/jkt48_kathrina/live/yipyip-261125215335",
+    "image": "https://cdn.idn.app/livestream/71884eb8f97bff1a1e7c936bee495f34.webp",
+    "started_at": "2026-11-25T14:53:40.000Z",
+    "last_seen_at": "2026-11-25T15:19:08.500Z",
+    "peak_viewers": 3584,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 27], [2, 129], [3, 309], [4, 512], [5, 641], [6, 769], [7, 885], [8, 1013], [9, 1114], [10, 1168], [11, 1296], [12, 1433], [13, 1570], [14, 1665], [15, 1804], [16, 1922], [17, 2053], [18, 2237], [19, 2441], [20, 2660], [21, 2826], [22, 3002], [23, 3132], [24, 3348], [25, 3505]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/uweM6GnyxtvD",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-25T15:19:08.500Z",
+    "duration_minutes": 25,
+    "last_viewers": 3584,
+    "unique_gifters": 0,
+    "source_id": "idn:yipyip-261125215335"
+  },
+  {
     "id": "idn:alveeria-3229",
     "platform": "idn",
     "member": {
