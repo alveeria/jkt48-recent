@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 14.44 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 14.49 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lulu | IDN Live | makeupp | 25 Nov 2026, 13.44 | 2.447 |
+| _Belum ada yang live_ | | | | |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Lulu | IDN Live | makeupp | 25 Nov 2026, 13.44 | 63m | 2.541 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 13.15 | 40m | 2.175 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 25 Nov 2026, 13.00 | 65m | 4.712 | 0 | — | — | 0 |
 | Daisy | IDN Live | Hi | 25 Nov 2026, 12.27 | 107m | 2.542 | 0 | — | — | 0 |
@@ -91,7 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Ekin | IDN Live | hai | 23 Nov 2026, 20.56 | 40m | 5.461 | 0 | — | — | 0 |
 | Maxine | IDN Live | makan | 23 Nov 2026, 20.50 | 45m | 2.798 | 0 | — | — | 0 |
 | Carissa | IDN Live | HIHUUUU 👍🏻 | 23 Nov 2026, 20.50 | 45m | 3.119 | 0 | — | — | 0 |
-| Rara | IDN Live | Hayy hihu | 23 Nov 2026, 20.45 | 50m | 2.393 | 0 | — | — | 0 |
 
 ## Lisensi
 
