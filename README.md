@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 20.57 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 21.02 WIB.
 
 ## Interval pembaruan
 
@@ -46,11 +46,11 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/25 | 25 Nov 2026, 18.45 | 629 |
-| Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 2.477 |
-| Rara | IDN Live | Hihu | 25 Nov 2026, 20.01 | 2.567 |
-| Carissa | IDN Live | What’s up??? 😎🤟🏻✌🏻 | 25 Nov 2026, 20.49 | 293 |
-| Jazzy | IDN Live | oi | 25 Nov 2026, 20.50 | 239 |
+| Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 2.736 |
+| Rara | IDN Live | Hihu | 25 Nov 2026, 20.01 | 2.812 |
+| Carissa | IDN Live | What’s up??? 😎🤟🏻✌🏻 | 25 Nov 2026, 20.49 | 521 |
+| Jazzy | IDN Live | oi | 25 Nov 2026, 20.50 | 461 |
+| Ralyne | IDN Live | HAIII | 25 Nov 2026, 21.00 | 117 |
 
 ## Live terakhir — Nov 2026
 
@@ -61,6 +61,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Heidi | IDN Live | hellooo | 25 Nov 2026, 19.30 | 64m | 2.447 | 0 | — | — | 0 |
 | Fritzy | IDN Live | hihuuu | 25 Nov 2026, 19.05 | 64m | 5.248 | 0 | — | — | 0 |
 | Fera | IDN Live | Ayo masuk | 25 Nov 2026, 19.01 | 76m | 3.175 | 0 | — | — | 0 |
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/25 | 25 Nov 2026, 18.45 | 136m | 643 | 0 | — | — | 0 |
 | Lulu | IDN Live | makeupp | 25 Nov 2026, 13.44 | 63m | 2.541 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 13.15 | 40m | 2.175 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 25 Nov 2026, 13.00 | 65m | 4.712 | 0 | — | — | 0 |
@@ -95,7 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Virgi | IDN Live | iya | 23 Nov 2026, 21.29 | 6m | 291 | 0 | — | — | 0 |
 | Gracie | IDN Live | hiii | 23 Nov 2026, 21.18 | 17m | 1.770 | 0 | — | — | 0 |
 | Jazzy | IDN Live | ehhhh rame nic | 23 Nov 2026, 21.11 | 24m | 1.845 | 0 | — | — | 0 |
-| Sona | IDN Live | maap ngaret | 23 Nov 2026, 21.07 | 28m | 1.790 | 0 | — | — | 0 |
 
 ## Lisensi
 
