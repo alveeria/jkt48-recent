@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3228",
+    "platform": "idn",
+    "member": {
+      "name": "Jazzy",
+      "username": "jkt48_jazzy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3295fea28675bc331f3a2138013693d5.webp?v=1786712915"
+    },
+    "title": "oi",
+    "url": "https://www.idn.app/jkt48_jazzy/live/oi-261125205024",
+    "image": "https://cdn.idn.app/livestream/139ff22587b9fdea66a6f77d02984e29.webp",
+    "started_at": "2026-11-25T13:50:29.000Z",
+    "last_seen_at": "2026-11-25T14:53:46.153Z",
+    "peak_viewers": 3221,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 3], [1, 18], [2, 62], [3, 93], [4, 133], [5, 158], [6, 200], [7, 220], [8, 261], [9, 318], [10, 350], [11, 390], [12, 432], [13, 493], [14, 534], [15, 576], [16, 615], [17, 659], [18, 695], [19, 728], [20, 777], [21, 821], [22, 845], [23, 905], [24, 970], [25, 1015], [26, 1058], [27, 1102], [28, 1164], [29, 1209], [30, 1268], [31, 1315], [32, 1366], [33, 1435], [34, 1508], [35, 1561], [36, 1598], [37, 1633], [38, 1667], [39, 1715], [40, 1772], [41, 1835], [42, 1888], [43, 1937], [44, 1983], [45, 2030], [46, 2094], [47, 2261], [48, 2362], [49, 2421], [50, 2499], [51, 2565], [52, 2627], [53, 2692], [54, 2746], [55, 2774], [56, 2809], [57, 2845], [58, 2915], [59, 2972], [60, 3020], [61, 3070], [62, 3137], [63, 3193]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/AxffR6zxB39X",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-25T14:53:46.153Z",
+    "duration_minutes": 63,
+    "last_viewers": 3221,
+    "unique_gifters": 0,
+    "source_id": "idn:oi-261125205024"
+  },
+  {
     "id": "idn:alveeria-3227",
     "platform": "idn",
     "member": {
