@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 23.01 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 23.06 WIB.
 
 ## Interval pembaruan
 
@@ -46,11 +46,9 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Marsha | IDN Live | Plisss | 25 Nov 2026, 21.53 | 8.545 |
-| Lana | IDN Live | Haii | 25 Nov 2026, 21.53 | 6.377 |
-| Gracie | IDN Live | hiii | 25 Nov 2026, 21.54 | 5.053 |
-| Giaa | IDN Live | p  | 25 Nov 2026, 22.15 | 1.713 |
-| Trisha | IDN Live | haai | 25 Nov 2026, 22.25 | 3.909 |
+| Lana | IDN Live | Haii | 25 Nov 2026, 21.53 | 6.811 |
+| Giaa | IDN Live | p  | 25 Nov 2026, 22.15 | 1.882 |
+| Trisha | IDN Live | haai | 25 Nov 2026, 22.25 | 4.638 |
 
 ## Live terakhir — Nov 2026
 
@@ -58,7 +56,9 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 |---|---|---|---|---|---|---|---|---|---|
 | Kathrina | IDN Live | yipyip | 25 Nov 2026, 22.19 | 17m | 1.192 | 0 | — | — | 0 |
 | Jemima | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 22.07 | 26m | 2.251 | 0 | — | — | 0 |
+| Gracie | IDN Live | hiii | 25 Nov 2026, 21.54 | 70m | 5.353 | 0 | — | — | 0 |
 | Kathrina | IDN Live | yipyip | 25 Nov 2026, 21.53 | 25m | 3.584 | 0 | — | — | 0 |
+| Marsha | IDN Live | Plisss | 25 Nov 2026, 21.53 | 69m | 8.662 | 0 | — | — | 0 |
 | Ekin | IDN Live | hai | 25 Nov 2026, 21.23 | 69m | 7.297 | 0 | — | — | 0 |
 | Ralyne | IDN Live | HAIII | 25 Nov 2026, 21.00 | 77m | 4.978 | 0 | — | — | 0 |
 | Jazzy | IDN Live | oi | 25 Nov 2026, 20.50 | 63m | 3.221 | 0 | — | — | 0 |
@@ -94,8 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Eli | IDN Live | Get ready with ECEU BUDHE | 24 Nov 2026, 16.29 | 63m | 3.066 | 0 | — | — | 0 |
 | Aralie | IDN Live | absen dulu  | 24 Nov 2026, 16.12 | 63m | 6.186 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 16.03 | 61m | 2.811 | 0 | — | — | 0 |
-| Oniel | IDN Live | saya kembali | 24 Nov 2026, 15.26 | 32m | 2.947 | 0 | — | — | 0 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 15.24 | 62m | 2.668 | 0 | — | — | 0 |
 
 ## Lisensi
 
