@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 21.18 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 21.23 WIB.
 
 ## Interval pembaruan
 
@@ -46,10 +46,9 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 3.480 |
-| Carissa | IDN Live | What’s up??? 😎🤟🏻✌🏻 | 25 Nov 2026, 20.49 | 1.223 |
-| Jazzy | IDN Live | oi | 25 Nov 2026, 20.50 | 1.164 |
-| Ralyne | IDN Live | HAIII | 25 Nov 2026, 21.00 | 861 |
+| Carissa | IDN Live | What’s up??? 😎🤟🏻✌🏻 | 25 Nov 2026, 20.49 | 1.503 |
+| Jazzy | IDN Live | oi | 25 Nov 2026, 20.50 | 1.435 |
+| Ralyne | IDN Live | HAIII | 25 Nov 2026, 21.00 | 1.204 |
 
 ## Live terakhir — Nov 2026
 
@@ -57,6 +56,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 |---|---|---|---|---|---|---|---|---|---|
 | Heidi | IDN Live | GUYS MAAF  | 25 Nov 2026, 20.35 | 8m | 214 | 0 | — | — | 0 |
 | Rara | IDN Live | Hihu | 25 Nov 2026, 20.01 | 75m | 3.479 | 0 | — | — | 0 |
+| Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 80m | 3.623 | 0 | — | — | 0 |
 | Danella | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 19.34 | 71m | 2.024 | 0 | — | — | 0 |
 | Heidi | IDN Live | hellooo | 25 Nov 2026, 19.30 | 64m | 2.447 | 0 | — | — | 0 |
 | Fritzy | IDN Live | hihuuu | 25 Nov 2026, 19.05 | 64m | 5.248 | 0 | — | — | 0 |
@@ -94,7 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Raisha | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 14.16 | 58m | 2.328 | 0 | — | — | 0 |
 | Raisha | IDN Live | Ayo ngobrol bareng! | 24 Nov 2026, 14.00 | 13m | 942 | 0 | — | — | 0 |
 | Virgi | IDN Live | iya | 23 Nov 2026, 21.29 | 6m | 291 | 0 | — | — | 0 |
-| Gracie | IDN Live | hiii | 23 Nov 2026, 21.18 | 17m | 1.770 | 0 | — | — | 0 |
 
 ## Lisensi
 
