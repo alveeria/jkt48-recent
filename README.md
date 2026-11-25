@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 22.25 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 22.30 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,14 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Ekin | IDN Live | hai | 25 Nov 2026, 21.23 | 6.722 |
-| Marsha | IDN Live | Plisss | 25 Nov 2026, 21.53 | 4.904 |
-| Lana | IDN Live | Haii | 25 Nov 2026, 21.53 | 3.444 |
-| Gracie | IDN Live | hiii | 25 Nov 2026, 21.54 | 2.530 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 22.07 | 1.342 |
-| Giaa | IDN Live | p  | 25 Nov 2026, 22.15 | 479 |
-| Kathrina | IDN Live | yipyip | 25 Nov 2026, 22.19 | 497 |
+| Ekin | IDN Live | hai | 25 Nov 2026, 21.23 | 7.157 |
+| Marsha | IDN Live | Plisss | 25 Nov 2026, 21.53 | 5.545 |
+| Lana | IDN Live | Haii | 25 Nov 2026, 21.53 | 3.919 |
+| Gracie | IDN Live | hiii | 25 Nov 2026, 21.54 | 2.942 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 22.07 | 1.910 |
+| Giaa | IDN Live | p  | 25 Nov 2026, 22.15 | 680 |
+| Kathrina | IDN Live | yipyip | 25 Nov 2026, 22.19 | 814 |
+| Trisha | IDN Live | haai | 25 Nov 2026, 22.25 | 570 |
 
 ## Live terakhir — Nov 2026
 
