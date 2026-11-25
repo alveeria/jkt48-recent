@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3220",
+    "platform": "idn",
+    "member": {
+      "name": "Fritzy",
+      "username": "jkt48_fritzy",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/f4d25811b1b50effd560fb480cac8ba0.webp?v=1778761438"
+    },
+    "title": "hihuuu",
+    "url": "https://www.idn.app/jkt48_fritzy/live/hihuuu-261125190523",
+    "image": "https://cdn.idn.app/livestream/3707bca24b977bb8d2f0e08c9ae806ae.webp",
+    "started_at": "2026-11-25T12:05:28.000Z",
+    "last_seen_at": "2026-11-25T13:09:32.999Z",
+    "peak_viewers": 5248,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[35, 3028], [36, 3110], [37, 3173], [38, 3256], [39, 3338], [40, 3419], [41, 3495], [42, 3576], [43, 3643], [44, 3719], [45, 3802], [46, 3843], [47, 3923], [48, 3977], [49, 4041], [50, 4108], [51, 4188], [52, 4268], [53, 4332], [54, 4410], [55, 4494], [56, 4579], [57, 4662], [58, 4746], [59, 4850], [60, 4940], [61, 5018], [62, 5066], [63, 5137], [64, 5224]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/dsKjuKRqfoRE",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-25T13:09:32.999Z",
+    "duration_minutes": 64,
+    "last_viewers": 5248,
+    "unique_gifters": 0,
+    "source_id": "idn:hihuuu-261125190523"
+  },
+  {
     "id": "idn:alveeria-3219",
     "platform": "idn",
     "member": {

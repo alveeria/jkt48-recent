@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 20.05 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 20.11 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Fera | IDN Live | Ayo masuk | 25 Nov 2026, 19.01 | 2.622 |
-| Danella | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 19.34 | 669 |
-| Heidi | IDN Live | hellooo | 25 Nov 2026, 19.30 | 1.219 |
-| Fritzy | IDN Live | hihuuu | 25 Nov 2026, 19.05 | 4.979 |
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/25 | 25 Nov 2026, 18.45 | 518 |
-| Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 165 |
-| Rara | IDN Live | Hihu | 25 Nov 2026, 20.01 | 127 |
+| Fera | IDN Live | Ayo masuk | 25 Nov 2026, 19.01 | 2.870 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 19.34 | 838 |
+| Heidi | IDN Live | hellooo | 25 Nov 2026, 19.30 | 1.443 |
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/25 | 25 Nov 2026, 18.45 | 525 |
+| Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 424 |
+| Rara | IDN Live | Hihu | 25 Nov 2026, 20.01 | 287 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Fritzy | IDN Live | hihuuu | 25 Nov 2026, 19.05 | 64m | 5.248 | 0 | — | — | 0 |
 | Lulu | IDN Live | makeupp | 25 Nov 2026, 13.44 | 63m | 2.541 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 13.15 | 40m | 2.175 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 25 Nov 2026, 13.00 | 65m | 4.712 | 0 | — | — | 0 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Ralyne | IDN Live | HAIII | 23 Nov 2026, 20.58 | 37m | 2.194 | 0 | — | — | 0 |
 | Ekin | IDN Live | hai | 23 Nov 2026, 20.56 | 40m | 5.461 | 0 | — | — | 0 |
 | Maxine | IDN Live | makan | 23 Nov 2026, 20.50 | 45m | 2.798 | 0 | — | — | 0 |
-| Carissa | IDN Live | HIHUUUU 👍🏻 | 23 Nov 2026, 20.50 | 45m | 3.119 | 0 | — | — | 0 |
 
 ## Lisensi
 
