@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 20.42 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 25 Nov 2026, 20.47 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Danella | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 19.34 | 1.905 |
-| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/25 | 25 Nov 2026, 18.45 | 572 |
-| Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 1.911 |
-| Rara | IDN Live | Hihu | 25 Nov 2026, 20.01 | 1.813 |
-| Heidi | IDN Live | GUYS MAAF  | 25 Nov 2026, 20.35 | 195 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 19.34 | 2.024 |
+| JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/25 | 25 Nov 2026, 18.45 | 613 |
+| Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 2.115 |
+| Rara | IDN Live | Hihu | 25 Nov 2026, 20.01 | 2.067 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Heidi | IDN Live | GUYS MAAF  | 25 Nov 2026, 20.35 | 8m | 214 | 0 | — | — | 0 |
 | Heidi | IDN Live | hellooo | 25 Nov 2026, 19.30 | 64m | 2.447 | 0 | — | — | 0 |
 | Fritzy | IDN Live | hihuuu | 25 Nov 2026, 19.05 | 64m | 5.248 | 0 | — | — | 0 |
 | Fera | IDN Live | Ayo masuk | 25 Nov 2026, 19.01 | 76m | 3.175 | 0 | — | — | 0 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Jazzy | IDN Live | ehhhh rame nic | 23 Nov 2026, 21.11 | 24m | 1.845 | 0 | — | — | 0 |
 | Sona | IDN Live | maap ngaret | 23 Nov 2026, 21.07 | 28m | 1.790 | 0 | — | — | 0 |
 | Intan | IDN Live | aku lg pake batik pekalongan? | 23 Nov 2026, 21.06 | 29m | 4.277 | 0 | — | — | 0 |
-| Ralyne | IDN Live | HAIII | 23 Nov 2026, 20.58 | 37m | 2.194 | 0 | — | — | 0 |
 
 ## Lisensi
 

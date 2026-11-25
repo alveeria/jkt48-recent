@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3223",
+    "platform": "idn",
+    "member": {
+      "name": "Heidi",
+      "username": "jkt48_heidi",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d3c7e04aaf311e80759ac3cc2acf6569.webp?v=1779088220"
+    },
+    "title": "GUYS MAAF ",
+    "url": "https://www.idn.app/jkt48_heidi/live/guys-maaf-261125203525",
+    "image": "https://cdn.idn.app/livestream/6f9f90238e071e6326be67cd587855ea.webp",
+    "started_at": "2026-11-25T13:35:30.000Z",
+    "last_seen_at": "2026-11-25T13:43:06.504Z",
+    "peak_viewers": 214,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 8], [1, 22], [2, 68], [3, 111], [4, 133], [5, 148], [6, 180], [7, 195], [8, 214]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/RlEQ5n2DKXVz",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-25T13:43:06.504Z",
+    "duration_minutes": 8,
+    "last_viewers": 214,
+    "unique_gifters": 0,
+    "source_id": "idn:guys-maaf-261125203525"
+  },
+  {
     "id": "idn:alveeria-3222",
     "platform": "idn",
     "member": {
