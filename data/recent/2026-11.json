@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3222",
+    "platform": "idn",
+    "member": {
+      "name": "Heidi",
+      "username": "jkt48_heidi",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d3c7e04aaf311e80759ac3cc2acf6569.webp?v=1779088220"
+    },
+    "title": "hellooo",
+    "url": "https://www.idn.app/jkt48_heidi/live/hellooo-261125193004",
+    "image": "https://cdn.idn.app/livestream/654a7df7e50fff6d69d6eba5f0ef6a8a.webp",
+    "started_at": "2026-11-25T12:30:13.000Z",
+    "last_seen_at": "2026-11-25T13:33:48.178Z",
+    "peak_viewers": 2447,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[10, 320], [11, 354], [12, 394], [13, 432], [14, 449], [15, 488], [16, 522], [17, 554], [18, 581], [19, 618], [20, 653], [21, 702], [22, 749], [23, 767], [24, 788], [25, 817], [26, 863], [27, 889], [28, 923], [29, 956], [30, 968], [31, 1001], [32, 1042], [33, 1075], [34, 1113], [35, 1173], [36, 1219], [37, 1270], [38, 1298], [39, 1339], [40, 1379], [41, 1443], [42, 1484], [43, 1545], [44, 1593], [45, 1617], [46, 1659], [47, 1708], [48, 1751], [49, 1814], [50, 1869], [51, 1910], [52, 1948], [53, 1985], [54, 2022], [55, 2055], [56, 2077], [57, 2108], [58, 2133], [59, 2177], [60, 2237], [61, 2304], [62, 2327], [63, 2376], [64, 2447]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/RlEQ5n2DKXVz",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-25T13:33:48.178Z",
+    "duration_minutes": 64,
+    "last_viewers": 2447,
+    "unique_gifters": 0,
+    "source_id": "idn:hellooo-261125193004"
+  },
+  {
     "id": "idn:alveeria-3221",
     "platform": "idn",
     "member": {
