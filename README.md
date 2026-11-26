@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 14.57 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 15.02 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Michie | IDN Live | hello | 26 Nov 2026, 13.45 | 22.640 |
-| Delynn | IDN Live | HI | 26 Nov 2026, 13.46 | 22.618 |
-| Rara | IDN Live | Sianggg | 26 Nov 2026, 14.02 | 4.254 |
-| Danella | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.14 | 2.943 |
-| Daisy | IDN Live | Hi | 26 Nov 2026, 14.14 | 2.096 |
-| Ralyne | IDN Live | HAIII | 26 Nov 2026, 14.29 | 1.718 |
-| Lana | IDN Live | Haii | 26 Nov 2026, 14.40 | 1.903 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.43 | 1.170 |
-| Bella | IDN Live | Hellooo | 26 Nov 2026, 14.50 | 547 |
+| Michie | IDN Live | hello | 26 Nov 2026, 13.45 | 23.751 |
+| Delynn | IDN Live | HI | 26 Nov 2026, 13.46 | 23.870 |
+| Rara | IDN Live | Sianggg | 26 Nov 2026, 14.02 | 4.695 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.14 | 3.299 |
+| Daisy | IDN Live | Hi | 26 Nov 2026, 14.14 | 2.428 |
+| Ralyne | IDN Live | HAIII | 26 Nov 2026, 14.29 | 2.116 |
+| Lana | IDN Live | Haii | 26 Nov 2026, 14.40 | 2.739 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.43 | 1.746 |
+| Bella | IDN Live | Hellooo | 26 Nov 2026, 14.50 | 962 |
 
 ## Live terakhir — Nov 2026
 
