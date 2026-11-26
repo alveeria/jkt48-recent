@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 16.56 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 17.01 WIB.
 
 ## Interval pembaruan
 
@@ -46,17 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lyn | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.04 | 3.714 |
-| Nachia | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 5.012 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 4.077 |
-| Muthe | IDN Live | Hi | 26 Nov 2026, 16.35 | 2.315 |
-| Christy | IDN Live | WOOOOO | 26 Nov 2026, 16.35 | 4.475 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.04 | 4.191 |
+| Muthe | IDN Live | Hi | 26 Nov 2026, 16.35 | 2.827 |
+| Christy | IDN Live | WOOOOO | 26 Nov 2026, 16.35 | 5.468 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Muthe | IDN Live | Hi | 26 Nov 2026, 16.34 | 1m | 12 | 0 | — | — | 0 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 32m | 4.077 | 0 | — | — | 0 |
+| Nachia | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 32m | 5.012 | 0 | — | — | 0 |
 | Oniel | IDN Live | saya kembali | 26 Nov 2026, 15.25 | 32m | 2.396 | 0 | — | — | 0 |
 | Sona | IDN Live | haiiii | 26 Nov 2026, 15.20 | 36m | 1.768 | 0 | — | — | 0 |
 | Jessi | IDN Live | hi | 26 Nov 2026, 15.13 | 67m | 3.893 | 0 | — | — | 0 |
@@ -94,8 +94,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Rara | IDN Live | Hihu | 25 Nov 2026, 20.01 | 75m | 3.479 | 0 | — | — | 0 |
 | Fahira | IDN Live | ada apa??? | 25 Nov 2026, 20.01 | 80m | 3.623 | 0 | — | — | 0 |
 | Danella | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 19.34 | 71m | 2.024 | 0 | — | — | 0 |
-| Heidi | IDN Live | hellooo | 25 Nov 2026, 19.30 | 64m | 2.447 | 0 | — | — | 0 |
-| Fritzy | IDN Live | hihuuu | 25 Nov 2026, 19.05 | 64m | 5.248 | 0 | — | — | 0 |
 
 ## Lisensi
 
