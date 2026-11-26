@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3261",
+    "platform": "idn",
+    "member": {
+      "name": "Muthe",
+      "username": "jkt48_muthe",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c80aa74f8816d0b98562d912d6e9ac1.webp?v=1778755639"
+    },
+    "title": "Hi",
+    "url": "https://www.idn.app/jkt48_muthe/live/hi-261126163410",
+    "image": "https://cdn.idn.app/livestream/d51e963900c0c2dd0df1ef157630ea10.webp",
+    "started_at": "2026-11-26T09:34:14.000Z",
+    "last_seen_at": "2026-11-26T09:34:51.062Z",
+    "peak_viewers": 12,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 12]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T09:34:51.062Z",
+    "duration_minutes": 1,
+    "last_viewers": 12,
+    "unique_gifters": 0,
+    "source_id": "idn:hi-261126163410"
+  },
+  {
     "id": "idn:alveeria-3258",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 4172,
     "unique_gifters": 0,
     "source_id": "idn:hellooo-261120143043"
-  },
-  {
-    "id": "idn:alveeria-3061",
-    "platform": "idn",
-    "member": {
-      "name": "Ralyne",
-      "username": "jkt48_ralyne",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/4a911f3ce532f8b58de31d544fde50f9.webp?v=1779088304"
-    },
-    "title": "HAIII",
-    "url": "https://www.idn.app/jkt48_ralyne/live/haiii-261120143022",
-    "image": "https://cdn.idn.app/livestream/b4bd3e07ee4e0f38abf9354fe2c4c863.webp",
-    "started_at": "2026-11-20T07:30:28.000Z",
-    "last_seen_at": "2026-11-20T08:07:48.773Z",
-    "peak_viewers": 3291,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 4], [1, 47], [2, 162], [3, 246], [4, 320], [5, 379], [6, 454], [7, 600], [8, 652], [9, 730], [10, 828], [11, 938], [12, 1040], [13, 1155], [14, 1239], [15, 1354], [16, 1488], [17, 1582], [18, 1679], [19, 1775], [20, 1893], [21, 1968], [22, 2050], [23, 2132], [24, 2229], [25, 2271], [26, 2302], [27, 2365], [28, 2412], [29, 2467], [30, 2551], [31, 2641], [32, 2767], [33, 2915], [34, 3040], [35, 3132], [36, 3196], [37, 3259]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/IkkRMUVBqeCM",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-20T08:07:48.773Z",
-    "duration_minutes": 37,
-    "last_viewers": 3291,
-    "unique_gifters": 0,
-    "source_id": "idn:haiii-261120143022"
   }
 ]

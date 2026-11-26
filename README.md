@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 16.35 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 16.40 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Lyn | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.04 | 1.667 |
-| Nachia | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 2.243 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 1.320 |
-| Muthe | IDN Live | Hi | 26 Nov 2026, 16.34 | 12 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.04 | 2.170 |
+| Nachia | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 2.885 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 1.850 |
+| Muthe | IDN Live | Hi | 26 Nov 2026, 16.35 | 332 |
+| Christy | IDN Live | WOOOOO | 26 Nov 2026, 16.35 | 599 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Muthe | IDN Live | Hi | 26 Nov 2026, 16.34 | 1m | 12 | 0 | — | — | 0 |
 | Oniel | IDN Live | saya kembali | 26 Nov 2026, 15.25 | 32m | 2.396 | 0 | — | — | 0 |
 | Sona | IDN Live | haiiii | 26 Nov 2026, 15.20 | 36m | 1.768 | 0 | — | — | 0 |
 | Jessi | IDN Live | hi | 26 Nov 2026, 15.13 | 67m | 3.893 | 0 | — | — | 0 |
@@ -94,7 +96,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Danella | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 19.34 | 71m | 2.024 | 0 | — | — | 0 |
 | Heidi | IDN Live | hellooo | 25 Nov 2026, 19.30 | 64m | 2.447 | 0 | — | — | 0 |
 | Fritzy | IDN Live | hihuuu | 25 Nov 2026, 19.05 | 64m | 5.248 | 0 | — | — | 0 |
-| Fera | IDN Live | Ayo masuk | 25 Nov 2026, 19.01 | 76m | 3.175 | 0 | — | — | 0 |
 
 ## Lisensi
 
