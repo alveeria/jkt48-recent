@@ -31,6 +31,37 @@
     "source_id": "idn:haii-261126221238"
   },
   {
+    "id": "idn:alveeria-3270",
+    "platform": "idn",
+    "member": {
+      "name": "Nayla",
+      "username": "jkt48_nayla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/910f26252548bf370c7492e9ec668250.webp?v=1778761743"
+    },
+    "title": "Hai",
+    "url": "https://www.idn.app/jkt48_nayla/live/hai-261126221215",
+    "image": "https://cdn.idn.app/livestream/b363db919f8c1d2e9786dae5422606f9.webp",
+    "started_at": "2026-11-26T15:12:22.000Z",
+    "last_seen_at": "2026-11-26T16:19:08.059Z",
+    "peak_viewers": 5165,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 5], [1, 63], [2, 152], [3, 238], [4, 343], [5, 392], [6, 497], [7, 591], [8, 682], [9, 771], [10, 849], [11, 909], [12, 951], [13, 994], [14, 1068], [15, 1165], [16, 1223], [17, 1263], [18, 1301], [19, 1359], [20, 1419], [21, 1464], [22, 1488], [23, 1537], [24, 1591], [25, 1655], [26, 1715], [27, 1760], [28, 1822], [29, 1876], [30, 1946], [31, 2027], [32, 2095], [33, 2187], [34, 2265], [35, 2351], [36, 2437], [37, 2493], [38, 2559], [39, 2633], [40, 2671], [41, 2860], [42, 2998], [43, 3112], [44, 3208], [45, 3300], [46, 3369], [47, 3427], [48, 3487], [49, 3557], [50, 3633], [51, 3703], [52, 3783], [53, 3925], [54, 4028], [55, 4115], [56, 4267], [57, 4356], [58, 4408], [59, 4520], [60, 4604], [61, 4701], [62, 4812], [63, 4883], [64, 4956], [65, 5026], [66, 5091], [67, 5165]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LjFMV7rpbjHp",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T16:19:08.059Z",
+    "duration_minutes": 67,
+    "last_viewers": 5165,
+    "unique_gifters": 0,
+    "source_id": "idn:hai-261126221215"
+  },
+  {
     "id": "idn:alveeria-3269",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 6135,
     "unique_gifters": 0,
     "source_id": "idn:hiii-261120181437"
-  },
-  {
-    "id": "idn:alveeria-3069",
-    "platform": "idn",
-    "member": {
-      "name": "Nala",
-      "username": "jkt48_nala",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/23ec81c50947a98e513e2371ccd140e5.webp?v=1778756416"
-    },
-    "title": "MALAMin",
-    "url": "https://www.idn.app/jkt48_nala/live/malamin-261120181228",
-    "image": "https://cdn.idn.app/livestream/6c9dda946b385676d99f60f31a08dabc.webp",
-    "started_at": "2026-11-20T11:12:35.000Z",
-    "last_seen_at": "2026-11-20T12:15:04.883Z",
-    "peak_viewers": 8474,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[11, 2291], [12, 2407], [13, 2578], [14, 2720], [15, 2860], [16, 2997], [17, 3130], [18, 3272], [19, 3383], [20, 3500], [21, 3646], [22, 3777], [23, 3875], [24, 3994], [25, 4046], [26, 4198], [27, 4342], [28, 4443], [29, 4532], [30, 4630], [31, 4748], [32, 4853], [33, 5003], [34, 5130], [35, 5250], [36, 5367], [37, 5527], [38, 5664], [39, 5775], [40, 5869], [41, 5985], [42, 6118], [43, 6296], [44, 6364], [45, 6495], [46, 6617], [47, 6736], [48, 6852], [49, 6983], [50, 7074], [51, 7199], [52, 7329], [53, 7441], [54, 7537], [55, 7653], [56, 7757], [57, 7858], [58, 7972], [59, 8089], [60, 8174], [61, 8303], [62, 8411]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/Pqb57KR18YXr",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-20T12:15:04.883Z",
-    "duration_minutes": 62,
-    "last_viewers": 8474,
-    "unique_gifters": 0,
-    "source_id": "idn:malamin-261120181228"
   }
 ]

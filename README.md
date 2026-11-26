@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 23.18 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 23.23 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,15 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Nayla | IDN Live | Hai | 26 Nov 2026, 22.12 | 5.091 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 22.17 | 3.783 |
-| Nala | IDN Live | HEI | 26 Nov 2026, 22.35 | 5.621 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 22.17 | 4.135 |
+| Nala | IDN Live | HEI | 26 Nov 2026, 22.35 | 6.182 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Lana | IDN Live | Haii | 26 Nov 2026, 22.12 | 39m | 4.548 | 0 | — | — | 0 |
+| Nayla | IDN Live | Hai | 26 Nov 2026, 22.12 | 67m | 5.165 | 0 | — | — | 0 |
 | Gita | IDN Live | Gits | 26 Nov 2026, 21.49 | 65m | 6.600 | 0 | — | — | 0 |
 | Greesel | IDN Live | radio-ish?? | 26 Nov 2026, 21.41 | 67m | 5.718 | 0 | — | — | 0 |
 | Christy | IDN Live | WOOOOO | 26 Nov 2026, 16.35 | 61m | 10.417 | 0 | — | — | 0 |
@@ -93,7 +93,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Kathrina | IDN Live | yipyip | 25 Nov 2026, 21.53 | 25m | 3.584 | 0 | — | — | 0 |
 | Marsha | IDN Live | Plisss | 25 Nov 2026, 21.53 | 69m | 8.662 | 0 | — | — | 0 |
 | Ekin | IDN Live | hai | 25 Nov 2026, 21.23 | 69m | 7.297 | 0 | — | — | 0 |
-| Ralyne | IDN Live | HAIII | 25 Nov 2026, 21.00 | 77m | 4.978 | 0 | — | — | 0 |
 
 ## Lisensi
 
