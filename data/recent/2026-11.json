@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3267",
+    "platform": "idn",
+    "member": {
+      "name": "Greesel",
+      "username": "jkt48_greesel",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/44057259b756c4d190b2283ebfb952b6.webp?v=1778756088"
+    },
+    "title": "radio-ish??",
+    "url": "https://www.idn.app/jkt48_greesel/live/radio-ish-261126214055",
+    "image": "https://cdn.idn.app/livestream/6b39d48706e84f90982183f28dba225b.webp",
+    "started_at": "2026-11-26T14:41:02.000Z",
+    "last_seen_at": "2026-11-26T15:48:17.586Z",
+    "peak_viewers": 5718,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[20, 2160], [21, 2259], [22, 2402], [23, 2536], [24, 2625], [25, 2714], [26, 2767], [27, 2853], [28, 2922], [29, 3013], [30, 3079], [31, 3157], [32, 3260], [33, 3356], [34, 3435], [35, 3511], [36, 3587], [37, 3686], [38, 3776], [39, 3858], [40, 3930], [41, 4003], [42, 4040], [43, 4099], [44, 4158], [45, 4234], [46, 4302], [47, 4368], [48, 4427], [49, 4491], [50, 4553], [51, 4617], [52, 4670], [53, 4738], [54, 4799], [55, 4850], [56, 4933], [57, 5013], [58, 5075], [59, 5106], [60, 5177], [61, 5259], [62, 5327], [63, 5401], [64, 5479], [65, 5537], [66, 5616], [67, 5680]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/N7Y0Yn2baCsg",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T15:48:17.586Z",
+    "duration_minutes": 67,
+    "last_viewers": 5718,
+    "unique_gifters": 0,
+    "source_id": "idn:radio-ish-261126214055"
+  },
+  {
     "id": "idn:alveeria-3265",
     "platform": "idn",
     "member": {

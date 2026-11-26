@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 22.47 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 22.52 WIB.
 
 ## Interval pembaruan
 
@@ -46,18 +46,18 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Gita | IDN Live | Gits | 26 Nov 2026, 21.49 | 6.060 |
-| Greesel | IDN Live | radio-ish?? | 26 Nov 2026, 21.41 | 5.650 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.40 | 4.663 |
-| Nayla | IDN Live | Hai | 26 Nov 2026, 22.12 | 2.351 |
-| Lana | IDN Live | Haii | 26 Nov 2026, 22.12 | 4.155 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 22.17 | 1.678 |
-| Nala | IDN Live | HEI | 26 Nov 2026, 22.35 | 1.704 |
+| Gita | IDN Live | Gits | 26 Nov 2026, 21.49 | 6.445 |
+| Lia | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.40 | 5.109 |
+| Nayla | IDN Live | Hai | 26 Nov 2026, 22.12 | 2.745 |
+| Lana | IDN Live | Haii | 26 Nov 2026, 22.12 | 4.548 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 22.17 | 1.955 |
+| Nala | IDN Live | HEI | 26 Nov 2026, 22.35 | 2.330 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Greesel | IDN Live | radio-ish?? | 26 Nov 2026, 21.41 | 67m | 5.718 | 0 | — | — | 0 |
 | Christy | IDN Live | WOOOOO | 26 Nov 2026, 16.35 | 61m | 10.417 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 26 Nov 2026, 16.35 | 61m | 5.926 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 26 Nov 2026, 16.34 | 1m | 12 | 0 | — | — | 0 |
@@ -97,7 +97,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Ralyne | IDN Live | HAIII | 25 Nov 2026, 21.00 | 77m | 4.978 | 0 | — | — | 0 |
 | Jazzy | IDN Live | oi | 25 Nov 2026, 20.50 | 63m | 3.221 | 0 | — | — | 0 |
 | Carissa | IDN Live | What’s up??? 😎🤟🏻✌🏻 | 25 Nov 2026, 20.49 | 87m | 4.034 | 0 | — | — | 0 |
-| Heidi | IDN Live | GUYS MAAF  | 25 Nov 2026, 20.35 | 8m | 214 | 0 | — | — | 0 |
 
 ## Lisensi
 
