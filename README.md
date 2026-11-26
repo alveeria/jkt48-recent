@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 15.54 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 15.59 WIB.
 
 ## Interval pembaruan
 
@@ -46,19 +46,19 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Jemima | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.43 | 5.466 |
-| Bella | IDN Live | Hellooo | 26 Nov 2026, 14.50 | 4.068 |
-| Fera | IDN Live | Ayo masuk | 26 Nov 2026, 15.04 | 2.494 |
-| Ribka | IDN Live | P | 26 Nov 2026, 15.07 | 3.574 |
-| Giaa | IDN Live | p | 26 Nov 2026, 15.10 | 1.903 |
-| Jessi | IDN Live | hi | 26 Nov 2026, 15.13 | 2.412 |
-| Sona | IDN Live | haiiii | 26 Nov 2026, 15.20 | 1.654 |
-| Oniel | IDN Live | saya kembali | 26 Nov 2026, 15.25 | 2.099 |
+| Ribka | IDN Live | P | 26 Nov 2026, 15.07 | 4.000 |
+| Jessi | IDN Live | hi | 26 Nov 2026, 15.13 | 2.832 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Oniel | IDN Live | saya kembali | 26 Nov 2026, 15.25 | 32m | 2.396 | 0 | — | — | 0 |
+| Sona | IDN Live | haiiii | 26 Nov 2026, 15.20 | 36m | 1.768 | 0 | — | — | 0 |
+| Giaa | IDN Live | p | 26 Nov 2026, 15.10 | 47m | 2.113 | 0 | — | — | 0 |
+| Fera | IDN Live | Ayo masuk | 26 Nov 2026, 15.04 | 51m | 2.582 | 0 | — | — | 0 |
+| Bella | IDN Live | Hellooo | 26 Nov 2026, 14.50 | 64m | 4.123 | 0 | — | — | 0 |
+| Jemima | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.43 | 71m | 5.466 | 0 | — | — | 0 |
 | Lana | IDN Live | Haii | 26 Nov 2026, 14.40 | 37m | 4.711 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.40 | 14m | 1.116 | 0 | — | — | 0 |
 | Ralyne | IDN Live | HAIII | 26 Nov 2026, 14.29 | 64m | 3.811 | 0 | — | — | 0 |
@@ -93,12 +93,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Fera | IDN Live | Ayo masuk | 25 Nov 2026, 19.01 | 76m | 3.175 | 0 | — | — | 0 |
 | JKT48 | IDN Live | Pertaruhan Cinta - 2026/11/25 | 25 Nov 2026, 18.45 | 136m | 643 | 0 | — | — | 0 |
 | Lulu | IDN Live | makeupp | 25 Nov 2026, 13.44 | 63m | 2.541 | 0 | — | — | 0 |
-| Lia | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 13.15 | 40m | 2.175 | 0 | — | — | 0 |
-| Muthe | IDN Live | Hi | 25 Nov 2026, 13.00 | 65m | 4.712 | 0 | — | — | 0 |
-| Daisy | IDN Live | Hi | 25 Nov 2026, 12.27 | 107m | 2.542 | 0 | — | — | 0 |
-| Mikaela | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 12.02 | 90m | 8.344 | 0 | — | — | 0 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 11.36 | 78m | 5.962 | 0 | — | — | 0 |
-| Intan | IDN Live | grwm bntar | 25 Nov 2026, 11.12 | 82m | 8.057 | 0 | — | — | 0 |
 
 ## Lisensi
 
