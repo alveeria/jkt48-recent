@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3243",
+    "platform": "idn",
+    "member": {
+      "name": "Lia",
+      "username": "jkt48_lia",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/774813dd4e183c97cb589eecb765b034.webp?v=1778761632"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261126140155",
+    "image": "https://cdn.idn.app/livestream/a77c004e0f62829144a34bf76692040e.webp",
+    "started_at": "2026-11-26T07:02:01.000Z",
+    "last_seen_at": "2026-11-26T07:40:00.403Z",
+    "peak_viewers": 5054,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 4], [1, 24], [2, 109], [3, 203], [4, 309], [5, 346], [6, 505], [7, 747], [8, 954], [9, 1145], [10, 1249], [11, 1365], [12, 1474], [13, 1572], [14, 1672], [15, 1798], [16, 1891], [17, 2025], [18, 2155], [19, 2321], [20, 2499], [21, 2663], [22, 2714], [23, 2839], [24, 2935], [25, 3057], [26, 3227], [27, 3346], [28, 3432], [29, 3552], [30, 3685], [31, 3839], [32, 3977], [33, 4142], [34, 4370], [35, 4565], [36, 4728], [37, 4917], [38, 5054]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T07:40:00.403Z",
+    "duration_minutes": 38,
+    "last_viewers": 5054,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261126140155"
+  },
+  {
     "id": "idn:alveeria-3242",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 4103,
     "unique_gifters": 0,
     "source_id": "idn:ayo-ngobrol-bareng-261119192556"
-  },
-  {
-    "id": "idn:alveeria-3050",
-    "platform": "idn",
-    "member": {
-      "name": "JKT48",
-      "username": "jkt48-official",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/82baca53b222467300863a9f63b08d1b.webp?v=1731060895"
-    },
-    "title": "Sambil Menggandeng Erat Tanganku - 2026/11/19",
-    "url": "https://www.idn.app/jkt48-official/live/sambil-menggandeng-erat-tanganku-2026-11-19-261112215704",
-    "image": "https://cdn.idn.app/livestream/2ae70024be78008a347ee38914d349f5.webp",
-    "started_at": "2026-11-19T11:46:37.000Z",
-    "last_seen_at": "2026-11-19T14:21:17.683Z",
-    "peak_viewers": 509,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[66, 369], [67, 369], [68, 372], [69, 374], [70, 375], [71, 376], [72, 377], [73, 378], [74, 382], [75, 383], [76, 383], [77, 386], [78, 386], [79, 387], [80, 387], [81, 389], [82, 391], [83, 393], [84, 394], [85, 403], [86, 405], [87, 409], [88, 415], [89, 425], [90, 427], [91, 427], [92, 429], [93, 430], [94, 432], [95, 432], [96, 432], [97, 434], [98, 436], [99, 437], [100, 438], [101, 440], [102, 443], [103, 444], [104, 444], [105, 447], [106, 447], [107, 447], [108, 450], [109, 450], [110, 450], [111, 450], [112, 452], [113, 452], [114, 452], [115, 452], [116, 452], [117, 453], [118, 454], [119, 455], [120, 457], [121, 458], [122, 458], [123, 458], [124, 458], [125, 458], [126, 460], [127, 460], [128, 462], [129, 464], [130, 467], [131, 467], [132, 468], [133, 469], [134, 474], [135, 476], [136, 479], [137, 481], [138, 481], [139, 484], [140, 486], [141, 487], [142, 489], [143, 493], [144, 493], [145, 493], [146, 495], [147, 497], [148, 499], [149, 502], [150, 504], [151, 506], [152, 507], [153, 509], [154, 509], [155, 509]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/GR0h41Utm65E",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-19T14:21:17.683Z",
-    "duration_minutes": 155,
-    "last_viewers": 509,
-    "unique_gifters": 0,
-    "source_id": "idn:sambil-menggandeng-erat-tanganku-2026-11-19-261112215704"
   }
 ]
