@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3248",
+    "platform": "idn",
+    "member": {
+      "name": "Lana",
+      "username": "jkt48_lana",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/a390f0bed11a773710648af657470bb8.webp?v=1778761589"
+    },
+    "title": "Haii",
+    "url": "https://www.idn.app/jkt48_lana/live/haii-261126144034",
+    "image": "https://cdn.idn.app/livestream/1ca8405c1323c6eda1ca39f3f5209fb9.webp",
+    "started_at": "2026-11-26T07:40:39.000Z",
+    "last_seen_at": "2026-11-26T08:17:35.184Z",
+    "peak_viewers": 4711,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 7], [1, 59], [2, 185], [3, 302], [4, 357], [5, 462], [6, 561], [7, 657], [8, 750], [9, 848], [10, 918], [11, 1084], [12, 1197], [13, 1302], [14, 1526], [15, 1646], [16, 1764], [17, 1903], [18, 2132], [19, 2301], [20, 2424], [21, 2579], [22, 2739], [23, 2920], [24, 3013], [25, 3221], [26, 3492], [27, 3663], [28, 3771], [29, 3891], [30, 3985], [31, 4082], [32, 4167], [33, 4248], [34, 4341], [35, 4480], [36, 4625], [37, 4711]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/MVoqsMnedwqz",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T08:17:35.184Z",
+    "duration_minutes": 37,
+    "last_viewers": 4711,
+    "unique_gifters": 0,
+    "source_id": "idn:haii-261126144034"
+  },
+  {
     "id": "idn:alveeria-3246",
     "platform": "idn",
     "member": {
