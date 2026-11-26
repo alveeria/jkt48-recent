@@ -1,4 +1,59 @@
 {
-  "updated_at": "2026-11-26T06:44:52.249Z",
-  "lives": []
+  "updated_at": "2026-11-26T06:50:02.399Z",
+  "lives": [
+    {
+      "id": "idn:hello-261126134548",
+      "platform": "idn",
+      "member": {
+        "name": "Michie",
+        "username": "jkt48_michie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/618c8c824495bd9efea619a7fee89482.webp?v=1778761704"
+      },
+      "title": "hello",
+      "url": "https://www.idn.app/jkt48_michie/live/hello-261126134548",
+      "image": "https://cdn.idn.app/livestream/a859af55acc37f4f89c47cb3f3fa19f2.webp",
+      "started_at": "2026-11-26T06:45:54.000Z",
+      "viewers": 1846,
+      "last_seen_at": "2026-11-26T06:50:01.279Z",
+      "peak_viewers": 1846,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 0], [1, 71], [2, 317], [3, 914], [4, 1532]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    },
+    {
+      "id": "idn:hi-261126134636",
+      "platform": "idn",
+      "member": {
+        "name": "Delynn",
+        "username": "jkt48_delynn",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/59da93bbc2b0f06fa8a98329a93f1348.webp?v=1778755871"
+      },
+      "title": "HI",
+      "url": "https://www.idn.app/jkt48_delynn/live/hi-261126134636",
+      "image": "https://cdn.idn.app/livestream/5ced48dfa0679a9b7e8715d2f90d454e.webp",
+      "started_at": "2026-11-26T06:46:42.000Z",
+      "viewers": 1334,
+      "last_seen_at": "2026-11-26T06:50:01.279Z",
+      "peak_viewers": 1334,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 4], [1, 99], [2, 448], [3, 1044]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/mnMORuLVJAeJ",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
