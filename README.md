@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 23.38 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 26 Nov 2026, 23.43 WIB.
 
 ## Interval pembaruan
 
@@ -46,12 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Nala | IDN Live | HEI | 26 Nov 2026, 22.35 | 7.539 |
+| _Belum ada yang live_ | | | | |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Nala | IDN Live | HEI | 26 Nov 2026, 22.35 | 66m | 7.679 | 0 | — | — | 0 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 22.17 | 73m | 4.550 | 0 | — | — | 0 |
 | Lana | IDN Live | Haii | 26 Nov 2026, 22.12 | 39m | 4.548 | 0 | — | — | 0 |
 | Nayla | IDN Live | Hai | 26 Nov 2026, 22.12 | 67m | 5.165 | 0 | — | — | 0 |
@@ -91,7 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Gracie | IDN Live | hiii | 25 Nov 2026, 21.54 | 70m | 5.353 | 0 | — | — | 0 |
 | Lana | IDN Live | Haii | 25 Nov 2026, 21.53 | 72m | 6.811 | 0 | — | — | 0 |
 | Kathrina | IDN Live | yipyip | 25 Nov 2026, 21.53 | 25m | 3.584 | 0 | — | — | 0 |
-| Marsha | IDN Live | Plisss | 25 Nov 2026, 21.53 | 69m | 8.662 | 0 | — | — | 0 |
 
 ## Lisensi
 
