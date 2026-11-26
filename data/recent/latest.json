@@ -93,6 +93,37 @@
     "source_id": "idn:p-261126151036"
   },
   {
+    "id": "idn:alveeria-3259",
+    "platform": "idn",
+    "member": {
+      "name": "Ribka",
+      "username": "jkt48_ribka",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c3e9142730d1eb21db56de1eaa161d2.webp?v=1778755827"
+    },
+    "title": "P",
+    "url": "https://www.idn.app/jkt48_ribka/live/p-261126150724",
+    "image": "https://cdn.idn.app/livestream/826b5b8a01b582d82125019e30ae38c3.webp",
+    "started_at": "2026-11-26T08:07:28.000Z",
+    "last_seen_at": "2026-11-26T09:12:42.148Z",
+    "peak_viewers": 4726,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 23], [2, 153], [3, 231], [4, 308], [5, 375], [6, 465], [7, 498], [8, 590], [9, 797], [10, 916], [11, 1034], [12, 1194], [13, 1305], [14, 1399], [15, 1475], [16, 1572], [17, 1658], [18, 1746], [19, 1816], [20, 1897], [21, 1960], [22, 1997], [23, 2062], [24, 2131], [25, 2198], [26, 2257], [27, 2344], [28, 2427], [29, 2503], [30, 2556], [31, 2614], [32, 2724], [33, 2815], [34, 2870], [35, 2931], [36, 2999], [37, 3047], [38, 3095], [39, 3164], [40, 3180], [41, 3230], [42, 3288], [43, 3354], [44, 3396], [45, 3448], [46, 3499], [47, 3574], [48, 3662], [49, 3734], [50, 3828], [51, 3900], [52, 4000], [53, 4075], [54, 4139], [55, 4189], [56, 4247], [57, 4306], [58, 4340], [59, 4394], [60, 4448], [61, 4491], [62, 4548], [63, 4595], [64, 4642], [65, 4701]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T09:12:42.148Z",
+    "duration_minutes": 65,
+    "last_viewers": 4726,
+    "unique_gifters": 0,
+    "source_id": "idn:p-261126150724"
+  },
+  {
     "id": "idn:alveeria-3255",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 3757,
     "unique_gifters": 0,
     "source_id": "idn:dordordor-261120143005"
-  },
-  {
-    "id": "idn:alveeria-3060",
-    "platform": "idn",
-    "member": {
-      "name": "Lia",
-      "username": "jkt48_lia",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/774813dd4e183c97cb589eecb765b034.webp?v=1778761632"
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261120142831",
-    "image": "https://cdn.idn.app/livestream/a055a8821085fcfd9dba7e7310c27855.webp",
-    "started_at": "2026-11-20T07:28:37.000Z",
-    "last_seen_at": "2026-11-20T08:06:46.996Z",
-    "peak_viewers": 3358,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 11], [2, 70], [3, 165], [4, 245], [5, 322], [6, 374], [7, 426], [8, 501], [9, 637], [10, 725], [11, 820], [12, 923], [13, 1055], [14, 1094], [15, 1204], [16, 1292], [17, 1405], [18, 1546], [19, 1650], [20, 1733], [21, 1821], [22, 1954], [23, 2067], [24, 2151], [25, 2224], [26, 2319], [27, 2381], [28, 2449], [29, 2526], [30, 2596], [31, 2684], [32, 2763], [33, 2872], [34, 2965], [35, 3010], [36, 3130], [37, 3221], [38, 3316]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-20T08:06:46.996Z",
-    "duration_minutes": 38,
-    "last_viewers": 3358,
-    "unique_gifters": 0,
-    "source_id": "idn:ayo-ngobrol-bareng-261120142831"
   }
 ]
