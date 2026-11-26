@@ -62,6 +62,37 @@
     "source_id": "idn:haiiii-261126152023"
   },
   {
+    "id": "idn:alveeria-3260",
+    "platform": "idn",
+    "member": {
+      "name": "Jessi",
+      "username": "jkt48_jessi",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dfa51cbb14d8a3185c35228f1f765ae5.webp?v=1778755467"
+    },
+    "title": "hi",
+    "url": "https://www.idn.app/jkt48_jessi/live/hi-261126151256",
+    "image": "https://cdn.idn.app/livestream/161b78059ec2673e286d19a634a60cca.webp",
+    "started_at": "2026-11-26T08:13:01.000Z",
+    "last_seen_at": "2026-11-26T09:19:53.513Z",
+    "peak_viewers": 3893,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 7], [1, 42], [2, 74], [3, 156], [4, 258], [5, 318], [6, 438], [7, 578], [8, 642], [9, 711], [10, 791], [11, 854], [12, 920], [13, 982], [14, 1038], [15, 1094], [16, 1148], [17, 1196], [18, 1250], [19, 1274], [20, 1323], [21, 1377], [22, 1449], [23, 1509], [24, 1562], [25, 1601], [26, 1671], [27, 1749], [28, 1810], [29, 1871], [30, 1918], [31, 1964], [32, 2007], [33, 2049], [34, 2095], [35, 2128], [36, 2173], [37, 2190], [38, 2233], [39, 2271], [40, 2321], [41, 2375], [42, 2438], [43, 2494], [44, 2590], [45, 2678], [46, 2797], [47, 2854], [48, 2919], [49, 2959], [50, 3029], [51, 3078], [52, 3135], [53, 3155], [54, 3194], [55, 3233], [56, 3270], [57, 3329], [58, 3378], [59, 3424], [60, 3481], [61, 3582], [62, 3654], [63, 3709], [64, 3752], [65, 3796], [66, 3840], [67, 3893]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/DB4L56nemB2B",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T09:19:53.513Z",
+    "duration_minutes": 67,
+    "last_viewers": 3893,
+    "unique_gifters": 0,
+    "source_id": "idn:hi-261126151256"
+  },
+  {
     "id": "idn:alveeria-3257",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 3291,
     "unique_gifters": 0,
     "source_id": "idn:haiii-261120143022"
-  },
-  {
-    "id": "idn:alveeria-3057",
-    "platform": "idn",
-    "member": {
-      "name": "Maxine",
-      "username": "jkt48_maxine",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2047774f0cf81a814865c9e0923b4709.webp?v=1779088248"
-    },
-    "title": "dordordor",
-    "url": "https://www.idn.app/jkt48_maxine/live/dordordor-261120143005",
-    "image": "https://cdn.idn.app/livestream/09c8a9ae91e52f1726d1cf7912c8debc.webp",
-    "started_at": "2026-11-20T07:30:13.000Z",
-    "last_seen_at": "2026-11-20T08:24:17.550Z",
-    "peak_viewers": 3757,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[34, 2461], [35, 2476], [36, 2489], [37, 2537], [38, 2587], [39, 2657], [40, 2717], [41, 2804], [42, 2863], [43, 2939], [44, 3041], [45, 3139], [46, 3233], [47, 3333], [48, 3424], [49, 3507], [50, 3567], [51, 3611], [52, 3660], [53, 3703], [54, 3732]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/h82ZXdIi3f7Q",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-20T08:24:17.550Z",
-    "duration_minutes": 54,
-    "last_viewers": 3757,
-    "unique_gifters": 0,
-    "source_id": "idn:dordordor-261120143005"
   }
 ]
