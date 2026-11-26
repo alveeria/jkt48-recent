@@ -93,6 +93,37 @@
     "source_id": "idn:ayo-ngobrol-bareng-261126162315"
   },
   {
+    "id": "idn:alveeria-3264",
+    "platform": "idn",
+    "member": {
+      "name": "Lyn",
+      "username": "jkt48_lyn",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ee2e0cc39430cd350beff149bf93ee6d.webp?v=1778756223"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_lyn/live/ayo-ngobrol-bareng-261126160424",
+    "image": "https://cdn.idn.app/livestream/f1b638489e118f3e6be1a3d9906c3714.webp",
+    "started_at": "2026-11-26T09:04:29.000Z",
+    "last_seen_at": "2026-11-26T10:08:52.348Z",
+    "peak_viewers": 4657,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[1, 8], [2, 59], [3, 90], [4, 110], [5, 155], [6, 184], [7, 222], [8, 258], [9, 299], [10, 358], [11, 407], [12, 448], [13, 488], [14, 561], [15, 622], [16, 691], [17, 744], [18, 778], [19, 798], [20, 834], [21, 878], [22, 912], [23, 943], [24, 980], [25, 1118], [26, 1237], [27, 1327], [28, 1411], [29, 1514], [30, 1600], [31, 1667], [32, 1763], [33, 1892], [34, 1979], [35, 2045], [36, 2126], [37, 2219], [38, 2307], [39, 2411], [40, 2508], [41, 2638], [42, 2755], [43, 2843], [44, 2940], [45, 3058], [46, 3172], [47, 3268], [48, 3343], [49, 3411], [50, 3549], [51, 3650], [52, 3714], [53, 3889], [54, 3963], [55, 4046], [56, 4118], [57, 4191], [58, 4250], [59, 4302], [60, 4371], [61, 4430], [62, 4500], [63, 4553], [64, 4619]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/zKX62TOOW3xt",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T10:08:52.348Z",
+    "duration_minutes": 64,
+    "last_viewers": 4657,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261126160424"
+  },
+  {
     "id": "idn:alveeria-3258",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 9799,
     "unique_gifters": 0,
     "source_id": "idn:hi-261120143951"
-  },
-  {
-    "id": "idn:alveeria-3062",
-    "platform": "idn",
-    "member": {
-      "name": "Jazzy",
-      "username": "jkt48_jazzy",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/3295fea28675bc331f3a2138013693d5.webp?v=1786712915"
-    },
-    "title": "before pujumjum",
-    "url": "https://www.idn.app/jkt48_jazzy/live/before-pujumjum-261120143735",
-    "image": "https://cdn.idn.app/livestream/f903e35ab465967cc43f2c1a2b87575d.webp",
-    "started_at": "2026-11-20T07:37:41.000Z",
-    "last_seen_at": "2026-11-20T08:14:00.597Z",
-    "peak_viewers": 2519,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 2], [1, 40], [2, 132], [3, 211], [4, 300], [5, 428], [6, 532], [7, 631], [8, 704], [9, 869], [10, 971], [11, 1054], [12, 1129], [13, 1221], [14, 1279], [15, 1330], [16, 1384], [17, 1424], [18, 1465], [19, 1505], [20, 1562], [21, 1605], [22, 1644], [23, 1703], [24, 1759], [25, 1828], [26, 1898], [27, 1946], [28, 2022], [29, 2067], [30, 2113], [31, 2163], [32, 2226], [33, 2286], [34, 2341], [35, 2401], [36, 2478]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/AxffR6zxB39X",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-20T08:14:00.597Z",
-    "duration_minutes": 36,
-    "last_viewers": 2519,
-    "unique_gifters": 0,
-    "source_id": "idn:before-pujumjum-261120143735"
   }
 ]
