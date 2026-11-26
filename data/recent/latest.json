@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3271",
+    "platform": "idn",
+    "member": {
+      "name": "Olla",
+      "username": "jkt48_olla",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/76a2fcff460e27571b5abe640d269819.webp?v=1778755935"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261126221749",
+    "image": "https://cdn.idn.app/livestream/16875e9c1c334616c4c1e823cea48d73.webp",
+    "started_at": "2026-11-26T15:17:55.000Z",
+    "last_seen_at": "2026-11-26T16:30:25.266Z",
+    "peak_viewers": 4550,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 19], [1, 79], [2, 131], [3, 223], [4, 298], [5, 376], [6, 430], [7, 474], [8, 530], [9, 599], [10, 653], [11, 705], [12, 764], [13, 815], [14, 866], [15, 920], [16, 973], [17, 1023], [18, 1064], [19, 1091], [20, 1144], [21, 1184], [22, 1231], [23, 1291], [24, 1356], [25, 1410], [26, 1498], [27, 1567], [28, 1601], [29, 1661], [30, 1708], [31, 1763], [32, 1813], [33, 1866], [34, 1921], [35, 2032], [36, 2088], [37, 2184], [38, 2272], [39, 2356], [40, 2448], [41, 2505], [42, 2571], [43, 2624], [44, 2696], [45, 2759], [46, 2811], [47, 2879], [48, 2963], [49, 3034], [50, 3116], [51, 3206], [52, 3263], [53, 3346], [54, 3416], [55, 3450], [56, 3532], [57, 3587], [58, 3642], [59, 3699], [60, 3758], [61, 3810], [62, 3880], [63, 3987], [64, 4055], [65, 4109], [66, 4183], [67, 4255], [68, 4314], [69, 4365], [70, 4421], [71, 4481], [72, 4527], [73, 4550]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-26T16:30:25.266Z",
+    "duration_minutes": 73,
+    "last_viewers": 4550,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261126221749"
+  },
+  {
     "id": "idn:alveeria-3268",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 270,
     "unique_gifters": 0,
     "source_id": "idn:pajama-drive-2026-11-20-261112215813"
-  },
-  {
-    "id": "idn:alveeria-3071",
-    "platform": "idn",
-    "member": {
-      "name": "Gracie",
-      "username": "jkt48_gracie",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/b54dbd0f2ccde80f7fc4d40c575eed24.webp?v=1778761482"
-    },
-    "title": "hiii",
-    "url": "https://www.idn.app/jkt48_gracie/live/hiii-261120181437",
-    "image": "https://cdn.idn.app/livestream/5c7def65f5962a4f8a5ca27d2fc0642d.webp",
-    "started_at": "2026-11-20T11:14:41.000Z",
-    "last_seen_at": "2026-11-20T12:19:10.279Z",
-    "peak_viewers": 6135,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[9, 1333], [10, 1400], [11, 1507], [12, 1607], [13, 1712], [14, 1787], [15, 1875], [16, 1958], [17, 2043], [18, 2121], [19, 2222], [20, 2317], [21, 2363], [22, 2452], [23, 2526], [24, 2608], [25, 2686], [26, 2750], [27, 2807], [28, 2834], [29, 2903], [30, 2971], [31, 3062], [32, 3145], [33, 3229], [34, 3330], [35, 3436], [36, 3540], [37, 3624], [38, 3717], [39, 3792], [40, 3890], [41, 3991], [42, 4096], [43, 4191], [44, 4282], [45, 4372], [46, 4413], [47, 4506], [48, 4584], [49, 4683], [50, 4794], [51, 4879], [52, 4951], [53, 5025], [54, 5103], [55, 5174], [56, 5247], [57, 5305], [58, 5360], [59, 5455], [60, 5562], [61, 5683], [62, 5829], [63, 5913], [64, 6099]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/pTnhWstYE6z6",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-20T12:19:10.279Z",
-    "duration_minutes": 64,
-    "last_viewers": 6135,
-    "unique_gifters": 0,
-    "source_id": "idn:hiii-261120181437"
   }
 ]
