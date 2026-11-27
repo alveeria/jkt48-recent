@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 27 Nov 2026, 18.38 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 27 Nov 2026, 18.43 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,14 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Rara | IDN Live | Haii | 27 Nov 2026, 17.33 | 2.971 |
+| _Belum ada yang live_ | | | | |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
 | Cynthia | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 18.03 | 0m | 0 | 0 | — | — | 0 |
+| Rara | IDN Live | Haii | 27 Nov 2026, 17.33 | 68m | 3.100 | 0 | — | — | 0 |
 | Cynthia | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.25 | 38m | 4.301 | 0 | — | — | 0 |
 | Lyn | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.24 | 34m | 2.336 | 0 | — | — | 0 |
 | Danella | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.24 | 70m | 3.734 | 0 | — | — | 0 |
@@ -91,7 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Intan | IDN Live | grwm sama ci lia | 26 Nov 2026, 14.20 | 32m | 4.001 | 0 | — | — | 0 |
 | Danella | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 14.14 | 69m | 4.330 | 0 | — | — | 0 |
 | Daisy | IDN Live | Hi | 26 Nov 2026, 14.14 | 70m | 3.497 | 0 | — | — | 0 |
-| Rara | IDN Live | Sianggg | 26 Nov 2026, 14.02 | 81m | 5.707 | 0 | — | — | 0 |
 
 ## Lisensi
 
