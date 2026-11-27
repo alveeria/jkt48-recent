@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3274",
+    "platform": "idn",
+    "member": {
+      "name": "Gita",
+      "username": "jkt48_gita",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/449dae836a829fdd6767c3268ac51d93.webp?v=1778756058"
+    },
+    "title": "Gits",
+    "url": "https://www.idn.app/jkt48_gita/live/gits-261127145603",
+    "image": "https://cdn.idn.app/livestream/46da9aedcec6d4df3908bc7a66b26250.webp",
+    "started_at": "2026-11-27T07:56:09.000Z",
+    "last_seen_at": "2026-11-27T08:29:47.560Z",
+    "peak_viewers": 4915,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[16, 2963], [17, 3030], [18, 3147], [19, 3265], [20, 3372], [21, 3472], [22, 3573], [23, 3668], [24, 3762], [25, 3844], [26, 3960], [27, 4094], [28, 4223], [29, 4348], [30, 4462], [31, 4514], [32, 4647], [33, 4778], [34, 4915]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-27T08:29:47.560Z",
+    "duration_minutes": 34,
+    "last_viewers": 4915,
+    "unique_gifters": 0,
+    "source_id": "idn:gits-261127145603"
+  },
+  {
     "id": "idn:alveeria-3273",
     "platform": "idn",
     "member": {
