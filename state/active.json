@@ -1,1 +1,58 @@
-{}
+{
+  "idn:gits-261127145603": {
+    "id": "idn:gits-261127145603",
+    "platform": "idn",
+    "member": {
+      "name": "Gita",
+      "username": "jkt48_gita",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/449dae836a829fdd6767c3268ac51d93.webp?v=1778756058"
+    },
+    "title": "Gits",
+    "url": "https://www.idn.app/jkt48_gita/live/gits-261127145603",
+    "image": "https://cdn.idn.app/livestream/46da9aedcec6d4df3908bc7a66b26250.webp",
+    "started_at": "2026-11-27T07:56:09.000Z",
+    "viewers": 3517,
+    "last_seen_at": "2026-11-27T08:17:18.030Z",
+    "peak_viewers": 3517,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[16, 2963], [17, 3030], [18, 3147], [19, 3265], [20, 3372], [21, 3472]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/jmcS5HF2Xazj",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
+  },
+  "idn:iya-261127144443": {
+    "id": "idn:iya-261127144443",
+    "platform": "idn",
+    "member": {
+      "name": "Virgi",
+      "username": "jkt48_virgi",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/ea02d0c4199b0f536272811de09a3fc5.webp?v=1743097272"
+    },
+    "title": "iya",
+    "url": "https://www.idn.app/jkt48_virgi/live/iya-261127144443",
+    "image": "https://cdn.idn.app/livestream/0d82814ead06116af3f9c7614b478c42.webp",
+    "started_at": "2026-11-27T07:44:48.000Z",
+    "viewers": 2824,
+    "last_seen_at": "2026-11-27T08:17:18.030Z",
+    "peak_viewers": 2824,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "gifters": {},
+    "top_gifters": [],
+    "viewer_series": [[27, 2398], [28, 2464], [29, 2558], [30, 2642], [31, 2727], [32, 2791], [33, 2824]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/5g2pK94iTLKW",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null
+  }
+}
