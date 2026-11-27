@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 27 Nov 2026, 16.34 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 27 Nov 2026, 16.39 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Indah | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 15.20 | 10.243 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 15.21 | 7.575 |
-| Michie | IDN Live | hello | 27 Nov 2026, 15.21 | 11.275 |
-| Anindya | IDN Live | hlo | 27 Nov 2026, 15.21 | 6.546 |
-| Daisy | IDN Live | Hi | 27 Nov 2026, 15.22 | 3.261 |
+| Indah | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 15.20 | 10.949 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 15.21 | 8.183 |
+| Anindya | IDN Live | hlo | 27 Nov 2026, 15.21 | 7.104 |
+| Daisy | IDN Live | Hi | 27 Nov 2026, 15.22 | 3.580 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Michie | IDN Live | hello | 27 Nov 2026, 15.21 | 74m | 11.328 | 0 | — | — | 0 |
 | Gita | IDN Live | Gits | 27 Nov 2026, 14.56 | 34m | 4.915 | 0 | — | — | 0 |
 | Virgi | IDN Live | iya | 27 Nov 2026, 14.44 | 104m | 8.053 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 08.37 | 59m | 1.011 | 0 | — | — | 0 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Trisha | IDN Live | haai | 25 Nov 2026, 22.25 | 71m | 6.749 | 0 | — | — | 0 |
 | Kathrina | IDN Live | yipyip | 25 Nov 2026, 22.19 | 17m | 1.192 | 0 | — | — | 0 |
 | Giaa | IDN Live | p  | 25 Nov 2026, 22.15 | 76m | 2.423 | 0 | — | — | 0 |
-| Jemima | IDN Live | Ayo ngobrol bareng! | 25 Nov 2026, 22.07 | 26m | 2.251 | 0 | — | — | 0 |
 
 ## Lisensi
 
