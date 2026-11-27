@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3281",
+    "platform": "idn",
+    "member": {
+      "name": "Muthe",
+      "username": "jkt48_muthe",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c80aa74f8816d0b98562d912d6e9ac1.webp?v=1778755639"
+    },
+    "title": "Hi",
+    "url": "https://www.idn.app/jkt48_muthe/live/hi-261127164537",
+    "image": "https://cdn.idn.app/livestream/dd9bd4d4db448c837c8922164fce47fe.webp",
+    "started_at": "2026-11-27T09:45:42.000Z",
+    "last_seen_at": "2026-11-27T10:47:27.973Z",
+    "peak_viewers": 4979,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 8], [1, 88], [2, 240], [3, 403], [4, 543], [5, 659], [6, 738], [7, 846], [8, 965], [9, 1171], [10, 1274], [11, 1381], [12, 1484], [13, 1585], [14, 1666], [15, 1750], [16, 1838], [17, 1908], [18, 1989], [19, 2050], [20, 2112], [21, 2147], [22, 2212], [23, 2267], [24, 2328], [25, 2394], [26, 2461], [27, 2527], [28, 2573], [29, 2632], [30, 2700], [31, 2760], [32, 2815], [33, 2869], [34, 2922], [35, 2975], [36, 3025], [37, 3063], [38, 3119], [39, 3179], [40, 3216], [41, 3373], [42, 3480], [43, 3566], [44, 3648], [45, 3734], [46, 3834], [47, 3950], [48, 4032], [49, 4120], [50, 4219], [51, 4310], [52, 4381], [53, 4451], [54, 4514], [55, 4546], [56, 4627], [57, 4685], [58, 4751], [59, 4815], [60, 4867], [61, 4927], [62, 4979]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-27T10:47:27.973Z",
+    "duration_minutes": 62,
+    "last_viewers": 4979,
+    "unique_gifters": 0,
+    "source_id": "idn:hi-261127164537"
+  },
+  {
     "id": "idn:alveeria-3277",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 1738,
     "unique_gifters": 0,
     "source_id": "idn:ayo-ngobrol-bareng-261120230103"
-  },
-  {
-    "id": "idn:alveeria-3083",
-    "platform": "idn",
-    "member": {
-      "name": "Elin",
-      "username": "jkt48_elin",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/0fb5a0de260626f7c1319567ce5e7f39.webp?v=1778761360"
-    },
-    "title": "Hai",
-    "url": "https://www.idn.app/jkt48_elin/live/hai-261120225848",
-    "image": "https://cdn.idn.app/livestream/3bd312d6ae8a19d73aeacdb061061df0.webp",
-    "started_at": "2026-11-20T15:58:53.000Z",
-    "last_seen_at": "2026-11-20T17:03:13.212Z",
-    "peak_viewers": 2741,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 1], [1, 27], [2, 101], [3, 174], [4, 226], [5, 281], [6, 333], [7, 402], [8, 448], [9, 524], [10, 594], [11, 646], [12, 683], [13, 740], [14, 778], [15, 827], [16, 870], [17, 918], [18, 965], [19, 1007], [20, 1053], [21, 1084], [22, 1137], [23, 1180], [24, 1220], [25, 1267], [26, 1310], [27, 1365], [28, 1405], [29, 1436], [30, 1473], [31, 1516], [32, 1530], [33, 1575], [34, 1612], [35, 1672], [36, 1716], [37, 1750], [38, 1790], [39, 1846], [40, 1901], [41, 1943], [42, 1977], [43, 2023], [44, 2059], [45, 2104], [46, 2142], [47, 2181], [48, 2212], [49, 2265], [50, 2285], [51, 2315], [52, 2343], [53, 2371], [54, 2399], [55, 2441], [56, 2477], [57, 2513], [58, 2540], [59, 2566], [60, 2603], [61, 2630], [62, 2666], [63, 2701], [64, 2729]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/gBuGTLoLJOCV",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-20T17:03:13.212Z",
-    "duration_minutes": 64,
-    "last_viewers": 2741,
-    "unique_gifters": 0,
-    "source_id": "idn:hai-261120225848"
   }
 ]

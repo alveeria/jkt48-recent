@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 27 Nov 2026, 17.46 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 27 Nov 2026, 17.52 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,16 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Muthe | IDN Live | Hi | 27 Nov 2026, 16.45 | 4.949 |
-| Danella | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.24 | 1.887 |
-| Lyn | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.24 | 1.697 |
-| Cynthia | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.25 | 3.208 |
-| Rara | IDN Live | Haii | 27 Nov 2026, 17.33 | 559 |
+| Danella | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.24 | 2.167 |
+| Lyn | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.24 | 2.017 |
+| Cynthia | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 17.25 | 3.664 |
+| Rara | IDN Live | Haii | 27 Nov 2026, 17.33 | 776 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Muthe | IDN Live | Hi | 27 Nov 2026, 16.45 | 62m | 4.979 | 0 | — | — | 0 |
 | Daisy | IDN Live | Hi | 27 Nov 2026, 15.22 | 84m | 3.873 | 0 | — | — | 0 |
 | Michie | IDN Live | hello | 27 Nov 2026, 15.21 | 74m | 11.328 | 0 | — | — | 0 |
 | Anindya | IDN Live | hlo | 27 Nov 2026, 15.21 | 87m | 7.777 | 0 | — | — | 0 |
@@ -95,7 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Delynn | IDN Live | HI | 26 Nov 2026, 13.46 | 78m | 24.552 | 0 | — | — | 0 |
 | Michie | IDN Live | hello | 26 Nov 2026, 13.45 | 77m | 23.751 | 0 | — | — | 0 |
 | Fritzy | IDN Live | gerem | 26 Nov 2026, 11.32 | 87m | 3.623 | 0 | — | — | 0 |
-| Erine | IDN Live | hai | 25 Nov 2026, 23.33 | 67m | 4.979 | 0 | — | — | 0 |
 
 ## Lisensi
 

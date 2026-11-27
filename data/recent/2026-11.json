@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3281",
+    "platform": "idn",
+    "member": {
+      "name": "Muthe",
+      "username": "jkt48_muthe",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/2c80aa74f8816d0b98562d912d6e9ac1.webp?v=1778755639"
+    },
+    "title": "Hi",
+    "url": "https://www.idn.app/jkt48_muthe/live/hi-261127164537",
+    "image": "https://cdn.idn.app/livestream/dd9bd4d4db448c837c8922164fce47fe.webp",
+    "started_at": "2026-11-27T09:45:42.000Z",
+    "last_seen_at": "2026-11-27T10:47:27.973Z",
+    "peak_viewers": 4979,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 8], [1, 88], [2, 240], [3, 403], [4, 543], [5, 659], [6, 738], [7, 846], [8, 965], [9, 1171], [10, 1274], [11, 1381], [12, 1484], [13, 1585], [14, 1666], [15, 1750], [16, 1838], [17, 1908], [18, 1989], [19, 2050], [20, 2112], [21, 2147], [22, 2212], [23, 2267], [24, 2328], [25, 2394], [26, 2461], [27, 2527], [28, 2573], [29, 2632], [30, 2700], [31, 2760], [32, 2815], [33, 2869], [34, 2922], [35, 2975], [36, 3025], [37, 3063], [38, 3119], [39, 3179], [40, 3216], [41, 3373], [42, 3480], [43, 3566], [44, 3648], [45, 3734], [46, 3834], [47, 3950], [48, 4032], [49, 4120], [50, 4219], [51, 4310], [52, 4381], [53, 4451], [54, 4514], [55, 4546], [56, 4627], [57, 4685], [58, 4751], [59, 4815], [60, 4867], [61, 4927], [62, 4979]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/vhoHIReOw6Av",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-27T10:47:27.973Z",
+    "duration_minutes": 62,
+    "last_viewers": 4979,
+    "unique_gifters": 0,
+    "source_id": "idn:hi-261127164537"
+  },
+  {
     "id": "idn:alveeria-3277",
     "platform": "idn",
     "member": {
