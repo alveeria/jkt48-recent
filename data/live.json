@@ -1,4 +1,32 @@
 {
-  "updated_at": "2026-11-27T01:33:13.736Z",
-  "lives": []
+  "updated_at": "2026-11-27T01:38:22.366Z",
+  "lives": [
+    {
+      "id": "idn:ayo-ngobrol-bareng-261127083656",
+      "platform": "idn",
+      "member": {
+        "name": "Lia",
+        "username": "jkt48_lia",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/774813dd4e183c97cb589eecb765b034.webp?v=1778761632"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_lia/live/ayo-ngobrol-bareng-261127083656",
+      "image": "https://cdn.idn.app/livestream/4c0869986824c59763917031a1c00705.webp",
+      "started_at": "2026-11-27T01:37:03.000Z",
+      "viewers": 72,
+      "last_seen_at": "2026-11-27T01:38:21.386Z",
+      "peak_viewers": 72,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 1], [1, 25]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/QT8qkwRki3O9",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
