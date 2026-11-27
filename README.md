@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 27 Nov 2026, 16.45 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 27 Nov 2026, 16.50 WIB.
 
 ## Interval pembaruan
 
@@ -46,16 +46,17 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Indah | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 15.20 | 11.304 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 15.21 | 8.576 |
-| Anindya | IDN Live | hlo | 27 Nov 2026, 15.21 | 7.469 |
-| Daisy | IDN Live | Hi | 27 Nov 2026, 15.22 | 3.779 |
+| Muthe | IDN Live | Hi | 27 Nov 2026, 16.45 | 659 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Daisy | IDN Live | Hi | 27 Nov 2026, 15.22 | 84m | 3.873 | 0 | — | — | 0 |
 | Michie | IDN Live | hello | 27 Nov 2026, 15.21 | 74m | 11.328 | 0 | — | — | 0 |
+| Anindya | IDN Live | hlo | 27 Nov 2026, 15.21 | 87m | 7.777 | 0 | — | — | 0 |
+| Olla | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 15.21 | 87m | 8.950 | 0 | — | — | 0 |
+| Indah | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 15.20 | 87m | 11.685 | 0 | — | — | 0 |
 | Gita | IDN Live | Gits | 27 Nov 2026, 14.56 | 34m | 4.915 | 0 | — | — | 0 |
 | Virgi | IDN Live | iya | 27 Nov 2026, 14.44 | 104m | 8.053 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 08.37 | 59m | 1.011 | 0 | — | — | 0 |
@@ -91,10 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Michie | IDN Live | hello | 26 Nov 2026, 13.45 | 77m | 23.751 | 0 | — | — | 0 |
 | Fritzy | IDN Live | gerem | 26 Nov 2026, 11.32 | 87m | 3.623 | 0 | — | — | 0 |
 | Erine | IDN Live | hai | 25 Nov 2026, 23.33 | 67m | 4.979 | 0 | — | — | 0 |
-| Levi | IDN Live | hai | 25 Nov 2026, 23.29 | 72m | 3.878 | 0 | — | — | 0 |
-| Trisha | IDN Live | haai | 25 Nov 2026, 22.25 | 71m | 6.749 | 0 | — | — | 0 |
-| Kathrina | IDN Live | yipyip | 25 Nov 2026, 22.19 | 17m | 1.192 | 0 | — | — | 0 |
-| Giaa | IDN Live | p  | 25 Nov 2026, 22.15 | 76m | 2.423 | 0 | — | — | 0 |
 
 ## Lisensi
 
