@@ -62,6 +62,37 @@
     "source_id": "idn:ayo-ngobrol-bareng-261128162850"
   },
   {
+    "id": "idn:alveeria-3310",
+    "platform": "idn",
+    "member": {
+      "name": "Raisha",
+      "username": "jkt48_raisha",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7646a44d606dc17fedf5f425a8df2c96.webp?v=1778755793"
+    },
+    "title": "Ayo ngobrol bareng!",
+    "url": "https://www.idn.app/jkt48_raisha/live/ayo-ngobrol-bareng-261128161208",
+    "image": "https://cdn.idn.app/livestream/1d953cdd2bf9d22624925f837e7fb472.webp",
+    "started_at": "2026-11-28T09:12:13.000Z",
+    "last_seen_at": "2026-11-28T11:04:29.146Z",
+    "peak_viewers": 6202,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[63, 3970], [64, 4007], [65, 4044], [66, 4075], [67, 4106], [68, 4149], [69, 4193], [70, 4230], [71, 4281], [72, 4329], [73, 4385], [74, 4429], [75, 4499], [76, 4549], [77, 4591], [78, 4654], [79, 4704], [80, 4773], [81, 4821], [82, 4876], [83, 4938], [84, 5001], [85, 5052], [86, 5101], [87, 5144], [88, 5187], [89, 5235], [90, 5261], [91, 5304], [92, 5347], [93, 5431], [94, 5472], [95, 5511], [96, 5548], [97, 5587], [98, 5635], [99, 5680], [100, 5760], [101, 5806], [102, 5846], [103, 5888], [104, 5923], [105, 5936], [106, 5978], [107, 6007], [108, 6045], [109, 6091], [110, 6126], [111, 6157], [112, 6183]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/OL2DbmrJcGdi",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-28T11:04:29.146Z",
+    "duration_minutes": 112,
+    "last_viewers": 6202,
+    "unique_gifters": 0,
+    "source_id": "idn:ayo-ngobrol-bareng-261128161208"
+  },
+  {
     "id": "idn:alveeria-3307",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 6066,
     "unique_gifters": 0,
     "source_id": "idn:ayo-ngobrol-bareng-261121210604"
-  },
-  {
-    "id": "idn:alveeria-3110",
-    "platform": "idn",
-    "member": {
-      "name": "Aralie",
-      "username": "jkt48_aralie",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/71e9df185dcc84e99ddf1dc97cc37467.webp?v=1778755244"
-    },
-    "title": "hai ",
-    "url": "https://www.idn.app/jkt48_aralie/live/hai-261121204236",
-    "image": "https://cdn.idn.app/livestream/bcdba23b0210db64c8d7df06c7d1e540.webp",
-    "started_at": "2026-11-21T13:42:43.000Z",
-    "last_seen_at": "2026-11-21T14:48:58.250Z",
-    "peak_viewers": 8332,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 3], [1, 47], [2, 186], [3, 345], [4, 513], [5, 650], [6, 772], [7, 915], [8, 1100], [9, 1322], [10, 1476], [11, 1548], [12, 1668], [13, 1809], [14, 1966], [15, 2064], [16, 2178], [17, 2279], [18, 2387], [19, 2487], [20, 2604], [21, 2699], [22, 2811], [23, 2919], [24, 3008], [25, 3161], [26, 3252], [27, 3403], [28, 3603], [29, 3782], [30, 3966], [31, 4076], [32, 4198], [33, 4338], [34, 4465], [35, 4600], [36, 4717], [37, 4839], [38, 4966], [39, 5079], [40, 5192], [41, 5295], [42, 5427], [43, 5581], [44, 5652], [45, 5811], [46, 5942], [47, 6039], [48, 6149], [49, 6261], [50, 6468], [51, 6598], [52, 6708], [53, 6817], [54, 6932], [55, 7060], [56, 7195], [57, 7323], [58, 7440], [59, 7516], [60, 7630], [61, 7723], [62, 7822], [63, 7902], [64, 8013], [65, 8122], [66, 8256]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/E0I7e29Eqkw6",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-21T14:48:58.250Z",
-    "duration_minutes": 66,
-    "last_viewers": 8332,
-    "unique_gifters": 0,
-    "source_id": "idn:hai-261121204236"
   }
 ]

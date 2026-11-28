@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 28 Nov 2026, 18.01 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 28 Nov 2026, 18.06 WIB.
 
 ## Interval pembaruan
 
@@ -46,8 +46,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Raisha | IDN Live | Ayo ngobrol bareng! | 28 Nov 2026, 16.12 | 6.110 |
-| JKT48 | IDN Live | JKT48 2nd Generation Special Stage | 28 Nov 2026, 15.44 | 3.313 |
+| JKT48 | IDN Live | JKT48 2nd Generation Special Stage | 28 Nov 2026, 15.44 | 3.386 |
 
 ## Live terakhir — Nov 2026
 
@@ -55,6 +54,7 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 |---|---|---|---|---|---|---|---|---|---|
 | Lulu | IDN Live | p | 28 Nov 2026, 17.18 | 32m | 2.251 | 0 | — | — | 0 |
 | Mikaela | IDN Live | Ayo ngobrol bareng! | 28 Nov 2026, 16.28 | 61m | 3.044 | 0 | — | — | 0 |
+| Raisha | IDN Live | Ayo ngobrol bareng! | 28 Nov 2026, 16.12 | 112m | 6.202 | 0 | — | — | 0 |
 | Levi | IDN Live | hai | 28 Nov 2026, 14.33 | 0m | 7 | 0 | — | — | 0 |
 | Gita | IDN Live | Gits | 28 Nov 2026, 14.20 | 14m | 1.441 | 0 | — | — | 0 |
 | Sona | IDN Live | maaf ngaret | 28 Nov 2026, 14.13 | 21m | 727 | 0 | — | — | 0 |
@@ -92,7 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Lia | IDN Live | Ayo ngobrol bareng! | 27 Nov 2026, 08.37 | 59m | 1.011 | 0 | — | — | 0 |
 | Nala | IDN Live | HEI | 26 Nov 2026, 22.35 | 66m | 7.679 | 0 | — | — | 0 |
 | Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 22.17 | 73m | 4.550 | 0 | — | — | 0 |
-| Lana | IDN Live | Haii | 26 Nov 2026, 22.12 | 39m | 4.548 | 0 | — | — | 0 |
 
 ## Lisensi
 
