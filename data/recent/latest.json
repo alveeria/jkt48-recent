@@ -93,6 +93,37 @@
     "source_id": "idn:hlo-261128092041"
   },
   {
+    "id": "idn:alveeria-3297",
+    "platform": "idn",
+    "member": {
+      "name": "Michie",
+      "username": "jkt48_michie",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/618c8c824495bd9efea619a7fee89482.webp?v=1778761704"
+    },
+    "title": "grwm",
+    "url": "https://www.idn.app/jkt48_michie/live/grwm-261128092030",
+    "image": "https://cdn.idn.app/livestream/90b9e8632d79c0f6f7e0661d3bf7eebc.webp",
+    "started_at": "2026-11-28T02:20:36.000Z",
+    "last_seen_at": "2026-11-28T03:36:08.172Z",
+    "peak_viewers": 12249,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 4], [1, 77], [2, 312], [3, 525], [4, 738], [5, 951], [6, 1185], [7, 1386], [8, 1576], [9, 1833], [10, 2222], [11, 2558], [12, 2984], [13, 3348], [14, 3691], [15, 4210], [16, 4554], [17, 4796], [18, 5020], [19, 5226], [20, 5382], [21, 5562], [22, 5719], [23, 5875], [24, 6019], [25, 6148], [26, 6303], [27, 6365], [28, 6517], [29, 6667], [30, 6786], [31, 6941], [32, 7068], [33, 7265], [34, 7381], [35, 7516], [36, 7666], [37, 7790], [38, 7908], [39, 8026], [40, 8144], [41, 8282], [42, 8338], [43, 8469], [44, 8609], [45, 8725], [46, 8848], [47, 8999], [48, 9140], [49, 9290], [50, 9405], [51, 9534], [52, 9649], [53, 9770], [54, 9910], [55, 10042], [56, 10196], [57, 10329], [58, 10427], [59, 10481], [60, 10554], [61, 10632], [62, 10721], [63, 10812], [64, 10888], [65, 10966], [66, 11056], [67, 11131], [68, 11208], [69, 11268], [70, 11426], [71, 11690], [72, 11816], [73, 11952], [74, 12060], [75, 12128], [76, 12249]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-28T03:36:08.172Z",
+    "duration_minutes": 76,
+    "last_viewers": 12249,
+    "unique_gifters": 0,
+    "source_id": "idn:grwm-261128092030"
+  },
+  {
     "id": "idn:alveeria-3293",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 395,
     "unique_gifters": 0,
     "source_id": "idn:ayo-ngobrol-bareng-261121141441"
-  },
-  {
-    "id": "idn:alveeria-3097",
-    "platform": "idn",
-    "member": {
-      "name": "Fera",
-      "username": "jkt48_fera",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d66f83efb55bc65f61f4a3943dfd6c95.webp?v=1779088009"
-    },
-    "title": "Ayo masuk",
-    "url": "https://www.idn.app/jkt48_fera/live/ayo-masuk-261121140927",
-    "image": "https://cdn.idn.app/livestream/bf43c46f3093c2c4c5f65140b0c3fac5.webp",
-    "started_at": "2026-11-21T07:09:33.000Z",
-    "last_seen_at": "2026-11-21T07:20:42.774Z",
-    "peak_viewers": 598,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 3], [1, 27], [2, 137], [3, 198], [4, 250], [5, 299], [6, 347], [7, 374], [8, 416], [9, 457], [10, 500], [11, 556]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/POC6D488qiQY",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-21T07:20:42.774Z",
-    "duration_minutes": 11,
-    "last_viewers": 598,
-    "unique_gifters": 0,
-    "source_id": "idn:ayo-masuk-261121140927"
   }
 ]
