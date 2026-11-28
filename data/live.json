@@ -1,4 +1,113 @@
 {
-  "updated_at": "2026-11-28T02:19:43.021Z",
-  "lives": []
+  "updated_at": "2026-11-28T02:24:56.536Z",
+  "lives": [
+    {
+      "id": "idn:grwm-261128092030",
+      "platform": "idn",
+      "member": {
+        "name": "Michie",
+        "username": "jkt48_michie",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/618c8c824495bd9efea619a7fee89482.webp?v=1778761704"
+      },
+      "title": "grwm",
+      "url": "https://www.idn.app/jkt48_michie/live/grwm-261128092030",
+      "image": "https://cdn.idn.app/livestream/90b9e8632d79c0f6f7e0661d3bf7eebc.webp",
+      "started_at": "2026-11-28T02:20:36.000Z",
+      "viewers": 843,
+      "last_seen_at": "2026-11-28T02:24:55.344Z",
+      "peak_viewers": 843,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 4], [1, 77], [2, 312], [3, 525], [4, 738]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KSfVE1uubAk6",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    },
+    {
+      "id": "idn:hlo-261128092041",
+      "platform": "idn",
+      "member": {
+        "name": "Anindya",
+        "username": "jkt48_anindya",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf258bddd53add17931bcd75a810831c.webp?v=1778761256"
+      },
+      "title": "hlo",
+      "url": "https://www.idn.app/jkt48_anindya/live/hlo-261128092041",
+      "image": "https://cdn.idn.app/livestream/5b2e780913142454d06626a38b219273.webp",
+      "started_at": "2026-11-28T02:20:47.000Z",
+      "viewers": 477,
+      "last_seen_at": "2026-11-28T02:24:55.344Z",
+      "peak_viewers": 477,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 6], [1, 35], [2, 72], [3, 195], [4, 393]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/nWIQ166byDzM",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    },
+    {
+      "id": "idn:josjis-261128092137",
+      "platform": "idn",
+      "member": {
+        "name": "Jessi",
+        "username": "jkt48_jessi",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dfa51cbb14d8a3185c35228f1f765ae5.webp?v=1778755467"
+      },
+      "title": "josjis",
+      "url": "https://www.idn.app/jkt48_jessi/live/josjis-261128092137",
+      "image": "https://cdn.idn.app/livestream/076773f30c9a5404120dca93dc5a6e6f.webp",
+      "started_at": "2026-11-28T02:21:43.000Z",
+      "viewers": 376,
+      "last_seen_at": "2026-11-28T02:24:55.344Z",
+      "peak_viewers": 376,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 1], [1, 39], [2, 167], [3, 321]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/DB4L56nemB2B",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    },
+    {
+      "id": "idn:ayo-ngobrol-bareng-261128092248",
+      "platform": "idn",
+      "member": {
+        "name": "Olla",
+        "username": "jkt48_olla",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/76a2fcff460e27571b5abe640d269819.webp?v=1778755935"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_olla/live/ayo-ngobrol-bareng-261128092248",
+      "image": "https://cdn.idn.app/livestream/ef8dae25106e501080a142fe756a289b.webp",
+      "started_at": "2026-11-28T02:22:54.000Z",
+      "viewers": 182,
+      "last_seen_at": "2026-11-28T02:24:55.344Z",
+      "peak_viewers": 182,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 14], [1, 65], [2, 128]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/SK28AfS4UtdL",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
