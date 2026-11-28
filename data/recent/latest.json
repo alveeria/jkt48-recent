@@ -31,6 +31,37 @@
     "source_id": "idn:ayo-ngobrol-bareng-261128092248"
   },
   {
+    "id": "idn:alveeria-3296",
+    "platform": "idn",
+    "member": {
+      "name": "Jessi",
+      "username": "jkt48_jessi",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/dfa51cbb14d8a3185c35228f1f765ae5.webp?v=1778755467"
+    },
+    "title": "josjis",
+    "url": "https://www.idn.app/jkt48_jessi/live/josjis-261128092137",
+    "image": "https://cdn.idn.app/livestream/076773f30c9a5404120dca93dc5a6e6f.webp",
+    "started_at": "2026-11-28T02:21:43.000Z",
+    "last_seen_at": "2026-11-28T03:29:26.012Z",
+    "peak_viewers": 8066,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 39], [2, 167], [3, 321], [4, 447], [5, 608], [6, 732], [7, 832], [8, 983], [9, 1303], [10, 1596], [11, 1828], [12, 2032], [13, 2139], [14, 2350], [15, 2490], [16, 2614], [17, 2718], [18, 2837], [19, 2936], [20, 3041], [21, 3132], [22, 3229], [23, 3317], [24, 3395], [25, 3481], [26, 3565], [27, 3649], [28, 3723], [29, 3803], [30, 3858], [31, 3955], [32, 4092], [33, 4212], [34, 4334], [35, 4461], [36, 4574], [37, 4711], [38, 4847], [39, 4983], [40, 5152], [41, 5319], [42, 5470], [43, 5568], [44, 5657], [45, 5772], [46, 5836], [47, 5956], [48, 6084], [49, 6195], [50, 6318], [51, 6405], [52, 6520], [53, 6726], [54, 6920], [55, 7086], [56, 7224], [57, 7357], [58, 7456], [59, 7525], [60, 7588], [61, 7635], [62, 7707], [63, 7771], [64, 7821], [65, 7896], [66, 7945], [67, 8003], [68, 8066]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/DB4L56nemB2B",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-28T03:29:26.012Z",
+    "duration_minutes": 68,
+    "last_viewers": 8066,
+    "unique_gifters": 0,
+    "source_id": "idn:josjis-261128092137"
+  },
+  {
     "id": "idn:alveeria-3294",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 598,
     "unique_gifters": 0,
     "source_id": "idn:ayo-masuk-261121140927"
-  },
-  {
-    "id": "idn:alveeria-3096",
-    "platform": "idn",
-    "member": {
-      "name": "Intan",
-      "username": "jkt48_intan",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/d8906cd39a85bd0a92a38e1dc0733182.webp?v=1743097568"
-    },
-    "title": "ama jemima giaa",
-    "url": "https://www.idn.app/jkt48_intan/live/ama-jemima-giaa-261121134042",
-    "image": "https://cdn.idn.app/livestream/40b6a79939131a9dea152d5a734f0eaf.webp",
-    "started_at": "2026-11-21T06:40:47.000Z",
-    "last_seen_at": "2026-11-21T07:20:42.774Z",
-    "peak_viewers": 3608,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 7], [1, 108], [2, 251], [3, 365], [4, 455], [5, 553], [6, 664], [7, 766], [8, 867], [9, 955], [10, 1001], [11, 1110], [12, 1206], [13, 1299], [14, 1380], [15, 1450], [16, 1519], [17, 1614], [18, 1725], [19, 1816], [20, 1916], [21, 1981], [22, 2047], [23, 2121], [24, 2216], [25, 2284], [26, 2353], [27, 2416], [28, 2458], [29, 2551], [30, 2637], [31, 2735], [32, 2863], [33, 2956], [34, 3064], [35, 3171], [36, 3287], [37, 3359], [38, 3425], [39, 3504], [40, 3608]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/xESastKkr5A5",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-21T07:20:42.774Z",
-    "duration_minutes": 40,
-    "last_viewers": 3608,
-    "unique_gifters": 0,
-    "source_id": "idn:ama-jemima-giaa-261121134042"
   }
 ]
