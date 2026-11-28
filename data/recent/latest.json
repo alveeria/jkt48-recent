@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3303",
+    "platform": "idn",
+    "member": {
+      "name": "Rara",
+      "username": "jkt48_rara",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/1c1ced380ede33a7e1f493b00b877630.webp?v=1779088190"
+    },
+    "title": "Hallloo",
+    "url": "https://www.idn.app/jkt48_rara/live/hallloo-261128124657",
+    "image": "https://cdn.idn.app/livestream/128f53afe6417a9014f2fdf5ed403863.webp",
+    "started_at": "2026-11-28T05:47:03.000Z",
+    "last_seen_at": "2026-11-28T06:51:32.511Z",
+    "peak_viewers": 1761,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 0], [1, 6], [2, 48], [3, 74], [4, 140], [5, 171], [6, 200], [7, 245], [8, 271], [9, 302], [10, 325], [11, 358], [12, 404], [13, 448], [14, 477], [15, 500], [16, 518], [17, 554], [18, 580], [19, 612], [20, 647], [21, 679], [22, 704], [23, 723], [24, 752], [25, 777], [26, 800], [27, 823], [28, 856], [29, 878], [30, 894], [31, 915], [32, 935], [33, 947], [34, 974], [35, 991], [36, 1008], [37, 1031], [38, 1051], [39, 1074], [40, 1092], [41, 1111], [42, 1142], [43, 1168], [44, 1183], [45, 1200], [46, 1223], [47, 1245], [48, 1268], [49, 1278], [50, 1295], [51, 1311], [52, 1336], [53, 1370], [54, 1413], [55, 1435], [56, 1452], [57, 1484], [58, 1516], [59, 1543], [60, 1610], [61, 1640], [62, 1679], [63, 1714], [64, 1747]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/r748FLOZfJvO",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-28T06:51:32.511Z",
+    "duration_minutes": 64,
+    "last_viewers": 1761,
+    "unique_gifters": 0,
+    "source_id": "idn:hallloo-261128124657"
+  },
+  {
     "id": "idn:alveeria-3302",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 3324,
     "unique_gifters": 0,
     "source_id": "idn:ayo-ngobrol-bareng-261121194845"
-  },
-  {
-    "id": "idn:alveeria-3103",
-    "platform": "idn",
-    "member": {
-      "name": "Marsha",
-      "username": "jkt48_marsha",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/fca5baa79d491e3ae5767af905c1b25b.webp?v=1778756256"
-    },
-    "title": "Plisss",
-    "url": "https://www.idn.app/jkt48_marsha/live/plisss-261121194624",
-    "image": "https://cdn.idn.app/livestream/e9530128fba0b4fa8bcfaa669b1ff403.webp",
-    "started_at": "2026-11-21T12:46:29.000Z",
-    "last_seen_at": "2026-11-21T13:49:37.610Z",
-    "peak_viewers": 8290,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 74], [2, 254], [3, 470], [4, 650], [5, 864], [6, 1006], [7, 1178], [8, 1324], [9, 1471], [10, 1615], [11, 1770], [12, 1851], [13, 2034], [14, 2179], [15, 2378], [16, 2670], [17, 2890], [18, 3054], [19, 3236], [20, 3401], [21, 3520], [22, 3655], [23, 3791], [24, 3930], [25, 4058], [26, 4182], [27, 4305], [28, 4419], [29, 4493], [30, 4596], [31, 4689], [32, 4777], [33, 4938], [34, 5080], [35, 5224], [36, 5355], [37, 5476], [38, 5582], [39, 5699], [40, 5830], [41, 5934], [42, 6077], [43, 6215], [44, 6292], [45, 6380], [46, 6507], [47, 6610], [48, 6729], [49, 6829], [50, 6933], [51, 7042], [52, 7139], [53, 7246], [54, 7338], [55, 7432], [56, 7541], [57, 7643], [58, 7765], [59, 7828], [60, 7926], [61, 8048], [62, 8156], [63, 8241]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/ZgDVpFoeEbEK",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-21T13:49:37.610Z",
-    "duration_minutes": 63,
-    "last_viewers": 8290,
-    "unique_gifters": 0,
-    "source_id": "idn:plisss-261121194624"
   }
 ]

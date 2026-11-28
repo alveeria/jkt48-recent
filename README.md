@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 28 Nov 2026, 13.47 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 28 Nov 2026, 13.53 WIB.
 
 ## Interval pembaruan
 
@@ -46,13 +46,13 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Rara | IDN Live | Hallloo | 28 Nov 2026, 12.47 | 1.640 |
-| Rilly | IDN Live | Yassssss | 28 Nov 2026, 13.45 | 111 |
+| Rilly | IDN Live | Yassssss | 28 Nov 2026, 13.45 | 307 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Rara | IDN Live | Hallloo | 28 Nov 2026, 12.47 | 64m | 1.761 | 0 | — | — | 0 |
 | Carissa | IDN Live | Temenin mek ap 😼 | 28 Nov 2026, 12.29 | 77m | 2.637 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 28 Nov 2026, 11.54 | 64m | 3.659 | 0 | — | — | 0 |
 | Lily | IDN Live | Hii | 28 Nov 2026, 11.32 | 49m | 14.452 | 0 | — | — | 0 |
@@ -92,7 +92,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Christy | IDN Live | WOOOOO | 26 Nov 2026, 16.35 | 61m | 10.417 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 26 Nov 2026, 16.35 | 61m | 5.926 | 0 | — | — | 0 |
 | Muthe | IDN Live | Hi | 26 Nov 2026, 16.34 | 1m | 12 | 0 | — | — | 0 |
-| Olla | IDN Live | Ayo ngobrol bareng! | 26 Nov 2026, 16.23 | 32m | 4.077 | 0 | — | — | 0 |
 
 ## Lisensi
 
