@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3309",
+    "platform": "idn",
+    "member": {
+      "name": "Lulu",
+      "username": "jkt48_lulu",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/36ba8026da4af74247c2a8ddf919b6d3.webp?v=1778755600"
+    },
+    "title": "p",
+    "url": "https://www.idn.app/jkt48_lulu/live/p-261128171840",
+    "image": "https://cdn.idn.app/livestream/d888c99b443f7e9d23b3daca5133ecda.webp",
+    "started_at": "2026-11-28T10:18:45.000Z",
+    "last_seen_at": "2026-11-28T10:51:02.637Z",
+    "peak_viewers": 2251,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 1], [1, 31], [2, 126], [3, 211], [4, 265], [5, 345], [6, 437], [7, 567], [8, 640], [9, 739], [10, 837], [11, 915], [12, 978], [13, 1093], [14, 1165], [15, 1227], [16, 1303], [17, 1388], [18, 1462], [19, 1529], [20, 1582], [21, 1630], [22, 1686], [23, 1735], [24, 1770], [25, 1833], [26, 1913], [27, 1955], [28, 2004], [29, 2062], [30, 2116], [31, 2171], [32, 2223]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/EZZYneuW0wRV",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-28T10:51:02.637Z",
+    "duration_minutes": 32,
+    "last_viewers": 2251,
+    "unique_gifters": 0,
+    "source_id": "idn:p-261128171840"
+  },
+  {
     "id": "idn:alveeria-3308",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 8332,
     "unique_gifters": 0,
     "source_id": "idn:hai-261121204236"
-  },
-  {
-    "id": "idn:alveeria-3109",
-    "platform": "idn",
-    "member": {
-      "name": "Ribka",
-      "username": "jkt48_ribka",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/7c3e9142730d1eb21db56de1eaa161d2.webp?v=1778755827"
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_ribka/live/ayo-ngobrol-bareng-261121203534",
-    "image": "https://cdn.idn.app/livestream/6e77880458d9b2df2be703cc59e816ae.webp",
-    "started_at": "2026-11-21T13:35:39.000Z",
-    "last_seen_at": "2026-11-21T14:47:24.612Z",
-    "peak_viewers": 6871,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 0], [1, 26], [2, 123], [3, 236], [4, 348], [5, 437], [6, 520], [7, 628], [8, 725], [9, 810], [10, 923], [11, 1049], [12, 1168], [13, 1265], [14, 1362], [15, 1488], [16, 1598], [17, 1725], [18, 1850], [19, 1933], [20, 2045], [21, 2178], [22, 2261], [23, 2345], [24, 2420], [25, 2506], [26, 2596], [27, 2688], [28, 2761], [29, 2834], [30, 2926], [31, 2990], [32, 3034], [33, 3196], [34, 3303], [35, 3451], [36, 3577], [37, 3706], [38, 3798], [39, 3897], [40, 4013], [41, 4112], [42, 4209], [43, 4287], [44, 4381], [45, 4463], [46, 4541], [47, 4625], [48, 4668], [49, 4734], [50, 4825], [51, 4935], [52, 5039], [53, 5128], [54, 5195], [55, 5284], [56, 5371], [57, 5514], [58, 5624], [59, 5703], [60, 5795], [61, 5913], [62, 6036], [63, 6133], [64, 6177], [65, 6277], [66, 6367], [67, 6478], [68, 6552], [69, 6623], [70, 6687], [71, 6788], [72, 6871]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/HgGOy8kyuLXB",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-21T14:47:24.612Z",
-    "duration_minutes": 72,
-    "last_viewers": 6871,
-    "unique_gifters": 0,
-    "source_id": "idn:ayo-ngobrol-bareng-261121203534"
   }
 ]
