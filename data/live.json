@@ -1,4 +1,32 @@
 {
-  "updated_at": "2026-11-28T04:18:24.225Z",
-  "lives": []
+  "updated_at": "2026-11-28T04:23:35.027Z",
+  "lives": [
+    {
+      "id": "idn:hi-261128111842",
+      "platform": "idn",
+      "member": {
+        "name": "Daisy",
+        "username": "jkt48_daisy",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/6d067c899ba88ed2f4ca8f09d384501b.webp?v=1778755316"
+      },
+      "title": "Hi",
+      "url": "https://www.idn.app/jkt48_daisy/live/hi-261128111842",
+      "image": "https://cdn.idn.app/livestream/0fdcac1a0d348aad16466786e224d6a5.webp",
+      "started_at": "2026-11-28T04:18:48.000Z",
+      "viewers": 257,
+      "last_seen_at": "2026-11-28T04:23:33.926Z",
+      "peak_viewers": 257,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 0], [1, 21], [2, 88], [3, 123], [4, 180], [5, 257]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/4oaS7oW3fVz6",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
