@@ -1,4 +1,59 @@
 {
-  "updated_at": "2026-11-28T13:46:53.899Z",
-  "lives": []
+  "updated_at": "2026-11-28T13:52:06.437Z",
+  "lives": [
+    {
+      "id": "idn:ayo-ngobrol-bareng-261128205014",
+      "platform": "idn",
+      "member": {
+        "name": "Indah",
+        "username": "jkt48_indah",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/909548d57b8bc9ce5b7784107fa36858.webp?v=1778761549"
+      },
+      "title": "Ayo ngobrol bareng!",
+      "url": "https://www.idn.app/jkt48_indah/live/ayo-ngobrol-bareng-261128205014",
+      "image": "https://cdn.idn.app/livestream/aa47d1cef536bd91711c62a6381345e1.webp",
+      "started_at": "2026-11-28T13:50:21.000Z",
+      "viewers": 347,
+      "last_seen_at": "2026-11-28T13:52:05.236Z",
+      "peak_viewers": 347,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 1], [1, 88], [2, 347]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/KZIPsPXjhPua",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    },
+    {
+      "id": "idn:hlo-261128205015",
+      "platform": "idn",
+      "member": {
+        "name": "Anindya",
+        "username": "jkt48_anindya",
+        "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf258bddd53add17931bcd75a810831c.webp?v=1778761256"
+      },
+      "title": "hlo",
+      "url": "https://www.idn.app/jkt48_anindya/live/hlo-261128205015",
+      "image": "https://cdn.idn.app/livestream/b2ea2138ed1ff097ca5537c09e06b601.webp",
+      "started_at": "2026-11-28T13:50:21.000Z",
+      "viewers": 207,
+      "last_seen_at": "2026-11-28T13:52:05.236Z",
+      "peak_viewers": 207,
+      "gifts": 0,
+      "gift_points": 0,
+      "stars": 0,
+      "comments": 0,
+      "gift_breakdown": {},
+      "top_gifters": [],
+      "viewer_series": [[0, 1], [1, 42], [2, 207]],
+      "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/nWIQ166byDzM",
+      "estimated_gift_value_idr": null,
+      "gift_rate_idr": null,
+      "gift_value_basis": null
+    }
+  ]
 }
