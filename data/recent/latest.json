@@ -1,5 +1,36 @@
 [
   {
+    "id": "idn:alveeria-3294",
+    "platform": "idn",
+    "member": {
+      "name": "Anindya",
+      "username": "jkt48_anindya",
+      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/bf258bddd53add17931bcd75a810831c.webp?v=1778761256"
+    },
+    "title": "hlo",
+    "url": "https://www.idn.app/jkt48_anindya/live/hlo-261128092041",
+    "image": "https://cdn.idn.app/livestream/5b2e780913142454d06626a38b219273.webp",
+    "started_at": "2026-11-28T02:20:47.000Z",
+    "last_seen_at": "2026-11-28T02:52:17.280Z",
+    "peak_viewers": 5747,
+    "gifts": 0,
+    "gift_points": 0,
+    "stars": 0,
+    "comments": 0,
+    "gift_breakdown": {},
+    "top_gifters": [],
+    "viewer_series": [[0, 6], [1, 35], [2, 72], [3, 195], [4, 393], [5, 563], [6, 779], [7, 953], [8, 1106], [9, 1350], [10, 1711], [11, 2095], [12, 2417], [13, 2742], [14, 3154], [15, 3524], [16, 3624], [17, 3867], [18, 4019], [19, 4179], [20, 4299], [21, 4437], [22, 4565], [23, 4695], [24, 4832], [25, 4952], [26, 5086], [27, 5213], [28, 5336], [29, 5450], [30, 5570], [31, 5692], [32, 5747]],
+    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/nWIQ166byDzM",
+    "estimated_gift_value_idr": null,
+    "gift_rate_idr": null,
+    "gift_value_basis": null,
+    "ended_at": "2026-11-28T02:52:17.280Z",
+    "duration_minutes": 32,
+    "last_viewers": 5747,
+    "unique_gifters": 0,
+    "source_id": "idn:hlo-261128092041"
+  },
+  {
     "id": "idn:alveeria-3293",
     "platform": "idn",
     "member": {
@@ -6167,36 +6198,5 @@
     "last_viewers": 1975,
     "unique_gifters": 0,
     "source_id": "idn:p-261121133925"
-  },
-  {
-    "id": "idn:alveeria-3094",
-    "platform": "idn",
-    "member": {
-      "name": "Jemima",
-      "username": "jkt48_jemima",
-      "avatar": "https://cdn.idn.media/idnaccount/avatar/500/54c286f829c7ff60a713e07d607edcc2.webp?v=1743097513"
-    },
-    "title": "Ayo ngobrol bareng!",
-    "url": "https://www.idn.app/jkt48_jemima/live/ayo-ngobrol-bareng-261121133136",
-    "image": "https://cdn.idn.app/livestream/e7241001fa049949607a377ce353beb1.webp",
-    "started_at": "2026-11-21T06:31:41.000Z",
-    "last_seen_at": "2026-11-21T07:20:42.774Z",
-    "peak_viewers": 3601,
-    "gifts": 0,
-    "gift_points": 0,
-    "stars": 0,
-    "comments": 0,
-    "gift_breakdown": {},
-    "top_gifters": [],
-    "viewer_series": [[0, 26], [1, 119], [2, 180], [3, 263], [4, 389], [5, 500], [6, 759], [7, 864], [8, 935], [9, 1029], [10, 1170], [11, 1266], [12, 1359], [13, 1420], [14, 1472], [15, 1543], [16, 1615], [17, 1653], [18, 1708], [19, 1763], [20, 1828], [21, 1906], [22, 1966], [23, 2023], [24, 2093], [25, 2143], [26, 2212], [27, 2292], [28, 2354], [29, 2429], [30, 2484], [31, 2527], [32, 2577], [33, 2644], [34, 2668], [35, 2718], [36, 2761], [37, 2806], [38, 2852], [39, 2906], [40, 2986], [41, 3055], [42, 3125], [43, 3223], [44, 3314], [45, 3378], [46, 3445], [47, 3493], [48, 3537], [49, 3563]],
-    "chat_room": "arn:aws:ivschat:us-east-1:050891932989:room/LE01hQ2n8yKq",
-    "estimated_gift_value_idr": null,
-    "gift_rate_idr": null,
-    "gift_value_basis": null,
-    "ended_at": "2026-11-21T07:20:42.774Z",
-    "duration_minutes": 49,
-    "last_viewers": 3601,
-    "unique_gifters": 0,
-    "source_id": "idn:ayo-ngobrol-bareng-261121133136"
   }
 ]
