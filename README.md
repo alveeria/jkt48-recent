@@ -1,7 +1,7 @@
 # jkt48-recent
 
 [AUTO] Riwayat live member JKT48 di **IDN Live** dan **SHOWROOM**, dipantau oleh program di GitHub Actions dengan jeda 30 detik setelah tiap siklus polling.
-Data publik, bebas dipakai. Terakhir diperbarui: 28 Nov 2026, 14.34 WIB.
+Data publik, bebas dipakai. Terakhir diperbarui: 28 Nov 2026, 17.20 WIB.
 
 ## Interval pembaruan
 
@@ -46,15 +46,19 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 
 | Member | Platform | Caption | Mulai (WIB) | Penonton |
 |---|---|---|---|---|
-| Rilly | IDN Live | Yassssss | 28 Nov 2026, 13.45 | 1.368 |
-| Sona | IDN Live | maaf ngaret | 28 Nov 2026, 14.13 | 727 |
-| Gita | IDN Live | Gits | 28 Nov 2026, 14.20 | 1.441 |
-| Levi | IDN Live | hai | 28 Nov 2026, 14.33 | 7 |
+| Raisha | IDN Live | Ayo ngobrol bareng! | 28 Nov 2026, 16.12 | 4.149 |
+| Mikaela | IDN Live | Ayo ngobrol bareng! | 28 Nov 2026, 16.28 | 206 |
+| JKT48 | IDN Live | JKT48 2nd Generation Special Stage | 28 Nov 2026, 15.44 | 2.814 |
+| Lulu | IDN Live | p | 28 Nov 2026, 17.18 | 82 |
 
 ## Live terakhir — Nov 2026
 
 | Member | Platform | Caption | Mulai (WIB) | Durasi | Penonton puncak | Gift | Gold / Poin | Star | Komentar |
 |---|---|---|---|---|---|---|---|---|---|
+| Levi | IDN Live | hai | 28 Nov 2026, 14.33 | 0m | 7 | 0 | — | — | 0 |
+| Gita | IDN Live | Gits | 28 Nov 2026, 14.20 | 14m | 1.441 | 0 | — | — | 0 |
+| Sona | IDN Live | maaf ngaret | 28 Nov 2026, 14.13 | 21m | 727 | 0 | — | — | 0 |
+| Rilly | IDN Live | Yassssss | 28 Nov 2026, 13.45 | 48m | 1.368 | 0 | — | — | 0 |
 | Rara | IDN Live | Hallloo | 28 Nov 2026, 12.47 | 64m | 1.761 | 0 | — | — | 0 |
 | Carissa | IDN Live | Temenin mek ap 😼 | 28 Nov 2026, 12.29 | 77m | 2.637 | 0 | — | — | 0 |
 | Lia | IDN Live | Ayo ngobrol bareng! | 28 Nov 2026, 11.54 | 64m | 3.659 | 0 | — | — | 0 |
@@ -91,10 +95,6 @@ Jika statistik tersedia, `estimated_gift_value_idr` berisi estimasi nilai gift d
 | Lana | IDN Live | Haii | 26 Nov 2026, 22.12 | 39m | 4.548 | 0 | — | — | 0 |
 | Nayla | IDN Live | Hai | 26 Nov 2026, 22.12 | 67m | 5.165 | 0 | — | — | 0 |
 | Gita | IDN Live | Gits | 26 Nov 2026, 21.49 | 65m | 6.600 | 0 | — | — | 0 |
-| Greesel | IDN Live | radio-ish?? | 26 Nov 2026, 21.41 | 67m | 5.718 | 0 | — | — | 0 |
-| Christy | IDN Live | WOOOOO | 26 Nov 2026, 16.35 | 61m | 10.417 | 0 | — | — | 0 |
-| Muthe | IDN Live | Hi | 26 Nov 2026, 16.35 | 61m | 5.926 | 0 | — | — | 0 |
-| Muthe | IDN Live | Hi | 26 Nov 2026, 16.34 | 1m | 12 | 0 | — | — | 0 |
 
 ## Lisensi
 
